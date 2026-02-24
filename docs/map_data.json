@@ -1,1 +1,125 @@
-{"alerts": [], "last_updated": ""}
+{
+  "alerts": [
+    {
+      "id": "d24d95c1e39d1034cb57b79aba369941",
+      "title": "Buenos Aires: Se detectó un caso de influenza aviar en aves silvestres en General Madariaga - Argentina.gob.ar",
+      "source": "Google News ES",
+      "date": "Sat, 21 Feb 2026 21:24:23 GMT",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU0lMRm1rRkcxcFBPVUpLWWVWMHNtbmdHWE5kOXhPUElSUlZ6T0F2cmtNY1NhMHB3ZGtaZXRVUkZmSWgtakVYTUd1Z2dIV3N6LTBZM1A1ZW5zRFBiNm1vRW5raTNhdm9YeDhTUTk1MkhWRUdCbGZJckxxMXhzZlU2Zks4T3lsV0N2Z3JBTUJ0cG9kc3V4ajV2N0t5UE9reEM1SXVLbUZWWXhnXzF0b2tKTk5ZTDBTeW4xV2FpcGtXeEZQQVFqRnFR?oc=5"
+    },
+    {
+      "id": "9f97a00be7b5737ad5e99dac60158d3d",
+      "title": "Confirman caso de influenza aviar en una granja comercial y Argentina volvió a cerrar sus exportaciones - Clarin.com",
+      "source": "Google News ES",
+      "date": "Tue, 24 Feb 2026 11:48:29 GMT",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT255OWNpVDNTaW9GbzhEMW4xTDg1b3dYSkxyODBLbHNXU3lOQ1hVNXhnN1RLUFVHMXJ1MGMySzREOVFUYXRrb3FuRjNib1NYYnFWcmVXWFB2V1c1VDJJT0dITnBzQU1DYmFaSGZscU9BN050SDhGTVZRZEUwWEhhdTk2VmNiNWE4X0xfWkxFQ2FOTzJ4NWpieEJNTUZOeTNGU3pONlhLMUpLZkswWC1OZXlTdTNBTmlGa1VrUTZ2THFINTBJcmNFaVFVVjE?oc=5"
+    },
+    {
+      "id": "6397f0da45d575d80627107b80b99cda",
+      "title": "Senacsa requiere máxima alerta por influenza aviar tras caso en Argentina - UDG TV",
+      "source": "Google News ES",
+      "date": "Tue, 24 Feb 2026 16:08:00 GMT",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTdPTE1jdHVXVnVJYTV0Qm5GOTlnZFkyRmlyTWcwQXVFR0Eza2dDVmFjd1R6NFVRWkNSdFJSOVBQRnMtNFc5T0I2Vnc0c1JRSnl6bFJJdlJJR0FvMmVQT0lwaWNIUXZYOGlUOEtEZmk4dW9sWGswV05hVXdxNkV4Nk1SV0o2OHlkNnJkUXV0bFhuTHBxRmUyaVRLd21qQzRP?oc=5"
+    },
+    {
+      "id": "3c6527730c9d46a7b321ddca3f658030",
+      "title": "Influenza aviar: la Argentina suspendió las exportaciones y enfrenta un nuevo freno comercial - Infobae",
+      "source": "Google News ES",
+      "date": "Tue, 24 Feb 2026 14:43:00 GMT",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcUpfbmVfa3VPUDYzTEluR09aQnVtdHhKNXdnbFJTeE1hdEhwejFSNlZIRkhlQnlYUVlESXdvb094emxQZE1RVlh0R2pnUkpDaGtwV3ZqSnRpQ1BlaWpHRVBxOERSRndzbGdWMlRSWDFlRHR5LTdGaHo2NVRKRzlEcjVvRzRXTHlrallGajFubHNwTXZTZ0FfcHd1QVNyVktkQkRFNEJQUVdWSFFtQTBHUnhocGMyd0JyblpTM2F1NC03a3M0SHlpVEZQakxWeGNacVNr0gHuAUFVX3lxTFBLLXR5eFFTcDhaYklRUmVaVjczRHI3YnVKbFh3ZndnY1ZzSFhrTWdGc1VaY2lxQTNBRHljSkJEMVg3eEtEZHpPS3lNRUF0NkJ5cS1WbUxoQ2ZaMGpxVzNQWndCNXQ3YzFvQktOSW9NVC1ab2RjT1E1cDR0VGthbVEzQU94UmJrMXJibjI4UEY4NzZjaFVpLUVhRTF0QjA0ekw0aEN0UGlhdms1dVJqbUM5VF9adEQ2TlFkSXg1cmJMRDAzRUhXb3BHajhfWTBUY2NFck9fZ1JNWC01SlJlVENVclZPUjVGTVZ5dTZ3OVE?oc=5"
+    },
+    {
+      "id": "cffa66c58d93dde793f42aa34f0700a6",
+      "title": "Chile confirma por tercer año consecutivo influenza aviar en Antártica y refuerza vigilancia - Universidad de Chile",
+      "source": "Google News ES",
+      "date": "Mon, 26 Jan 2026 08:00:00 GMT",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHVQNXBTUVgzS19ubDJKMlVzQUk0Q29iY1dMWFFsVlluYnNpUWRva3ExeVVFU1NXbDg1dk5nLThVUWNzSG9ISXpWZ0x2R3RzUDVHV3FwMEVLYlNRWEZTWXlWcjJDc3IwWVhRVVZaZXpQREhCcUFNZGpPV2d2QWlaa1U1bUpBWHMtWV9oVEIyVFd4QlpGcjAtUzAyTkZVUkE?oc=5"
+    },
+    {
+      "id": "ab97f6fad02dc87cc60f252b8196a29c",
+      "title": "SAG suspende temporalmente importaciones avícolas desde Argentina ante brote de influenza aviar altamente patógena - Home | SAG",
+      "source": "Google News ES",
+      "date": "Mon, 25 Aug 2025 07:00:00 GMT",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS28tamptT1VUeFFYU0p2ejlwX1hWTXg2b19MX2xuUEYxZG1zR1NXOTM5ZThGOHZPQlNNTFpJRWJ1SG4wUzVMUUpkV3RUbGtWTFBxdkV5dE5Ta3ZVNnQ5S2wxNnhidjFBNXdBS0dsMGZpZkZJeUQyUGJhMHFIcVQ3YVRvcm1ISXlCQTRId2lVU0RhdkNTUjhYdlNIT2JNLU9RT3U0ZXJfV1hpaVRENkJVOXdUUVNVbjR1V0dLZzZPNXk4QUNNLXNUdVJFQndpWEtfMUFWRkVFbXVDS1phV3c?oc=5"
+    },
+    {
+      "id": "e93373f5ea3b2bcf22d630dbc86cfa82",
+      "title": "GRIPE AVIAR: Argentina cierra exportaciones tras confirmar nuevo brote masivo - El Economista: Últimas noticias económicas y financieras",
+      "source": "Google News ES",
+      "date": "Tue, 24 Feb 2026 12:48:00 GMT",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ1NJOEkxMlEtMkNETUdoeU42WkxtLS1vR0JZWEFwVzdnbjYyaHNxYkM3bG9EaEFaTERzbnk5WjlScFdVQWMxVmFiaVJNNmJCNEE4elVzRFZRZDlZQXV1VHl0MUp5dWxzTXZzcmpMTUdWNVYwRTVpTE55c0szcFd5YTBLYjJvQ2NYM1h1MjRTQU5Ld3V6V203Slp0WHB2UjA4aF9PWEotNVNZWkVIZzhwamVPZDVtS09rTEdMcdIBwgFBVV95cUxPdWpRSm5LN1N2N3l5Mm1ad2Vtb1pOaEJQNWVQQk95NUNveHlQYzR6M3BrcXNzaDY2OHlYTUdLdDJzQWo5dDhBM1JZWjRLaVl2Zmd2aFdsaHZuY3J6QWx0VGlzMjg2XzMyUkxELTlTV1lyR1lkVlYwNnNTLXVKRTdvMWxkdTl1Z0N5T2F2NHBscl8wZEN1cWI5X0ozb0tJcklVYUREcEJLdEFieWpERnNlRU5mVG5fR2Q4c25FZmpVelF5dw?oc=5"
+    },
+    {
+      "id": "eb14d384076ab5c6b6b5fbf29b084589",
+      "title": "Chile realiza balance positivo frente a la prevención de la Influenza Aviar - avinews.com",
+      "source": "Google News ES",
+      "date": "Fri, 26 Dec 2025 08:00:00 GMT",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3BEdUJzTkZpekJ6Mlp5cjEwaFFxZ0gtN3FrS2xUbTNNMDlPMlVDd0x4Sl9ubUxWTjd0dGpRd0dKdDlXVEFXVWxISlNVZVFHSldhYW5iZVp3dUpPcFJiSlRNOTk4aHNnc09jZUZfdzZKd3F1am1aVkdlS0JYQ0RGVm9TQWlSSXdMcGZSdFcyTmpXU1ctaFppNk42azg?oc=5"
+    },
+    {
+      "id": "978f50a109a1eab40b69fe72aba19003",
+      "title": "Influenza aviar: Se confirmó un caso positivo en aves comerciales en Buenos Aires - Argentina.gob.ar",
+      "source": "Google News ES",
+      "date": "Mon, 23 Feb 2026 18:02:38 GMT",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaUhQV0piX0MzSDMzMWY3YnZNbjNwVklDNDJ6SE9ONXd4MlVnVjVITFlhSGd6dUF1V2plYXY4ZkxZN3lwVWNRaWRUSG5GV2JrbGVpRTV3aFY4WGNiNVFKWmhvTHRIQnNnSy0xOE5IQUFrbVVVR0RtYVdkY05nNkxYWGdHVC1GWXE3N3p2YjFDczhiMXUwWjl5U1VKZGRMMzVTbjNvckxmNlNaLVhQbm4tRjYxQ1BTVnk0c0E?oc=5"
+    },
+    {
+      "id": "46ffe65f700fbc8bae36619f237f502d",
+      "title": "China suspends chicken imports from Brazil due to detection of bird flu - Financial Times",
+      "source": "Google News EN",
+      "date": "Fri, 16 May 2025 07:00:00 GMT",
+      "country": "Brazil",
+      "lat": -14.235,
+      "lng": -51.9253,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpLVZGSy1ETGlkQzhjYUlHZkhIV2FtdFU2SF9Ea1VCUHE4ODRiMTc1TnQ4WG1udTY2WF9pTUQtaUxwRTFlWWxvVUpfNEN5SGdJMUFzV2pOZ216bUlqSDcyV3lOTmxQNUxFZ05XaGhFTTI?oc=5"
+    },
+    {
+      "id": "b6c7947f53987c1e6fc341436d0e3d43",
+      "title": "Chile Reports First Case of H5N1 - Centers for Disease Control and Prevention | CDC (.gov)",
+      "source": "Google News EN",
+      "date": "Fri, 17 Mar 2023 07:00:00 GMT",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mdVBRT0pFM1hPSGlRZTljdXIwOWJURXZ1Y2xfRzZ4VkNnY01CTFlQSXdKbmFvMlBIY0MxX2pQVFhuXzNJZlJBbDl2bzBjWHV4TnFrUVFpNDFMckl1bnltdFNsaUhkcC1SaUEzbF9VNXZscmZR?oc=5"
+    },
+    {
+      "id": "b1f07c127faf3a6c7157c6f5af5a3e26",
+      "title": "Actualización en FAO EMPRES",
+      "source": "FAO EMPRES",
+      "date": "2026-02-24 16:20",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://www.fao.org/ag/againfo/programmes/en/empres/news.html"
+    }
+  ],
+  "last_updated": "2026-02-24 16:20 UTC"
+}
