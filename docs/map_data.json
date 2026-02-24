@@ -1,6 +1,1 @@
-json{
-  "alerts": [],
-  "last_updated": ""
-}
-```
-**Commit changes**
+json{"alerts": [], "last_updated": ""}
