@@ -100,8 +100,13 @@ def save_seen(seen):
 
 def load_map_data():
     if os.path.exists(MAP_DATA_FILE):
-        with open(MAP_DATA_FILE, "r") as f:
-            return json.load(f)
+        try:
+            with open(MAP_DATA_FILE, "r") as f:
+                content = f.read().strip()
+                if content:
+                    return json.loads(content)
+        except Exception:
+            pass
     return {"alerts": [], "last_updated": ""}
 
 def save_map_data(data):
