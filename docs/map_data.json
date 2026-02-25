@@ -1013,7 +1013,67 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbUthMDMtQjc1Zkd6Vm54TVBad3F6Y2lWZWNCZm1HVWN6d181YzctN3pSbEo2bE9SQ3lla2ZrbmtWRzdFVnA3VHZZNEZJaF90R0hZR1YxbFBJbF9IR0dnTmhDVTlGb3UxaVdpWl9qakhmbEV0NkJwOWk3RC02b2pxTVNiemFTUmJoSzd1Qm9FUUk2NXdETW11dVhsdmkxOWN5NDEtSVlHMUV5SDFZelUxZ1BuNzR3dW1BaGIwNDA4cUxWT3lzMnZEUEw1MjItMHF0QTI5TnA0S1JPUQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "a0b4dbb5a8704e92fb2f47bb61a78d95",
+      "title": "SAG refuerza vigilancia en Chile tras caso de influenza aviar detectado en Argentina y notificación de Uruguay - ADN Radio",
+      "source": "Google News - Chile",
+      "date": "2026-02-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONG05cFpwbWhoaXFoQWNnNGxUa3lXNWkweFBHeVdLT1pMVTZ1cEJGMWtjRzFPN2ZONkRNTkNIamRXcXJGTDV0WWVCVFgybzZGa3hpWm9HekFEQXBUM0pHNWxLN0ZTNDhsVE4wMkFKV0ZudkJTOGlUNVNxNWwyUHFZQXBsOVk4Nkt2NUt6Zkh4TjlveDd2TTNOa2RnVnJMRFd2enVqMVhVNURESHpUN2lxNmxIUlZwVk40NWVEU2M2R3dSNW9IQWRnR3B5VzgxM0Z6cWJaN0J1R3pYdEZndmhJ0gHzAUFVX3lxTE1qQklURF9ZaGdjUnd0NmVvaV9yQXBmVmtWc29XeHl5c0otN3hFODNjY2oySmhsQWZiV2RSWjZwYjBwTHZ2cmp2VXg5bzZBQXZ6LTRENEs5eVBEMmttbkVlR1pFRmVoRkF3bk5SVDE0bzdhU1BuV2l3YjFUMTRoc0h1Z2lua1Bzb1ExTThMZU1GODB5YWNPeU8wMm01WUdGU1JFNnNVYkYyYTdEWUY1WnNxMHdpMmdZWGRTcTNpanFtWklIWFdZYWNDbHRUZ0ZSTGRKcHlzbjdORm9INkZFaUM1WnVvOFVUblJuODQ1N1ZFWmZuTQ?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "5802d23f86d5a6df96f51fda8541b777",
+      "title": "SAG refuerza vigilancia por brotes de influenza aviar en Argentina y Uruguay - Patagonia Radio",
+      "source": "Google News - Argentina",
+      "date": "2026-02-25",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0JlVE5vZ0NwcmdfdU5ZMFVETkVUX0NyMWpFMzBPeEp5T2Zja3VybDBaNFhiUWRoOHFJZDVtOE9XNC0xRENhNHR6a2ZTeHBodjVHbHVfblBmay1TMi00UGwwamswRVhrbkZfVzRPekRfaWRlTVlwcEw3SmlvYXRLVU4xaE41aW1CREh1MGtfUDA2RnZYWnc5RlNDeEFVbVNiVy1UV2U2S00?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "5bff836da8f17c2aa4a63fa09b098916",
+      "title": "Buenos Aires: Se detectó un segundo caso de influenza aviar en aves comerciales - Argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-02-25",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYUJFSUFzbmZZWVYtbk5ZZ09QWnl4UWRBdkZDWnIyNnI2emJYdzk2QllpWXdiVDBQaVkxUDVNQV93ZkFKZkJBdGFxdjZDcFVEMUMycG9La05TcW5aYlB2dDF0VjJzN2xuWXh2RnVHa2FlNnMzemdRWUM2ajUxa0dTV1lta1BlWFF5cjRLb29xeEJIN1BSQnhaWHo2N0pzOWNtQkJjbDlVb0hDakh0MkQ3UVJfQVJIWXM?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "e6f51111aa537de2770b920fd14b67d8",
+      "title": "El ICA alerta riesgo de brote de influenza aviar por temporada de migración de aves - agronegocios",
+      "source": "Google News - Colombia",
+      "date": "2026-01-22",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSDZ5ZkJZU0dycUY0UVZkVkRWVzM2dUU4UE4zTUpPcmw1Q2Rlc0hteE9IcWtwdy1qYXM1U0M4RkVzRGVHS09DaHMwc3BLZTRTYzFyRV91QmZxMGtZVy1GQ1p0Y0VqU3hDdV9VVlNRV3lWT0o0MENzWWRodFEzRjc1akx6LVVQSjFvbkppLUhGZW5aejEyYm53OUpXUzBDMFZzUU1OZkJGWURsbVlEb01KUm1TeExsYkplbDE0ZzBIaUNzcE3SAcMBQVVfeXFMTUVtSWJKQTJrLTZvNk5IQkZmMDMyb19NRXF0N0JLQkhpV093djZTZU0wbHFPTS1GcUVIck1kY3ZGTVNOeVBrcW83eW1FS1RqVHkwM2FLYXZPTVZMcDZ2QUtoVkxidXAwNFFDVy1pYjh5RVJrSkZaeUVoTTRwWThWLTRwaENNaFpmYlVjemVpVndLVlkxYzRfV0tHaHhjWThSMnY5bElRSkl5ZXNrZUkyQVFteUc5WkhmSmkxSXpTalZWdTM4?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "d2e134e817c9f81df8c010a3a5937c6c",
+      "title": "Paraguay prohíbe temporalmente importación de productos avícolas argentinos por brote de influenza aviar - INFOLAPLATA —",
+      "source": "Google News - Paraguay",
+      "date": "2026-02-25",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVWgtS1FGMDNNLUNtMV9lTkQxYTZGQkNQSWNSdjZkWms0c3lGaVNES1hkVjlmbU9lVVh1MGY4U1FSdWtSSU5NT3l4NGlVYkQ5RjU0WElnMU5TNHZYbG1LZzhMWGJKOEtMZTNUNndGME5ENGU4cnR4VUNNR3Fvdm5weThHQ2w1SHo2NTVSYzg0RHpTWlBMaHI1ODBZdXNHMVNYQXVHWXUtTTlkUDIxU2tpMWhWcWd0ZERZeTlHMk5LcnA3UFRVT0NFWA?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-02-25 17:11 UTC"
+  "last_updated": "2026-02-25 20:39 UTC"
 }
