@@ -881,7 +881,31 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd1VPRDJsb3VFMDRNREhxdmVfTnpLNWV1eWVUZGE5RlUzV05QR3JMYnRlakJHZXhNeU1SaEg5cXRkTjZYSE4ydm1PWkk4Q093dDBJallPTW1uZnNGUXJYTmljempoWUw1STFEMHdwVjVsaHlLQkk4OHlRZDFrTlYtUzhvMHlaYW41b1ZxWlBoTzFzZHRjZUZKT3hScnlhUG02TnRXY2p4Q21RLTVvYWZVWTRKc3l0RTc0Y2JfcNIBwgFBVV95cUxPQmhSRnRvRGFab1lUQzVOUkcyQ0lBd3BHYWdtcHZBOTlWaEVOR3J5eXktZ1ZyWDBDLTdYc3JuVFV2bngtcjFSQVVob1M1UmJUMVUwQm9WRVpfRWtYLWR6VDF3XzQ3U1VaUTNzb0dEdmtFb1lCNy13ajNrV05ZdG5qemMyZ1NIclpWQkpQajBvamxoZk9scm50UHlFb1A0dUpsMUxhd3Bxc0R2RDBuZXpUZXJpREhxRXFOVnFFVDJBV1pFZw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "7830ebcdb75b2be02dbcc3203cd8b906",
+      "title": "Influenza aviar: prohíben importación de aves vivas y huevos desde Argentina - ABC Color",
+      "source": "Google News - Argentina",
+      "date": "2026-02-25",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSm1jWkttcGdkLXdTOUczSUYyODhvVmhqLWNRNnBTck9vazJiUVQ4SnAtc2k2QVozVmE0cTREREZJTG1WM3RKWTFrOFM0WGJIcVp6SndFVEFSeWxqLWVER2x0UGRrUlVnUFlGaGd5VC1qSElrVmVkUWtPYkdnbFVfZUNsdGhsSHVCSG5kT3dzZWF5R3RDVUFLXzRWbThVeXc2b1ZycU1QcHZycjVEU2xhZ1RnSzRxaGFtdjFfQm5R0gHSAUFVX3lxTFAxVFdnRnVDLXFFMjktUVBHR1p1clZaczZDaktIRHlDZ3YzcHlrVnQ1MkYzN3BjbHJoYmd2c2U5TEZucWl1NjhwWUZwclNnRlUxc0tmOHctWmRTTWd5QkRwM1JiSW9KcHpOa1lGUjNEaFB6UGw2NjRTSW1yVjEwRkgyeUNaZl8zWm5MV0ZONGVaWXM1S3M4cHotdUVZVFliNnl5SXFoWFhnb1dzSXdLem9abHFkTlcweEl2RUxkVk1ORWlkX3JqRkJSQy1pWHlfOTZMQQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "047edb67387995bbb0cc97d6ad99dbca",
+      "title": "Paraguay prohíbe temporalmente importación de productos avícolas argentinos por brote de influenza aviar - La Prensa Digital",
+      "source": "Google News - Paraguay",
+      "date": "2026-02-25",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdkNiaTVMN1o0YzBIVloyZkMyRVpnR0N3SWpsRlY4ZE9Ea3R5SlRtMTZWelpBamkwOEJGTDU3TzlBMG45R3l3dFNwb2NHVHVmWExEbkRIVWk5TXl3RXFaUmE5SDJQaEJqb2JUeVBDMGROUVluakx4eUpma3hUbXB6akdGVllLdXVQV0RqR1NpZmVlTHc4eWxLeUcxdC1xd1JucVNHWFJZSWlQTk5oVGVJSzJMS29RbENWQnEwaEhrbW12MEo5MDRkVnBtMFBnN2QzTU9TaExHNmlocmR6ZkI1UWhQaw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-02-25 08:54 UTC"
+  "last_updated": "2026-02-25 13:11 UTC"
 }
