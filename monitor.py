@@ -10,48 +10,108 @@ from email.utils import parsedate_to_datetime
 # ============================================================
 # CONFIGURACIÓN
 # ============================================================
-TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN")
+TELEGRAM_TOKEN  = os.environ.get("TELEGRAM_TOKEN")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "-1003622058328")
-WHATSAPP_PHONE = os.environ.get("WHATSAPP_PHONE")
+WHATSAPP_PHONE  = os.environ.get("WHATSAPP_PHONE")
 WHATSAPP_APIKEY = os.environ.get("WHATSAPP_APIKEY")
-SEEN_FILE = "seen_alerts.json"
-MAP_DATA_FILE = "docs/map_data.json"
-MAX_AGE_DAYS = 90  # Solo noticias de los últimos 3 meses
+SEEN_FILE       = "seen_alerts.json"
+MAP_DATA_FILE   = "docs/map_data.json"
+MAX_AGE_DAYS    = 90
 
 # ============================================================
-# PAÍSES - búsqueda dedicada por cada uno
+# PAÍSES
 # ============================================================
 LATAM_COUNTRIES = [
-    # Sudamérica
-    {"name": "Chile",      "es": "chile",      "coords": (-35.6751, -71.5430)},
-    {"name": "Argentina",  "es": "argentina",  "coords": (-38.4161, -63.6167)},
-    {"name": "Perú",       "es": "peru",        "coords": (-9.1900,  -75.0152)},
-    {"name": "Brasil",     "es": "brasil",      "coords": (-14.2350, -51.9253)},
-    {"name": "Colombia",   "es": "colombia",    "coords": (4.5709,   -74.2973)},
-    {"name": "Ecuador",    "es": "ecuador",     "coords": (-1.8312,  -78.1834)},
-    {"name": "Bolivia",    "es": "bolivia",     "coords": (-16.2902, -63.5887)},
-    {"name": "Paraguay",   "es": "paraguay",    "coords": (-23.4425, -58.4438)},
-    {"name": "Uruguay",    "es": "uruguay",     "coords": (-32.5228, -55.7658)},
-    {"name": "Venezuela",  "es": "venezuela",   "coords": (6.4238,   -66.5897)},
-    {"name": "Guyana",     "es": "guyana",      "coords": (4.8604,   -58.9302)},
-    {"name": "Surinam",    "es": "surinam",     "coords": (3.9193,   -56.0278)},
-    # Centroamérica y México
-    {"name": "México",     "es": "mexico",      "coords": (23.6345,  -102.5528)},
-    {"name": "Guatemala",  "es": "guatemala",   "coords": (15.7835,  -90.2308)},
-    {"name": "Honduras",   "es": "honduras",    "coords": (15.1999,  -86.2419)},
-    {"name": "El Salvador","es": "el salvador", "coords": (13.7942,  -88.8965)},
-    {"name": "Nicaragua",  "es": "nicaragua",   "coords": (12.8654,  -85.2072)},
-    {"name": "Costa Rica", "es": "costa rica",  "coords": (9.7489,   -83.7534)},
-    {"name": "Panamá",     "es": "panama",      "coords": (8.5380,   -80.7821)},
-    {"name": "Cuba",       "es": "cuba",        "coords": (21.5218,  -77.7812)},
-    {"name": "Rep. Dominicana","es": "republica dominicana","coords": (18.7357, -70.1627)},
+    {"name": "Chile",             "es": "chile",              "coords": (-35.6751, -71.5430)},
+    {"name": "Argentina",         "es": "argentina",          "coords": (-38.4161, -63.6167)},
+    {"name": "Perú",              "es": "peru",               "coords": (-9.1900,  -75.0152)},
+    {"name": "Brasil",            "es": "brasil",             "coords": (-14.2350, -51.9253)},
+    {"name": "Colombia",          "es": "colombia",           "coords": (4.5709,   -74.2973)},
+    {"name": "Ecuador",           "es": "ecuador",            "coords": (-1.8312,  -78.1834)},
+    {"name": "Bolivia",           "es": "bolivia",            "coords": (-16.2902, -63.5887)},
+    {"name": "Paraguay",          "es": "paraguay",           "coords": (-23.4425, -58.4438)},
+    {"name": "Uruguay",           "es": "uruguay",            "coords": (-32.5228, -55.7658)},
+    {"name": "Venezuela",         "es": "venezuela",          "coords": (6.4238,   -66.5897)},
+    {"name": "Guyana",            "es": "guyana",             "coords": (4.8604,   -58.9302)},
+    {"name": "Surinam",           "es": "surinam",            "coords": (3.9193,   -56.0278)},
+    {"name": "México",            "es": "mexico",             "coords": (23.6345,  -102.5528)},
+    {"name": "Guatemala",         "es": "guatemala",          "coords": (15.7835,  -90.2308)},
+    {"name": "Honduras",          "es": "honduras",           "coords": (15.1999,  -86.2419)},
+    {"name": "El Salvador",       "es": "el salvador",        "coords": (13.7942,  -88.8965)},
+    {"name": "Nicaragua",         "es": "nicaragua",          "coords": (12.8654,  -85.2072)},
+    {"name": "Costa Rica",        "es": "costa rica",         "coords": (9.7489,   -83.7534)},
+    {"name": "Panamá",            "es": "panama",             "coords": (8.5380,   -80.7821)},
+    {"name": "Cuba",              "es": "cuba",               "coords": (21.5218,  -77.7812)},
+    {"name": "Rep. Dominicana",   "es": "republica dominicana","coords": (18.7357, -70.1627)},
 ]
 
-COUNTRY_COORDS = {c["es"]: c["coords"] for c in LATAM_COUNTRIES}
-COUNTRY_NAMES  = {c["es"]: c["name"]   for c in LATAM_COUNTRIES}
+COUNTRY_COORDS   = {c["es"]: c["coords"] for c in LATAM_COUNTRIES}
+COUNTRY_NAMES    = {c["es"]: c["name"]   for c in LATAM_COUNTRIES}
+
+# Países de alta prioridad para Chile (fronterizos + Chile)
+PRIORITY_COUNTRIES = {"chile", "argentina", "peru", "bolivia"}
 
 # ============================================================
-# FUENTES BASE
+# KEYWORDS POR NIVEL DE ALERTA
+# ============================================================
+KEYWORDS_DISEASE = [
+    "influenza aviar", "bird flu", "avian influenza",
+    "H5N1", "H5N8", "H7N3", "H7N9", "HPAI", "IAAP",
+    "influenza de alta patogenicidad"
+]
+
+KEYWORDS_EMERGENCIA = [
+    "confirmado", "caso positivo", "brote activo", "foco declarado",
+    "detectado en", "H5N1 en", "positivo en", "sacrificio de aves",
+    "cuarentena sanitaria", "veda sanitaria", "foco confirmado",
+    "confirmed", "positive case", "active outbreak"
+]
+
+KEYWORDS_ALERTA = [
+    "brote", "foco", "outbreak", "positivo", "detectado",
+    "sacrificio", "cuarentena", "eliminación de aves", "despoblamiento",
+    "medidas sanitarias", "restricción", "sospecha confirmada",
+    "muestra positiva", "hallazgo", "cull", "depopulation"
+]
+
+KEYWORDS_VIGILANCIA = [
+    "riesgo", "prevención", "monitoreo", "vigilancia", "alerta temprana",
+    "sospecha", "precaución", "recomendación", "medidas preventivas",
+    "risk", "prevention", "monitoring", "surveillance", "warning"
+]
+
+def classify_alert(text, country):
+    """Clasifica una alerta en EMERGENCIA, ALERTA o VIGILANCIA."""
+    text_lower = text.lower()
+
+    has_emergencia = any(k.lower() in text_lower for k in KEYWORDS_EMERGENCIA)
+    has_alerta     = any(k.lower() in text_lower for k in KEYWORDS_ALERTA)
+
+    # EMERGENCIA: confirmado + país prioritario
+    if has_emergencia and country in PRIORITY_COUNTRIES:
+        return "EMERGENCIA"
+
+    # ALERTA: confirmado en cualquier país latinoamericano
+    if has_emergencia or has_alerta:
+        return "ALERTA"
+
+    # VIGILANCIA: menciona la enfermedad pero sin confirmación
+    return "VIGILANCIA"
+
+LEVEL_EMOJI = {
+    "EMERGENCIA": "🔴",
+    "ALERTA":     "🟠",
+    "VIGILANCIA": "🟡"
+}
+
+LEVEL_DESC = {
+    "EMERGENCIA": "Brote confirmado en país prioritario",
+    "ALERTA":     "Brote o caso confirmado en Latinoamérica",
+    "VIGILANCIA": "Noticia informativa / sin confirmación de brote"
+}
+
+# ============================================================
+# FUENTES
 # ============================================================
 def build_sources():
     sources = [
@@ -79,7 +139,6 @@ def build_sources():
             "country": None
         },
     ]
-    # Búsqueda dedicada por país en Google News
     for country in LATAM_COUNTRIES:
         q = f"influenza+aviar+{country['es'].replace(' ', '+')}"
         sources.append({
@@ -89,13 +148,6 @@ def build_sources():
             "country": country["es"]
         })
     return sources
-
-KEYWORDS = [
-    "influenza aviar", "bird flu", "avian influenza",
-    "H5N1", "H5N8", "H7N3", "H7N9", "HPAI", "IAAP",
-    "brote", "outbreak", "foco", "confirmado", "alerta",
-    "influenza de alta patogenicidad"
-]
 
 # ============================================================
 # UTILIDADES
@@ -135,28 +187,31 @@ def make_hash(text):
     return hashlib.md5(text.encode()).hexdigest()
 
 def is_recent(date_str):
-    """Retorna True si la fecha está dentro de los últimos 90 días."""
     if not date_str:
-        return True  # Si no hay fecha, incluir de todas formas
+        return True
     try:
-        # Intentar parsear fecha RSS (RFC 2822)
         dt = parsedate_to_datetime(date_str)
         dt = dt.astimezone(timezone.utc).replace(tzinfo=None)
     except Exception:
         try:
-            # Intentar formato ISO
             dt = datetime.fromisoformat(date_str[:10])
         except Exception:
             return True
-    cutoff = datetime.utcnow() - timedelta(days=MAX_AGE_DAYS)
-    return dt >= cutoff
+    return dt >= datetime.utcnow() - timedelta(days=MAX_AGE_DAYS)
+
+def detect_country(text):
+    text = text.lower()
+    for country in LATAM_COUNTRIES:
+        if country["es"] in text:
+            return country["es"]
+    return "unknown"
 
 # ============================================================
 # ENVÍO DE MENSAJES
 # ============================================================
 def send_telegram(message):
     if not TELEGRAM_TOKEN:
-        print("⚠️  Sin TELEGRAM_TOKEN configurado")
+        print("⚠️  Sin TELEGRAM_TOKEN")
         return False
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     payload = {
@@ -189,86 +244,73 @@ def send_whatsapp(message):
 # ============================================================
 # FETCHERS
 # ============================================================
-def detect_country(text):
-    text = text.lower()
-    for country in LATAM_COUNTRIES:
-        if country["es"] in text:
-            return country["es"]
-    return "unknown"
-
 def fetch_rss(source, seen):
     alerts = []
-    url = source["url"]
-    source_name = source["name"]
     forced_country = source.get("country")
     try:
-        r = requests.get(url, timeout=20, headers={"User-Agent": "Mozilla/5.0"})
+        r = requests.get(source["url"], timeout=20, headers={"User-Agent": "Mozilla/5.0"})
         root = ET.fromstring(r.content)
         for item in root.findall(".//item")[:20]:
             title       = item.findtext("title", "")
             link        = item.findtext("link", "")
             pub_date    = item.findtext("pubDate", "")
             description = item.findtext("description", "")
-            content     = (title + " " + description).lower()
+            full_text   = title + " " + description
 
-            # Filtro por fecha
             if not is_recent(pub_date):
                 continue
-
-            has_disease = any(k.lower() in content for k in KEYWORDS)
-            if not has_disease:
+            if not any(k.lower() in full_text.lower() for k in KEYWORDS_DISEASE):
                 continue
 
             h = make_hash(title + link)
             if h not in seen:
                 seen[h] = True
-                country = forced_country or detect_country(content)
+                country = forced_country or detect_country(full_text)
+                level   = classify_alert(full_text, country)
                 alerts.append({
-                    "source": source_name,
-                    "title": title,
-                    "link": link,
-                    "date": pub_date,
-                    "country": country
+                    "source":  source["name"],
+                    "title":   title,
+                    "link":    link,
+                    "date":    pub_date,
+                    "country": country,
+                    "level":   level
                 })
     except Exception as e:
-        print(f"Error RSS {source_name}: {e}")
+        print(f"Error RSS {source['name']}: {e}")
     return alerts
 
 def fetch_html_keywords(source, seen):
     alerts = []
-    url = source["url"]
-    source_name = source["name"]
     forced_country = source.get("country")
     try:
-        r = requests.get(url, timeout=20, headers={"User-Agent": "Mozilla/5.0"})
-        content = r.text.lower()
-        has_disease = any(k.lower() in content for k in KEYWORDS)
-        if has_disease:
-            h = make_hash(url + r.text[:500])
+        r = requests.get(source["url"], timeout=20, headers={"User-Agent": "Mozilla/5.0"})
+        full_text = r.text
+        if any(k.lower() in full_text.lower() for k in KEYWORDS_DISEASE):
+            h = make_hash(source["url"] + full_text[:500])
             if h not in seen:
                 seen[h] = True
-                country = forced_country or detect_country(content)
+                country = forced_country or detect_country(full_text)
+                level   = classify_alert(full_text, country)
                 alerts.append({
-                    "source": source_name,
-                    "title": f"Actualización detectada en {source_name}",
-                    "link": url,
-                    "date": datetime.now().strftime("%Y-%m-%d %H:%M"),
-                    "country": country
+                    "source":  source["name"],
+                    "title":   f"Actualización en {source['name']}",
+                    "link":    source["url"],
+                    "date":    datetime.now().strftime("%Y-%m-%d %H:%M"),
+                    "country": country,
+                    "level":   level
                 })
     except Exception as e:
-        print(f"Error HTML {source_name}: {e}")
+        print(f"Error HTML {source['name']}: {e}")
     return alerts
 
 def fetch_woah_api(source, seen):
     alerts = []
-    url = source["url"]
-    source_name = source["name"]
     latam_keys = list(COUNTRY_COORDS.keys())
     try:
-        r = requests.get(url, timeout=20, headers={"User-Agent": "Mozilla/5.0"})
+        r = requests.get(source["url"], timeout=20, headers={"User-Agent": "Mozilla/5.0"})
         if r.status_code != 200:
             return []
-        data = r.json()
+        data   = r.json()
         events = data.get("data", {}).get("content", []) if isinstance(data, dict) else []
         for event in events[:30]:
             country_raw = str(event.get("country", {}).get("name", "")).lower()
@@ -284,54 +326,80 @@ def fetch_woah_api(source, seen):
                 h = make_hash(event_id + country_raw + disease)
                 if h not in seen:
                     seen[h] = True
+                    title = f"Evento WOAH: {disease.upper()} en {COUNTRY_NAMES.get(matched, matched.title())}"
+                    # Los eventos WOAH siempre son confirmados → EMERGENCIA o ALERTA
+                    level = "EMERGENCIA" if matched in PRIORITY_COUNTRIES else "ALERTA"
                     alerts.append({
-                        "source": source_name,
-                        "title": f"Evento oficial WOAH: {disease.upper()} en {COUNTRY_NAMES.get(matched, matched.title())}",
-                        "link": "https://wahis.woah.org/#/event-management",
-                        "date": report_date,
-                        "country": matched
+                        "source":  source["name"],
+                        "title":   title,
+                        "link":    "https://wahis.woah.org/#/event-management",
+                        "date":    report_date,
+                        "country": matched,
+                        "level":   level
                     })
     except Exception as e:
         print(f"Error WOAH API: {e}")
     return alerts
 
 # ============================================================
-# FORMATO MENSAJES
+# FORMATO DE MENSAJES
 # ============================================================
 def format_telegram_alert(alerts):
     now = datetime.now().strftime("%d/%m/%Y %H:%M")
-    msg = f"🚨 *ALERTA INFLUENZA AVIAR* 🦅\n"
+
+    # Agrupar por nivel
+    emergencias = [a for a in alerts if a["level"] == "EMERGENCIA"]
+    alertas     = [a for a in alerts if a["level"] == "ALERTA"]
+    vigilancias = [a for a in alerts if a["level"] == "VIGILANCIA"]
+
+    msg = f"🦅 *MONITOREO INFLUENZA AVIAR*\n"
     msg += f"📅 {now} UTC\n"
     msg += f"━━━━━━━━━━━━━━━━━━\n\n"
-    for i, a in enumerate(alerts, 1):
-        country_name = COUNTRY_NAMES.get(a.get("country",""), a.get("country","").title())
-        msg += f"*{i}. {a['source']}*\n"
-        msg += f"📌 {a['title']}\n"
-        if a.get("date"):
-            msg += f"🗓 {a['date']}\n"
-        if country_name and country_name != "Unknown":
-            msg += f"📍 {country_name}\n"
-        if a.get("link"):
-            msg += f"🔗 {a['link']}\n"
-        msg += "\n"
+
+    def add_section(items, level):
+        nonlocal msg
+        if not items:
+            return
+        emoji = LEVEL_EMOJI[level]
+        desc  = LEVEL_DESC[level]
+        msg += f"{emoji} *{level}* — _{desc}_\n\n"
+        for a in items:
+            country_name = COUNTRY_NAMES.get(a.get("country",""), a.get("country","").title())
+            msg += f"📌 *{a['title']}*\n"
+            msg += f"🗓 {a.get('date','')}"
+            if country_name and country_name != "Unknown":
+                msg += f" | 📍 {country_name}"
+            msg += f"\n🔗 {a.get('link','')}\n"
+            msg += f"_Fuente: {a['source']}_\n\n"
+
+    add_section(emergencias, "EMERGENCIA")
+    add_section(alertas,     "ALERTA")
+    add_section(vigilancias, "VIGILANCIA")
+
     msg += f"━━━━━━━━━━━━━━━━━━\n"
-    msg += f"🌎 @AlertaIALatam | 🗺 https://alazoe.github.io/alerta-ia-latam"
+    msg += f"🌎 @AlertaIALatam\n"
+    msg += f"🗺 https://alazoe.github.io/alerta-ia-latam"
     return msg
 
 def format_daily_summary():
     now = datetime.now().strftime("%d/%m/%Y")
-    return (f"✅ *Resumen diario - {now}*\n\n"
-            f"Sin nuevos eventos de Influenza Aviar detectados en Latinoamérica.\n\n"
-            f"Países monitoreados: Chile, Argentina, Uruguay, Perú, Brasil, Colombia, "
-            f"Ecuador, Bolivia, Paraguay, Venezuela, México, Guatemala, Honduras, "
-            f"El Salvador, Nicaragua, Costa Rica, Panamá, Cuba y más.\n\n"
+    return (f"✅ *Resumen diario — {now}*\n\n"
+            f"Sin nuevos eventos de Influenza Aviar en Latinoamérica en las últimas 24 horas.\n\n"
+            f"Países monitoreados: Chile 🇨🇱, Argentina 🇦🇷, Uruguay 🇺🇾, Perú 🇵🇪, Brasil 🇧🇷, "
+            f"Colombia 🇨🇴, Ecuador 🇪🇨, Bolivia 🇧🇴, Paraguay 🇵🇾, Venezuela 🇻🇪, México 🇲🇽 y más.\n\n"
             f"🌎 @AlertaIALatam | 🗺 https://alazoe.github.io/alerta-ia-latam")
 
 # ============================================================
 # ACTUALIZAR MAPA
 # ============================================================
+LEVEL_COLOR = {
+    "EMERGENCIA": "#dc2626",
+    "ALERTA":     "#ea580c",
+    "VIGILANCIA": "#ca8a04"
+}
+
 def update_map_data(alerts):
-    map_data = load_map_data()
+    map_data    = load_map_data()
     existing_ids = {a.get("id") for a in map_data["alerts"]}
 
     for alert in alerts:
@@ -348,10 +416,12 @@ def update_map_data(alerts):
                     "country": COUNTRY_NAMES.get(country, country.title()),
                     "lat":     coords[0],
                     "lng":     coords[1],
-                    "link":    alert.get("link", "")
+                    "link":    alert.get("link", ""),
+                    "level":   alert.get("level", "VIGILANCIA"),
+                    "color":   LEVEL_COLOR.get(alert.get("level","VIGILANCIA"), "#ca8a04")
                 })
 
-    # Conservar solo eventos de los últimos 90 días
+    # Filtrar solo últimos 90 días
     cutoff = datetime.utcnow() - timedelta(days=MAX_AGE_DAYS)
     def entry_is_recent(entry):
         try:
@@ -360,8 +430,7 @@ def update_map_data(alerts):
         except Exception:
             return True
 
-    map_data["alerts"] = [a for a in map_data["alerts"] if entry_is_recent(a)]
-    map_data["alerts"] = map_data["alerts"][-200:]
+    map_data["alerts"]       = [a for a in map_data["alerts"] if entry_is_recent(a)][-200:]
     map_data["last_updated"] = datetime.now().strftime("%Y-%m-%d %H:%M UTC")
     save_map_data(map_data)
     print(f"Mapa actualizado: {len(map_data['alerts'])} eventos")
@@ -371,7 +440,7 @@ def update_map_data(alerts):
 # ============================================================
 def main():
     print(f"=== Monitoreo: {datetime.now()} ===")
-    seen = load_seen()
+    seen       = load_seen()
     all_alerts = []
 
     for source in build_sources():
@@ -384,22 +453,35 @@ def main():
             alerts = fetch_html_keywords(source, seen)
         all_alerts.extend(alerts)
         if alerts:
-            print(f"  → {len(alerts)} nuevas alertas")
+            print(f"  → {len(alerts)} alertas [{', '.join(set(a['level'] for a in alerts))}]")
 
     save_seen(seen)
 
     if all_alerts:
         update_map_data(all_alerts)
+
+        # Si hay EMERGENCIA, enviar mensaje prioritario separado
+        emergencias = [a for a in all_alerts if a["level"] == "EMERGENCIA"]
+        if emergencias:
+            msg_urgente = f"🔴 *EMERGENCIA — ACCIÓN INMEDIATA*\n\n"
+            for a in emergencias:
+                country_name = COUNTRY_NAMES.get(a.get("country",""), "")
+                msg_urgente += f"⚠️ *{a['title']}*\n📍 {country_name}\n🔗 {a.get('link','')}\n\n"
+            msg_urgente += f"@AlertaIALatam"
+            send_telegram(msg_urgente)
+            send_whatsapp(msg_urgente)
+
+        # Enviar alertas agrupadas de a 5
         for i in range(0, len(all_alerts), 5):
             batch   = all_alerts[i:i+5]
             message = format_telegram_alert(batch)
             send_telegram(message)
             send_whatsapp(message)
+
         print(f"✅ {len(all_alerts)} alertas enviadas")
     else:
         update_map_data([])
-        current_hour = datetime.utcnow().hour
-        if current_hour == 11:
+        if datetime.utcnow().hour == 11:
             send_telegram(format_daily_summary())
             print("✅ Resumen diario enviado")
         else:
