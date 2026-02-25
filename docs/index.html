@@ -1,95 +1,112 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Alerta Influenza Aviar – Latinoamérica</title>
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
   <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: 'Segoe UI', sans-serif; background: #0f172a; color: #e2e8f0; }
+    * { margin:0; padding:0; box-sizing:border-box; }
+    body { font-family:'Segoe UI',sans-serif; background:#0f172a; color:#e2e8f0; }
     header {
-      background: linear-gradient(135deg, #1e3a5f, #0f172a);
-      padding: 20px 24px;
-      border-bottom: 2px solid #dc2626;
-      display: flex; align-items: center; gap: 16px;
+      background:linear-gradient(135deg,#1e3a5f,#0f172a);
+      padding:16px 20px; border-bottom:2px solid #dc2626;
+      display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:10px;
     }
-    header h1 { font-size: 1.4rem; color: #f8fafc; }
-    header p { font-size: 0.85rem; color: #94a3b8; margin-top: 2px; }
-    .badge {
-      background: #dc2626; color: white;
-      padding: 4px 12px; border-radius: 20px;
-      font-size: 0.75rem; font-weight: bold;
-      animation: pulse 2s infinite;
+    header h1 { font-size:1.2rem; color:#f8fafc; }
+    header p  { font-size:0.8rem; color:#94a3b8; margin-top:2px; }
+    .badge { background:#dc2626; color:white; padding:4px 12px; border-radius:20px;
+             font-size:0.75rem; font-weight:bold; animation:pulse 2s infinite; }
+    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.5} }
+
+    /* FILTROS */
+    .filters {
+      background:#1e293b; padding:10px 16px;
+      display:flex; align-items:center; gap:10px; flex-wrap:wrap;
+      border-bottom:1px solid #334155;
     }
-    @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.6} }
-    .container { display: flex; height: calc(100vh - 80px); }
-    #map { flex: 1; }
-    .sidebar {
-      width: 360px; background: #1e293b;
-      overflow-y: auto; border-left: 1px solid #334155;
+    .filters label { font-size:0.8rem; color:#94a3b8; }
+    .filter-btn {
+      padding:5px 14px; border-radius:20px; border:1px solid #334155;
+      background:#0f172a; color:#94a3b8; cursor:pointer; font-size:0.8rem;
+      transition:all 0.2s;
     }
-    .sidebar-header {
-      padding: 16px; background: #0f172a;
-      border-bottom: 1px solid #334155; position: sticky; top: 0; z-index: 10;
+    .filter-btn.active { background:#dc2626; border-color:#dc2626; color:white; font-weight:bold; }
+    .filter-btn:hover  { border-color:#dc2626; color:#f8fafc; }
+
+    .level-filters { display:flex; gap:8px; margin-left:auto; }
+    .lbtn { padding:4px 12px; border-radius:20px; border:2px solid; cursor:pointer; font-size:0.78rem; font-weight:bold; transition:all 0.2s; }
+    .lbtn.emergencia { border-color:#dc2626; color:#dc2626; background:transparent; }
+    .lbtn.alerta     { border-color:#ea580c; color:#ea580c; background:transparent; }
+    .lbtn.vigilancia { border-color:#ca8a04; color:#ca8a04; background:transparent; }
+    .lbtn.active.emergencia { background:#dc2626; color:white; }
+    .lbtn.active.alerta     { background:#ea580c; color:white; }
+    .lbtn.active.vigilancia { background:#ca8a04; color:white; }
+
+    .container { display:flex; height:calc(100vh - 115px); }
+    #map { flex:1; }
+    .sidebar { width:360px; background:#1e293b; overflow-y:auto; border-left:1px solid #334155; }
+    .sidebar-header { padding:14px 16px; background:#0f172a; border-bottom:1px solid #334155; position:sticky; top:0; z-index:10; }
+    .sidebar-header h2 { font-size:0.95rem; color:#f1f5f9; }
+    #last-updated { font-size:0.72rem; color:#64748b; margin-top:3px; }
+
+    .stats { padding:10px 16px; background:#0f172a; border-bottom:1px solid #334155; display:flex; gap:16px; }
+    .stat .num   { font-size:1.3rem; font-weight:bold; color:#f97316; }
+    .stat .label { font-size:0.68rem; color:#64748b; }
+
+    .telegram-btn { display:block; margin:12px 16px; background:#0088cc; color:white;
+                    text-align:center; padding:9px; border-radius:8px; text-decoration:none;
+                    font-size:0.82rem; font-weight:bold; }
+    .telegram-btn:hover { background:#006fa3; }
+
+    .alert-card { padding:12px 16px; border-bottom:1px solid #334155; cursor:pointer; transition:background 0.15s; }
+    .alert-card:hover { background:#273549; }
+    .alert-card .level-tag {
+      display:inline-block; font-size:0.65rem; font-weight:bold; padding:2px 8px;
+      border-radius:10px; margin-bottom:4px; text-transform:uppercase; letter-spacing:0.5px;
     }
-    .sidebar-header h2 { font-size: 1rem; color: #f1f5f9; }
-    #last-updated { font-size: 0.75rem; color: #64748b; margin-top: 4px; }
-    .alert-card {
-      padding: 14px 16px;
-      border-bottom: 1px solid #334155;
-      cursor: pointer; transition: background 0.2s;
-    }
-    .alert-card:hover { background: #273549; }
-    .alert-card .country {
-      font-size: 0.7rem; font-weight: bold;
-      color: #f97316; text-transform: uppercase; letter-spacing: 1px;
-    }
-    .alert-card .title {
-      font-size: 0.88rem; color: #e2e8f0; margin: 4px 0;
-      line-height: 1.4;
-    }
-    .alert-card .meta {
-      font-size: 0.75rem; color: #64748b;
-      display: flex; justify-content: space-between;
-    }
-    .alert-card a { color: #38bdf8; font-size: 0.75rem; text-decoration: none; }
-    .alert-card a:hover { text-decoration: underline; }
-    .no-alerts {
-      padding: 40px 20px; text-align: center; color: #64748b;
-    }
-    .telegram-btn {
-      display: block; margin: 16px;
-      background: #0088cc; color: white;
-      text-align: center; padding: 10px;
-      border-radius: 8px; text-decoration: none;
-      font-size: 0.85rem; font-weight: bold;
-    }
-    .telegram-btn:hover { background: #006fa3; }
-    .stats {
-      padding: 12px 16px;
-      background: #0f172a;
-      border-bottom: 1px solid #334155;
-      display: flex; gap: 20px;
-    }
-    .stat { text-align: center; }
-    .stat .num { font-size: 1.4rem; font-weight: bold; color: #f97316; }
-    .stat .label { font-size: 0.7rem; color: #64748b; }
-    @media (max-width: 768px) {
-      .container { flex-direction: column; }
-      .sidebar { width: 100%; height: 50vh; border-left: none; border-top: 1px solid #334155; }
-      #map { height: 50vh; }
+    .tag-EMERGENCIA { background:#7f1d1d; color:#fca5a5; }
+    .tag-ALERTA     { background:#7c2d12; color:#fdba74; }
+    .tag-VIGILANCIA { background:#713f12; color:#fde68a; }
+    .alert-card .country { font-size:0.7rem; color:#f97316; font-weight:bold; text-transform:uppercase; letter-spacing:1px; }
+    .alert-card .title   { font-size:0.85rem; color:#e2e8f0; margin:3px 0; line-height:1.35; }
+    .alert-card .meta    { font-size:0.72rem; color:#64748b; display:flex; justify-content:space-between; }
+    .alert-card a        { color:#38bdf8; font-size:0.72rem; text-decoration:none; }
+    .alert-card a:hover  { text-decoration:underline; }
+    .no-alerts { padding:30px 16px; text-align:center; color:#64748b; font-size:0.85rem; }
+
+    @media(max-width:768px) {
+      .container { flex-direction:column; }
+      .sidebar { width:100%; height:45vh; border-left:none; border-top:1px solid #334155; }
+      #map { height:55vh; }
+      .level-filters { margin-left:0; }
     }
   </style>
 </head>
 <body>
+
 <header>
   <div>
     <h1>🦅 Alerta Influenza Aviar – Latinoamérica</h1>
-    <p>Monitoreo automático de fuentes oficiales · Actualización cada hora</p>
+    <p>Monitoreo automático cada hora · Fuentes oficiales y medios</p>
   </div>
   <span class="badge">EN VIVO</span>
 </header>
+
+<!-- FILTROS -->
+<div class="filters">
+  <label>Período:</label>
+  <button class="filter-btn active" onclick="setFilter('24h',this)">Últimas 24h</button>
+  <button class="filter-btn"       onclick="setFilter('7d',this)">7 días</button>
+  <button class="filter-btn"       onclick="setFilter('30d',this)">30 días</button>
+  <button class="filter-btn"       onclick="setFilter('all',this)">Todo</button>
+
+  <div class="level-filters">
+    <button class="lbtn emergencia active" onclick="toggleLevel('EMERGENCIA',this)">🔴 Emergencia</button>
+    <button class="lbtn alerta active"     onclick="toggleLevel('ALERTA',this)">🟠 Alerta</button>
+    <button class="lbtn vigilancia active" onclick="toggleLevel('VIGILANCIA',this)">🟡 Vigilancia</button>
+  </div>
+</div>
 
 <div class="container">
   <div id="map"></div>
@@ -99,8 +116,9 @@
       <div id="last-updated">Cargando...</div>
     </div>
     <div class="stats">
-      <div class="stat"><div class="num" id="total-count">0</div><div class="label">Eventos totales</div></div>
-      <div class="stat"><div class="num" id="country-count">0</div><div class="label">Países afectados</div></div>
+      <div class="stat"><div class="num" id="total-count">0</div><div class="label">Eventos</div></div>
+      <div class="stat"><div class="num" id="country-count">0</div><div class="label">Países</div></div>
+      <div class="stat"><div class="num" id="emerg-count" style="color:#dc2626">0</div><div class="label">Emergencias</div></div>
     </div>
     <a class="telegram-btn" href="https://t.me/AlertaIALatam" target="_blank">
       📲 Suscribirse al canal de alertas
@@ -111,116 +129,146 @@
 
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
-  // Mapa
-  const map = L.map('map', {
-    center: [-15, -65],
-    zoom: 3,
-    zoomControl: true
-  });
+  // ── Estado de filtros
+  let currentFilter = '24h';
+  let activeLevels  = new Set(['EMERGENCIA','ALERTA','VIGILANCIA']);
+  let allAlerts     = [];
+  const markerLayer = {};
 
+  // ── Mapa
+  const map = L.map('map', { center:[-15,-65], zoom:3 });
   L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-    attribution: '© OpenStreetMap © CartoDB',
-    maxZoom: 10
+    attribution:'© OpenStreetMap © CartoDB', maxZoom:10
   }).addTo(map);
 
-  const markers = {};
+  // ── Filtros temporales
+  function setFilter(f, btn) {
+    currentFilter = f;
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    render();
+  }
 
-  function getMarkerIcon(count) {
-    const size = Math.min(20 + count * 6, 50);
-    return L.divIcon({
-      html: `<div style="
-        width:${size}px;height:${size}px;
-        background:rgba(220,38,38,0.85);
-        border:2px solid #ff6b6b;
-        border-radius:50%;
-        display:flex;align-items:center;justify-content:center;
-        color:white;font-weight:bold;font-size:${size>30?'13':'11'}px;
-        box-shadow:0 0 12px rgba(220,38,38,0.6);
-      ">${count}</div>`,
-      className: '',
-      iconSize: [size, size],
-      iconAnchor: [size/2, size/2]
+  function toggleLevel(level, btn) {
+    if (activeLevels.has(level)) {
+      if (activeLevels.size === 1) return; // al menos uno activo
+      activeLevels.delete(level);
+      btn.classList.remove('active');
+    } else {
+      activeLevels.add(level);
+      btn.classList.add('active');
+    }
+    render();
+  }
+
+  function filterAlerts(alerts) {
+    const now    = new Date();
+    const cutoffs = { '24h': 1, '7d': 7, '30d': 30, 'all': 9999 };
+    const days   = cutoffs[currentFilter] || 9999;
+    const cutoff = new Date(now - days * 86400000);
+    return alerts.filter(a => {
+      if (!activeLevels.has(a.level)) return false;
+      if (!a.date) return true;
+      try { return new Date(a.date) >= cutoff; } catch(e) { return true; }
     });
   }
 
-  function loadAlerts() {
+  // ── Marcadores
+  function getIcon(level, count) {
+    const colors = { EMERGENCIA:'#dc2626', ALERTA:'#ea580c', VIGILANCIA:'#ca8a04' };
+    const color  = colors[level] || '#ca8a04';
+    const size   = Math.min(22 + count * 5, 48);
+    return L.divIcon({
+      html: `<div style="width:${size}px;height:${size}px;background:${color};border:2px solid rgba(255,255,255,0.4);
+             border-radius:50%;display:flex;align-items:center;justify-content:center;
+             color:white;font-weight:bold;font-size:${size>30?'13':'10'}px;
+             box-shadow:0 0 10px ${color}88;">${count}</div>`,
+      className:'', iconSize:[size,size], iconAnchor:[size/2,size/2]
+    });
+  }
+
+  function render() {
+    const filtered = filterAlerts(allAlerts);
+
+    // Limpiar marcadores
+    Object.values(markerLayer).forEach(m => map.removeLayer(m));
+    Object.keys(markerLayer).forEach(k => delete markerLayer[k]);
+
+    // Agrupar por país + nivel dominante
+    const byCountry = {};
+    filtered.forEach(a => {
+      const key = a.country || 'Desconocido';
+      if (!byCountry[key]) byCountry[key] = { items:[], lat:a.lat, lng:a.lng };
+      byCountry[key].items.push(a);
+    });
+
+    Object.entries(byCountry).forEach(([country, data]) => {
+      if (!data.lat || !data.lng) return;
+      const items   = data.items;
+      const topLevel = items.find(a=>a.level==='EMERGENCIA') ? 'EMERGENCIA'
+                     : items.find(a=>a.level==='ALERTA')     ? 'ALERTA'
+                     : 'VIGILANCIA';
+      const popup   = items.map(a =>
+        `<b>${a.title}</b><br>
+         <small>📅 ${a.date} · ${a.source}</small><br>
+         ${a.link ? `<a href="${a.link}" target="_blank">Ver fuente →</a>` : ''}`
+      ).join('<hr style="margin:5px 0">');
+
+      const marker = L.marker([data.lat, data.lng], { icon: getIcon(topLevel, items.length) })
+        .addTo(map)
+        .bindPopup(`<div style="min-width:220px;font-family:sans-serif">
+          <b style="color:#dc2626">📍 ${country}</b> (${items.length} evento/s)<hr>${popup}
+        </div>`, { maxWidth:300 });
+      markerLayer[country] = marker;
+    });
+
+    // Sidebar
+    const counts = { EMERGENCIA:0, ALERTA:0, VIGILANCIA:0 };
+    filtered.forEach(a => counts[a.level]++);
+    document.getElementById('total-count').textContent   = filtered.length;
+    document.getElementById('country-count').textContent = Object.keys(byCountry).length;
+    document.getElementById('emerg-count').textContent   = counts.EMERGENCIA;
+
+    const list = document.getElementById('alerts-list');
+    if (!filtered.length) {
+      const labels = {'24h':'últimas 24 horas','7d':'últimos 7 días','30d':'últimos 30 días','all':'el período seleccionado'};
+      list.innerHTML = `<div class="no-alerts">✅ Sin eventos en ${labels[currentFilter]}.</div>`;
+      return;
+    }
+    list.innerHTML = [...filtered].reverse().map(a => `
+      <div class="alert-card" onclick="flyTo(${a.lat},${a.lng})">
+        <span class="level-tag tag-${a.level}">${LEVEL_EMOJI[a.level]} ${a.level}</span>
+        <div class="country">📍 ${a.country || 'Latinoamérica'}</div>
+        <div class="title">${a.title}</div>
+        <div class="meta"><span>${a.source}</span><span>${a.date || ''}</span></div>
+        ${a.link ? `<a href="${a.link}" target="_blank">Ver fuente →</a>` : ''}
+      </div>
+    `).join('');
+  }
+
+  const LEVEL_EMOJI = { EMERGENCIA:'🔴', ALERTA:'🟠', VIGILANCIA:'🟡' };
+
+  function flyTo(lat, lng) {
+    if (lat && lng) map.flyTo([lat, lng], 5, { duration:1 });
+  }
+
+  function loadData() {
     fetch('map_data.json?t=' + Date.now())
       .then(r => r.json())
       .then(data => {
-        document.getElementById('last-updated').textContent = 
-          'Última actualización: ' + (data.last_updated || 'N/A');
-
-        const alerts = data.alerts || [];
-        document.getElementById('total-count').textContent = alerts.length;
-
-        const countries = new Set(alerts.map(a => a.country).filter(Boolean));
-        document.getElementById('country-count').textContent = countries.size;
-
-        // Limpiar marcadores
-        Object.values(markers).forEach(m => map.removeLayer(m));
-
-        // Agrupar por país
-        const byCountry = {};
-        alerts.forEach(a => {
-          const key = a.country || 'Desconocido';
-          if (!byCountry[key]) byCountry[key] = [];
-          byCountry[key].push(a);
-        });
-
-        // Agregar marcadores
-        Object.entries(byCountry).forEach(([country, countryAlerts]) => {
-          const first = countryAlerts[0];
-          if (!first.lat || !first.lng) return;
-
-          const popup = countryAlerts.map(a =>
-            `<b>${a.title}</b><br>
-             <small>📅 ${a.date || ''} · ${a.source}</small><br>
-             ${a.link ? `<a href="${a.link}" target="_blank">Ver fuente →</a>` : ''}`
-          ).join('<hr style="margin:6px 0">');
-
-          const marker = L.marker([first.lat, first.lng], {
-            icon: getMarkerIcon(countryAlerts.length)
-          }).addTo(map).bindPopup(
-            `<div style="min-width:220px;font-family:sans-serif">
-              <b style="color:#dc2626">🇦🇷 ${country}</b><br>
-              <small>${countryAlerts.length} evento(s)</small><hr>
-              ${popup}
-            </div>`, { maxWidth: 300 }
-          );
-          markers[country] = marker;
-        });
-
-        // Lista lateral
-        const list = document.getElementById('alerts-list');
-        if (alerts.length === 0) {
-          list.innerHTML = '<div class="no-alerts">✅ Sin eventos activos en Latinoamérica</div>';
-          return;
-        }
-        list.innerHTML = [...alerts].reverse().map(a => `
-          <div class="alert-card" onclick="flyTo(${a.lat},${a.lng})">
-            <div class="country">📍 ${a.country || 'Latinoamérica'}</div>
-            <div class="title">${a.title}</div>
-            <div class="meta">
-              <span>${a.source}</span>
-              <span>${a.date || ''}</span>
-            </div>
-            ${a.link ? `<a href="${a.link}" target="_blank">Ver fuente →</a>` : ''}
-          </div>
-        `).join('');
+        allAlerts = data.alerts || [];
+        document.getElementById('last-updated').textContent = 'Actualizado: ' + (data.last_updated || 'N/A');
+        render();
       })
       .catch(() => {
         document.getElementById('alerts-list').innerHTML =
-          '<div class="no-alerts">⚠️ Sin datos aún. El bot actualizará el mapa en la próxima ejecución.</div>';
-        document.getElementById('last-updated').textContent = 'Esperando primera ejecución...';
+          '<div class="no-alerts">⚠️ Esperando primera ejecución del bot...</div>';
+        document.getElementById('last-updated').textContent = 'Sin datos aún';
       });
   }
 
-  function flyTo(lat, lng) {
-    if (lat && lng) map.flyTo([lat, lng], 5, { duration: 1 });
-  }
-
-  loadAlerts();
-  setInterval(loadAlerts, 60000); // Recargar cada minuto
+  loadData();
+  setInterval(loadData, 60000);
 </script>
 </body>
 </html>
