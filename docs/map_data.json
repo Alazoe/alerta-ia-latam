@@ -1169,7 +1169,55 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPeW5sM3AwalJNWV94VW9EWi1TSVJYZ1g5ZXJQbzdBQnpxMUQzS1BHeWhBNk03ckJXWXlIeEZIN2JCRS15cWZkMDk5eFlaNE1lQTFaSHhhYjZSUDd3ZFZ0aFhOTHg0emJKOUl5S0hnXy1PYU1td01Zcy02aTJTSDIyMkRuQXR0c19ZeFJzUkxIa1NWTnpPZXM4YzV2OExDS1RNTFFzWjREaTZlUnVHbmNtZGE4d2JVaFBpaXhWNmRsNNIBvwFBVV95cUxPeW5sM3AwalJNWV94VW9EWi1TSVJYZ1g5ZXJQbzdBQnpxMUQzS1BHeWhBNk03ckJXWXlIeEZIN2JCRS15cWZkMDk5eFlaNE1lQTFaSHhhYjZSUDd3ZFZ0aFhOTHg0emJKOUl5S0hnXy1PYU1td01Zcy02aTJTSDIyMkRuQXR0c19ZeFJzUkxIa1NWTnpPZXM4YzV2OExDS1RNTFFzWjREaTZlUnVHbmNtZGE4d2JVaFBpaXhWNmRsNA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "71fc8a98c344b779a32bdd719457ea71",
+      "title": "Perú suspende importación de productos aviares de Argentina tras brote de influenza aviar H5 - Infobae",
+      "source": "Google News - Argentina",
+      "date": "2026-02-26",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNejkzd2Qtc0dtMzA0aFU1V0wxWDVOcEthQmhWMjE3eE9Od2w4MmZ2M1lwd0VjeWdYVjUtYlNqVE5QMVdoMDNPOU02eldINnZSQ1NjOGtyZGxEd2pTenNqY2FnSjFvS2pRcnpZWVJUMTVVbUZ0dmZyLV91a3g4MU1CUG1WS1kweUEtSEVxZFVSVloyTGRiZElWVlBsUGxsWDd5cklNUmtsblJlN2xuSldCaVBESkJnS1F3Vks0Z01YZUZhaVVzeGlxSTNDTDk4Z9IB6AFBVV95cUxOQzZuVF9VR0FpN0Nka3BoV1ZxNG92ZDZJSXBiN2xncUhILV9TQWRZZm42b3lBc05XUC01d1VreWRmS2ZGMDlONE9KcV9aYnhpV3dnNTFubHhtMDVuT3FzNEZQMVZZREV6X2hic0dWMVJDdHRnNVoyY1VLU2VXZWhoTVhYWlJkNFQ5eF9NaXJ0Yk0zM3Y3UnFjbW5od2Y2aFRIMVZ3SEk3ZlM0UDJNMEllSldiSjI2UC13QlZDdUFxU0pMQ2gtQXZLVDFjTGlKRGozN2JBdlVWOG9OMkpiS1FxeG92NDNGcjl2?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "8ac48d22afd54e4ca21c7eba3ba5ac0d",
+      "title": "El ICA confirma brote de influenza aviar que NO afecta la producción nacional - Caracol Radio",
+      "source": "Google News - Colombia",
+      "date": "2025-12-04",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZzZrNFVjekhtdFBLTGhucUVHRnNtYnV0TF9OY3lYelIzcndEeGxxY1MzZEl3TzN0ZWFKQWZuZGprS2hCMzFzVTBsYmFOZ2dNcmZuU01ydlJWREdhQXpyTWx2NktoSVdwS3JYV2NlMzB4QndnUWhmeUdmejlCSEFlLWozV1ZmNjdMSGZEZ2lYS2cxVHN3aW1iaHhMZXd0YnFaaTlEal9RcjlDd3ZXMFZQWHB30gHGAUFVX3lxTE5zN2o4YTk5a3IwZFpsZlpjNXFidEpTcTJQOUlPQS01N0JwaW9lWk9IZmNhNGlKaGprUEFhMVhvbVBuclkzRGJCM28yX0lpb2M2OXBnM1p4WmlrNXZUM1BoQk5nSHpKQ2pSMkVhd0d5UEs4SWFiYTdkOXdsNFp2MVpoMnoyZERYNVJkZXY2NnJPWkVraGJPeWNqWFBQZWVXWFpHWnhHZUtVWGpfTXlOeG5BV1FyMTNzZ21TQTZENV9hMTFQRGYzZw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "3ba59de96e870014c710ebcae8374eb4",
+      "title": "Influenza aviar y contrabando presionan al sector avícola - ABC Color",
+      "source": "Google News - Paraguay",
+      "date": "2026-02-26",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQejZVdHFscXZROTNPeVMyTS1KQTl1Tk9iSWl2VFdJZGlkZWF2STZWM0hWaHdNRmNDU1pDOU5CZktLN1NhM2hSMzByZFZweVFnbHh2MWtzOWNNM1pmWVpTakxDdHcwVGhfZl9xeHp3WHRPVWdVNXJabGdTSzBWaWI5eEY2aS1ELUQ4VXQxN2NNSFNsSG5BOGFaUnY1RDNPQlQ5cC1odGs1YlpNX0dqSnlEMG9LWDEyZ1huT1BEMVhNdlF2VEY3RFVnZ2FGbEFMb2hqRi1hUTNRWFVNUHNyRHdBSUJ2Y0JzU1dLb2ZPMkEtNNIB7wFBVV95cUxQejZVdHFscXZROTNPeVMyTS1KQTl1Tk9iSWl2VFdJZGlkZWF2STZWM0hWaHdNRmNDU1pDOU5CZktLN1NhM2hSMzByZFZweVFnbHh2MWtzOWNNM1pmWVpTakxDdHcwVGhfZl9xeHp3WHRPVWdVNXJabGdTSzBWaWI5eEY2aS1ELUQ4VXQxN2NNSFNsSG5BOGFaUnY1RDNPQlQ5cC1odGs1YlpNX0dqSnlEMG9LWDEyZ1huT1BEMVhNdlF2VEY3RFVnZ2FGbEFMb2hqRi1hUTNRWFVNUHNyRHdBSUJ2Y0JzU1dLb2ZPMkEtNA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "33d7a7b53ec83322bd0095c6787073a7",
+      "title": "Por brotes de influenza aviar en Argentina y Uruguay: SAG refuerza vigilancia - Medio digital El Zorro Nortino",
+      "source": "Google News - Uruguay",
+      "date": "2026-02-26",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSDdVbVhTM3MwS2c4UXVnaGJCVVZXM1VfZTEtX0V1dndkOGpabzhXV2tSOV83N1ExSUJtV2RRUGcwenhyb0pRbmJ5dDh0YV9aWTBaMlppM0VSMW9SQzZDY25Fb3Rrak1kZVhIdm82Q2w2ZlJaVmszY1prUXUtVC1BeE1VWWpkV2REbnZzTUhjWWtiNUhNbHJJb2FIM1NZSTVhVVU5Z1o0U3FFdU5rV3lvVzNseEVkTHFQcDViZlJ5bEpwMzJwdnc?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-02-26 08:53 UTC"
+  "last_updated": "2026-02-26 13:12 UTC"
 }
