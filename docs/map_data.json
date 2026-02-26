@@ -1217,7 +1217,19 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSDdVbVhTM3MwS2c4UXVnaGJCVVZXM1VfZTEtX0V1dndkOGpabzhXV2tSOV83N1ExSUJtV2RRUGcwenhyb0pRbmJ5dDh0YV9aWTBaMlppM0VSMW9SQzZDY25Fb3Rrak1kZVhIdm82Q2w2ZlJaVmszY1prUXUtVC1BeE1VWWpkV2REbnZzTUhjWWtiNUhNbHJJb2FIM1NZSTVhVVU5Z1o0U3FFdU5rV3lvVzNseEVkTHFQcDViZlJ5bEpwMzJwdnc?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "12ede137879e4d4adec9c985a9d7f759",
+      "title": "Influenza Aviar - www.gub.uy",
+      "source": "Google News - Uruguay",
+      "date": "2026-02-24",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNYUF3NkZsQTRFSHVJUkVLQ2ZTaTlvdUFEbWhnelQwa1Njd2dORlUzX3dXX0NlYkZaWFhXdHhha1VJVGVHWk1LZWcxblZGT2hJT1QwRkJWSU9yTmNkSi1mWGwzTlFTTktNSEQtVGU1c3NfTG5UUmRUZWJFamV0ZGc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-02-26 13:12 UTC"
+  "last_updated": "2026-02-26 17:02 UTC"
 }
