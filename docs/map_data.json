@@ -1265,7 +1265,19 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTNiN3hWTG1GRW8yS29qZ1lzUDNxXzJlVlY1VkU2aVF5dWdmUWpZWTlVMmhyNy1mRlpLMEItVXFNcjdTQjNyb001QXpEZzJUWDRMTXg1cFlGS2huNGF5Wm9LazRteV9WMmVkc1V0MVZrSVYzem5XRjREVlNkQ1RoR0pkNkZaS3RkWjJsZHVXVHpmdVo1ei1BaHpEU2x6Nm9rWFpXQi1n?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "38d01902a9387910b50ecb0e871bf2e9",
+      "title": "Confirman influenza aviar en la Ciudad de Buenos Aires y Paraguay cierra las importaciones avícolas - Revista Chacra",
+      "source": "Google News - Paraguay",
+      "date": "2026-02-27",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPODVwck15eWFmZ0ZGX2twUC1NOUdGVF9aMGpkQlBuLWdGY09YTVVOOG1lSmE3TW1JVTQyLVBkRjhrRlNDRmZtczhOa09WY21FejBUMDdNa0RST0dZdldMZTd1NG1DZ0N2dEZBYWxMZ0RGdXMzSk9yaE1LV1N1TTh1amlLSjVHekppcWpQdnZIMzlWSVBsUkpGSXNrcndRY3BXWGRKYlhmZndaZFFFWk83dGM0VEYwanZ5dlk5eXJoRHVxdldEejVSNHBCMVVuZzgwclBmZ1Y0Q2hCX1J1RFNHZlN6Y9IB2wFBVV95cUxOeXlzVVhiVUtHcjVuVk81dkpXY21UU0R6akxmdWJ5VS1pVUNONDNya0VzYzNhN0NyRUEtUnlybVFUaER1Zlk1QUd5c0c0N1NjMWpURHJwRHV3VmZmSGIxal9HaW1xb2k3ZlZMUFp6VlpKU3FFVE5ienZBRmFTVGNtWDdrRElRM0hISGktWV9MMjV1aTRXREdRNkMtZWo4YlBJaWhiRXpydzYtOVZxcnc2d2lUSjl5Zy0zbVQxX2VSVTlJam5uYVdkTGR3a2ZZdjdTM3MtenoyMllMTWc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-02-27 08:44 UTC"
+  "last_updated": "2026-02-27 13:04 UTC"
 }
