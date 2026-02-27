@@ -1241,7 +1241,31 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTR3R2lONDdKNkFaZFhhMWl2OU82OXEtbmVDRVNydzd5QnVPb09VdjdNbUNwUzJZU0xHNm55QjBTMkV6N0xlOTNZdk9mSDJHU2pTcTVuWVNfazk2WENVNnQ3RDBwOUdlTkYyTU1naGFLSUxfdlVxS09ZYUhZenprZG1YWjFZMzNFeFBLeEpWTUxpZXN5eFBqQUxpXzkzOXNTN3drd3U2R2U?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
+    },
+    {
+      "id": "bd91a63643b2e71217d4dfe50ca7d190",
+      "title": "Detección de un caso de influenza aviar en aves silvestres en la Ciudad de Buenos Aires - Argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-02-26",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS2F5UmtYUVUyMnU2VFZxLXlyZlRwT2d3ZVYtLTZKekRuVFNDZkhjT29udEY5Um9vTmp2TGpvU2MyNl9BV2Myb2ltTlN3N3JYRlFYRXhIc3dyUjZ1ejBDNEd3WV9Pd0g1WEMxRldZMVBqVXRiMVRUSXVDQmlXRFNKdEJYbC1GZnVvbUNINDN3WnRzR3pVY0h6eFRLQTgwVjJHeWZ5T2JDM1p1MDFrQ2JpWExEY0RzNTdIbXpOVmsyaTFuUXc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "227e9fb69dc36364fff600f8dae4e885",
+      "title": "SAG refuerza vigilancia por brotes de influenza aviar en Argentina y Uruguay - Radio Candelaria",
+      "source": "Google News - Uruguay",
+      "date": "2026-02-25",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSTNiN3hWTG1GRW8yS29qZ1lzUDNxXzJlVlY1VkU2aVF5dWdmUWpZWTlVMmhyNy1mRlpLMEItVXFNcjdTQjNyb001QXpEZzJUWDRMTXg1cFlGS2huNGF5Wm9LazRteV9WMmVkc1V0MVZrSVYzem5XRjREVlNkQ1RoR0pkNkZaS3RkWjJsZHVXVHpmdVo1ei1BaHpEU2x6Nm9rWFpXQi1n?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-02-27 02:22 UTC"
+  "last_updated": "2026-02-27 05:16 UTC"
 }
