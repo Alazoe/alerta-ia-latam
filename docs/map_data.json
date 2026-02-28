@@ -1289,7 +1289,43 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQekcxTkhNRDVTV3k2SHFQUTViODlhVGRhUU56TGhmcEEtZGZEa2o3Wl9qalpMOU1fcHc5MGxWbmV2Y25FRHU0aDhGQVFMOXR5Sk5kNVV2MkNqdUdsS0JmS1FBNHVETWxpN0ltRHdRbjRFdDhDeGtKS0hvOUpvcVlKN2lfajhKUk94U2RBWmdQOU9aUFdLa1gySFR2Vms1NVFybEFWaDAtTHFsWFJzdlhxdUJEcE1sMTTSAbcBQVVfeXFMUHpHMU5ITUQ1U1d5NkhxUFE1Yjg5YVRkYVFOekxoZnBBLWRmRGtqN1pfampaTDlNX3B3OTBsVm5ldmNuRUR1NGg4RkFRTDl0eUpOZDVVdjJDanVHbEtCZktRQTR1RE1saTdJbUR3UW40RXQ4Q3hrSktIbzlKb3FZSjdpX2o4SlJPeFNkQVpnUDlPWlBXS2tYMkhUdlZrNTVRcmxBVmgwLUxxbFhSc3ZYcXVCRHBNbDE0?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "a84f206de6f882e9fa85a237134a22e3",
+      "title": "Influenza Aviar Altamente Patogénica: Estado actual y perspectivas 2026 - avinews.com",
+      "source": "Google News - Argentina",
+      "date": "2026-02-27",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbThfSDBZQjBEdEIwV1FCZmx4WVRjQ20wSG5jR0lDTmV1Wi1pY0ZFT0Rya3BQV2pwX3JMcXVDcTJlNG1OV050SzBMMFE4NnYyc2ZlOGE2R3BqNXZzTWpoSHQ2T3YxTTFsNTBXU09iTVNNd0Q4WVFfdm1raTBLZUZkN3BXOHFRUzd1eVY0UlNZRnlOcG5YWGc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "984e427cb6a476f9708f8ee490009ed4",
+      "title": "Argentina: Se confirmó un caso positivo de Influenza aviar en aves comerciales en Buenos Aires - 3tres3.com",
+      "source": "Google News - Argentina",
+      "date": "2026-02-26",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUjMxek02bUpaUVRsUGpkeUZmcjM3eXhOV0dwd2d2ZF9PSVVyeHI0R3FDZHVsVDgtUDZwdVZnbS1TSkJ5T0llb3lOSE1ub1JfWEVYTFNlWTJwMGdLbjN0XzRISndEMWRTRHhGYTlzUnBiaTVwZ2ZuVEQ1dHhSVmtQLVZPUGFNUVRqcHlmUk01Sk5qUTN5bjNWVURUWm8zdXlYLUk3ank5R2s?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "7eed6a8ca91fe4c53f593fc88970c544",
+      "title": "El riesgo de la influenza aviar mantiene en alerta a Paraguay - ABC Color",
+      "source": "Google News - Paraguay",
+      "date": "2026-02-24",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaW9ib3oxQVdTZ0pSQ0RJVUlhNS1QWDkxLTNSZWJ6bW5tUzBReDNKaDhGODVtRHhrbl9jak5JTkNlM2lOZUtMMFZ3Si1Zbm5jeUJmRXJQVEJTVHZxVjJaOFhYUVVJdkhCelVWRTVHY0lzU2Y5alNGbXBoNUhtOTViYTRacWhqZXBTcGluXzZLQ3N3QU4ycUFycFhWZG5OVVgtdjVoUkFESlpma0llOGRTbGNFbVU1VlnSAcsBQVVfeXFMT0EybmxHaUJQa2NmMWdEUEpDTlRqOXd6Um40TklyLUJwOGxkRV9ZQ1Y1R2R1WWtfdjFQLXFqemhhVWRURzVkaVVGeEQzdGZET0tGM0dGbUdwMXNSWTJfYjZwMlo2NWJUaTdHRVFrel9vZFd2bUJibjh2dHhiZnlJUWhNR1phOEZFX2YtMF9xQUZ1WDl2MEZwbjFQZEQ1NWliVkZrV2dTWEFGVndBN2VRLTR3a011dU1tVXFwUjl1SGZUdXFvYXpFMEhaYnM?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-02-27 20:34 UTC"
+  "last_updated": "2026-02-28 02:05 UTC"
 }
