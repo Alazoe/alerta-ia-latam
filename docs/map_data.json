@@ -1349,7 +1349,43 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWFOWURXdkFUZGFGYTlodFUzeVoxYjdxNW82VWpBeDM5dlBsODJYTUlneFlwVVZ4M1RIMWdCZWU3WlhkY25FUng1bzZjR2Q5OXJEZEJmd0tvMmk1VzN2Vm1COHVtNnoyQnRYeDVDZVRrQkJ3b3lybHE2NHFZNi1icjVrVUl5YVdEZ0pxQmZ5Nk5qWGtULUtLVjIta2VtSnJjbHFfVzFfUdIBrAFBVV95cUxOd0hEQm50QU5kSlBIR0lndG1oSEE1MEVzcVhRcE11SzVGNmVXdmtKN0M0RnNCVG83cTlZd0hGTmtpc3RpYmlYM1E5OFVGUnp1c1l6WXFtaTI4Ym1IU2FTWThCT1FaZ29wZnNnR01HR0JRLWpxSEROQm8xem5KR2dHMmhsMVhXdjltTTI1T2hjX3FUeTFrVWxidXVDMFd5dkxzeWJDenYyQl9CNl9Z?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
+    },
+    {
+      "id": "c49c75188d94e962ea909ab268e788c0",
+      "title": "Paraguay prohíbe temporalmente importación de productos avícolas argentinos por brote de influenza aviar - infolaplata",
+      "source": "Google News - Paraguay",
+      "date": "2026-02-25",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVWgtS1FGMDNNLUNtMV9lTkQxYTZGQkNQSWNSdjZkWms0c3lGaVNES1hkVjlmbU9lVVh1MGY4U1FSdWtSSU5NT3l4NGlVYkQ5RjU0WElnMU5TNHZYbG1LZzhMWGJKOEtMZTNUNndGME5ENGU4cnR4VUNNR3Fvdm5weThHQ2w1SHo2NTVSYzg0RHpTWlBMaHI1ODBZdXNHMVNYQXVHWXUtTTlkUDIxU2tpMWhWcWd0ZERZeTlHMk5LcnA3UFRVT0NFWA?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "7cae7e11c94a11b80a4c7883ae870dc4",
+      "title": "Uruguay refuerza vigilancia por Influenza Aviar y activa plan de contingencia nacional - El Debate - Uruguay",
+      "source": "Google News - Uruguay",
+      "date": "2026-02-28",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY3RWazFDYlN4LVp5WnRlNUFSUlV5UlNYbVFVcFBSVmd3ZlZmRlhOMm5iZ0c4Q2NJQkdnZmFkSHZuY1JTLUZmOFNIV2VmOUd0QzEtX0xYTzdRcldXVjc5WHk4YmhJVmxiOGlYdGRNb0Q1R0hlVVlDSEVGR19vbmkzRDhGdjJsU3JwbzZSOVlJOWNaUTJXejlXcU4tU0FkV21teEVKZXRpN1NrRlNlbXlaOFZHbEZzUjVHZXU4dU05RWg2VVZxTndPODFUZGp0RlV6VHZEZFY2M1JZZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "464850a2e56b3f405721c23e9b2358f9",
+      "title": "Se detectó un segundo caso de influenza aviar en aves comerciales - Campo en acción",
+      "source": "Google News - El Salvador",
+      "date": "2026-02-26",
+      "country": "El Salvador",
+      "lat": 13.7942,
+      "lng": -88.8965,
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQnNJS0JwQmFEMzN0eWhGbkdQUDdkZEZhRmlDeC1NWlRIc0ZpY3h0ZGVpcUw2aXRYRWlYR21kLWp3dnlMc2N6d2k1cWJfSFN6ekNibjFuVWhwTS1VSUkxNTA2WXc4WjA5dDd1WEc1NUQ5d1VhS0VsVE9tMkdYbzVuM2tBTVNFemUtcjlraGZWb3UzS2tEWnRqWi1sYUFrWVQ2cmVqUEdRZ1pRRzFkOXfSAZ8BQVVfeXFMTTBpeXpJNGxVX0ktR2JTSDFNUDZqV3JVdlFWOElpdFRnZzVLcUJlLXY0bkZ0OE5Zd19mZ3NPQ3hzSHVyZm5ib1VILXh0UHlBX2RoYlA0SVFRd05JREZOcGZtSEVuR2RteFA2NlM2T1FiX21Cd3pKM2VuZEF0c0kzUkdKU2NoYm0ySXFFa0JRbmRQMTFlR2dPbUVlbTRjYkJr?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-02-28 20:29 UTC"
+  "last_updated": "2026-03-01 02:34 UTC"
 }
