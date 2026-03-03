@@ -1469,7 +1469,31 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzd0VWlmYm5ET1doYTNTcWR6NWtjMjA2SnIwMWM1NVJjWk9mUW56VElXM0Jha0V5czBlak9IRk9FMnJHMXRpUTFyVGl5YnRCbE5mdUlGeFNyTS1CU1g5ZW5jZmttZGxDa0tKbzkxS2hpTG4tMHlRWVFtRV9UQUlUbWpUbGh5bVhEOS0tdXh2V3UtVHdOVUZSa3hNb0ZxdkQ0OUxpakNn0gGrAUFVX3lxTE1QWmpCWi03UndELVoyVG1XdVFWTjhaUkdkbGpnbXVISlVmbDdMX21jQl9NeEdPZEdBd3BtVVJUaGtlX3ZMLVlCVUpPOFE3dmljNU05MDNYakt1Vnc2cHJ1YkF6eENkQWQ1QTZuNmN1SlBUb2U5NkF6T1NmU0hwUlc3UHVrTmpnUHVoalJldWI3blNUdHEyQXlLTWdEdVo0OVN0NGpfLU5DOVlCcw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "6c102a6e8581157e021894918334d094",
+      "title": "Alerta Sanitaria Regional por Influenza Aviar Altamente Patógena - avinews.com",
+      "source": "Google News - Chile",
+      "date": "2026-03-03",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONEM1N2tJZDdLaTRSbmVBR2ZJWFY3STd2YmlhcWlTczd5WUxKYXBwS2xIeXBrdUhSVEJsbUpVaWtoRG5RSHVPN0ZFUUplZlpVWlBEZVVzVzMwVExNMXk4TWt6aHlYWjJLWklROVp2WU5kSHp1amJUS0FCRnhSOGJkMlU0X0lWQnRJcmFmcVpR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "059ea5cdda948d370d3865fc1d885258",
+      "title": "Influenza Aviar: Perú suspende importaciones aviares desde Argentina para proteger su estatus sanitario - avinews.com",
+      "source": "Google News - Argentina",
+      "date": "2026-03-03",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMDBzaXdfRjFEZ3ZhbXN5b1RPdjZUUUpaQkdieGppOHN5WVVkUTRrSmlMZG1lRVZhV09rT1JLRGVkQmxyaWJkQTJtZTRnUWF2S0lSMUtIN0hRVGNXc3NDemxoQmp5bUdMelM1MG1aaVJwaVlpVEpFdFVYVmtPM1gyRXRmdE9OTW5zcE9qY2tOZmVhSGlKZUtzdnJzMEhNWXVJd0VDbWxqckNhZmw1TWc5Y2czVmJWYk5jSklVMDJxNG0?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-03 16:53 UTC"
+  "last_updated": "2026-03-03 20:35 UTC"
 }
