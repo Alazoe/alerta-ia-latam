@@ -1183,18 +1183,6 @@
       "color": "#ea580c"
     },
     {
-      "id": "8ac48d22afd54e4ca21c7eba3ba5ac0d",
-      "title": "El ICA confirma brote de influenza aviar que NO afecta la producción nacional - Caracol Radio",
-      "source": "Google News - Colombia",
-      "date": "2025-12-04",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZzZrNFVjekhtdFBLTGhucUVHRnNtYnV0TF9OY3lYelIzcndEeGxxY1MzZEl3TzN0ZWFKQWZuZGprS2hCMzFzVTBsYmFOZ2dNcmZuU01ydlJWREdhQXpyTWx2NktoSVdwS3JYV2NlMzB4QndnUWhmeUdmejlCSEFlLWozV1ZmNjdMSGZEZ2lYS2cxVHN3aW1iaHhMZXd0YnFaaTlEal9RcjlDd3ZXMFZQWHB30gHGAUFVX3lxTE5zN2o4YTk5a3IwZFpsZlpjNXFidEpTcTJQOUlPQS01N0JwaW9lWk9IZmNhNGlKaGprUEFhMVhvbVBuclkzRGJCM28yX0lpb2M2OXBnM1p4WmlrNXZUM1BoQk5nSHpKQ2pSMkVhd0d5UEs4SWFiYTdkOXdsNFp2MVpoMnoyZERYNVJkZXY2NnJPWkVraGJPeWNqWFBQZWVXWFpHWnhHZUtVWGpfTXlOeG5BV1FyMTNzZ21TQTZENV9hMTFQRGYzZw?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "3ba59de96e870014c710ebcae8374eb4",
       "title": "Influenza aviar y contrabando presionan al sector avícola - ABC Color",
       "source": "Google News - Paraguay",
@@ -1493,7 +1481,19 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMDBzaXdfRjFEZ3ZhbXN5b1RPdjZUUUpaQkdieGppOHN5WVVkUTRrSmlMZG1lRVZhV09rT1JLRGVkQmxyaWJkQTJtZTRnUWF2S0lSMUtIN0hRVGNXc3NDemxoQmp5bUdMelM1MG1aaVJwaVlpVEpFdFVYVmtPM1gyRXRmdE9OTW5zcE9qY2tOZmVhSGlKZUtzdnJzMEhNWXVJd0VDbWxqckNhZmw1TWc5Y2czVmJWYk5jSklVMDJxNG0?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "e58178d9ab6ef736a219201f78341bb8",
+      "title": "Influenza aviar: Senacsa y avicultores en alerta roja ante nuevo foco en Argentina - ABC Color",
+      "source": "Google News - Paraguay",
+      "date": "2026-03-03",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTXB2dmlGUXI1ZE9wY3VkWld0LTdtR2VGbkhtWnItVWpYNXZjdzJNc21kNVc1X0JNOVZPQ0VRU1B2OVJ4WlJZYUVMSXBoOHJFS21nZUF0Zm15NlZtUnd5TXUwWjJoWDVNMk0wX21zTU5EOU1hRW1lOWg3LVg0ekU5bWpkWXRLTW1KNnU5UzRzX2p5Z1ZFRjRTdzlYYndVMEp3bXFaN2U4ZWZybWFQZVR6VTZYX0lDbVM3VGlhUndIU2w4eXFMX1ZGWllGRFpxMnZMVlczc0toONIB1wFBVV95cUxQTXB2dmlGUXI1ZE9wY3VkWld0LTdtR2VGbkhtWnItVWpYNXZjdzJNc21kNVc1X0JNOVZPQ0VRU1B2OVJ4WlJZYUVMSXBoOHJFS21nZUF0Zm15NlZtUnd5TXUwWjJoWDVNMk0wX21zTU5EOU1hRW1lOWg3LVg0ekU5bWpkWXRLTW1KNnU5UzRzX2p5Z1ZFRjRTdzlYYndVMEp3bXFaN2U4ZWZybWFQZVR6VTZYX0lDbVM3VGlhUndIU2w4eXFMX1ZGWllGRFpxMnZMVlczc0toOA?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-03-03 20:35 UTC"
+  "last_updated": "2026-03-04 02:13 UTC"
 }
