@@ -1529,7 +1529,19 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUVd4S29NMWdMSl81RU16T2t3RENDYURaTU55aDhGa3BmVFBWeWFGSVFKWk9IV2lfa1JhN21DN0VyWl91eTFnNWY3RVc1TzJUOFoyci1wdHJLcUNSX1BYei1RejB3aGdKSURlLTBHOHVwX0VVNTVUNXc3TmowNlIzTVFHbS1aaFpFZlZNcVZ1Q2xQS0NXUWhvVDBGYXVqMWxCYXk2ODVKSEhmTnFCX2hFcUZkZmlHbWo4TlE?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "ebda06c9f17eca050dd204b300fa09e6",
+      "title": "Uruguay declara la emergencia sanitaria por influenza aviar H5 y refuerza controles en todo el país - Agroempresario.com",
+      "source": "Google News - Uruguay",
+      "date": "2026-03-04",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdmtXdDZ1WlJsMTljRGY5MDQ2b0lqR1NGT1MzamF1WWo1Qk1zYnFqWEF6Qmp0US11UmpSOVE1cWx1X01SM0sybDdZX0NtS1BzRjFXSXE3c2draFA1VDZPSXdHYjlpQ1JrdEdxQXh6bnVzUGxfcGswWmlHb2xfQ1lMSEFyeEVLZ3R2WXFLV3BZanQzMW5vYXNZb3gtLXBjaVdGM0hvcFlzTzNsbVZtbFpFbzJ0UDBFUi1kOTJNczJtSnU1VnNMTnRyVTZfY3JyVmJCcHZMZm8yR1NEcGhZMm9RaG5zQ0pTbmUtcHc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-04 08:42 UTC"
+  "last_updated": "2026-03-04 13:02 UTC"
 }
