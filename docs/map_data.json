@@ -1505,7 +1505,31 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPT3dwMjFCX0JVbDhSY0VEdU13eHNIcFB3dm0zejFlZzdTVlgwVmFUbmdlRzdNb00weElXOVRxVkVSanNYVGEwYWpHVmttLUp2UW1IRDNteGRTWW9UczJFRE1PcEgxMElwLUhGeVZnN0lqTzZjMjhHR2w4ZDV2NTZTalB5WTl6MDJkekJXbzZQUTk3cXFOcF8xWGdPMkJfeTFPWXljdGdkWUQ1YXNvdjYtR3hveThxZVhyaVFUeFFCYW5WYTRlX2c?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "202b634a613ab6e9b8a5c9eddaa387f4",
+      "title": "Detectaron un brote de influenza aviar en Córdoba - Infobae",
+      "source": "Google News - Argentina",
+      "date": "2026-03-04",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeUw1NzlESjBSNUZDR0g2QmJFbXAwdTIxWlhiMXZRV1FQd0Q5UHVEdjZncVV0Z3hWT2N5OFliVjNKVnRXRWxVR01Ecmh6ZGdlSTFtazlQZzNsSTNSY2otSmV0c2Vwd3pjbE1CNjlLeXh2TFZXVnh1MFJqNHc4alRXU0VfaUR2Mk9MYmZ2OGp6RjA2ZDVfNGJOc1930gG0AUFVX3lxTE9BS0xVZVpBLUZhcm5sMHkzN2pWT0QtY2I4eUY3Q2lTUFpwVmVjV3pHRnBZTzVmZFBYc0ZteW00WjNZTzZqNW9qZjhiSjhKcm90ejhOSVpfeENNYjVMX0ptWG80dDIwUDdRT2ZQODNrY041LTdiallueXN3STVObkFHY3NZTmdueV9YYVNrQnNabmRMcmExcXVKTXJ2SjRWX0NTa3NxMDE2WUpmcEQ0ZWVXYk50Mg?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "e6db47217ae27b837a5037e3a00626c1",
+      "title": "Buenos Aires: Se confirmó un brote de influenza aviar en aves silvestres en Navarro - Argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-03-03",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUVd4S29NMWdMSl81RU16T2t3RENDYURaTU55aDhGa3BmVFBWeWFGSVFKWk9IV2lfa1JhN21DN0VyWl91eTFnNWY3RVc1TzJUOFoyci1wdHJLcUNSX1BYei1RejB3aGdKSURlLTBHOHVwX0VVNTVUNXc3TmowNlIzTVFHbS1aaFpFZlZNcVZ1Q2xQS0NXUWhvVDBGYXVqMWxCYXk2ODVKSEhmTnFCX2hFcUZkZmlHbWo4TlE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-03-04 05:10 UTC"
+  "last_updated": "2026-03-04 08:42 UTC"
 }
