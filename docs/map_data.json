@@ -1649,7 +1649,103 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUElFZEpoTUw1VnBQUE1rSFNVTjBWVDFQUFI4Y2ppTU5wZk4yYjBTbFRyRWNTdnNoT0RLWXJsbElvOThKenRIZGNDaVVxcVpDV3QxanZvaFEzc0hwS3drM0t6cm4zcjNZbnAxZ1NqVlUyVXFKWWJVaTVyU25jTVdGSFZJTDhoVkh6cDE3MXhJVkttX0JxY1ViZFlVeXBWanJmSUZWWVFHVjQ5ZU9ldy04OTFWcHBlOFZTRzA1dEpxOHYyZw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "29619011784700dfae9a6037e7c01de2",
+      "title": "SAG confirma presencia de influenza aviar en aves silvestres en Valparaíso y llama a reforzar medidas de seguridad - CNN Chile",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTEw0Q2FCWGFTd3dzVXAxYl9jOTZjVEt1Mk00V1ZpS3Z3enJZaXZURmdWNlJfNVRQdUhiZUNkVEl6eHdkTEI2VnFyN1ZVR0ltY09QNi00YkFLX0dhSFhxTlVtRTBSRnlmcTc1NXFWOURVblR6WU9EUktjakRGU3doX0x6bGU0SGhwSzNZcUpPZThFaE1vaDZEZVA5cw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "2889c1bbb4ea5fafb12b5d93efbea51a",
+      "title": "Confirman influenza aviar H5N1 en humedal de Santo Domingo: activan vigilancia sanitaria en Valparaíso - ADN Radio",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTTNLX2dVMm5kcWhxREFxOEhoa1Q2QnZtUlEzM3dLNGkycUcwTXpfM0ZXUWJJMzVNY0ptQlkzREkyRzlRNnpzVmlTdDZyaElHT3hMeGRXVFhMX0VjQzJac09FejRHTGlRMkZJZDFwcWYzVURLVnBmZHd1bFhYaW1XNERXeGo2S2tnazdWenNUNkhEVEdkdFAwS2VRaFJxb1JEaHVXR0NXZWlWdVBZYl83QjBYeHBCMkxwTlBndDNlOVY1Wng2ek9YTFFzc2s1RUFRUGdUYWJwUTc4WGpLNDFVd044LUZEUDjSAecBQVVfeXFMTk0zS19nVTJuZHFocURBcThIaGtUNkJ2bVJRMzN3SzRpMnFHME16XzNGV1FiSTM1TWNKbUJZM0RJMkc5UTZ6c1ZpU3Q2cmhJR094THhkV1RYTF9FY0MyWnNPRXo0R0xpUTJGSWQxcHFmM1VES1ZwZmR3dWxYWGltVzREV3hqNktrZ2s3VnpzVDZIRFRHZHRQMEtlUWhScW9SRGh1V0dDV2VpVnVQWWJfN0IwWHhwQjJMcE5QZ3QzZTlWNVp4NnpPWExRc3NrNUVBUVBnVGFicFE3OFhqSzQxVXdOOC1GRFA4?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "d935d130a3d1f93bb96b54f8df581429",
+      "title": "SAG detecta virus de gripe aviar H5N1 en aves silvestres de la región de Valparaíso - Teletrece",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMy1XaGpMSEpVZVpVcW5UQjVwZUt1QkhTeW5ISlFxRFcteWY1OW5IZTMxeWNJOHdYSnZUU0doRXBGRDhpd19CNlMwRGNnZWE3Y2JFREVoRmlxUGFDWFJCRFp5Q1U1RDM4UFBMNFZQUHRDVXRRXzhfUXVFTG1iakI2QjZmZ1BxMVFzWW51bHFtLXF4Z3piblFVOHRvbHZTeERHb2Z1c3VrY3V1UjNNUlREblJtbw?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "428f7041feaabf0a9b4d9daa8ba476e8",
+      "title": "Analizan con productores estrategias de prevención y control de la influenza aviar - La Nación",
+      "source": "Google News - Paraguay",
+      "date": "2026-03-04",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdC04blM3cGxORHprTGFJMkNFRUduRHQ1bktEVjJhWXZSaFdaaXBvV0w5SnZ5QXNsUGJTOTU1TGpueW1TMWVuN05TX1VpUE9FODZTMlE5QU9hQzRFSmM1U29qaUJnTnB6a3FFQ1haSDBHUnpHRHBZVmJ6dFE3dEVTbk5WTll3bTBiT3ZMT25pYkNCUUdjemNKSExCU1A4eXRoMERrNk40Mkk1N0JLaHVXSmluRjF5STBKT2loNm8zX0NlMUNhQmUwYzlCNA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "e39490157dcc201862f5b3cbff2fd622",
+      "title": "Paraguay prohíbe temporalmente importación de productos avícolas argentinos por brote de influenza aviar - Diario La Mañana - La verdad en tus manos",
+      "source": "Google News - Paraguay",
+      "date": "2026-02-25",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQR1NoeGNoRFhzQ0c4dXRKRkhsR2d6UTR3WlJNMGN0MWdySW9meXpsOFo3SHJnNkZnLUZycHFWOHRFOWxqcGNnbWVPdW1YM19UaXk3Vk1XVlBNamtfa21mb2gxTnpZd1BSeXh1QVpzNkJOTzk3bnYxZkplaG5FMnF4cmNMRnJyZUpYQk9zb2tsRVBfVl9FeFBpSkMwa1d5UzBNY0JYV1UxbXk0ZzlIMDB3LWs4SEFYN1NwZEw2cEQ0YmQyRnRONjF5T0RCSVVRd3JkMm9vRUdoa1pUcHlZRVlzZWlGMXdsTFFSeGZaZ0FsRQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "cce13d32a3f2223ef635ba515eb7f94c",
+      "title": "MGAP declara emergencia sanitaria nacional por Influenza Aviar H5 - GUB.UY",
+      "source": "Google News - Uruguay",
+      "date": "2026-02-24",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS2x0Q1JibVVCbTBfZVMxXzZjMnR0dktQbmYxVXFscU9GNFc4bHJ4aThtYms1RnZILV9lam9tY2lOQlk2ZEFZeUdMQTZCTlVkNTFKMGRRbnJDZ1dpU0E2WTE2Q2VtYTVPNUZNNTk1NU8zN3lqbHpRUWNvaFplaXJTc1F1Qkp2enptbVVUQTU1a2FhenhRTUV4NzFscTZKN2xrWkY1QXhST3JyTEZIeUJUenlqcmN0M0VTV3lkNV92dFNHeHdQNmM2X1FheVp5Mnl0WEhZZTZuelE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "1e180ffff44ab4d4dec108c454e3960b",
+      "title": "Ganadería declara emergencia sanitaria nacional por Influenza Aviar - GUB.UY",
+      "source": "Google News - Uruguay",
+      "date": "2026-02-24",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjN5OUswTGk4V0paUzl2UVViXy1PZGIwZEtQQ29wLVN1dF96ek1ScHh5ZzJWRm9ON0R0dVhEZGlqZHY2SEVrYXhJdXVqUUQzX3RQQ1FrOWpMNnZwdjQ0dFd4TG16YlM5YV9kUXRVYzc4ODBIRERCZUZ6T01HZG5zUi05Y24zWUNad2k1cmVnYVZ2R3dfUTFVY05nWlEtVnp2dXRlSzFZWWVfamJuZzlwWkJmaHowV00?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "4a6e96eee672ba2184c59463a2887845",
+      "title": "Influenza Aviar - GUB.UY",
+      "source": "Google News - Uruguay",
+      "date": "2026-02-24",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNYUF3NkZsQTRFSHVJUkVLQ2ZTaTlvdUFEbWhnelQwa1Njd2dORlUzX3dXX0NlYkZaWFhXdHhha1VJVGVHWk1LZWcxblZGT2hJT1QwRkJWSU9yTmNkSi1mWGwzTlFTTktNSEQtVGU1c3NfTG5UUmRUZWJFamV0ZGc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-05 08:48 UTC"
+  "last_updated": "2026-03-05 13:06 UTC"
 }
