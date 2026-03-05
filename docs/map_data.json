@@ -1565,7 +1565,55 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWDduSFdSc0M5Xzk4TnZCZC1fbk1UOFZkejJkWnI2bkxKbDdzQXBubVMwVGJNT2IzUHVnR1F1MjVmSzRfNEdPZUVQWEtqMXZseHFNQUxxdVRvazhqWUNQalpZNk9BZkY2ZFdVZjA4WlE0UmhqcDdOMXNIQ3BqMHVrSTJ6TmhCbDlwRGxTdzU3alRwRWo2OEkxekd5Z2FnYVZNdC1kNC05dXcyRmVu?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d70a1ae35db1e8b71615b8a8b794bc52",
+      "title": "Confirman caso de influenza aviar H5N1 en aves silvestres en la región de Valparaíso - BioBioChile",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOdnBrTExBTmtCQVVvWThNdTdOVzRRakdvaFZfRnVRaFc1TmJIRjRkelhUaUREdGthT2ZaQVJ1YzRUQklKQWRMZXBrOWk2OFV5ZmVCMVhGZ19QazZkb1B2eEk0YU5iTGNEeXM5WDh5ZUhlRER3UnFlbXlMbFZ0NlF1ZnN4azJsTWdZTXBYTXlkSHZyM1ZnV0VFRGFaZFUtQkNORG5KMW82aEJ4Z1ZGUklTaHRnSHVSZGN3RDZ1cGVkeDVHQmJyVDFvSzhNYVJhckZ2bTIxSHpKNS1tdWk5TmNUTWNNX0U1T0ZESkRrM3RGVWJnOS1UYnVVemZYMA?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "ba4b772d8ecea1296caf4b8dd7dfe9a2",
+      "title": "SAG confirma caso de influenza aviar H5N1 en aves silvestres en la región de Valparaíso - RadioSago",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbExWd2VRNUROeVJVMEU3cWtmakFlbTJJbzJ4djVUZ05JZUF2dmFRb0dpTUxKc2hlLTN1TUUtNzA1TG5tWWd4ZUNHNHEzMUVucXhiLVMxdWZqS3F5ZllZZFN2UThmVHlYT21KRFY3NlNFNVJZNTV1VkVhSmRiN3VvU3hUQ1c5R3Q5TjJwRUN3ZzNfOGpXbUg1bHNrNlNzMVhhaHVBdjdiVVZzOFh2SHJmellmTQ?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "d4c4d495ec7be742cbce18956c442f74",
+      "title": "SAG confirma caso de influenza aviar H5N1 en aves silvestres de la región de Valparaíso - Marga Marga TV",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU21Ma2pUWDJ6ci1EOWxlNWZJNFZsQkN5aTZhWTR5MHVZNi1HSHdlUFNEWl9wU3BTb3B3aEV1Qk55UFp3cVQ5b181X1ZHSi1rRTk2NGI4U0VXMlMwY04wM2dubTdPQUlaSWxqM3dmQzNNU2s4TC1SZ0lCeE9FeHdpYW9MNVZyWWtvOEFqN0QyU0V2WGpaNXp5NktKTEo0Y21LbmFxbENPU2lhZDZKTFV6MXdR?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "4616fbe84f7d928c5013a6df29f4ce86",
+      "title": "Senacsa refuerza prevención y control de influenza aviar ante riesgo regional - adndigital.com.py",
+      "source": "Google News - Bolivia",
+      "date": "2026-03-04",
+      "country": "Bolivia",
+      "lat": -16.2902,
+      "lng": -63.5887,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQlZLUG9kN0FwRHFrWjFtR0RLMGFyRXVuYVdxTVR4bmlWSHdDZHVzeGNCb3U1WjVPR2hKT29JbTRCVDlfTEhlWncxUUIyMktpWTd5MVpoV19jaVRDSWpSTUJWOEZJbW9zem9paGlMb3lNcEhmTXZHLWdTVm85a3FMYy1tbDRHS3dGUi1YNHhtYXZDcTJCMDNXQURvMFY0NUJrWnEzWWZTS1F0WUhC?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-04 20:35 UTC"
+  "last_updated": "2026-03-05 02:23 UTC"
 }
