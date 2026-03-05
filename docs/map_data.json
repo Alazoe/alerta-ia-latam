@@ -1745,7 +1745,67 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNYUF3NkZsQTRFSHVJUkVLQ2ZTaTlvdUFEbWhnelQwa1Njd2dORlUzX3dXX0NlYkZaWFhXdHhha1VJVGVHWk1LZWcxblZGT2hJT1QwRkJWSU9yTmNkSi1mWGwzTlFTTktNSEQtVGU1c3NfTG5UUmRUZWJFamV0ZGc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "f7180792dfd7f3daa4a910d791116e43",
+      "title": "SAG confirma caso de influenza aviar H5N1 en aves silvestres en la región de Valparaíso - Home | SAG",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGV1TWlUVjVOYnBMb2E2TVFteFdkWENrTFNGSVlhT09sRTlRZy1fY1lOM3ZpMmZOcFhXNlRxMlpRVC1WZzNVcjlEeHFQSll3YWREY1NrSUFONWNUMkVpTk5DbXRGanlYbUdnNE94aGcwbDlyMnZwZ0U4eDF0d1B5ZmFLc0laeUdOTWd6dFFQcy1EcXBLTWMzaERnWjhmSE9jUlQzU2MxNjNmS3NHUnZfSlllSVc5dVAyRkE4?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "724fdd7ae1f80e2cca6d5b8dffabea61",
+      "title": "Crece preocupación por Influenza Aviar luego que SAG confirmara casos en aves silvestres de Valparaíso: estos son los síntomas - Sabes.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSFBWYmZHa1FHN01Xem1KRGx6N09yVTloV090R1ZIbjFQbUhrUDhRRlVMUThpbTc2VVZoX2ZibDZCMmRTeG56eGdxazI5T3hWMEUyV3ZkeXVUODctZ1BxdEw3UXBHbXFyallaRDJabzIyak5sM2NfRHRsc3UxclRaeHN0b1VaUlZoNkVqSnpkcXMzY2pUdk9TdjV6UGo3YXJxYS1mVlpPaGw3WWxmdC0xUTFUMVk2cm5hM3J2M1NaNElWRU9pMXJDa0dWTEt1OVBTYjdDOE16bXZlQTZ6Uml0VHVlT243ZnotUHc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "923ba0c3cdef0ed1690a83d4ed085bfd",
+      "title": "Detectan influenza aviar H5N1 en aves en Santo Domingo: ¿es posible el contagio en humanos? - El Dínamo",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNS3BYYnZxeFJaRVMwbGo0R09mTHAtU2g0VTM5NXFwbTE1Y0hzS2p3amFNUWZTanAzTDRzWlBZNU80N3VDTGFsR0U4cDVZWGcwaGs0MkdhMGlVcDg1cEdYX0tJWnQ2dzlfZEQ0TllrWFhxZ0JyTWI2cUxLeHJxNm90ZS1kLWJ4OUdveFVhbzZWUVZ3RE85NG41LTY0Z1I0OUFmVU1sRlF0cW5TXzlnTENNUFZfTU45LU1iSTcwMmNMNzJsQWxrdU5JRw?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "bc8585b2d2097eaa18aa5c211185397d",
+      "title": "SAG confirma presencia de influenza aviar en aves silvestres en Valparaíso - Radio Canal 95",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZV9OLWhYTENXVF91ZWdIMjdPRW9fNTZ2aXlOSmx5MFcyX1R6Q1VUMGYwNzFrWFZvcEF3RUdnYm85VFFMMjNBVjVIT3VKMGpxMV9FSDlaU1hsUENaQm1nbXh2NVNxelF1dTlEblhHbjl6ZEFGLUFvdkJfZWJlWHdzQkZiM1JxVXlzckxlZW8xVWhicko1WWFabjZLQlRWUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "b6babd9c40e1e1377aed4207fa1a3650",
+      "title": "Chile confirmó un caso de influenza aviar H5N1 en Valparaíso - Revista Chacra",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU0RHeXVTaUNFYzBVeFBSUTlnaHRmWDRMWmQ0Qi1qeXFWRDVhSHFXcjk5dUZaVmpDRUludFVXc3JfVGJ4bUU5SXZfamJycG5KQVNEWFVWaHMtQWJaT0pIV1hiZWc4Y0hzdF9taTZHcDlGYzE5eHZxaktXREY0a0RJOHEtRWN3VHZ5eWJyZVpYd3g1SnljNE91UTYzSGkybFNBVXRV0gGjAUFVX3lxTE5TREd5dVNpQ0VjMFV4UFJROWdodGZYNExaZDRCLWp5cVZENWFIcVdyOTl1RlpWakNFSW50VVdzcl9UYnhtRTlJdl9qYnJwbkpBU0RYVVZocy1BYlpPSkhXWGJlZzhjSHN0X21pNkdwOUZjMTl4dnFqS1dERjRrREk4cS1FY3dUdnl5YnJlWlh3eDVKeWM0T3VRNjNIaTJsU0FVdFU?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-03-05 13:06 UTC"
+  "last_updated": "2026-03-05 18:06 UTC"
 }
