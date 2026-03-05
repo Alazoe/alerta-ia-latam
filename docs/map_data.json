@@ -1805,7 +1805,43 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU0RHeXVTaUNFYzBVeFBSUTlnaHRmWDRMWmQ0Qi1qeXFWRDVhSHFXcjk5dUZaVmpDRUludFVXc3JfVGJ4bUU5SXZfamJycG5KQVNEWFVWaHMtQWJaT0pIV1hiZWc4Y0hzdF9taTZHcDlGYzE5eHZxaktXREY0a0RJOHEtRWN3VHZ5eWJyZVpYd3g1SnljNE91UTYzSGkybFNBVXRV0gGjAUFVX3lxTE5TREd5dVNpQ0VjMFV4UFJROWdodGZYNExaZDRCLWp5cVZENWFIcVdyOTl1RlpWakNFSW50VVdzcl9UYnhtRTlJdl9qYnJwbkpBU0RYVVZocy1BYlpPSkhXWGJlZzhjSHN0X21pNkdwOUZjMTl4dnFqS1dERjRrREk4cS1FY3dUdnl5YnJlWlh3eDVKeWM0T3VRNjNIaTJsU0FVdFU?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
+    },
+    {
+      "id": "51355856a78f317a5a38698c42e5f75c",
+      "title": "SAG confirma caso de influenza aviar H5N1 en aves silvestres en la región de Valparaíso - reporteagricola.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0VyUm9UWUxweG5OREtQOUo0bUFSNGJWcTFnMktpLUtPdHlXeF8xY2FaMXh0bDI0UUhFTGpPQ3hzVS04cGU2VXA0VDMwNi1PVTY1UHRJOVFWWWY4OUVUOTlySDFINmxMSHo2MlJHTm9hdFBJZ1hpbjlJZEQxSG9Pb0xmdy1GNlpTS0dXLUw2cmxmLTNQYjNCNFhKaUFwWkE1RGxUSjRIVk9pbEVBMXB3MmJNRVVZdEFNOEdZ?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "bda3f78ade0c5086b664bc3ad1bcddcf",
+      "title": "SAG confirma influenza aviar H5N1 en el Humedal El Yali: activan alerta sanitaria en la región de Valparaíso - elmartutino.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSnMwbzh0b0M3dEh5QzZSUlFEcUtBdWZfZDBxVW1MMm5lUS1IY2tUNTZDUXNpdlNZTjN6dVlmMXE1ZHZudkp3ZHRaQnFkcHJWTHBmVmw3U3JuY1NzUldveEpPRkE1SjdDbkVsUVM1RU5XckhVclBTQlFGWkl6N2s0VlBZcVlBRkFMWmtmWFEtclZTZS1ta2puLUp1bGFLRUIwaTdXVEpRX2VKT2NIOFd3MkJzVEV3R25rWjlmNnRkaXFJQUdKdWc?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "1454af7753fc635d2d01a492aa2b78ee",
+      "title": "SAG confirma presencia de influenza aviar en aves silvestres en Valparaíso - FM Plus",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnhRZmowTmtwQjJLb09DS01QbjA4OXBBZENfa1p3bzdzYkQ2YUJrTFBJTVl6dUVTakNuV3pES0FVN3ZUWFQ4aHFEV055NnNYZlQtMjM4Q3ZRb25Zal9OaGZXQW9qek8tSlJlTFA2MW02R2RINnY1SzFfeG4tNEJDSVBXZk9pVmhpeGZHcTBDREh0dlFGTm1XdnYzVVdGdk82Y1JaUy01U0VpZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-05 18:06 UTC"
+  "last_updated": "2026-03-05 20:40 UTC"
 }
