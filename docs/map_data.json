@@ -1625,7 +1625,31 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzNCcVhuVk0tU1ZnRkpEbUdOQWpjYXZzQ1Rob2xyLTB2djNyMHFjZXA4eGtOWWR6Y2JmWks0dGt0cDFQeDFJR0NhNDlIc3cyUHl2aDM2Umh3UjFvbUI0ZkpUZjJ6TzhBZDNXMkVvNFZJXzk5OE4wZHZTZVItMThtWkdhY1paWkg4c1RUV2VraHBFTlhRRjRFaHExMlVhcE1ZZ1B3Tm5KNkZxd3hjWFZ3QjQyNjlCcHdJVmplYmdvY9IBvwFBVV95cUxPQzNCcVhuVk0tU1ZnRkpEbUdOQWpjYXZzQ1Rob2xyLTB2djNyMHFjZXA4eGtOWWR6Y2JmWks0dGt0cDFQeDFJR0NhNDlIc3cyUHl2aDM2Umh3UjFvbUI0ZkpUZjJ6TzhBZDNXMkVvNFZJXzk5OE4wZHZTZVItMThtWkdhY1paWkg4c1RUV2VraHBFTlhRRjRFaHExMlVhcE1ZZ1B3Tm5KNkZxd3hjWFZ3QjQyNjlCcHdJVmplYmdvYw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "080d97f8f81b7f45e21c64d936772956",
+      "title": "Argentina: Cómo los brotes de Influenza aviar afectan producción y exportaciones - avinews.com",
+      "source": "Google News - Argentina",
+      "date": "2026-03-04",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmhBRk1ZNEN2Sk1BNzNVTGdVeW9nQl9lQ093RF8yRnl1M214MkRtbkdCbTlERmpGdExjWFkyMzNmeF9hSGRwNEMzSkd0UWhwa3F0STNJWTlNc0xVVG5fYUd6ZWF3SEZMcG1EVlEzTGQzd0RrdnRCVUlHWGRfMkh6VjZiTjhlNHBKcEs0X1ZQVWVVdjY2QTBzd2NxUTJ5Vnp2Z0E?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "aca083d11d14befd672f20bf84721505",
+      "title": "Buenos Aires: Nuevos casos de influenza aviar en aves de traspatio en Ranchos y Chascomús - Argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-03-04",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUElFZEpoTUw1VnBQUE1rSFNVTjBWVDFQUFI4Y2ppTU5wZk4yYjBTbFRyRWNTdnNoT0RLWXJsbElvOThKenRIZGNDaVVxcVpDV3QxanZvaFEzc0hwS3drM0t6cm4zcjNZbnAxZ1NqVlUyVXFKWWJVaTVyU25jTVdGSFZJTDhoVkh6cDE3MXhJVkttX0JxY1ViZFlVeXBWanJmSUZWWVFHVjQ5ZU9ldy04OTFWcHBlOFZTRzA1dEpxOHYyZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-05 05:13 UTC"
+  "last_updated": "2026-03-05 08:48 UTC"
 }
