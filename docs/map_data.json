@@ -1841,7 +1841,55 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnhRZmowTmtwQjJLb09DS01QbjA4OXBBZENfa1p3bzdzYkQ2YUJrTFBJTVl6dUVTakNuV3pES0FVN3ZUWFQ4aHFEV055NnNYZlQtMjM4Q3ZRb25Zal9OaGZXQW9qek8tSlJlTFA2MW02R2RINnY1SzFfeG4tNEJDSVBXZk9pVmhpeGZHcTBDREh0dlFGTm1XdnYzVVdGdk82Y1JaUy01U0VpZw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "1690297c3af6ff64db0943016a7c4c3d",
+      "title": "Caso de influenza aviar en aves silvestres por ahora no implica cierre de mercados en Chile, según SAG - BioBioChile",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOWUhlQ1M5LVIyTGI1Wmg2VEJOUHBqRnBtckwwcHBGYWprSTRlNGMxOHJDY1NfZWRiSnZBXzVqb3BDQk1sb0Mwd0IwSU9Xb3NSbDBfZGJqazMtUS0wNnRya1Y0YTRicktiZ0RnT3pDUUVUdmExb2s1MGMtdDFuVG5QalpTMFA3M3kzVWlia3hzWTJ3aXl0dVQ3TlVUT3hFR1BkMjNzWi12a3ktdXRBdmlHbldSQWVkaS1JVEtmR1k1NnFhTGdHcW8zUUtMOEVhc2FzZ3dXcVZwYmVtZmhrQllnR19iYkRaV0ZKYVJWbGo1SHBWb2t5elFLMm5JME5ScEg4bTRYUDhrOVpveGtjWDlrQS13?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "a629df2eddd5c90d37fc1f88a9997686",
+      "title": "¿Cómo evitar contagiarse de gripe aviar en Chile? Detectan virus H5N1 en aves silvestres en humedal de Valparaíso - El Desconcierto",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa3pHeEVmUG1Wd2R4bUpobTZBME45VjYxM0dlYnU5Z295T21HT0xqVndsV3ZGU1F5WnBNa3lMUG5OYWxOZzh3bklPZkdSSVFkNU04RmlTZHpVc1Y2Q3lJWFNmbldzaUZUMl9vNnNqdUZLblJybWxOXzRSS3dUMTBfWnlGRnJzTkhBRHh5OXhOckxuRms3V3c3b3VHQkE5dFYzWUJUMjFqSnRlSGhhTGttX00zZ3hiaUlmNlJjYmFRZ2Q3a3h3eS1KQTloUS1naURoTE0wTGtmLWFLSkhIZ3B6SDVR?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "032e4971e3c22365024b3b72ec59e7a1",
+      "title": "SAG confirma brote de influenza aviar H5N1 en cisnes del Humedal El Yali en Valparaíso - Epicentro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY3pCcmx3TVZhUjk5aWQwZ0RNTW8ybWFPQ3dCMFBrcUJjTlhDWFg0Q19jcl9DVEc0RzJNTU9PbjJVSlpoNktxTF9BWTVzUFJUZm9tNEdEVDIxcXNXdGszd0MwZS1zZ1RoVnRGYnJhZUlKX3RQa1QzaUozU05QejlBcUZlNGtwOUNNZ042TjZ6Ull5aGV5U0ZMbjl2ZzdQdWxiMnlhWXlJLXo1bXh1M25LV3IwMTBkRE52MldkQTRmZ05fU3lpOUUzRA?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "280753d1da8043ee6de532f924da386d",
+      "title": "En Chile, detectan influenza aviar H5N1 en aves silvestres - Agritotal",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTlDLXp5cDlxcFp3UjRTTEtMZjhKbXBPTHNZbk13OVVaNldKUGU2eFNwUm1DR1FuZkdfdkJJQ1RPamdRSy1Qckd1NDlvdEpQX0EtRVpSaUNaeGdtU1AyN2RidE54NkNIUk93MEN2U0tncVdnX0xObXNxMDFPS0JiMzVGN3FzblFGZDZ1ZS1pY3RzSWc?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-03-05 20:40 UTC"
+  "last_updated": "2026-03-06 02:21 UTC"
 }
