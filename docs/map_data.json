@@ -1949,7 +1949,19 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbTVDU0o1RzdXZjR4aE5Kcm9zSVQzb25kWWNNRTlIUU0xa0NPQkR0Y3Y4NWpudU1KNlBRQThuNkN5LUNoT2M3TmlXX0VoOFJqQVJNRzlWeHBzeFZnZDlqbG1SNVMtMFRnRDZ3SWMwdWw1MkRBd1htTjZ0dkVTZnA3MkhkeFhPYTVoVkRjRDRVdW1uOVpzZ0VoQlJsNlpXdkxqaWVmbXBEeDdmdUIwdWlPNF9OR05Jc1pLMmhwb2RaMA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "987aa12378c7e3b9e6d351cf0de52325",
+      "title": "Buenos Aires: Se registró un brote de influenza aviar en aves comerciales - Argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-03-07",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2pqSkJzWmtWaHhEaWNsTTc5WnR5ckEtZGIwNXY3Sm9INFJQdEVxQnROTWlMcTRBOVZ1S2xleTc1Y1VzY0JTc3pXUVVhdTlyTHgza1FmN21iSFRaem11d0ctb1RTNFZtWkFTeDFpZHc3V0NwWkdQbUFja0dkZHJ4NWh0cTdJY0xFS0ZYVXh0OF9MRHlQVHZrclVUdnhoRG9JVG5jekhDbVJnRUJxUHJJ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-03-07 16:31 UTC"
+  "last_updated": "2026-03-07 20:29 UTC"
 }
