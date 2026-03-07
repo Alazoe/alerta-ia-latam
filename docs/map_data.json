@@ -1399,18 +1399,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "8be1a94b73334059394ca739f321f4a5",
-      "title": "México confirma nuevo caso de influenza aviar A(H5N2); OPS mantiene alerta regional - milenio.com",
-      "source": "Google News - México",
-      "date": "2025-12-07",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTW52bUw4ZlFKTnlmdU00QjNrajBFSVQtNWRESmR4NHhYd1VxM0I0dlNxU3NqVWNnS2xQNGZqb0t3NjN4WnROT1Rld3Q4SHdsYzhDUzJMUmI0WVpyMkhsdmo4UE9FOGFaZ2d3aFV0elpmY1lUTXBCT3YwcFpMTUFjOVdXclVqNGtK0gGIAUFVX3lxTFAxU1FJS21wMW5qQ1ZBdkE3Z3Y5RnI5TXl1NjF6bDdTdGpKX2JndHNramQ0QmJMWEowbm5zRXpsa3pNRVc1SnY1YXZSVmNzMmpyYWJ3eDJySXZXbVM1dHp1a2d3b3o4YVhXdTVWY0lsZ2FrMjlhYjJ3RmJncjBkazJDWVhNQkp3UHo?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "6ef5a3c66c424753120a13524864d3c6",
       "title": "Argentina: Confirman caso de influenza aviar en granja comercial y cierra nuevamente sus exportaciones - El Sitio Avicola",
       "source": "Google News - Argentina",
@@ -1951,5 +1939,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-06 20:35 UTC"
+  "last_updated": "2026-03-07 02:08 UTC"
 }
