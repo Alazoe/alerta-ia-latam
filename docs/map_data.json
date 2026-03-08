@@ -2009,7 +2009,19 @@
       "link": "https://www.argentina.gob.ar/senasa/programas-y-proyectos/influenza-aviar",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "429fb2861e02388d527c4e264ca47b8b",
+      "title": "Declaran alerta temprana preventiva en la Región de Valparaíso por presencia de influenza aviar H5N1 en humedal - ADN Radio",
+      "source": "Google News - Chile",
+      "date": "2026-03-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRWJKaXVydDMyc09lV2ZvdEZldFpHX3VydS0wWlRmRlQyWWh3V09HT2xUSTlodFBnZ1F2N1lSUlJjb05QTS1qNUJQSnRqdGY0bTdsTTRQOVNMU0Z5QXNkaktHV3VTMU9SOHJGRk90QlFNS3BwTndjS29faU1ISWdsVF9mT1dtc1RLcWNwanFpdTVpRWJxU3BqT3NPYkkxb05zSDBVY2JYYmdiNUJEaW9td3hKaTBXZWJrWjNMYlhXS2pMM3VFcWhsOTNMel9HYmhsOWU3aGEtczdFd2l1Qms2OdIB9AFBVV95cUxNX0l5RW5XZXFoRFhIVmZ6cWxhdnNKSWNUaDR3UzFjM25VMkp1UzQ4SEw5a0lIRURicGw5VVIwYmJETU8tNDFaT2FYMTR0OURlQmNtSlNvbDZPTWJyZkctZjlzaDFsWm5mYW1MVW1uTkk4YU05NjhaSHlYMFdOMkl3c24xdmVlNVZDZjlIN2pUOFJvMGp3WjBwY29tMmFoTHo5bWh4MzVFd1F0YlFFSDNRc1N3QldOZXBRcHl1UTlYcUVDTDJGMWNVazFwdDNmYTc2R05YLVpSTVNlVkdjdnI2UVpESVM0MkZNekd2dGhXMGViWTgt?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-03-08 05:11 UTC"
+  "last_updated": "2026-03-08 08:35 UTC"
 }
