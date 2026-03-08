@@ -1997,7 +1997,19 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNejkzd2Qtc0dtMzA0aFU1V0wxWDVOcEthQmhWMjE3eE9Od2w4MmZ2M1lwd0VjeWdYVjUtYlNqVE5QMVdoMDNPOU02eldINnZSQ1NjOGtyZGxEd2pTenNqY2FnSjFvS2pRcnpZWVJUMTVVbUZ0dmZyLV91a3g4MU1CUG1WS1kweUEtSEVxZFVSVloyTGRiZElWVlBsUGxsWDd5cklNUmtsblJlN2xuSldCaVBESkJnS1F3Vks0Z01YZUZhaVVzeGlxSTNDTDk4Z9IB6AFBVV95cUxOQzZuVF9VR0FpN0Nka3BoV1ZxNG92ZDZJSXBiN2xncUhILV9TQWRZZm42b3lBc05XUC01d1VreWRmS2ZGMDlONE9KcV9aYnhpV3dnNTFubHhtMDVuT3FzNEZQMVZZREV6X2hic0dWMVJDdHRnNVoyY1VLU2VXZWhoTVhYWlJkNFQ5eF9NaXJ0Yk0zM3Y3UnFjbW5od2Y2aFRIMVZ3SEk3ZlM0UDJNMEllSldiSjI2UC13QlZDdUFxU0pMQ2gtQXZLVDFjTGlKRGozN2JBdlVWOG9OMkpiS1FxeG92NDNGcjl2?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "ecb1b079bc75504fb74c4dafa634813e",
+      "title": "Actualización en SENASA Arg.",
+      "source": "SENASA Arg.",
+      "date": "2026-03-08",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://www.argentina.gob.ar/senasa/programas-y-proyectos/influenza-aviar",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-08 02:26 UTC"
+  "last_updated": "2026-03-08 05:11 UTC"
 }
