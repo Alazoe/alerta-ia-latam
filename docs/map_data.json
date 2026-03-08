@@ -1961,7 +1961,43 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2pqSkJzWmtWaHhEaWNsTTc5WnR5ckEtZGIwNXY3Sm9INFJQdEVxQnROTWlMcTRBOVZ1S2xleTc1Y1VzY0JTc3pXUVVhdTlyTHgza1FmN21iSFRaem11d0ctb1RTNFZtWkFTeDFpZHc3V0NwWkdQbUFja0dkZHJ4NWh0cTdJY0xFS0ZYVXh0OF9MRHlQVHZrclVUdnhoRG9JVG5jekhDbVJnRUJxUHJJ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "e325777e5d68d847b723404580bc8ace",
+      "title": "SAG confirma caso de influenza aviar H5N1 en aves de traspatio en la región de Valparaíso - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-03-07",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmQ1NVpRblpNNGZBM1BuUTdadHVnUGVjWWdIc1hiVEo5M3BQNzJhRHFRMHdweEV1Y3pWeWJuMmdEWFdtVWhQRVlySXM4bmZXTjJGaENPdmNkVVRmUUdjX0hHRmhpdU1LbVhfYWMwTkkxMEVveHM4OGIxM0tWZEtRMnptQ0RfM3FEZXNHemJTNldMRG1NRU1NOXZvMUMtOTNYTVJzTnlOTTZWQzBuUHhpYk1neGdUemlXbnRkcFBXTHBHd2Zkb2pv?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "d3e95b27551ce0576d83bb4a4b783025",
+      "title": "Por tercer año consecutivo, detectan influenza aviar en la Antártica Chilena - MSN",
+      "source": "Google News - Chile",
+      "date": "2026-03-07",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPYklOSTlXaFVOZ0pPTUc2RFh1emcwRTlOYlRPYXRLdjhOdnFSVHpSQmVhTmI3SURseGJLVzFrcXZoSURRQi1ILTlBWFFhOGpPeWZsdThXdDIwdFFJV0FDRjc0OUxiRUo3WHJ4SG1UTDIwdnJ4dVFCS2NMemRPTWVueWcxMTA1TXRJdUFBMkpiQnVCRnJCdkxNVHRrVHRqblNfVGxhUTlLbW0wRDdpS2RxWFFoNVJJa1B4bHFsNnNXVGoxTHFKMmNUWTVSRTFxb29OTlVOR2NOR29VZThUb2c2NU5mcTBrVlBmNDRLQ0JSdmlaSVVGZURGYVhvZjF0TmViVmxueHU4dC00UEFXUTBaZ0J3V21yanNSZk5kdDFxaktRR0h1OFN6RnJTZzJoNlAyc3VQRFZzRFFmLWdZSkNEVGQ3QmQyZjhCc1JPbEgzMU91SUVIWG9tTWJmOElsTEtwWjlLMTBPVW82Zw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "5bc407fa281ca26a15b0914c1e0cd002",
+      "title": "Perú suspende importación de productos aviares de Argentina tras brote de influenza aviar H5 - infobae.com",
+      "source": "Google News - Perú",
+      "date": "2026-02-26",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNejkzd2Qtc0dtMzA0aFU1V0wxWDVOcEthQmhWMjE3eE9Od2w4MmZ2M1lwd0VjeWdYVjUtYlNqVE5QMVdoMDNPOU02eldINnZSQ1NjOGtyZGxEd2pTenNqY2FnSjFvS2pRcnpZWVJUMTVVbUZ0dmZyLV91a3g4MU1CUG1WS1kweUEtSEVxZFVSVloyTGRiZElWVlBsUGxsWDd5cklNUmtsblJlN2xuSldCaVBESkJnS1F3Vks0Z01YZUZhaVVzeGlxSTNDTDk4Z9IB6AFBVV95cUxOQzZuVF9VR0FpN0Nka3BoV1ZxNG92ZDZJSXBiN2xncUhILV9TQWRZZm42b3lBc05XUC01d1VreWRmS2ZGMDlONE9KcV9aYnhpV3dnNTFubHhtMDVuT3FzNEZQMVZZREV6X2hic0dWMVJDdHRnNVoyY1VLU2VXZWhoTVhYWlJkNFQ5eF9NaXJ0Yk0zM3Y3UnFjbW5od2Y2aFRIMVZ3SEk3ZlM0UDJNMEllSldiSjI2UC13QlZDdUFxU0pMQ2gtQXZLVDFjTGlKRGozN2JBdlVWOG9OMkpiS1FxeG92NDNGcjl2?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-03-07 20:29 UTC"
+  "last_updated": "2026-03-08 02:26 UTC"
 }
