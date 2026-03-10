@@ -2153,7 +2153,31 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU1QxU01KSDNBTTFJR1dzNk5PV0dFMmNjZkpCWVRuMURSa3RpWm9jTTJOaXlETUViWTU5RXNTMXRXM0ZraFdrT0tLY1liUVRNcE1SNFA4SjlvTGFSUzBwVWRnbldQMEVRckVvYzh5dVlZbVNfSHczdW1pVmtzWGVfNnVPQWxYYktrb1VTT3VSVlpZYVAxN2k2N2F6REtodFlqQXhMZkphMVNJSHppRFJuMkV5dkN2Y1ZxcWppWGxELWlaMXhGb1RMWFRja1NOTlNHZVZ6S1Vn?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "3f29ce68059cdc9eb1db13eb99ab833b",
+      "title": "El ICA controla brote de influenza aviar en el Meta - ica.gov.co",
+      "source": "Google News - Colombia",
+      "date": "2026-03-10",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUR6VmZVeFZSTWNRSmV5bkEweXhmRWhFclYycHhwcEJnMlBtcTM3X01NRXU3bC1VdGRIRkdVRlVEME9FSkxYNzZiM0ZWUXFRVklYZWppdGtPSFluMmZNbEU4WW9jVm1yd3hhZW9MU0Y4TzdSWXRDVDA2VzJZYzc3am9YRVU?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "db5e47a9866dd34138e70ad1c36e9806",
+      "title": "Refuerzan medidas sanitarias en granjas avícolas ante presencia de influenza aviar en aves silvestres - El Debate - Uruguay",
+      "source": "Google News - Uruguay",
+      "date": "2026-03-10",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSUhOQzYwYzJOdUpNLWYwamhNb0E0aGh0WDVRTzU1M3M4NE1vbEE0LUhLYVNLQVFGVTQzRTBORG5zS1lIVmw5ZkFYX0htcUJzclozWUh2ckJmd1pZRVJON0ZzRUZvVk93S3ZUUWNGbDkwX09ncFpfYVdTOUduZmtZLVVncWtOVldYSm9zUHFHX21oWUZTMW9nb2xmUFdTWl9tWTNSS0pNQXFzZnltUkYtS0NBQ19DUTJuVHpQLXhQVnVySWk1cXE2eUtuSUtRQno2MVExVm9haWRUS2VoczgwT3kzUGJmdFd5czQwUlN3?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-03-10 13:07 UTC"
+  "last_updated": "2026-03-10 16:57 UTC"
 }
