@@ -2441,7 +2441,19 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdVFFemFQdGhZbU9kNW8zdFNlT0lpTllZQ2RFanlwNHhjZlYyRlo3MHdfMXdvbUhfc1BmbnhzaEdoQzlfYXZMS0tlWFpfUGpsNnJna3RDVUdCWV81VGRrc0NoOWdlampEa1FCS1F2Z1plc1laLVR4eVY2RmFxVTRHUWNEM05STXRYSkxPY0t0YklJN3FNS3J5Q01FQXA0Z1RYLVYzTm9Hc3dYc3BHMG8xWTc0bkJsYjVoaEZEeTlUSWFGeGU4Qm1UdlJvVzBqVVZnc0pzZWdn?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "16a410c44883d6aaf4fb49e89636fc42",
+      "title": "ICA trabaja en vigilancia y control contra la influenza aviar - El Frente",
+      "source": "Google News - Colombia",
+      "date": "2026-03-11",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVRWWXluMjlUZ3c0WlRKcWxzdFU2dUx6OW1iTHlZUzJmUDYtRzRhYzZnc1Zkb0FaZlVQYkNBcnpNX25QUlByamxfaWtnbXExWnBINlhuZVBTZ0pERFNpb2hLQ0ZjNHVPbk1Ocks2czhBalVRU3o0YVNRMUdwS0ZiYUNNeGdsS0U0Q2RRVW0yUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-11 13:06 UTC"
+  "last_updated": "2026-03-11 16:56 UTC"
 }
