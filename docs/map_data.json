@@ -2417,7 +2417,31 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkVqNzR3WTZzcnR6Q2R3OXBaano5MTNqQ3gxVUpIZzBtMFBLc2V6S0dpeXBrUkxnT0JhYU4xVkhfRm1MZnUzNEtVbXlocXVJeFNqREloM1FueWVETlNBTFQxOTI5LXhuVHVnWnNRZHd5QzAzT3docW8yOFp0YzQ4ckJ1cXZKU01vR1NmZEowSmJNNmd6Q0c4?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "934ca7b2419cae529b21d79a18551ddf",
+      "title": "🐔 Detectan primer brote de influenza aviar en aves de traspatio en Meta, Colombia. #Colombia #Salud #InfluenzaAviar #Meta #Alerta - facebook.com",
+      "source": "Google News - Colombia",
+      "date": "2026-03-11",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeUlITVdQenNwZ2REb1ZXWE9NemtmVGg2WkxOVzc1QVo0bVBzcUw2bV90OWtLQndqYktqS0VIMi0xTEZUc3ZUaDJrZERXcmRsMkhqcFZsSFZPbTNEZTQwTFdQYXdDVF8yNGNOQ2oyakp0UWZ4SG5RWkRYLWNNTjFzYlZDZE1EbTVjeF94YUFtcVRjSnVKUzFMN2F2TE54ZkdHSVlJTFVxOUdnMWRZUzNEWDdtOGQ1ckpCN1Y1Ul9WcUc0eFYwenc2WU1ubE5UZmpjTHEzLUVrNGhaZlpaUEE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "37e992cec22ad1415b13de4ab93efe85",
+      "title": "El ICA confirma brote de influenza aviar en Meta: fue detectado en aves de traspatio - MSN",
+      "source": "Google News - Colombia",
+      "date": "2026-03-11",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdVFFemFQdGhZbU9kNW8zdFNlT0lpTllZQ2RFanlwNHhjZlYyRlo3MHdfMXdvbUhfc1BmbnhzaEdoQzlfYXZMS0tlWFpfUGpsNnJna3RDVUdCWV81VGRrc0NoOWdlampEa1FCS1F2Z1plc1laLVR4eVY2RmFxVTRHUWNEM05STXRYSkxPY0t0YklJN3FNS3J5Q01FQXA0Z1RYLVYzTm9Hc3dYc3BHMG8xWTc0bkJsYjVoaEZEeTlUSWFGeGU4Qm1UdlJvVzBqVVZnc0pzZWdn?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-03-11 08:46 UTC"
+  "last_updated": "2026-03-11 13:06 UTC"
 }
