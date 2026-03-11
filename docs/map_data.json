@@ -2357,7 +2357,31 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNYUF3NkZsQTRFSHVJUkVLQ2ZTaTlvdUFEbWhnelQwa1Njd2dORlUzX3dXX0NlYkZaWFhXdHhha1VJVGVHWk1LZWcxblZGT2hJT1QwRkJWSU9yTmNkSi1mWGwzTlFTTktNSEQtVGU1c3NfTG5UUmRUZWJFamV0ZGc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "bb36b35f0a89cd71d6dbeed5232cdfcf",
+      "title": "Detectan brote de influenza aviar en Colombia: explican qué pasará con el consumo de huevo y pollo - Pulzo",
+      "source": "Google News - Colombia",
+      "date": "2026-03-10",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYzBKR0hwRm1RZ1UydndlZWhaZjQyQ0w2S2dqOGJUOU1ORllDQUl4QnVHRlFZN1Z3M0ZZb3RVVGFDU2tYWGxxLVUtS2xOYktYVmJBLU1oQUlvZVhYUVk5MDBoVms0QTh3TGF6WktlMEthWlpUaW1DOE1mNzJkd0tsRUNSX2ZwMGlhVDhEdGRPMlM5aEdwR2NGTE1Sa2NvRlHSAZ8BQVVfeXFMUGMwSkdIcEZtUWdVMnZ3ZWVoWmY0MkNMNktnajhiVDlNTkZZQ0FJeEJ1R0ZRWTdWdzNGWW90VVRhQ1NrWFhscS1VLUtsTmJLWFZiQS1NaEFJb2VYWFFZOTAwaFZrNEE4d0xhelpLZTBLYVpaVGltQzhNZjcyZHdLbEVDUl9mcDBpYVQ4RHRkTzJTOWhHcEdjRkxNUmtjb0ZR?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "f9eae216603c007dfea814113438ffd2",
+      "title": "Influenza Aviar | Ministerio de Ambiente - www.gub.uy",
+      "source": "Google News - Uruguay",
+      "date": "2026-02-24",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNYUF3NkZsQTRFSHVJUkVLQ2ZTaTlvdUFEbWhnelQwa1Njd2dORlUzX3dXX0NlYkZaWFhXdHhha1VJVGVHWk1LZWcxblZGT2hJT1QwRkJWSU9yTmNkSi1mWGwzTlFTTktNSEQtVGU1c3NfTG5UUmRUZWJFamV0ZGc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-11 02:11 UTC"
+  "last_updated": "2026-03-11 05:13 UTC"
 }
