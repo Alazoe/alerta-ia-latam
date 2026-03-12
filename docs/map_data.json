@@ -2453,7 +2453,31 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVRWWXluMjlUZ3c0WlRKcWxzdFU2dUx6OW1iTHlZUzJmUDYtRzRhYzZnc1Zkb0FaZlVQYkNBcnpNX25QUlByamxfaWtnbXExWnBINlhuZVBTZ0pERFNpb2hLQ0ZjNHVPbk1Ocks2czhBalVRU3o0YVNRMUdwS0ZiYUNNeGdsS0U0Q2RRVW0yUQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "6d0392f5777db8594a9bde7db1533306",
+      "title": "Colombia fortalece la vigilancia sanitaria ante brote de Influenza Aviar - avinews.com",
+      "source": "Google News - Colombia",
+      "date": "2026-03-11",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNXzJZTnNhc1RDekpnczJUM2tEVU9GdVlrbmQ3bVptY254bDR3TlpyRFhvd25rdUxoUXNVRnFGS24tbG1BSlJlaUdTQUdfS05BZVdueFNoMEVLU0RBVTZXQ1JkX3lLNkZ6TFFzZ0VHenU1R2FjWW9nek5feGx5ZndESTBIaWNKdXgyMmpueGZBMEFtTU5tbjM4Zg?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "1ea55072f066ffdd43577eecff988f28",
+      "title": "Brote influenza aviar departamento Meta - Radio Nacional de Colombia",
+      "source": "Google News - Colombia",
+      "date": "2026-03-11",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX1VvWXI3MFBOemFka0o0ek9iQ3EtMWVkbk5FUG1RSW4wWGw0Y19fVlVORFczVDBybGR5R0tVdHBlR1RqTGhlN2lUVk9YQTcyZVcwb3hndkZmSlRsRXV5aFpTSlF3bmhqX1A5VTM2S2dPSkZQUXZaaVdNeXB2TTVMWWRXY19rT0M1Z1dvNWp2a9IBkwFBVV95cUxObmFQd19laXZUcFlmYW14cUJxMGJYYU8tQm44MWVQYTE4Z3hYM0FVMzBSbEFDeTE3ZGtqTDU4TjR0Q2l4U1BXcVBQTnhqQ2pUTDl0b1pSZnR1OWE4YnA2ZDBnSGlKQzZDRDRGMHFyUXpkTjIzeFBxcmlYNXFoUE9Oa1hqNWNtT1JhbzJ3LV9vdnFseDA?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-03-11 20:37 UTC"
+  "last_updated": "2026-03-12 02:25 UTC"
 }
