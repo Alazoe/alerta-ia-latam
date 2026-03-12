@@ -2501,7 +2501,31 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOTF5X05XTWNyZmtmYm9VRzA0Tm1rdlNDZmFIeGFmamdtNC1hX3c4OG45dVlwVWUzMkpaa3NtVjhHR3Y5RWJCeVVTR3B5SmRmZ2gxQ184OEQ5V0lQT1NGS2Z1YURveEVpWnZFUnBwbUNmZHZtZXlNbTE4a2Rwd2wwR3ZTSFhQWHh3YW5OSkpBNnBPVUFCVEFiN2xHM3c?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "14bc58c6bc59bfbfea84af61e7df58f4",
+      "title": "¿Qué debemos saber sobre la alerta zoosanitaria en Chile? El virus de la influenza H5N1 de alta patogenicidad se establece en los ecosistemas locales. - Universidad de Chile",
+      "source": "Google News - Chile",
+      "date": "2026-03-12",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQjdZS0E3Ym80SU9CZ2FmdWV6ZEVjcVBtc3E5ZTVRZ2lwaThEZDlPak56QVNWcVFlWloyaTBZS2NpV3BlaWsyMWFkZ0gxOG9nSzA4ZVJqR3M1RWxLOHcxNDluTEhYY1NvMm1mWXdJMVdCTGNZeHozUlYxTnJ4eWx4b3pSbFhqaElsbUdjQ05zOGtNbjA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "02022c6b2160cf112886815a9d7e54f2",
+      "title": "Autoridades sanitarias de Colombia activan protocolo ante brote de influenza aviar en el Meta - Notiprensa Digital",
+      "source": "Google News - Colombia",
+      "date": "2026-03-12",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNek4xNnRBWDN0UjRHSEU5VjljZWZuNldXeUR2VDRLTWZmWUpqc001cmV5bmtSYUdHOWlVYXZieVhaN0txNnZBYVExUmduVkhvZk5mN3Vod1UtY2lwcVVVbTEwVTM5R0pVc1VpVlJCYnhSNmszRXJUVWJNVUllQkhYNHR6elNUcjlVT0Rxb1FKSl9zLUZNSmNBdk1qSGJFMjJMdTQtVVRuTTZKd2t1QTRESm1QYVFERUdPRUNqN1VvejVDdw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-03-12 13:06 UTC"
+  "last_updated": "2026-03-12 17:00 UTC"
 }
