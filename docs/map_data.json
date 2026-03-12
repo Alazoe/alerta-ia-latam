@@ -2489,7 +2489,19 @@
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeUlITVdQenNwZ2REb1ZXWE9NemtmVGg2WkxOVzc1QVo0bVBzcUw2bV90OWtLQndqYktqS0VIMi0xTEZUc3ZUaDJrZERXcmRsMkhqcFZsSFZPbTNEZTQwTFdQYXdDVF8yNGNOQ2oyakp0UWZ4SG5RWkRYLWNNTjFzYlZDZE1EbTVjeF94YUFtcVRjSnVKUzFMN2F2TE54ZkdHSVlJTFVxOUdnMWRZUzNEWDdtOGQ1ckpCN1Y1Ul9WcUc0eFYwenc2WU1ubE5UZmpjTHEzLUVrNGhaZlpaUEE?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "5c89a0adf1a707a465137fd69ec9bc65",
+      "title": "Desarrollan vacuna intranasal contra la gripe aviar H5N1 - ultimasnoticias.com.ve",
+      "source": "Google News - Venezuela",
+      "date": "2026-01-30",
+      "country": "Venezuela",
+      "lat": 6.4238,
+      "lng": -66.5897,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOTF5X05XTWNyZmtmYm9VRzA0Tm1rdlNDZmFIeGFmamdtNC1hX3c4OG45dVlwVWUzMkpaa3NtVjhHR3Y5RWJCeVVTR3B5SmRmZ2gxQ184OEQ5V0lQT1NGS2Z1YURveEVpWnZFUnBwbUNmZHZtZXlNbTE4a2Rwd2wwR3ZTSFhQWHh3YW5OSkpBNnBPVUFCVEFiN2xHM3c?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-12 08:49 UTC"
+  "last_updated": "2026-03-12 13:06 UTC"
 }
