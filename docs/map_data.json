@@ -2525,7 +2525,31 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNek4xNnRBWDN0UjRHSEU5VjljZWZuNldXeUR2VDRLTWZmWUpqc001cmV5bmtSYUdHOWlVYXZieVhaN0txNnZBYVExUmduVkhvZk5mN3Vod1UtY2lwcVVVbTEwVTM5R0pVc1VpVlJCYnhSNmszRXJUVWJNVUllQkhYNHR6elNUcjlVT0Rxb1FKSl9zLUZNSmNBdk1qSGJFMjJMdTQtVVRuTTZKd2t1QTRESm1QYVFERUdPRUNqN1VvejVDdw?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "093e1a9d9b0f96f3ad7d7e4398dd26a3",
+      "title": "Sigue avanzando la influenza aviar en el país: detectan un nuevo caso en un establecimiento avícola de Buenos Aires - Clarin.com",
+      "source": "Google News - Argentina",
+      "date": "2026-03-09",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNVQ4cEViUFdrSXNXY1VxZF9ENHNHUGNkZWFXT1hKdGEyMXUyNFpjZWVqRXVIYXJITVFBaldiV3JLTlBIbXQyZlk2SC1tcVJqRS1rWGh4S01JSmlJN1BQaGRwTkpZWXhab0J6Y1NnbkwzZzI0TnpMNkNHTk9tSUtVck5PVF9rcERDZlVlbWtNZ25UaFRuaGxSQjBDU1R1WjR5OVVfN19zeTNpOFdBaEF4M3pWSHVCbmJtQ3h5MnkyMWJFaTZXV0FGR0VzS3AxeC1kd3FvcnhFOA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "c99d0bddff861854833236cafbc49996",
+      "title": "Situación actual y recomendaciones en Uruguay sobre detección de Influenza Aviar en fauna silvestre 2026 - www.gub.uy",
+      "source": "Google News - Uruguay",
+      "date": "2026-02-24",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVF1QTNrdFl0d2tEeTJFWG02ZUZROEZtMW9remNGMTk4UmlEcHZxM1I3bmxyM24zTDJ0dVBYQkV2d0ptWndSZC1jcUJlOU1ITzZKb0JVdUxxZWNkQ01UVEh2dEttVm9TWENJTjJsS1haSDlaQ09zRkNlSU5iU1BFWnFwUlQ1Vk9EZU1NMWlycThONFJ0TGhmd0ZVQ01rcV9xb0dFNklhSldzVHRrdDVLWk9yVFNzTzYxYzNuQTNUVHhGSFVUTkxaYlZXcGU1VzJYMGZZ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-12 20:39 UTC"
+  "last_updated": "2026-03-13 02:23 UTC"
 }
