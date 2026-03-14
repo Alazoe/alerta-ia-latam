@@ -2561,7 +2561,43 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHNHT1AwbG0xbFd1U2VFZkFSVG1RSW9xOXpMUkNRa1RiaWpjdHdUbG9sbHYtVU94dVhtOUlLS0RCaWY2T0s5anFjTEF0U3h2MXQ5QzBxX2dtcFFMWFdhOElXQmhWaWVwVUNnMTdSZWRSUk5GYjVBb0hCVlE3YXI0N2ZQeFZsUUdUS1c3eGI0c2dVLVFrLVZReUxlTjJYSkVxel8tejB4Q2pWS3ly?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "80f1583549ec4a788a2489bbf590320e",
+      "title": "Río Negro: Detección de un caso de influenza aviar en aves de traspatio - Argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-03-13",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcTZPdzF1UnVOUDNFdE1yMnd4bjFfaVhQM3RXYlB1aEdpdGJzQUJ5RXRDYzV0eG10UDk5N3hCM1R0Zmh1NTlBMTJ2WWpwdkFLdHBxVWhvM0Z6QU9DZU5kT2ZsUE9fNGNHcVN2S0QtYXp0WHFZenB3VzQ1Q0I1TlBXYmNrRDJpRlRDV1EtMjJ5MW53LVB3WnBLb1lFX2QwRmNxaXE0RmtqLXZrNkQz?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "b786b99647eb5f35d32b050cd2f2b59b",
+      "title": "Brote de influenza aviar en Colombia: ¿qué sucede con el consumo del pollo y huevos? - MSN",
+      "source": "Google News - Colombia",
+      "date": "2026-03-11",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZlhuVG9kWjVUS19YUGFCTkVoT0xOUEQwN0lXUEZhRHlHSHQ3VFBKa0JRa2RSQXA0STVoS05RZmxIZUIwZjhneE5GSm5LRkdfczdRb3VjSWRBSmtIY2FKc2JGbk9aY21xVy1OU2JHdWI3NHRQVUlQSXg2UWhWdXluMWI4Z3RvYW9lMWNfUDcyTUF3SWxRV1RhVGJpREY2M1VoRVZiSUY0bC04TThoVzh4TmI5NWFJTEE4b053Y184WWFON3c1VVRhQVBwRDFCR3gzUjNER2RB?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "257bab61d51625f8f4b30522688611e4",
+      "title": "Influenza aviar y contrabando presionan al sector avícola - ABC Color",
+      "source": "Google News - Paraguay",
+      "date": "2026-02-26",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcFdiTWhsTlFuX0pKZGNrZm1YMUtrb05ZWC1kQ2gtTEpoOHY4c1FYNm1aajRmWkx5dTRVcVBxdGlRX2tiREhqYngteHpYUGpGWnhrem9WVk1SUEZjZ0E1MTFxOF9zMFkwcEdMRVE3QXhLYm5FdVpqcElaclVlV0dZRmZNZURlaGV0RHdUODVkWFplUFpzc2k4czF2ZU9WTks5d0lYYkxBNzBVRU10WV82RzVjQjNNd0hpemxYeWc5R1gzM2lNeG5BamZabzhIUkVSS0REc09SYlNPNFHSAe8BQVVfeXFMUHo2VXRxbHF2UTkzT3lTMk0tSkE5dU5PYklpdlRXSWRpZGVhdkk2VjNIVmh3TUZjQ1NaQzlOQmZLSzdTYTNoUjMwcmRWcHlRZ2x4djFrczljTTNaZllaU2pMQ3R3MFRoX2ZfcXh6d1h0T1VnVTVyWmxnU0swVmliOXhGNmktRC1EOFV0MTdjTUhTbEhuQThhWlJ2NUQzT0JUOXAtaHRrNWJaTV9Hakp5RDBvS1gxMmdYbk9QRDFYTXZRdlRGN0RVZ2dhRmxBTG9oakYtYVEzUVhVTVBzckR3QUlCdmNCc1NXS29mTzJBLTQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-13 20:38 UTC"
+  "last_updated": "2026-03-14 02:13 UTC"
 }
