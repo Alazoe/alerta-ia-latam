@@ -2621,7 +2621,43 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWFhMV1VqVThuUGNFZHFqM3o1Y3pRVFV5dDViZW5PQzYweVB6Uk9pRWhza0hBZzFJZDVzUXYyS3J2b3ZJUlRBOVk0YkxPUWRRQmJ3ZzJSSnFxb2dVY0VCVUd0Y0ZDWDVTM0hLUG9KWFZaMzY1UkFUWVI3V09VTjVoVmNHUUd1Y1pKMXJ4MThoVTlhMFo5b0ZBYlpPOTNPcW1vOURJTGFTQ3J3N2JDYXA3VjNQQVh1Rm1lX0U5S010b0gtQ19oQlBzTUZBWQ?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
+    },
+    {
+      "id": "7ccc6358bfadd74d1b5e093ff035d686",
+      "title": "SAG confirma dos casos de influenza aviar H5N1 en aves de traspatio de la región de O’Higgins - G5noticias",
+      "source": "Google News - Chile",
+      "date": "2026-03-15",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVHk2OW5OeW5mMnVrLUZoRDhKak5jV1cyTVUwaHY4Qlk0bWVLUGlVLW9wZUFzZEVENlNFc1I5TGxrWDh6V0lJT0FDOUpwZkFISk9UclQ2TzI5QnZCM3lOdS1oZjdGb00yMUpNd2tRZ3QwM24yS1duLWNueGtTN3p6dWJnR3JGR045RG9yU0pfdEVUY3BqY09OaDZ5TmZ6aHdYRWRCUjVoZk1HUlBSY192bThYR0dfRjBwcXktVVJ6cEJQYnZC?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "43442ca365b7dd295c000da90d117f2a",
+      "title": "SAG confirmo dos casos de influenza aviar en O’Higgins - RadioSago",
+      "source": "Google News - Chile",
+      "date": "2026-03-14",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaWhFeGdhWmtSU090VGtlbjhVUlZqdDh4bWxSLWxVclVPOHhIZ2NzaElRTE9NUHBVaEhHbm9oMWdoSWdYNWxlSVhlUzI0b2UzZ3ZCbm5VYjM5Mm1ma2l5Z05IN0FFXzk4WGV1NjJDVm5NSUg1NWpBeEl5NV9fazBfbm5ESE9CZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "c4b919b3d588301beaeb8bcfa0575a1d",
+      "title": "Confirman presencia de influenza aviar H5N1 en Pumanque y Las Cabras - El Tipógrafo",
+      "source": "Google News - Chile",
+      "date": "2026-03-14",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY21CX2hjeVZsQlFIMTVMVkQtdWR2eDVjRW5QcHZ5SmtEV0xHMTZKb0pwNjhSR3RXRVNRVWJOT3lNQS1nODNYVjA0NWlta1hhckVpdURxVVY5Q3d6SlRIRTJjLUdDRnZTWGJlZGhnd0M4N1ZaQzUyQVpSWlRDdlBYelpaWFFMU2xFcG9fZG9uRklyVzNUajR5UlQtc1lQcXNw?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-03-14 20:32 UTC"
+  "last_updated": "2026-03-15 02:39 UTC"
 }
