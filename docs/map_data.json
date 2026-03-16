@@ -2705,7 +2705,19 @@
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOXhHX1pOZnE3X0JybWY1cV85czhIbWFVZ2FYRWR6bnJBQ21zSE1uc2FoNFkwWGtsZ2lkVF8xb3FWVkNRVXoyR3ZNaUdObXNGRjY2TWt1NEYwQlFKQ0VqcloyZjVuQ1dQcHJZSzFCYU94RFdEOFU1VTRNMXVJUUlXWkM5TF9mZmM3Z0lheUUyMnhwbTdQZXctcmtYMDZYWjFfV3E1RGM3TjF3azQyVm5tX3hNdHhKVlVEY2RkcUJHYzdaWTFuOXVOMV83S1JSMzhmc1NTcUMzZHZEcWdCMkVVS2pQNjd0YUJR?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "b5f0898ab8166ef50141be743af3c56d",
+      "title": "Confirman dos casos de influenza aviar H5N1 en la región de O’Higgins - reporteagricola.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-16",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONHFHU2IzVmtCS3pROFJNMnFoZEl0cFh1S2N3d3Q0Rk8wWTFHdW0xY2RraVZuUzNfekFMM3d0akF6U2VDRVMxM1ljOG1EZDFTRXFocnJKWkpfMm13SlNTcEhqOVpRX2NJWFQzYnJGWGZVV1NWUlozNHJiblk3Z0MtZ09JUTRkTVFPZ05ZeUF6UEVqMXZOakx4NXRVQ081bnBmYjF2TER3cTNUR2lROE9ERmFn?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-03-16 09:00 UTC"
+  "last_updated": "2026-03-16 13:19 UTC"
 }
