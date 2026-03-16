@@ -2729,7 +2729,19 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQ3g0TkdybkR4WkFxR3dEZHVkQmRLTk9wREpNdU54U3g3cTRWTy1TR2JyaDFiUE11dEN5UkJsUWRyd3REM1R4ZWx2SUpvNWpaNlRLZk5VTmJGWGdsWU0tNUp6b2ZuRU15RExVV1ZpUTdwbjV4OTEzb2NJMFZqaDBNVlBjMDljVGFoSnRqWjJBbENrQ2xoa0VLRGxMcGdrZGFBVFV6MzR4c3p1YjBz?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
+    },
+    {
+      "id": "f00735ec3fde72fefe767617fd922cba",
+      "title": "Confirman otro caso de Influenza Aviar en Argentina y activan medidas de control - Agritotal",
+      "source": "Google News - Argentina",
+      "date": "2026-03-16",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUGhIMkdETVNHYl9WeHEzenZoRDBwVWVqVnRTamlmSnpmelVoUXFtVW1ISlZBSkNHckZkaloyVGNCbkhmZ2dEMWZFc0RGeXBLcGhxZkxTTmtxMURIZDU1N0JkT3pQVXVRYXlhSTN0c2RabTFhdEowLWpaS0J6S2hJckJEUDhKbmxuY29HR0xCbERJVnU4aE0xcmRCTUlKTHBRcUJTR2ZjUXdIV1FfOWNnWERn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-16 17:04 UTC"
+  "last_updated": "2026-03-16 20:41 UTC"
 }
