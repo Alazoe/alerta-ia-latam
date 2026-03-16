@@ -2693,7 +2693,19 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObmFQd19laXZUcFlmYW14cUJxMGJYYU8tQm44MWVQYTE4Z3hYM0FVMzBSbEFDeTE3ZGtqTDU4TjR0Q2l4U1BXcVBQTnhqQ2pUTDl0b1pSZnR1OWE4YnA2ZDBnSGlKQzZDRDRGMHFyUXpkTjIzeFBxcmlYNXFoUE9Oa1hqNWNtT1JhbzJ3LV9vdnFseDDSAZMBQVVfeXFMTm5hUHdfZWl2VHBZZmFteHFCcTBiWGFPLUJuODFlUGExOGd4WDNBVTMwUmxBQ3kxN2Rrakw1OE40dENpeFNQV3FQUE54akNqVEw5dG9aUmZ0dTlhOGJwNmQwZ0hpSkM2Q0Q0RjBxclF6ZE4yM3hQcXJpWDVxaFBPTmtYajVjbU9SYW8ydy1fb3ZxbHgw?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "e73233867edfbe69a4332f457fde75bc",
+      "title": "Detectan primer brote de influenza aviar en Colombia en 2026: ICA explica impacto en consumo de pollo y huevo - Infobae",
+      "source": "Google News - Colombia",
+      "date": "2026-03-11",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOXhHX1pOZnE3X0JybWY1cV85czhIbWFVZ2FYRWR6bnJBQ21zSE1uc2FoNFkwWGtsZ2lkVF8xb3FWVkNRVXoyR3ZNaUdObXNGRjY2TWt1NEYwQlFKQ0VqcloyZjVuQ1dQcHJZSzFCYU94RFdEOFU1VTRNMXVJUUlXWkM5TF9mZmM3Z0lheUUyMnhwbTdQZXctcmtYMDZYWjFfV3E1RGM3TjF3azQyVm5tX3hNdHhKVlVEY2RkcUJHYzdaWTFuOXVOMV83S1JSMzhmc1NTcUMzZHZEcWdCMkVVS2pQNjd0YUJR?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-03-16 05:50 UTC"
+  "last_updated": "2026-03-16 09:00 UTC"
 }
