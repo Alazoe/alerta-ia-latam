@@ -2777,7 +2777,43 @@
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQlpuN0xjeFZEX1NSTjYzdm5ZQy1IY1l4NlJGUGk2S2pxd19BdTUtSXIyRDlvYTcyUFM3WG51Z3VEdF9GWmEyUDQxUVFEU3dPVDFJck5fSUk4VXFOZEkybGFndzVlVkxNa2lQa1UxWU1YWFpXUmt3NDV4U0FrS3d5dTlIdW9ZRHV4NjVNWDJZRzVZQUNlZlF4NjdGQXppbWNXUE5OdmRfa3JpQ0tLTzllcGp3WUR4M1ZxQ1UyMkliMHIyeGU1dUU3LUFybFZZSnRpS2ZMeXBqZnRhUkVDcEZNeTRhd2xTQ0x5WHhyTw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "126e73fd62e8f642e0d94d1db446d76f",
+      "title": "SAG dará charla informativa sobre Influenza Aviar en El Melón - observador.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-16",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaG9zajJ0RU1jSVNtRTlLVEZDcUdpQ09pdkgxOEppZTFVZnFLel9FYkFiaXVKOVluVjB5QzNtbHFhZEM5aU82VzQteml3cWFDbkE0RnE1a2pFUFNTdy1tLUQzWFRMNUZ2R3c5MlpBU0gtOGoxeVJXYmNSSWR2SzFxMXk5Z0tpSEdpZlF5SW1JYnB2WDJWemsxY05nUmNDOERKT09rZ1ZwRDF1SDVYWGlGMll4RUNzdDRqekQyN3c3YXlLemY5QlpQblN6MFdPY0wtNjZuZGJ4M0J0ZXZrV29GeEFHUERBSHdI?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "9d7a10b13350fc15fb58b35af223d456",
+      "title": "Alerta por influenza aviar: productores piden vacunación masiva y advierten sobre una posible crisis sanitaria - Presente Noticias",
+      "source": "Google News - Argentina",
+      "date": "2026-03-16",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdV9SM0Z0UHEwR2NCZHR3dF96SUl6MjFEN0MzazhnemRXS255QjJLMHlKWEFfTlhaSk1MaFhSN005aFhPTk51dlRQOXlvcWtNR3lhamJjWi0xVDFoaVozZW1BVVV4eFFSNUY2a2NXNzN3V2pjTHNWZ0JjN0RwQkRBeTVhTktpNjVhV1FocDBoM3dGT3d6VjlpQUJ2X3Zab1Q3NXV3eGh5NFoxTXN0OF95TVJiU1IzbVRCZm9jcUdoSzR0WDdRZTd5OVJzT2tfUjBzVTY0NVZ2QXdtZk9VbEROcVY0Z0l1SlRkaV9ldzJmamZ2eF9hUHMtdTUzUnbSAYICQVVfeXFMUHotSVNXZ0NSaF9HVUJ1bWc0NUZqNUFveElsZTFTVFVRVU5tVXlEd2liWVpmZVJMT2lSaElwZGs4eDFqTzFSTjJaZElYanUzNVZPSFN2Ynpmc2MyVUxzdjJHNnJINUM0dFZzc05BaGZDRGRReDR3Y0tDcGZmYThyQUxEMVZCcW8tNkFEWU1KY09RR0RUMzVLdUVHMlE4MHoyaUp4b0dQUVh6MXdpcGJMV2ZWUUZna3BENEswY2ZpV0FoLUtwUTdUOVplZHhHckpQS0dyLVlNblgwc1laeFpJVVhpRmROU00ya3VoQlBOX0g4T19MeVRONFZtNUR4UHRTSlR3?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "1244e1182fbd3b370374f575c3a11672",
+      "title": "Influenza aviar: Uruguay mantiene la alerta sanitaria con focos limitados en aves silvestres - Diario La R",
+      "source": "Google News - Uruguay",
+      "date": "2026-03-17",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNFVTSGJ4VGg5VjVELUcxUXJHRDZSMkZhS1l0MDBOOUZXVzloYmVfYTE3TmhZZ1ZvYjhabmk1d2ZjckFHUnJKYW8ycGJKb1A1N0E2ZzNmU3hSSHktemEyckZ0emJHTDlva1RwbG51RUFIWDBEU1ZQME5JOXlQZGg2MXE3NWVITW5XOUZQSElVUWJraW9nUmlET3R2Zml3NGVUd3JjVl9rV19tb3d1ZHNYN1BBVFZPZmdnb2hyc0tEZHpWcG9LUFloUFdR?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-03-17 05:22 UTC"
+  "last_updated": "2026-03-17 08:56 UTC"
 }
