@@ -3245,7 +3245,31 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYll4ZFhoZnlJNTNOamUxZnVDaWpuTkNYcTN3Mlg3WF9HdFA1c24tYW5jWUNJbkgxb1hMYzI1MWtFTkVGVm0teFJwQkh3MHRKMU1tSkx1UDZET0NiZHRUTWRKTGNGN2l1LXdnMDNPd3FuNFFaQVVnaU1Ub2l2WlhrZ3ZLUVVjdzB5aFdMaUMzbWREeEdfdlcyc2N30gGfAUFVX3lxTFBjMEpHSHBGbVFnVTJ2d2VlaFpmNDJDTDZLZ2o4YlQ5TU5GWUNBSXhCdUdGUVk3VnczRllvdFVUYUNTa1hYbHEtVS1LbE5iS1hWYkEtTWhBSW9lWFhRWTkwMGhWazRBOHdMYXpaS2UwS2FaWlRpbUM4TWY3MmR3S2xFQ1JfZnAwaWFUOER0ZE8yUzloR3BHY0ZMTVJrY29GUQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "cc571a06dd4b8bc6b0503c79eebd02dd",
+      "title": "Confirman primer caso de influenza aviar en un traspatio de La Araucanía: refuerzan medidas para la detección oportuna - Puranoticia.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-20",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSXVkVy1jMjF4ZmRuNVRhZDM1SFJfQkcwYm00MTJoLVhmMzBCZ2R5OHNUQklDeTJsMWNZaHc5QlQta0ZDU3NyU290akVHT0xoVFdzaE4xUWpJc1ZGMHFiU0NtOGMzekFJRWhuc3YxUmVUTjN3azZXUm1XU0JLZzNjRERlUUhuQ1VqdDBkOHBrckZTZ1RnQXZsc21lWXNhWnRSejdyWWpnejBscjBh?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "d49fc9fbc96207546deed8a683e20e44",
+      "title": "República Dominicana se declara libre de la influenza aviar - critica.com.pa",
+      "source": "Google News - Rep. Dominicana",
+      "date": "2026-02-27",
+      "country": "Rep. Dominicana",
+      "lat": 18.7357,
+      "lng": -70.1627,
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMnJGNzM0WEVSNzJfXzFIUWV4bl9nQW52QlBiTkp0WThzZjhLWm85S1JTXzBHX0dPSjVZaWZCUEZVMmE0djd2MUpEZjE5bmlVbzBPOWRHU2ltU0x3Y191TmQ4OUJReFpXNXJ4WVZGWDNHZlFpc1JSd1JlaXZRajljWlNsM2JlbHRrRjN5WXRiU3pxZWFNN3NPa1FXRWtEVlJRcjloOE1R0gGmAUFVX3lxTFBEcm9WcmZGOF93S21CQmJwUENIcjVzMk9qM0Z6VUl4VU0zX0VWSnVsTEJhdUJsQS1yRG9ZTUlvNnB4cWVHU05nRWVFZnlFV3lvdmlvdklFV1c3dWFkTFpHbGFlRjVYOHhzbW1tTWo0XzRaNmpINHQ4UGNrLW8wc041NWZUTktyRGpya2w2Q05UdVVFTjJnZFJaOTBIeTdUc0dkcklYb0E?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-21 02:10 UTC"
+  "last_updated": "2026-03-21 05:07 UTC"
 }
