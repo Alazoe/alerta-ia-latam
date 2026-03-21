@@ -3197,7 +3197,55 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVd2UjF4WkRraUpFemJtTlZaQS1iQjByNXpuRWFDR2NUbm0zbEtQWVY3UWw0TEdYMTRSM0ZuUXBVa0JXTC1aXzVrblRmazlZZEh5MVl4MEdaVFpnTlA4cFJ3SUxucTBXOFN5ajNOdUhNREp2UVMyUHdqZXNxaTNHdWVHSnc2WlQ5MzdwMjNvaWJzb3JReUpXOVVYNHJWaGZYU29pV0ZmTFhHTzQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "6779a7f8b48e14ee44e9716ad13d96aa",
+      "title": "SAG confirma primer caso de influenza aviar en aves domésticas en La Araucanía - BioBioChile",
+      "source": "Google News - Chile",
+      "date": "2026-03-20",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQV2h2a29BTE1mN1Z5eFpfaEZ0NW9BT05aWlN0MnZsNy1NeEROTnBmbENDUTdmb1M2dDFtNkllNVhUd3diSjB3aC1XVmlEbVNWSVBMbkdZemtwRlluUU45aEROQlRZY3RtVVV0Rnp5VFQwVV9Oel95VUhTcThSMzhKbUpIcEZfZ2p4V1FuQ3FvcF93Y1owYk1uU1h5dXFSS1RvQXQwSkpzblNaSXl3aUotckhIVDVKUEdRdUM3dHc4YnJUaXhGYWVrOEd4QUVxZ0g1T2h5VE9qV2VkRTdfdXdEUlpPZ09qeEtLbFNtQzVwY0R0eDRwdnc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "b7d0a0efecec1e157908f74fe5f1f326",
+      "title": "SAG confirma primer caso de influenza aviar en traspatio de La Araucanía - Radio Agricultura",
+      "source": "Google News - Chile",
+      "date": "2026-03-21",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZGtpVUduc3dJeWVZNlFZQjB1RkVwWm5OWjZ2RHIwUnlDb29IVnFnZjBYOGk0d0RheHlBT3NCYmV4QktERzlQUWVQNERsV1VzYk1ROG1Ma1VSRkFoeHVNVmNzMnFIeVhJRkVYUk9FZ0pFMzhOMGNZQ2tzbnlMSnJaTTVRc1p3WWlQanBNbUlCMnlsTkZvSDF1QnlfMEZGNFZPUTZucktQYWlyZ3RqcEtzTEk5RnVNUzVVQ2tIZzFuSDh6NVhoYUp5eGhBZWE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "613bdaa255bd204704f933961bb9bab6",
+      "title": "SAG confirma primer caso de influenza aviar en un traspatio de La Araucanía y refuerza medidas para detección oportuna en todo el país - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-03-20",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOVXU4Ql9qUk1JVERTTXl4c0ZQeWRxeGtGQVlhN2ROQ3RwRTdSQ1ZNSzVWd2hac1RfWVhwaDZlVE9uVjNEWWtReGs0d1lqbzhBdk43QTduSDlURklUcDhUeGlLczlveHd1UkszeFQtSFR6XzJ2NDZJNkhsTy11WDk5QTFOUkpGd181RlJmcTdXY2h6SV81cGo5M1RtdEExNFpyMGJtdFlWUTc3SU9fd0I5ZDhicXc3Zkp6akVCeVJvUndzZktQcEhfaUtYM1R0aWNvYm9EdEp1Y19GYnliWjhGOElyNTIwQ1Z5dEk5aGNycWVsbFNRdS1NQWRkSGI4dnNYT0ctTHpzeTQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "e1ee851d3bed033020e309db0459392b",
+      "title": "Detectan brote de influenza aviar en Colombia: explican qué pasará con el consumo de huevo y pollo - pulzo.com",
+      "source": "Google News - Colombia",
+      "date": "2026-03-10",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYll4ZFhoZnlJNTNOamUxZnVDaWpuTkNYcTN3Mlg3WF9HdFA1c24tYW5jWUNJbkgxb1hMYzI1MWtFTkVGVm0teFJwQkh3MHRKMU1tSkx1UDZET0NiZHRUTWRKTGNGN2l1LXdnMDNPd3FuNFFaQVVnaU1Ub2l2WlhrZ3ZLUVVjdzB5aFdMaUMzbWREeEdfdlcyc2N30gGfAUFVX3lxTFBjMEpHSHBGbVFnVTJ2d2VlaFpmNDJDTDZLZ2o4YlQ5TU5GWUNBSXhCdUdGUVk3VnczRllvdFVUYUNTa1hYbHEtVS1LbE5iS1hWYkEtTWhBSW9lWFhRWTkwMGhWazRBOHdMYXpaS2UwS2FaWlRpbUM4TWY3MmR3S2xFQ1JfZnAwaWFUOER0ZE8yUzloR3BHY0ZMTVJrY29GUQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-03-20 20:36 UTC"
+  "last_updated": "2026-03-21 02:10 UTC"
 }
