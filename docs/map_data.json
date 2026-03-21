@@ -3269,7 +3269,31 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMnJGNzM0WEVSNzJfXzFIUWV4bl9nQW52QlBiTkp0WThzZjhLWm85S1JTXzBHX0dPSjVZaWZCUEZVMmE0djd2MUpEZjE5bmlVbzBPOWRHU2ltU0x3Y191TmQ4OUJReFpXNXJ4WVZGWDNHZlFpc1JSd1JlaXZRajljWlNsM2JlbHRrRjN5WXRiU3pxZWFNN3NPa1FXRWtEVlJRcjloOE1R0gGmAUFVX3lxTFBEcm9WcmZGOF93S21CQmJwUENIcjVzMk9qM0Z6VUl4VU0zX0VWSnVsTEJhdUJsQS1yRG9ZTUlvNnB4cWVHU05nRWVFZnlFV3lvdmlvdklFV1c3dWFkTFpHbGFlRjVYOHhzbW1tTWo0XzRaNmpINHQ4UGNrLW8wc041NWZUTktyRGpya2w2Q05UdVVFTjJnZFJaOTBIeTdUc0dkcklYb0E?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "2002c81210d8c21fe340f9ea83d152f6",
+      "title": "Perú suspende importación de productos aviares de Argentina tras brote de influenza aviar H5 - Infobae",
+      "source": "Google News - Perú",
+      "date": "2026-02-26",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNejkzd2Qtc0dtMzA0aFU1V0wxWDVOcEthQmhWMjE3eE9Od2w4MmZ2M1lwd0VjeWdYVjUtYlNqVE5QMVdoMDNPOU02eldINnZSQ1NjOGtyZGxEd2pTenNqY2FnSjFvS2pRcnpZWVJUMTVVbUZ0dmZyLV91a3g4MU1CUG1WS1kweUEtSEVxZFVSVloyTGRiZElWVlBsUGxsWDd5cklNUmtsblJlN2xuSldCaVBESkJnS1F3Vks0Z01YZUZhaVVzeGlxSTNDTDk4Zw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "f881d8c8bb133ae68255d2e13ea4a379",
+      "title": "Venezuela declara alerta sanitaria en cinco estados por influenza aviar - noticiassin.com",
+      "source": "Google News - Venezuela",
+      "date": "2026-03-21",
+      "country": "Venezuela",
+      "lat": 6.4238,
+      "lng": -66.5897,
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTZfcWxRRzZ3UTB3akV2ZVJEY3FDQTE1dHRjMTVnS1AzQnd6dTBnbFZEaUVvV003aFoyUmhEdTFGNGVvMEU0RWhTRm5xdVJrbHdfMktLbGNrUmFHWVk3c1dWbk9fcnc2T0k0T2h6ODFoRk5CRkhfR2Q4S252eWppY3hRUWNRbWctWWJUbEdScHpEaElOMjBTbWJpUnR3VGFlakdyUdIBpAFBVV95cUxOVTZfcWxRRzZ3UTB3akV2ZVJEY3FDQTE1dHRjMTVnS1AzQnd6dTBnbFZEaUVvV003aFoyUmhEdTFGNGVvMEU0RWhTRm5xdVJrbHdfMktLbGNrUmFHWVk3c1dWbk9fcnc2T0k0T2h6ODFoRk5CRkhfR2Q4S252eWppY3hRUWNRbWctWWJUbEdScHpEaElOMjBTbWJpUnR3VGFlakdyUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-21 05:07 UTC"
+  "last_updated": "2026-03-21 08:37 UTC"
 }
