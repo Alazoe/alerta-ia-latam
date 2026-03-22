@@ -3365,7 +3365,43 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTZfcWxRRzZ3UTB3akV2ZVJEY3FDQTE1dHRjMTVnS1AzQnd6dTBnbFZEaUVvV003aFoyUmhEdTFGNGVvMEU0RWhTRm5xdVJrbHdfMktLbGNrUmFHWVk3c1dWbk9fcnc2T0k0T2h6ODFoRk5CRkhfR2Q4S252eWppY3hRUWNRbWctWWJUbEdScHpEaElOMjBTbWJpUnR3VGFlakdyUdIBpAFBVV95cUxOVTZfcWxRRzZ3UTB3akV2ZVJEY3FDQTE1dHRjMTVnS1AzQnd6dTBnbFZEaUVvV003aFoyUmhEdTFGNGVvMEU0RWhTRm5xdVJrbHdfMktLbGNrUmFHWVk3c1dWbk9fcnc2T0k0T2h6ODFoRk5CRkhfR2Q4S252eWppY3hRUWNRbWctWWJUbEdScHpEaElOMjBTbWJpUnR3VGFlakdyUQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "432a44b3c8b5ac532e02dad1b9d230cb",
+      "title": "SAG confirma un nuevo caso de influenza aviar H5N1 en Chile - MSN",
+      "source": "Google News - Chile",
+      "date": "2026-03-19",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOQTVCa0dldWRfZ0p4T1F6UlRfdURMMTFMcUtoaTlEbVJId0tNOG93eWdCSzRjMTlSSWNkbnd4WVdPWWN4MGpKQlR0RnFDakNfZUl5RWpxdjFxSGFVa1cxeDM2UndBdEZUX0N2cHZLdjZla280TzMzNEhWTzN5RjFyZG5Jei03Zjg3b25RSjBId3NOalpJVnJtU00xLWp2a3VNMy1DSTZtd1F3YnNPeVdzSDVidXlCbDJLYVNMa2JkS2Zfc3Y2MC1ocU5WRnN3OVZ6TFJYaGhCbTlvOGxZLXVKTGdlVnVpWFNSVDhiWlBCM1lYV0xTRFBxVnIyOXliMHlhbTdZVzJfUmlqazhIaXBoOXpsdGtBZm0zRVljbXJILVpmQjAzclVaei13MXpyQ3VtXzJpdm03aHRxbnZ2MEU3Vlhnb3RnTjQ?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "7a0ab4ce3787f9a816484705c1f26caa",
+      "title": "Refuerzan vigilancia por influenza aviar en Chile tras nuevos casos en aves de traspatio - radioagricultura.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-20",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSVJSUGFnQjNqeEtaVVFvb3dINE1aMjRwR0k5NElGNjlVR0hVUV9ybjJFRXJSMjQ0N21YSnotNENSQ0I1dDN4dFo1bjVWUUhTLUVrM3BaeGpVLUswLVFQZkVoa0RON2t2eDFZQTVfN3dKck51d08wRFVsUElTemY5QU5PRjRDdlRhUG5KckUxMnJEbC1PYm56b3RGMmZYck9XVHhzVno2OG1JcXljS3hLQzBwc09QNXF2R2pzeWs5SXpMdGhWeWp5enpNQTJRMEFsQkdpYUg5U1dFeFdIYldzUFNn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "0b2d7d33a2d8cb00f7b2573683833aad",
+      "title": "SAG confirma primer caso de influenza aviar en traspatio de La Araucanía - radioagricultura.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-21",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZGtpVUduc3dJeWVZNlFZQjB1RkVwWm5OWjZ2RHIwUnlDb29IVnFnZjBYOGk0d0RheHlBT3NCYmV4QktERzlQUWVQNERsV1VzYk1ROG1Ma1VSRkFoeHVNVmNzMnFIeVhJRkVYUk9FZ0pFMzhOMGNZQ2tzbnlMSnJaTTVRc1p3WWlQanBNbUlCMnlsTkZvSDF1QnlfMEZGNFZPUTZucktQYWlyZ3RqcEtzTEk5RnVNUzVVQ2tIZzFuSDh6NVhoYUp5eGhBZWE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-22 02:31 UTC"
+  "last_updated": "2026-03-22 05:20 UTC"
 }
