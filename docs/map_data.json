@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "id": "3c6527730c9d46a7b321ddca3f658030",
-      "title": "Influenza aviar: la Argentina suspendió las exportaciones y enfrenta un nuevo freno comercial - Infobae",
-      "source": "Google News ES",
-      "date": "Tue, 24 Feb 2026 14:43:00 GMT",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcUpfbmVfa3VPUDYzTEluR09aQnVtdHhKNXdnbFJTeE1hdEhwejFSNlZIRkhlQnlYUVlESXdvb094emxQZE1RVlh0R2pnUkpDaGtwV3ZqSnRpQ1BlaWpHRVBxOERSRndzbGdWMlRSWDFlRHR5LTdGaHo2NVRKRzlEcjVvRzRXTHlrallGajFubHNwTXZTZ0FfcHd1QVNyVktkQkRFNEJQUVdWSFFtQTBHUnhocGMyd0JyblpTM2F1NC03a3M0SHlpVEZQakxWeGNacVNr0gHuAUFVX3lxTFBLLXR5eFFTcDhaYklRUmVaVjczRHI3YnVKbFh3ZndnY1ZzSFhrTWdGc1VaY2lxQTNBRHljSkJEMVg3eEtEZHpPS3lNRUF0NkJ5cS1WbUxoQ2ZaMGpxVzNQWndCNXQ3YzFvQktOSW9NVC1ab2RjT1E1cDR0VGthbVEzQU94UmJrMXJibjI4UEY4NzZjaFVpLUVhRTF0QjA0ekw0aEN0UGlhdms1dVJqbUM5VF9adEQ2TlFkSXg1cmJMRDAzRUhXb3BHajhfWTBUY2NFck9fZ1JNWC01SlJlVENVclZPUjVGTVZ5dTZ3OVE?oc=5"
-    },
-    {
-      "id": "cffa66c58d93dde793f42aa34f0700a6",
-      "title": "Chile confirma por tercer año consecutivo influenza aviar en Antártica y refuerza vigilancia - Universidad de Chile",
-      "source": "Google News ES",
-      "date": "Mon, 26 Jan 2026 08:00:00 GMT",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdHVQNXBTUVgzS19ubDJKMlVzQUk0Q29iY1dMWFFsVlluYnNpUWRva3ExeVVFU1NXbDg1dk5nLThVUWNzSG9ISXpWZ0x2R3RzUDVHV3FwMEVLYlNRWEZTWXlWcjJDc3IwWVhRVVZaZXpQREhCcUFNZGpPV2d2QWlaa1U1bUpBWHMtWV9oVEIyVFd4QlpGcjAtUzAyTkZVUkE?oc=5"
-    },
-    {
-      "id": "ab97f6fad02dc87cc60f252b8196a29c",
-      "title": "SAG suspende temporalmente importaciones avícolas desde Argentina ante brote de influenza aviar altamente patógena - Home | SAG",
-      "source": "Google News ES",
-      "date": "Mon, 25 Aug 2025 07:00:00 GMT",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPS28tamptT1VUeFFYU0p2ejlwX1hWTXg2b19MX2xuUEYxZG1zR1NXOTM5ZThGOHZPQlNNTFpJRWJ1SG4wUzVMUUpkV3RUbGtWTFBxdkV5dE5Ta3ZVNnQ5S2wxNnhidjFBNXdBS0dsMGZpZkZJeUQyUGJhMHFIcVQ3YVRvcm1ISXlCQTRId2lVU0RhdkNTUjhYdlNIT2JNLU9RT3U0ZXJfV1hpaVRENkJVOXdUUVNVbjR1V0dLZzZPNXk4QUNNLXNUdVJFQndpWEtfMUFWRkVFbXVDS1phV3c?oc=5"
-    },
-    {
       "id": "e93373f5ea3b2bcf22d630dbc86cfa82",
       "title": "GRIPE AVIAR: Argentina cierra exportaciones tras confirmar nuevo brote masivo - El Economista: Últimas noticias económicas y financieras",
       "source": "Google News ES",
@@ -3443,7 +3413,43 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjN5OUswTGk4V0paUzl2UVViXy1PZGIwZEtQQ29wLVN1dF96ek1ScHh5ZzJWRm9ON0R0dVhEZGlqZHY2SEVrYXhJdXVqUUQzX3RQQ1FrOWpMNnZwdjQ0dFd4TG16YlM5YV9kUXRVYzc4ODBIRERCZUZ6T01HZG5zUi05Y24zWUNad2k1cmVnYVZ2R3dfUTFVY05nWlEtVnp2dXRlSzFZWWVfamJuZzlwWkJmaHowV00?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "0dcb9b59480d7b0a7bf7473bb0b8d029",
+      "title": "Influenza aviar: prohíben importación de aves vivas y huevos desde Argentina - abc.com.py",
+      "source": "Google News - Bolivia",
+      "date": "2026-02-25",
+      "country": "Bolivia",
+      "lat": -16.2902,
+      "lng": -63.5887,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSm1jWkttcGdkLXdTOUczSUYyODhvVmhqLWNRNnBTck9vazJiUVQ4SnAtc2k2QVozVmE0cTREREZJTG1WM3RKWTFrOFM0WGJIcVp6SndFVEFSeWxqLWVER2x0UGRrUlVnUFlGaGd5VC1qSElrVmVkUWtPYkdnbFVfZUNsdGhsSHVCSG5kT3dzZWF5R3RDVUFLXzRWbThVeXc2b1ZycU1QcHZycjVEU2xhZ1RnSzRxaGFtdjFfQm5R0gHSAUFVX3lxTFAxVFdnRnVDLXFFMjktUVBHR1p1clZaczZDaktIRHlDZ3YzcHlrVnQ1MkYzN3BjbHJoYmd2c2U5TEZucWl1NjhwWUZwclNnRlUxc0tmOHctWmRTTWd5QkRwM1JiSW9KcHpOa1lGUjNEaFB6UGw2NjRTSW1yVjEwRkgyeUNaZl8zWm5MV0ZONGVaWXM1S3M4cHotdUVZVFliNnl5SXFoWFhnb1dzSXdLem9abHFkTlcweEl2RUxkVk1ORWlkX3JqRkJSQy1pWHlfOTZMQQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "96bb574a50e192dea9eaff94da56d2b3",
+      "title": "El riesgo de la influenza aviar mantiene en alerta a Paraguay - abc.com.py",
+      "source": "Google News - Paraguay",
+      "date": "2026-02-24",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaW9ib3oxQVdTZ0pSQ0RJVUlhNS1QWDkxLTNSZWJ6bW5tUzBReDNKaDhGODVtRHhrbl9jak5JTkNlM2lOZUtMMFZ3Si1Zbm5jeUJmRXJQVEJTVHZxVjJaOFhYUVVJdkhCelVWRTVHY0lzU2Y5alNGbXBoNUhtOTViYTRacWhqZXBTcGluXzZLQ3N3QU4ycUFycFhWZG5OVVgtdjVoUkFESlpma0llOGRTbGNFbVU1VlnSAcsBQVVfeXFMT0EybmxHaUJQa2NmMWdEUEpDTlRqOXd6Um40TklyLUJwOGxkRV9ZQ1Y1R2R1WWtfdjFQLXFqemhhVWRURzVkaVVGeEQzdGZET0tGM0dGbUdwMXNSWTJfYjZwMlo2NWJUaTdHRVFrel9vZFd2bUJibjh2dHhiZnlJUWhNR1phOEZFX2YtMF9xQUZ1WDl2MEZwbjFQZEQ1NWliVkZrV2dTWEFGVndBN2VRLTR3a011dU1tVXFwUjl1SGZUdXFvYXpFMEhaYnM?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "ec7666e651347411b4c7d95ec08a4e19",
+      "title": "Influenza aviar y contrabando presionan al sector avícola - abc.com.py",
+      "source": "Google News - Paraguay",
+      "date": "2026-02-26",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcFdiTWhsTlFuX0pKZGNrZm1YMUtrb05ZWC1kQ2gtTEpoOHY4c1FYNm1aajRmWkx5dTRVcVBxdGlRX2tiREhqYngteHpYUGpGWnhrem9WVk1SUEZjZ0E1MTFxOF9zMFkwcEdMRVE3QXhLYm5FdVpqcElaclVlV0dZRmZNZURlaGV0RHdUODVkWFplUFpzc2k4czF2ZU9WTks5d0lYYkxBNzBVRU10WV82RzVjQjNNd0hpemxYeWc5R1gzM2lNeG5BamZabzhIUkVSS0REc09SYlNPNFHSAe8BQVVfeXFMUHo2VXRxbHF2UTkzT3lTMk0tSkE5dU5PYklpdlRXSWRpZGVhdkk2VjNIVmh3TUZjQ1NaQzlOQmZLSzdTYTNoUjMwcmRWcHlRZ2x4djFrczljTTNaZllaU2pMQ3R3MFRoX2ZfcXh6d1h0T1VnVTVyWmxnU0swVmliOXhGNmktRC1EOFV0MTdjTUhTbEhuQThhWlJ2NUQzT0JUOXAtaHRrNWJaTV9Hakp5RDBvS1gxMmdYbk9QRDFYTXZRdlRGN0RVZ2dhRmxBTG9oakYtYVEzUVhVTVBzckR3QUlCdmNCc1NXS29mTzJBLTQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-23 16:57 UTC"
+  "last_updated": "2026-03-23 20:40 UTC"
 }
