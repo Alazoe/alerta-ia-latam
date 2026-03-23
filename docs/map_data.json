@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d24d95c1e39d1034cb57b79aba369941",
-      "title": "Buenos Aires: Se detectó un caso de influenza aviar en aves silvestres en General Madariaga - Argentina.gob.ar",
-      "source": "Google News ES",
-      "date": "Sat, 21 Feb 2026 21:24:23 GMT",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU0lMRm1rRkcxcFBPVUpLWWVWMHNtbmdHWE5kOXhPUElSUlZ6T0F2cmtNY1NhMHB3ZGtaZXRVUkZmSWgtakVYTUd1Z2dIV3N6LTBZM1A1ZW5zRFBiNm1vRW5raTNhdm9YeDhTUTk1MkhWRUdCbGZJckxxMXhzZlU2Zks4T3lsV0N2Z3JBTUJ0cG9kc3V4ajV2N0t5UE9reEM1SXVLbUZWWXhnXzF0b2tKTk5ZTDBTeW4xV2FpcGtXeEZQQVFqRnFR?oc=5"
-    },
-    {
-      "id": "9f97a00be7b5737ad5e99dac60158d3d",
-      "title": "Confirman caso de influenza aviar en una granja comercial y Argentina volvió a cerrar sus exportaciones - Clarin.com",
-      "source": "Google News ES",
-      "date": "Tue, 24 Feb 2026 11:48:29 GMT",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPT255OWNpVDNTaW9GbzhEMW4xTDg1b3dYSkxyODBLbHNXU3lOQ1hVNXhnN1RLUFVHMXJ1MGMySzREOVFUYXRrb3FuRjNib1NYYnFWcmVXWFB2V1c1VDJJT0dITnBzQU1DYmFaSGZscU9BN050SDhGTVZRZEUwWEhhdTk2VmNiNWE4X0xfWkxFQ2FOTzJ4NWpieEJNTUZOeTNGU3pONlhLMUpLZkswWC1OZXlTdTNBTmlGa1VrUTZ2THFINTBJcmNFaVFVVjE?oc=5"
-    },
-    {
-      "id": "6397f0da45d575d80627107b80b99cda",
-      "title": "Senacsa requiere máxima alerta por influenza aviar tras caso en Argentina - UDG TV",
-      "source": "Google News ES",
-      "date": "Tue, 24 Feb 2026 16:08:00 GMT",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTdPTE1jdHVXVnVJYTV0Qm5GOTlnZFkyRmlyTWcwQXVFR0Eza2dDVmFjd1R6NFVRWkNSdFJSOVBQRnMtNFc5T0I2Vnc0c1JRSnl6bFJJdlJJR0FvMmVQT0lwaWNIUXZYOGlUOEtEZmk4dW9sWGswV05hVXdxNkV4Nk1SV0o2OHlkNnJkUXV0bFhuTHBxRmUyaVRLd21qQzRP?oc=5"
-    },
-    {
       "id": "3c6527730c9d46a7b321ddca3f658030",
       "title": "Influenza aviar: la Argentina suspendió las exportaciones y enfrenta un nuevo freno comercial - Infobae",
       "source": "Google News ES",
@@ -3425,7 +3395,55 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVnI0eTRWWHB3R3pKcmtWaGJ6SW9TNERXTzU1R1lDM0E3MWNSbG1WeHRCdG5mU3RYY2FXQU8xa2ZhZ3hJb1AyTElxSDN5MmYwRWNOeklXTXFSY01ianIzY1hjd3BKQ3B6VENiem90a2xFV3MxVzNqREVZOEJ6NmxnV0hsdGppVUo4aElDbUJMYXZocVFWVjhuQ2s1UVFBUUFycUNScTZYa05OMUE3bkcyTDJB?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
+    },
+    {
+      "id": "e1941a6c36b9e1bace41b9e6fa018a32",
+      "title": "Llaman a pequeños y medianos productores avícolas a reforzar medidas preventivas ante la reaparición de la influenza aviar en Chile - De Mar a Cordillera",
+      "source": "Google News - Chile",
+      "date": "2026-03-23",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOOGo0eTVhNmNWcmdNcmx1ZnpVQlJMa3RyWENmMHBGRXNmY3gwbFEzS3pLQTMxaDM2WEExRjhUTEZOT21WcHloVVRWajhmN0JCWlp6YWpiem9ITkt4bmRfODhqZTBleDFPZ3BDV0QwM1NzSUczQ3JxakZCT1oxRmM0VHdFRTNTVkNsN184eEE4SzVZb1FFcDZTZEVmbVNuWG1JQ21wRmFUdFFmZzZreFg4Yzd4MGk3WFoxMWhPSTlMdnNBQmFnejhRV1VxdGFfdVV5NVNuQVdUcUxHU2Nza0VPVkI4TEZRMDEyWjZyLU9jSFZKUFd3TGE5WnFLMjVPWTNvbThn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "459f0458f1eecb97a695dad60676f21e",
+      "title": "SAG confirma primer caso de influenza aviar en un traspatio de La Araucanía y refuerza medidas para detección oportuna en todo el país - Home | SAG",
+      "source": "Google News - Chile",
+      "date": "2026-03-20",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWmhTTkZUVlY2VEdQaTdUSlUtOGtUSG5IdnVpQ2FCTTdhaEp1S0RIOXdKS3hYUmtpazhqOUtBb2JZb3ZmVTU4T0l4Y2xnaVhSTzNubnR6cy0tYlM1SU9iSkN5QUtoYm9yQ3FGdm9aZEFDeEVucE9uSGpFUHFDVV9qNjhvT3pFMFRxRVNqZjEwcDdHQkZFdVFlWUNjUjVEbU01U1Q3NzB6SnFBNFhxY1lCbVN6c0F3X2dwQ3VWcXU0WUhRMy16TDFXc2l4Tkt0Rm1xUUgyUE9lal85czZLdG9pZkZDT1BJVkRBM1pyUzRlaDExX2RVVUVrc0N3?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "48d968e1667d126e97c6cadba1304673",
+      "title": "Detectan brote de influenza aviar en Colombia: explican qué pasará con el consumo de huevo y pollo - MSN",
+      "source": "Google News - Colombia",
+      "date": "2026-03-23",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMGt3Q0p0d0dQTlNyWVVSdk1NUGlqRUVZUjFMaGthRndSOG5BanNUUXJEV2VsaWdVT1ZKU0F0eE9oT05vVm8zMnZCV0NxdGZ5RVBRZTJDTUxvLWlSdU83cDl2WG5DRmtjWW5VeDFodmk3Q3VGTGRsTmNNUURfTzlkSDIwdndwcno0M0dtMTZ2T0ZFdXFqT2lfckJYOVV2SXNTUEExNXlmS3cyUDRpbU5CaFF2YllGbnVfbzFwOXI3RUZSWTMxQ3Jza3BMX3lqRFE0QmNQT2hpMWlXYzlETzRrd1ZxSHJzZDY0VzVOSERsNDAtOFNSekE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "fbcb0176539d036a891411a0c8ec7789",
+      "title": "Ganadería declara emergencia sanitaria nacional por Influenza Aviar | Presidencia Uruguay - GUB.UY",
+      "source": "Google News - Uruguay",
+      "date": "2026-02-24",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjN5OUswTGk4V0paUzl2UVViXy1PZGIwZEtQQ29wLVN1dF96ek1ScHh5ZzJWRm9ON0R0dVhEZGlqZHY2SEVrYXhJdXVqUUQzX3RQQ1FrOWpMNnZwdjQ0dFd4TG16YlM5YV9kUXRVYzc4ODBIRERCZUZ6T01HZG5zUi05Y24zWUNad2k1cmVnYVZ2R3dfUTFVY05nWlEtVnp2dXRlSzFZWWVfamJuZzlwWkJmaHowV00?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-23 09:00 UTC"
+  "last_updated": "2026-03-23 13:14 UTC"
 }
