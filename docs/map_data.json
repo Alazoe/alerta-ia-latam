@@ -1,26 +1,6 @@
 {
   "alerts": [
     {
-      "id": "e93373f5ea3b2bcf22d630dbc86cfa82",
-      "title": "GRIPE AVIAR: Argentina cierra exportaciones tras confirmar nuevo brote masivo - El Economista: Últimas noticias económicas y financieras",
-      "source": "Google News ES",
-      "date": "Tue, 24 Feb 2026 12:48:00 GMT",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ1NJOEkxMlEtMkNETUdoeU42WkxtLS1vR0JZWEFwVzdnbjYyaHNxYkM3bG9EaEFaTERzbnk5WjlScFdVQWMxVmFiaVJNNmJCNEE4elVzRFZRZDlZQXV1VHl0MUp5dWxzTXZzcmpMTUdWNVYwRTVpTE55c0szcFd5YTBLYjJvQ2NYM1h1MjRTQU5Ld3V6V203Slp0WHB2UjA4aF9PWEotNVNZWkVIZzhwamVPZDVtS09rTEdMcdIBwgFBVV95cUxPdWpRSm5LN1N2N3l5Mm1ad2Vtb1pOaEJQNWVQQk95NUNveHlQYzR6M3BrcXNzaDY2OHlYTUdLdDJzQWo5dDhBM1JZWjRLaVl2Zmd2aFdsaHZuY3J6QWx0VGlzMjg2XzMyUkxELTlTV1lyR1lkVlYwNnNTLXVKRTdvMWxkdTl1Z0N5T2F2NHBscl8wZEN1cWI5X0ozb0tJcklVYUREcEJLdEFieWpERnNlRU5mVG5fR2Q4c25FZmpVelF5dw?oc=5"
-    },
-    {
-      "id": "eb14d384076ab5c6b6b5fbf29b084589",
-      "title": "Chile realiza balance positivo frente a la prevención de la Influenza Aviar - avinews.com",
-      "source": "Google News ES",
-      "date": "Fri, 26 Dec 2025 08:00:00 GMT",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOS3BEdUJzTkZpekJ6Mlp5cjEwaFFxZ0gtN3FrS2xUbTNNMDlPMlVDd0x4Sl9ubUxWTjd0dGpRd0dKdDlXVEFXVWxISlNVZVFHSldhYW5iZVp3dUpPcFJiSlRNOTk4aHNnc09jZUZfdzZKd3F1am1aVkdlS0JYQ0RGVm9TQWlSSXdMcGZSdFcyTmpXU1ctaFppNk42azg?oc=5"
-    },
-    {
       "id": "978f50a109a1eab40b69fe72aba19003",
       "title": "Influenza aviar: Se confirmó un caso positivo en aves comerciales en Buenos Aires - Argentina.gob.ar",
       "source": "Google News ES",
@@ -3449,7 +3429,31 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcFdiTWhsTlFuX0pKZGNrZm1YMUtrb05ZWC1kQ2gtTEpoOHY4c1FYNm1aajRmWkx5dTRVcVBxdGlRX2tiREhqYngteHpYUGpGWnhrem9WVk1SUEZjZ0E1MTFxOF9zMFkwcEdMRVE3QXhLYm5FdVpqcElaclVlV0dZRmZNZURlaGV0RHdUODVkWFplUFpzc2k4czF2ZU9WTks5d0lYYkxBNzBVRU10WV82RzVjQjNNd0hpemxYeWc5R1gzM2lNeG5BamZabzhIUkVSS0REc09SYlNPNFHSAe8BQVVfeXFMUHo2VXRxbHF2UTkzT3lTMk0tSkE5dU5PYklpdlRXSWRpZGVhdkk2VjNIVmh3TUZjQ1NaQzlOQmZLSzdTYTNoUjMwcmRWcHlRZ2x4djFrczljTTNaZllaU2pMQ3R3MFRoX2ZfcXh6d1h0T1VnVTVyWmxnU0swVmliOXhGNmktRC1EOFV0MTdjTUhTbEhuQThhWlJ2NUQzT0JUOXAtaHRrNWJaTV9Hakp5RDBvS1gxMmdYbk9QRDFYTXZRdlRGN0RVZ2dhRmxBTG9oakYtYVEzUVhVTVBzckR3QUlCdmNCc1NXS29mTzJBLTQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "c39d1144bbcf569c60d4b49b65e747c4",
+      "title": "SAG confirma nuevos casos de influenza aviar en traspatios en Magallanes y Maule y refuerza llamado a la prevención - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-03-23",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQY0RGd042ekMzZkJIdEZWOFVRN2RGVjhMZS1wcGVFUjZSVkxnSlZxbFVMQmlUY2lFLXNKSU5ydHF4azFTLU81NjJuQzNEM2JTX0QtWUhLSmtsVEhnWGtGUEg4Z3BqRU1wd0hETFJCa0RvaE5aQnM1aEpra0ItT05VZ0t1Z1ZUS1Jtc19BQXV1QXdzb01UQ0QzbTduZ2ZYcHlZakJkRWpWSE9aN3ZsRktNc3dBT3RpRmlEQ2syMWpDSURoS0xkR0E4MEdhQjRINTN5cE1iQjBDeE9YQmpac0VHM2xIQ05hZ25pWnROcnZUQQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "235686d75df506782433f3b9a6d11360",
+      "title": "Alerta por influenza aviar: SAG confirma nuevos casos en Magallanes y Maule - Radio Agricultura",
+      "source": "Google News - Chile",
+      "date": "2026-03-23",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZDRqMzFNdVYwc2c4c1hYOXpUM09tS0ExRm1hRS0walJZaHNnY0RNWE96WURsalFrei03Zm1QbTlYSEhES1lxcDV0c24tSVhZUV9mTUx4R0lHR216WGVELUI2UHZfM0Z6aGI1a0IzSHJXVHY2Sl9yTlFkbGZPTGRrQ21venJwRzZRSHNMZVZOcnlGeFZTbHl1X00zWC1IY3JTUG5zX1k3Mmc2V0EwVFVmQlBjeUdEOFhKZ1hxZjl1dTVHRXZVVklxOHliSXRvbkU?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-23 20:40 UTC"
+  "last_updated": "2026-03-24 02:24 UTC"
 }
