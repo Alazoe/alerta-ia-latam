@@ -1,26 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b6c7947f53987c1e6fc341436d0e3d43",
-      "title": "Chile Reports First Case of H5N1 - Centers for Disease Control and Prevention | CDC (.gov)",
-      "source": "Google News EN",
-      "date": "Fri, 17 Mar 2023 07:00:00 GMT",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9mdVBRT0pFM1hPSGlRZTljdXIwOWJURXZ1Y2xfRzZ4VkNnY01CTFlQSXdKbmFvMlBIY0MxX2pQVFhuXzNJZlJBbDl2bzBjWHV4TnFrUVFpNDFMckl1bnltdFNsaUhkcC1SaUEzbF9VNXZscmZR?oc=5"
-    },
-    {
-      "id": "b1f07c127faf3a6c7157c6f5af5a3e26",
-      "title": "Actualización en FAO EMPRES",
-      "source": "FAO EMPRES",
-      "date": "2026-02-24 16:20",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://www.fao.org/ag/againfo/programmes/en/empres/news.html"
-    },
-    {
       "id": "52805aaafccb8c52b1bef539a5c92b20",
       "title": "Equipos científicos mantienen alerta activa para detectar la evolución de la gripe aviar en especies antárticas - Ciencia en Chile",
       "source": "Google News - Chile",
@@ -3457,7 +3437,31 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnhhMFI4cWlOcmM1VzdzUE9WamRBa1FZTVVkUXp6c1EwYmszdXpueUtpaUxMQm5pcU5OOHZqTDU4RTVHaFRveVpRRW9hMjlJdkNLRWFRVU9XSWVJOUNWcDVhQWcyc1RXcnV1UGdHOWpxbnpfZmkyZ3FZNkJUd28zc1dIQmZZRFYydnVPbHhVc05RQU1oYVZCRGhhaW5IcXl2SEZGb25qaE9MNWE3TmFSUEhDcTROY3hubHc?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
+    },
+    {
+      "id": "8c4ececfac566cbf9a399fb1b1e49d47",
+      "title": "Influenza Aviar en Chile: Vigilancia, Prevención y Respuesta Coordinada - avinews.com",
+      "source": "Google News - Chile",
+      "date": "2026-03-23",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbWlGaF94LXNYeWtPM0ZQNHBkY0IzZGJ4cXZseG5UaXhqeHlZUFlQaFVCRGwyVXQxNXNMMEFiZXI5clZBVUEwZWJLMmxmZ3EzQ29rc0tiSjZ4bUY0eXUxcTg4dkNlcjdsVG5vUmZtZm4wVkZYZ1VnNDhXcG1aVW1CSTRYN3BwN1VOOVVjSkdVbHpzQW51?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "7f36eb8443e8a2bbe9718893707e1c1a",
+      "title": "SAG confirma nuevos casos de influenza aviar en las regiones del Maule y Magallanes - 24horas",
+      "source": "Google News - Chile",
+      "date": "2026-03-24",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRTEyRnEzTGhhMF9qdlh4VlRQN2EtMVRpZmpGdkRTRTBwWXRWQk9JRzBEeVFILUJweVNSVkI5V0tnRjkxSzdoMG5NWjBQcHI4U3I0dVpZNDRYMGlPSlR6M09uVFdjYWlGa2RzMHVxVUVTV1BvOXBSX3Myd3AwNXhGMGg4YXRmUFNSaWM1SEVOVk1vX1RpcmtNa3M2UV93Yld6RGhJVlRsLWxpcjZYSHlBZXNyeDVpNEV3MzFIdXVuejVHUHRP0gHKAUFVX3lxTE9fM09OLWVIb21CYjMwaVNDa292OXcwb0huazY0X1c5UkVVTjA5WktoQWlPZW9MczBhQTVDbl8yNzRBQ2FMMVNLd0k1SVFOT3FnWlN4UFhldnhadm93dDRmb0xjY0VoMDJ3aDFnNnpxVFlwSnUwa0o2X21YYVRaNjduQ2lzckp5a25hOHJvQXJjNTNLMHlPckFZYUYwSUNKYXJONU1fR2hrZGJLSUMzbzRyN2FlM2JPSTdkUUtrWnotRmV3dHJRaGItd1E?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-24 05:24 UTC"
+  "last_updated": "2026-03-24 08:56 UTC"
 }
