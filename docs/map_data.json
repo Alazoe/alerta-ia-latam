@@ -1,26 +1,6 @@
 {
   "alerts": [
     {
-      "id": "21e02e236524c862554216b156507fa0",
-      "title": "Desarrollan una vacuna nasal que protege contra la gripe aviar H5N1: funcionó en roedores - BioBioChile",
-      "source": "Google News - Chile",
-      "date": "Thu, 05 Feb 2026 08:00:00 GMT",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOU2pjOFREZFZDM19BUVJHX0lSLXhpU0ZOemR4SW5nTXIzUExLQTB6dnlOR2g1NzJOUHk2cGJ4bkhiVktEamVvVTB2SDZ6OWJRSkdPWjVCTmhtUG9nSlZ3TG9hb19JdlR5MzZhb2o4NGJablg2UVRiNDVXaWY4MFVSX25CSFRPZ2Y2WDBEOWVkeF9RV3dFNmF2WU5CSnI2U19vVDNEU2ZkRXh4Q1JjM2dNMFRnemkycmRKMTh5YmV6TEZRelJPTVdDdW93eE80ajZ5ZUViaUxZa2lrMjdzT1JFN0xraUk5Q2d3YUZZTFdRcnNPQVhpX2lGT19oT1ZadHg3a3c?oc=5"
-    },
-    {
-      "id": "dcee3d056188d917578592415863b407",
-      "title": "Influenza aviar: confirmaron un caso en una granja en Ranchos y frenan de manera temporal las exportaciones - TN",
-      "source": "Google News - Argentina",
-      "date": "Tue, 24 Feb 2026 13:15:00 GMT",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPc2g3VlRLTmxCblBNZGlWS0tGTTFOb0tLV1o0Nm8tTTVZN1MxNWdpRTZhY3pXdHRhSHBLcXZJa0FDUVUtLUx1SHc2UllsMWwxNFNkRk9mTUFONG1Qd0RsdzhCWk82UEp3SUFpV1I4a29ZUGc0QWVMUjdXUmF1eVhnMUJHUHE3LUtCOEtIRWw1VjJTX1phUTBjWThBektVT1h1RnhMVG1SMUNYQXRYU2pyaUQ0WXZ0TUFsOEYtZHl0Z19mZ3BDcXZLamUwYm1oV3fSAeMBQVVfeXFMTXI1U0w5QUk4ZUlyMlc3YWdvdGh5LVpUaFJ3dTExcHYySVBkeC1JWlFiQWo1YkwyejJac2pZOGlxZmVZenM5SzhYNkNudWcxMFI4UVBKOU9vNVAteTh5M0kxeng0dXFhZWZIUGZ0RDQ3a0hoaXRyTHRDcThvV3p6bk0tbnJuel9FQllVMXd4WElNdTN1YS1KUHhXVWsxODRhYlRSMlkyN1V2d2o4emVMUXRFNVgyY3RoMXN1a0lqY1JLTi0tdVNjUTcyeHFlLTdrWWszR3B0ckh2cWhNNkFpdHNHbU0?oc=5"
-    },
-    {
       "id": "67fb64d80d69d9c8a3813b99cb616e3a",
       "title": "Confirman un caso de influenza aviar en una granja comercial y Argentina suspendió exportaciones - NoticiasNQN",
       "source": "Google News - Argentina",
@@ -3471,7 +3451,31 @@
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNaUtjR0xiYUdNWTJnNWQtbVgxd1kxbG8xR2Q3dVVpRlA5ZnVJR0RSUXFMUGxjYloyMWFLVUpLN1R5ZmV5Qm1QTTdveXltQ2JTeDFnYi13QU9hbC1tRDVQNlN2OWVPeV9BaktlYUlaNmwyVGdCZTBPeFNFTkx5eTFxNmxHSXpEMXRJeDQ3QzZGSzg3SUJzYTR5a2YweTNEcUxaS1BQbjVHWXBqNl82TFdGLUtzUUsxLTRxczZ4N24tcWU1Z000SFpsbzVnSjgyWjROQUJEZXdGakQxamZXRmo4a2hUWWdFZnEzZUtBQ3hEV09nbjBaTVNaeTNhdXM0cTRHMEgtdWdKOXJqT03SAYsCQVVfeXFMTWlLY0dMYmFHTVkyZzVkLW1YMXdZMWxvMUdkN3VVaUZQOWZ1SUdEUlFxTFBsY2JaMjFhS1VKSzdUeWZleUJtUE03b3l5bUNiU3gxZ2Itd0FPYWwtbUQ1UDZTdjllT3lfQWpLZWFJWjZsMlRnQmUwT3hTRU5MeXkxcTZsR0l6RDF0SXg0N0M2Rks4N0lCc2E0eWtmMHkzRHFMWktQUG41R1lwajZfNkxXRi1Lc1FLMS00cXM2eDduLXFlNWdNNEhabG81Z0o4Mlo0TkFCRGV3RmpEMWpmV0ZqOGtoVFlnRWZxM2VLQUN4RFdPZ24wWk1TWnkzYXVzNHE0RzBILXVnSjlyak9N?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "ddf5333b502c23b76dc663d849572c8d",
+      "title": "Investigadora UOH entrega recomendaciones a productores avícolas ante reaparición de la influenza aviar en Chile - Universidad de O'Higgins",
+      "source": "Google News - Chile",
+      "date": "2026-03-23",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUFlGSU9KMFV1SFRTUUMtdWoyTVF3amZkMm5UcHI1UXBXR0RIRlgza1JhQTFCX3hCTkJaYlJvdTdhVEF0Q1pwdjZMQUxlS2lLM1dsX2RxQldaQTZRbk1xSjZQM2p1WjNVWEpxaXYzX09rUVJpQXo3c2FJeUlYUUMzMlc1WkxrT2FXcm45bmU1NkxfS25uU0FYUzFjLUdPRUtuU2xrd2JxLTREa3RQR0pfV1I1YXlXa0U5RDFXTWFiZndPN0dXbE9IZWNnRmo?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "4199a84eaf4aba9c52ff0d86c498e33d",
+      "title": "México suspende importaciones avícolas de Brasil; confirman presencia de influenza aviar en esa nación - MSN",
+      "source": "Google News - Brasil",
+      "date": "2026-03-22",
+      "country": "Brasil",
+      "lat": -14.235,
+      "lng": -51.9253,
+      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxOQkk4NU9mLVhmWldPTlZDcDN3Sk9Gc2Z4Q0JZeXprXzNSVWVkNzV5NjJ1UU83RHRFR3hNSTRnWVNJRTI5VFREaHN1V1hUQXhqeF9XYW5tRGliNWJ4dzZMVzZvbjVjZHg2aEU3T1lCd2lzbWcyQ015SzF2UmtGLVRhc2txNGlNSEZucjJ0ZUd1amRsY29NYXpWYTU3TjR0M1hHODQxNmt2czRZZ2lHTXN1TGtQNHVfMHB5VVRqWTdkRlNpVEExMnJ6aENhUklHVnZWYmNSSjNGejA4TF9DMWNqSVE3NEEyZkxxZHVWVVpzSk1fcmVZNVFBLUZadlhyUE5Bc3I4WWhtQUdoUUo0YmpMQXRpejREaXYzZ0hUWGlvYTROUzZ1NU43ZWMyRVJLR0xHejJQWGNpcVdpdTgwZmtUR3RxbU1jSkJtYkJKUERhcWlpNVBWbkI2bDZzTnF5djRTU0MwbnhCLS1IcVlzT3VxV0N5OElvNVp0RGtzT1NmdXIzUWcxa3NvdVpDTmFWcXJk?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-24 17:02 UTC"
+  "last_updated": "2026-03-24 20:44 UTC"
 }
