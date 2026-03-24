@@ -1,26 +1,6 @@
 {
   "alerts": [
     {
-      "id": "978f50a109a1eab40b69fe72aba19003",
-      "title": "Influenza aviar: Se confirmó un caso positivo en aves comerciales en Buenos Aires - Argentina.gob.ar",
-      "source": "Google News ES",
-      "date": "Mon, 23 Feb 2026 18:02:38 GMT",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaUhQV0piX0MzSDMzMWY3YnZNbjNwVklDNDJ6SE9ONXd4MlVnVjVITFlhSGd6dUF1V2plYXY4ZkxZN3lwVWNRaWRUSG5GV2JrbGVpRTV3aFY4WGNiNVFKWmhvTHRIQnNnSy0xOE5IQUFrbVVVR0RtYVdkY05nNkxYWGdHVC1GWXE3N3p2YjFDczhiMXUwWjl5U1VKZGRMMzVTbjNvckxmNlNaLVhQbm4tRjYxQ1BTVnk0c0E?oc=5"
-    },
-    {
-      "id": "46ffe65f700fbc8bae36619f237f502d",
-      "title": "China suspends chicken imports from Brazil due to detection of bird flu - Financial Times",
-      "source": "Google News EN",
-      "date": "Fri, 16 May 2025 07:00:00 GMT",
-      "country": "Brazil",
-      "lat": -14.235,
-      "lng": -51.9253,
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpLVZGSy1ETGlkQzhjYUlHZkhIV2FtdFU2SF9Ea1VCUHE4ODRiMTc1TnQ4WG1udTY2WF9pTUQtaUxwRTFlWWxvVUpfNEN5SGdJMUFzV2pOZ216bUlqSDcyV3lOTmxQNUxFZ05XaGhFTTI?oc=5"
-    },
-    {
       "id": "b6c7947f53987c1e6fc341436d0e3d43",
       "title": "Chile Reports First Case of H5N1 - Centers for Disease Control and Prevention | CDC (.gov)",
       "source": "Google News EN",
@@ -3453,7 +3433,31 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZDRqMzFNdVYwc2c4c1hYOXpUM09tS0ExRm1hRS0walJZaHNnY0RNWE96WURsalFrei03Zm1QbTlYSEhES1lxcDV0c24tSVhZUV9mTUx4R0lHR216WGVELUI2UHZfM0Z6aGI1a0IzSHJXVHY2Sl9yTlFkbGZPTGRrQ21venJwRzZRSHNMZVZOcnlGeFZTbHl1X00zWC1IY3JTUG5zX1k3Mmc2V0EwVFVmQlBjeUdEOFhKZ1hxZjl1dTVHRXZVVklxOHliSXRvbkU?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d7e21b3fa5c6a581c1d4b09676a793aa",
+      "title": "Caso confirmado de influenza aviar en Chile: Epidemióloga explica el riesgo en nuestro país - elobservatodo.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-24",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVk2cVdvZHB6Z3ZJTGRyX3paeGVMRkVuUnpweVhrbWwzMVFYLTduTnFZOXhTX0dDTG11MlZWWFhwNFdMVXZLYVVGVG1CTWk0Yzk4VWYyMXRJTzNtRTFHV0ZJLWhqZFpkODNRWFAwZjVublNzQVBOdUxGSEZUSlg3OGdaZVlNYXdyNHFiSlAwcFd1OXJPQUZ0cmZGMEl4d29KaGpiWmd5b2ttU0Fyanl4OVR1SEhmQUNUOGg1WjBtZmwxVl9fME5FVw?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "1049addc8dc209eb6d9ce9643d07759b",
+      "title": "SAG confirma caso de influenza aviar H5N1 en aves silvestres en la región de Valparaíso - Home | SAG",
+      "source": "Google News - Chile",
+      "date": "2026-03-04",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnhhMFI4cWlOcmM1VzdzUE9WamRBa1FZTVVkUXp6c1EwYmszdXpueUtpaUxMQm5pcU5OOHZqTDU4RTVHaFRveVpRRW9hMjlJdkNLRWFRVU9XSWVJOUNWcDVhQWcyc1RXcnV1UGdHOWpxbnpfZmkyZ3FZNkJUd28zc1dIQmZZRFYydnVPbHhVc05RQU1oYVZCRGhhaW5IcXl2SEZGb25qaE9MNWE3TmFSUEhDcTROY3hubHc?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-03-24 02:24 UTC"
+  "last_updated": "2026-03-24 05:24 UTC"
 }
