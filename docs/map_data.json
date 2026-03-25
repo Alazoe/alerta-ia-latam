@@ -1,26 +1,6 @@
 {
   "alerts": [
     {
-      "id": "87a841bf7a93d26c3e291d05162847a3",
-      "title": "El ICA alerta riesgo de brote de influenza aviar por temporada de migración de aves - Agronegocios",
-      "source": "Google News - Colombia",
-      "date": "Thu, 22 Jan 2026 08:00:00 GMT",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSDZ5ZkJZU0dycUY0UVZkVkRWVzM2dUU4UE4zTUpPcmw1Q2Rlc0hteE9IcWtwdy1qYXM1U0M4RkVzRGVHS09DaHMwc3BLZTRTYzFyRV91QmZxMGtZVy1GQ1p0Y0VqU3hDdV9VVlNRV3lWT0o0MENzWWRodFEzRjc1akx6LVVQSjFvbkppLUhGZW5aejEyYm53OUpXUzBDMFZzUU1OZkJGWURsbVlEb01KUm1TeExsYkplbDE0ZzBIaUNzcE3SAcMBQVVfeXFMTUVtSWJKQTJrLTZvNk5IQkZmMDMyb19NRXF0N0JLQkhpV093djZTZU0wbHFPTS1GcUVIck1kY3ZGTVNOeVBrcW83eW1FS1RqVHkwM2FLYXZPTVZMcDZ2QUtoVkxidXAwNFFDVy1pYjh5RVJrSkZaeUVoTTRwWThWLTRwaENNaFpmYlVjemVpVndLVlkxYzRfV0tHaHhjWThSMnY5bElRSkl5ZXNrZUkyQVFteUc5WkhmSmkxSXpTalZWdTM4?oc=5"
-    },
-    {
-      "id": "d839a7fdc44f313782efa89248f1452c",
-      "title": "Medidas sanitarias para prevenir el ingreso de influenza aviar en granjas comerciales - vetmarketportal.com.ar",
-      "source": "Google News - Colombia",
-      "date": "Sun, 14 Dec 2025 08:00:00 GMT",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbmthRDFmZzl1Qkx6OE5sUHdZdGcyN3FJeWNDLWI5Mm1icmZSZTdwNmlMbkFZbFZZN0o4d1poS0dQVnA4bkpjbS04c2lVdEtXQkdORXJrVC1XZ0FCSmRQTHVqamx2QktPcE9OblF6bFhFWnF3VTJWOFVGX2VoZHBFdE9xTkxYdmhfa19ySDlwYVdWRVlHc3ZBMXlWMUpZcFltN04wVmFFT29HUjlfOWxWbmc4dVA1NkZQT21YNVNWczh6a1lmN1E?oc=5"
-    },
-    {
       "id": "a329076f7dc788bbe294cbb2cf6953d2",
       "title": "Medidas de prevención contra la influenza aviar (H5N1) en aves de traspatio - ica.gov.co",
       "source": "Google News - Colombia",
@@ -3495,7 +3475,31 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd3JIV0RnaHZSd3EzT0ZNV29rSHMtcWpsVWoxV1BHbUV6UVBVMVpQUlBpRC1qQjhMbHNOZERRRzFZLXRwRmctbGVaTFdDalFxeExYdmlOdE1VNEVuTnpkci1VXzBDcGU2bnBQOXdTVlEtbkc2cVlXLXUyekpwNUJBYUlLalBpdlRmTzNQNDcxNjhmZWdoaklWTFBreS1TUGh0RWoxMS1kNnl6dktnREdrQmRDaERXelEzTWVBRzJfS1Vza3JSX3lHQ0J2Q2dWdkRUM1pRdV9zR3FKZDct0gHiAUFVX3lxTFBJakU0SkJROWVHOWxKZkNSVUp4SzlEVmhHckRBM0ZQbW9vTEZ6bUZBNzh2OVBIMmNneHI0V3d3dDY4bHhMbVRoM3BlbXpzazBXTUdUMFA0aUZPay0zNUo4MFNXelJMZXdvaWVReUNEcG11Ulp6aDFsU05lbGNicFhlYmdzdkdvZVpVNGZpbFpDZUcxQlpCRHM2YkRJYnEzY0NNWXNfY05xRU9HdFVjSERvUHZuTElfaGlvdDMzSUZveTRuR1JxSjRRYXBOV2YxZHBDT0JqV3NUNFZ2V2dDel9kaVE?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "82b5e0b53d1c9d6dbd16e9d6d366f756",
+      "title": "SAG confirma dos casos de influenza aviar H5N1 en aves de traspatio de la región de O’Higgins - SAG.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-14",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVm9VaTJNR3h4RTNFODUxM3NUdWZqTGE4eEZFLUhNcG9wbEtRZGRhb3hTUWJkd2lJcUVKU3RCWEFxb0ZIa1R3c2M3NlQ1QjlwSGgtVFJEeXFoQzZrc0RmT1FHLW5JR19WOU1tdXY5bDNnRGsyX2kxSWRzMzVrWE80aktyWFdFOTcxUGZMZEVaVEVxWURCUDNCX1daOElKWU1pMjdNdUE1blhsakR0dGFEX2JhYzN4Uzg4SmNLOWFkaE9aQQ?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "46cd90d0464bcab367b9617cfc628642",
+      "title": "México registra el primer caso de gripe aviar H5N1 - quintafuerza.mx",
+      "source": "Google News - México",
+      "date": "2026-03-24",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd1lONkRZWDhhbnN0aWg3NVpOVWluMFJQeFhNd3pyMTNNQ2pUUnBJekxqVk1TX3J2d2UtbFNuc05BaklwMkJFSExkTlptOFMzUm53MTBTbk5GOWVRdWgyVkQ2elJuWGlVc3F2MWFmUHZWbFVsdm16U0RsY3dyNGxUekJQSG9JZUp2NVE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-25 02:29 UTC"
+  "last_updated": "2026-03-25 05:24 UTC"
 }
