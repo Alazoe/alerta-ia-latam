@@ -1,16 +1,6 @@
 {
   "alerts": [
     {
-      "id": "a329076f7dc788bbe294cbb2cf6953d2",
-      "title": "Medidas de prevención contra la influenza aviar (H5N1) en aves de traspatio - ica.gov.co",
-      "source": "Google News - Colombia",
-      "date": "Wed, 17 Dec 2025 08:00:00 GMT",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBPQ1M1RXhyYXdLbzgtVm9hLV90T1ptWmJqenBNWUdBRmp2XzJNdVdieFU1bWZWWlJYNERDX1lhVkJSMWtJSlpETkJ3YlhkNDY0Zjc1TVBXOFU3ZHBvQkNXX0U1NXpNLW9fMmVWcGVsU24tLTNoa00wM3hB?oc=5"
-    },
-    {
       "id": "a385aaf76554c6e5ecad2990572c41e0",
       "title": "Actualización sanitaria de contención activa de brotes de influenza aviar en Sucre - ica.gov.co",
       "source": "Google News - Colombia",
@@ -3499,7 +3489,19 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd1lONkRZWDhhbnN0aWg3NVpOVWluMFJQeFhNd3pyMTNNQ2pUUnBJekxqVk1TX3J2d2UtbFNuc05BaklwMkJFSExkTlptOFMzUm53MTBTbk5GOWVRdWgyVkQ2elJuWGlVc3F2MWFmUHZWbFVsdm16U0RsY3dyNGxUekJQSG9JZUp2NVE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "f98aa4c4539ed777048816acb2442ed9",
+      "title": "ICA trabaja en vigilancia y control contra la influenza aviar - elfrente.com.co",
+      "source": "Google News - Colombia",
+      "date": "2026-03-11",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVRWWXluMjlUZ3c0WlRKcWxzdFU2dUx6OW1iTHlZUzJmUDYtRzRhYzZnc1Zkb0FaZlVQYkNBcnpNX25QUlByamxfaWtnbXExWnBINlhuZVBTZ0pERFNpb2hLQ0ZjNHVPbk1Ocks2czhBalVRU3o0YVNRMUdwS0ZiYUNNeGdsS0U0Q2RRVW0yUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-25 13:17 UTC"
+  "last_updated": "2026-03-25 17:05 UTC"
 }
