@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b4009de8e0b914670164ebf5495b0146",
-      "title": "MGAP activa operativo sanitario por Influenza Aviar en Laguna Garzón - El Debate - Uruguay",
-      "source": "Google News - Uruguay",
-      "date": "Mon, 23 Feb 2026 19:34:00 GMT",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVWhRZ1B3UzRDYmlJRVNQYXdsS0J0YzFkYWdUeV9KcHo2a1FvZVNjcHA2U0FaYnhLWEN0RlRra2pKOEpTdWQ0TEtVVFdxWHNsZ1RBaGNId1A4Sl9UTUNFU1lRaFdzdTBGN1JVdDAwSXhPQzlVVmxXbkxIY3VydzRwQmtYMEpPUTZLRkFHajJTNjc5bTJWX3lWSEc1azBSYU15VGo3YW1uZW9pSEJNdEF0SlRRQlp3MkQ5eXRWT245WlJqQQ?oc=5"
-    },
-    {
-      "id": "bec2e9b000ea39fa7215f47169d4c93c",
-      "title": "\"Virus de la influenza aviar A (H5N1) exige esfuerzos de preparación urgentes\": Dra. Flor Pujol y Dr. José Esparza - La Web de la Salud",
-      "source": "Google News - Venezuela",
-      "date": "Mon, 22 Dec 2025 08:00:00 GMT",
-      "country": "Venezuela",
-      "lat": 6.4238,
-      "lng": -66.5897,
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObmVqVndnVDRhcVhkenB0RnhscDJvNnJTTWpsRkxpZ0ZYdHMzbzlCVWpka19hWTdGdGNEZ0psZWpPNGJQT1FGREpOajYtSktFN1A4Wk9OYy1wUkdDQlhLUG5yMTN1V2NPc1ZMUmxZNGRkWmhHVDBLSlh6VW1weVJWZzVIcERxRTMzMURIZ0ZpbllNalhwNkRtTmNTYm14X2haNVNESWxhOU1Nd1VZclhVUHlGZWREeHdDRERkekpkaV8tQ1BaSEVVVW9mQktzZUxM?oc=5"
-    },
-    {
-      "id": "864727b2468a067926d960424e5b9f92",
-      "title": "México refuerza vigilancia ante aves migratorias por temor a virus de Influenza Aviar - avinews.com",
-      "source": "Google News - México",
-      "date": "Sun, 30 Nov 2025 08:00:00 GMT",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGlISmR6VUZ3dmhfai01V3dWRDcyZXpqQndOVnlJRXNqSGdBNVhUZGtqSzZQS0piMjltNTlzTnk4M0RlTHRwS0pfWkVPQnRYcm1HZi12TVR6SC1ILWhVY3I0VUVEZXg0Uk9EczUzbUZ2cWpxUVZFWVo5ZXlVcHRfWmZoNUpCb2lrWUJNSG9oTm1hR1pQMGd5aU93ZGw2c0E?oc=5"
-    },
-    {
       "id": "a7dbc34cabc69c783059d887833f86d4",
       "title": "México confirma nuevo caso de influenza aviar A(H5N2); OPS mantiene alerta regional - MILENIO",
       "source": "Google News - México",
@@ -3519,7 +3489,43 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVR6eVpOSHJ1Q0x1S3ZGSjl5NHdPbS1XX0hrSDNOZlB5WERyeHpZbmc1cFQ3Vkw4ZldOVHJPWlVLRzJmSDJhbml2dVp3QjhYTDRrS19KWV9fYVdfQ3ZubGtmbW1ocElGZzl6OGxtem96a1NoR29ENjdYZl9PeVF4cDFrVXdkNncyMGxVZ2VDT0xhejl1ckFxLWN2Q3hfNDJtQ1UzWHFvaUFWdVQ4clNLb2g0a1o?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "a4d557b4fa672e5665fed8fdffc2173e",
+      "title": "SAG autosuspende certificación de exportaciones avícolas por influenza aviar - 24horas",
+      "source": "Google News - Chile",
+      "date": "2026-03-26",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVWVQSGZFV3hac2RjSmh3ZEc5eW5tVTFFNmNHU1ZtRndXRFZicDRvVkYzZUlLWjJMOGpmeXl3Vmh0YXVtbXZZVDBCemVPUTdMVDBEQWp0QmRtZ0xFRWd5QUtvUWNHVWFtRmE3OF9pTllvb2J4Ym96R2xwOHVOd0xEYWUzeWZnWGVZVm9QVGo0WDUxTXVhQ01LMnhSQV9RNzhVNGNycF9IWVlkUFVLbS1PNFQ5LUtWR3k20gG4AUFVX3lxTE1VZVBIZkVXeFpzZGNKaHdkRzl5bm1VMUU2Y0dTVm1Gd1dEVmJwNG9WRjNlSUtaMkw4amZ5eXdWaHRhdW1tdllUMEJ6ZU9RN0xUMERBanRCZG1nTEVFZ3lBS29RY0dVYW1GYTc4X2lOWW9vYnhib3pHbHA4dU53TERhZTN5ZmdYZVlWb1BUajRYNTFNdWFDTUsyeFJBX1E3OFU0Y3JwX0hZWWRQVUttLU80VDktS1ZHeTY?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "ac56b7a9161eedc2b2f7a6140eca1e1e",
+      "title": "SAG autosuspende certificación de exportaciones avícolas tras primer caso de influenza aviar en plantel industrial - Puranoticia.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMzZVemtna2FxQnliMmFjQ1VJQzYyOGFUbnZZajYyVnRXQnk5V1duRFFWZmJ3SkVzc3phaTQtSExtbWR6TFdRc21fX1JxR2tPdkUyc0VYTzVaWFozRDhhMjhuUWJRaTFhbUlKcE1jOWNFSU9oN281MVJEb21Bd0VUTGFraVJNMElqaEtlUXhncXhIWHhwdEF0Zjg5c2RrQnhsZHNvQTdsUXdpLTg0UWc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "12d0a9c554172c3627ed1f983d5cfa3c",
+      "title": "Colombia activa protocolos sanitarios tras brote de influenza aviar en Meta - avinews.com",
+      "source": "Google News - Colombia",
+      "date": "2026-03-10",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRjBFb18tQlY1TWNNZ0hvdEc5YkR3d2l3allnT2R2cVZOUU1TaGF4MjFYM3YwRXhhenE0QWNXZHVzai1zdXpHRXNnS3AzMnRzV0lyQVhuV0lQdFFVdnFISDdmQzh2V3ZxR1B3RnNueVNRN1JySkNXY0NRbWR2bUdLMnpkWjh2SlRmQmFsYlJRTjhoQQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-03-26 05:42 UTC"
+  "last_updated": "2026-03-26 09:00 UTC"
 }
