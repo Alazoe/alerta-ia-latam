@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "id": "c883adb3d4f2ea5c60e9ee643e7c2903",
-      "title": "Ganadería no encontró casos de influenza aviar en Maldonado - www.gub.uy",
-      "source": "Google News - Uruguay",
-      "date": "Mon, 23 Feb 2026 17:41:24 GMT",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPT0FmbU82dzFqZGVvT2NkQ1RyenZnVUZzTThqN1VsOGlJYVNGSS02TU5tMDkxYkRkS28xcmZKNjUyTlF3aUh3UFNlMzdqb3g0ZjNUNkFaMzdVNkVmLTNvRXZrMFJyVHNDaGpBdmxQWDZabEFFLUdFRTBNTk9iTnFTZ214eThxVWthQUhBX2RzY1dTYU00WDZNcVV0MEdwcEs0QUlQUmxB?oc=5"
-    },
-    {
-      "id": "91f78fa9afa9de90e7632234060c3352",
-      "title": "Alerta por gripe aviar: el MGAP activó el protocolo de emergencia ante la detección de un caso - Ambito",
-      "source": "Google News - Uruguay",
-      "date": "Sat, 21 Feb 2026 12:28:14 GMT",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0VFSXdVNmVmdVcyUXVkOERCTDl0Zng4d1gzMmNEN1N6a21saXFGUGtSTUxZWlpZTHRKcHJHZWdXMzFCanlDQkYteUNycVh3eWdvemc5ZGRZZEtpX194WDNmTG1TUVlnajVVbDV6cGlwazcwNWo5azZSaWZXelFuZGhia0k2ajl1S2RRZTVMT0pDZm8tVmhZWFNPQjdEcGRwUVhwc0FQOVFlZzkxQmdudzVFODdFUTdUVnfSAb8BQVVfeXFMUGpQbUozbVJ2SVctWlctZUhqZk9GZEtGUHF6VFVUSWFsWmRzbnFfZVVjYl9CWG9rekxfQ0ltbjJUeDUxYWpacTRSa0F6MkQ5ck9wdFUySWFWWHRhdm1KZ0F0UUo1ZHpXdUNqUFhkZUhpTWhtTHdWa29jaVhxUEdzaEMzOEVaMFRpa2YyRVFNQ3JVSWY2Q0NiRWUxYkdJX2I0YUhzd3FjWkZpYWJUOHRCekwzZC1LWnB6QWN0QWtPWW8?oc=5"
-    },
-    {
-      "id": "00945753ec15a88fda4c071a8e753a2e",
-      "title": "MGAP confirmó presencia de influenza aviar un Cisne Córcoroba. ¿Qé significa? - El Eco Digital",
-      "source": "Google News - Uruguay",
-      "date": "Sat, 21 Feb 2026 12:44:17 GMT",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTWl2bzZTRkZ5MHl5NFZxMzhQcGNDM25WbExqVzdDWVJaWUtCLXduaDRKb0VyS3RDVi1QM2lPMkpycmJzd0dldldrVWh5Q1gyZk9rX1NDQUJHSHZYVkVmY0o4Q2tCZmtYREJLT0dtZW9iZ25qZGpIQXBXWjdNZ0ItSTdIaXhJQlRuQUVIOGhIN29PQVNKS05FMzN3Y05JR0VILVZZT3YzVVdLSHEzUHVCcDl3?oc=5"
-    },
-    {
       "id": "b4009de8e0b914670164ebf5495b0146",
       "title": "MGAP activa operativo sanitario por Influenza Aviar en Laguna Garzón - El Debate - Uruguay",
       "source": "Google News - Uruguay",
@@ -3513,7 +3483,43 @@
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRERsNXRGeF85aE05Y0NNaHdyc2dqbm5RVm5mRk14Q2lIUHlsaFBua3pidDUyZEVvSkJiaWNOX0h3Qktkc3dJZ1ZLVVJWY2IyX3hydUJxWVRrVWZDaFcxUkxXV2MtSVBmWHFfWFFuN3owaFJob3dXZFpOemVlRHRvZEluNFpseXl1MFlYVzdnQmFBQy1CWlQ3S3F6UjY4LXRRSzZUU21iRXZyUkJ0dGlTVDkxV3luSkhCeHVLN2xoZ2JmaVEwTjFYUTd5aWVoc3c0NWpTWnZJMXo3TDFsajBNVWVPNzl4SG0yclBXekxfT05QVF9K?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "4a89cd271c24d02c40f720592b61a976",
+      "title": "Chile suspende certificación de exportaciones avícolas por influenza aviar - PortalPortuario",
+      "source": "Google News - Chile",
+      "date": "2026-03-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNmE5N2l2eTk0azF6WFRJa3QtV2lCcWlqRHI1aTJlZHp5OTZ5amRBclRpVzdEVUk2R0xNTXdRd242OFdLUHNrYllZZ29NcnphR2lqTS1yWXhxNWFOSm9tYlJJeFRtOUF6ZlJMdzRTRGdpNVYxRHFLdXNXVEVGWWxDLXJYNTFqZmVKR2NIbURMamRKNnlRUGRqZE5qbmk3ZVd6YllhUA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "2c11854371ccfc04fe0a21deba00f188",
+      "title": "SAG autosuspende certificación de exportaciones avícolas tras primer caso de influenza aviar en plantel industrial - puranoticia.pnt.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMzZVemtna2FxQnliMmFjQ1VJQzYyOGFUbnZZajYyVnRXQnk5V1duRFFWZmJ3SkVzc3phaTQtSExtbWR6TFdRc21fX1JxR2tPdkUyc0VYTzVaWFozRDhhMjhuUWJRaTFhbUlKcE1jOWNFSU9oN281MVJEb21Bd0VUTGFraVJNMElqaEtlUXhncXhIWHhwdEF0Zjg5c2RrQnhsZHNvQTdsUXdpLTg0UWc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "8e2cb830d15f72e72a13ecc6c7223883",
+      "title": "Detección de influenza aviar en aves silvestres en la Ciudad de Buenos Aires - Argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-02-26",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVR6eVpOSHJ1Q0x1S3ZGSjl5NHdPbS1XX0hrSDNOZlB5WERyeHpZbmc1cFQ3Vkw4ZldOVHJPWlVLRzJmSDJhbml2dVp3QjhYTDRrS19KWV9fYVdfQ3ZubGtmbW1ocElGZzl6OGxtem96a1NoR29ENjdYZl9PeVF4cDFrVXdkNncyMGxVZ2VDT0xhejl1ckFxLWN2Q3hfNDJtQ1UzWHFvaUFWdVQ4clNLb2g0a1o?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-26 02:35 UTC"
+  "last_updated": "2026-03-26 05:42 UTC"
 }
