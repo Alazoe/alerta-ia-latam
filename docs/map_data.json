@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "id": "a7dbc34cabc69c783059d887833f86d4",
-      "title": "México confirma nuevo caso de influenza aviar A(H5N2); OPS mantiene alerta regional - MILENIO",
-      "source": "Google News - México",
-      "date": "Sun, 07 Dec 2025 08:00:00 GMT",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTW52bUw4ZlFKTnlmdU00QjNrajBFSVQtNWRESmR4NHhYd1VxM0I0dlNxU3NqVWNnS2xQNGZqb0t3NjN4WnROT1Rld3Q4SHdsYzhDUzJMUmI0WVpyMkhsdmo4UE9FOGFaZ2d3aFV0elpmY1lUTXBCT3YwcFpMTUFjOVdXclVqNGtK0gGIAUFVX3lxTFAxU1FJS21wMW5qQ1ZBdkE3Z3Y5RnI5TXl1NjF6bDdTdGpKX2JndHNramQ0QmJMWEowbm5zRXpsa3pNRVc1SnY1YXZSVmNzMmpyYWJ3eDJySXZXbVM1dHp1a2d3b3o4YVhXdTVWY0lsZ2FrMjlhYjJ3RmJncjBkazJDWVhNQkp3UHo?oc=5"
-    },
-    {
-      "id": "496497ad9e60ed4ef5a81666bc776863",
-      "title": "Guatemala consolida su estrategia sanitaria frente a la Influenza Aviar - avinews.com",
-      "source": "Google News - Guatemala",
-      "date": "Fri, 30 Jan 2026 15:19:24 GMT",
-      "country": "Guatemala",
-      "lat": 15.7835,
-      "lng": -90.2308,
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVzg2VlRjWWNpd2k2bUNjelVnSVVjS0FJNmJsNXRmS1VjTUV5cmlPMHRtZTJxWHhrZWpxN3ZmcC0wYkRLQlNBdjJYNFdxeHVpR1BjZ1NnN0pxQVZpZ0c3WEo0ZnM0Sm5nTEx1ajVKeEVRQWFxSFFBaFFic2w0Mmc5ZXNxTEY2RVlEaHJxdzR3UW5rRDl5cU40?oc=5"
-    },
-    {
-      "id": "508755b4cf7d291a2eb1ca2e46ccdb5d",
-      "title": "Guatemala fortalece sus capacidades institucionales para la comunicación de riesgos y la participación comunitaria ante influenza aviar - Pan American Health Organization (PAHO)",
-      "source": "Google News - Guatemala",
-      "date": "Tue, 16 Dec 2025 08:00:00 GMT",
-      "country": "Guatemala",
-      "lat": 15.7835,
-      "lng": -90.2308,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWnZMQkZOWVFNbFJGYW5WdnlDWGotanltcV9ZYW5PX0x5NnpVazVVdDRsdHJjMjQ3dTFWWUZ2bXF6R3lveFd1dURCem1UOFNKWEN0YWRpN05xeWc0MFVzaWxqeFNJTkxpb0g5S21CdnN5bHpqWk9fb0pHMmk5S0F1dVFCS3dYREZmQ3hnQjRIRTVLeVBRdHlYUS03UENRSFc4SUNaTDFFV2xUTV9ScUtXRnlDaVVHZDJqQW5yTHBR?oc=5"
-    },
-    {
       "id": "09f4fd6946dd41d5e100836c7721c9cc",
       "title": "Consolidan estrategia sanitaria frente a la influenza aviar - Gobierno de Guatemala",
       "source": "Google News - Guatemala",
@@ -3525,7 +3495,43 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRjBFb18tQlY1TWNNZ0hvdEc5YkR3d2l3allnT2R2cVZOUU1TaGF4MjFYM3YwRXhhenE0QWNXZHVzai1zdXpHRXNnS3AzMnRzV0lyQVhuV0lQdFFVdnFISDdmQzh2V3ZxR1B3RnNueVNRN1JySkNXY0NRbWR2bUdLMnpkWjh2SlRmQmFsYlJRTjhoQQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "2e45f0cbcd3aeabaccb7f6ace7e5e204",
+      "title": "SAG suspende exportaciones avícolas tras detección de influenza aviar en plantel comercial de Talagante - reporteagricola.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-26",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ2lYa3JhY2xVSzF6RWxSTy15NVZnc3lYdVc1a0pPVHFtNS10NWhQX1JOUEFuVzl5V1lfZlZhenZuSVFyVS1xT0F1R0dzNGlzNHJSSDVJb05iUHRQUXBYbXdFZW5rZXkzVXF5S01GaHJoc05qcXozSmM5VHA2RmU1b3RReS1aRWxzcDJhWHVUQkpZNEItckVSbVZQV2JoU2NGVmcxbnFDZXBnV0pNWGt6UmJhTURPcjBSTl9KaXNuR3ZkNGR1eXg1aVNVSFNwWHBGVFcxUDRBUTRPdk9pYUt5QlIxVEM?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "375b7b568e86cdb9b060a90ed3e1357b",
+      "title": "Influenza aviar: Senacsa y avicultores en alerta roja ante nuevo foco en Argentina - ABC Color",
+      "source": "Google News - Paraguay",
+      "date": "2026-03-03",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZm1xN0QxcXVEbkphOG9LbkZkWnZtdEZ1cGtwdGRzY2VTb1l0RndkbGZEOGM1bF9MWk0weFpSeDNVcVUxTW1fS2o0eV9GOXBCZER1TjZURVdzYTdYOVhiSGs5OVQ5dFQzZ1ltX1NzOEdCbFVCeVRpVms5SnJ1WmlsQzhKSjVSeklXZTRYQTdrdlhTODhITDN1Z29DZjlwUVlkQ1FYQzFWdENKZVFDN0VKa0NZbU1PNmNhNjJkSEdpUFBNcU3SAdcBQVVfeXFMUE1wdnZpRlFyNWRPcGN1ZFpXdC03bUdlRm5IbVpyLVVqWDV2Y3cyTXNtZDVXNV9CTTlWT0NFUVNQdjlSeFpSWWFFTElwaDhyRUttZ2VBdGZteTZWbVJ3eU11MFoyaFg1TTJNMF9tc01ORDlNYUVtZTloNy1YNHpFOW1qZFl0S01tSjZ1OVM0c19qeWdWRUY0U3c5WGJ3VTBKd21xWjdlOGVmcm1hUGVUelU2WF9JQ21TN1RpYVJ3SFNsOHlxTF9WRlpZRkRacTJ2TFZXM3NLaDg?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "1407540d4d233ed4f13edf684d288e68",
+      "title": "Emergencia sanitaria por influenza aviar: refuerzan controles y medidas en todo el país - Diario La R",
+      "source": "Google News - Uruguay",
+      "date": "2026-03-26",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNajhjTnJ4OWptRUlCWWxRbWY3YkN2NXd4QktEY2UwNUtlT1hiSFFPSDE4Ukxrai1nYTdDekl4R1ZQN1BSU1k2MXdsSU1BNWZaWUdQdWlfUFlYUlJVa0Y5bE43Z2pfZHNwV3loZ2o4bV9CT0tRcHc4SVBqSmR0R3ZCeFpoQUw4MzBCNzhwMHAzY19BaUJocHdSOUJ5T2xqZWVmYjFYTmlZTFNQaW03b3dBc1h2Y1VLVEM3c0ZYYVlKNW5HdE0?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-26 09:00 UTC"
+  "last_updated": "2026-03-26 13:23 UTC"
 }
