@@ -1,46 +1,6 @@
 {
   "alerts": [
     {
-      "id": "4b960b4f33aa2654a97ebeea5c0e5e40",
-      "title": "Por un caso de influenza aviar, la Argentina suspendió las exportaciones - Crónica",
-      "source": "Google News - Argentina",
-      "date": "Tue, 24 Feb 2026 18:18:00 GMT",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeF8yOUZFV3pCTmZHSlJoY1hFY3h5aFgzSTNqdGpkUUo2N2UyX0Ryc3RuOG1QVDFjLWloSTNtNjhHbEI5RTRydWpuRGFBY0ZXUWhMRG1zYmEwRV9nYlRpaUt2cW83VEY5Y0k3c1h1YnlTVktGVkQ2QUlsN2x3NTRFOWt6MUVmT0lDZkh0dFBacEdTLWhRNmVFaG5sZUdnVDdBNkh1SF84eUVXMDhjZ0RoNlltVdIBuAFBVV95cUxOTm9VcUxHbDJkUURKNThWVUFjSXpmOHdoQzA5TXhKNlFCWmlZRzFqTTV0c2JUYUZ4OTVra1FGTHBnanRlMHBublFsZW9QeVFfMXJ1aGtBeFhhQjhUdVF3NG5sUnk0UUo1QzFGOXNCMGVmQ042bVhEeGxsUE1rSnBKWUpfQlY0ck5yQkQ5SFptSnhOQ3RlMm92eGo3SDJGRWlGNXhuNnpIMThvcXotbzJpUmlYWlJyOFZY?oc=5"
-    },
-    {
-      "id": "5acd1322bba312354986f684fdc3d72e",
-      "title": "Alerta en la Provincia por los primeros casos de gripe aviar | Infocielo - Infocielo",
-      "source": "Google News - Bolivia",
-      "date": "Sat, 31 Jan 2026 10:34:32 GMT",
-      "country": "Bolivia",
-      "lat": -16.2902,
-      "lng": -63.5887,
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTVZ2RkJ1TmlzY2ozZHZMTkxGeWhpS0NpT3Z4UTVNa1dJUlc4eDd5RHJXT0Zta1dUWkw1X25qejBJUTQybENyZEE0bnVPbU5oYUpCMnR2NmIwY1UxV0lSTDdMT0ttVFZhQ0hFWTR3QTFZcDhvVU5ZemE5Z0U3SDFKZ2RqWkZRb0ZMUHVwT1JYQjM3Um52U3puWtIBngFBVV95cUxNNVFrSGljNmljOXZCMXdJdktMRGtNZnZfWXVWQWtEV0N1bzlzNG5oVU9QOVhtSVRwYXZJajJKeEpHdGxNMUhQMGxqTV9Hc1RFSVRrbmlZaGVEbmdfbWdGZGtQdWc2bllDT3RmbW9NZjdNNHh1a25obThNWWJ5cUZZcWs1QkR0aDQwa2JqUGxlYVljN3h5a3pqaFVTSTNGQQ?oc=5"
-    },
-    {
-      "id": "d3546b64d7a7bf9a93260953b6aecb55",
-      "title": "Alerta sanitaria por gripe aviar en Paraguay tras confirmarse casos en Argentina - El Nacional - El diario de los lectores influyentes",
-      "source": "Google News - Paraguay",
-      "date": "Tue, 24 Feb 2026 17:00:00 GMT",
-      "country": "Paraguay",
-      "lat": -23.4425,
-      "lng": -58.4438,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRDV6VEpiN0RfU3J4Y3B5eUlKd2RZa2NnYnJLTmp6Q1BJa085ZmFXNnVhVlF3Z0RzbTRkQnFMR3dDVi1aZXo4amJqUTJKMlV6eExNWWphT2c1aExwa21BN2VDU0lmeTREeDVhb2lwVjdSTzQwNUtSN3QxazgwcmFsdzFJZWdPOHNDZnBadWlfZEltOG0zelJDTVBLN1h5My1zZU9vRjlfbzcxS0dheDdRbHVaa9IBuAFBVV95cUxPWVVHNTFneW5mejFXY2ZoeTVwcTVPN0NCRzhxRXNjTkU2ZXpaTFQtb2l0VWlkeGlCWHZaNUItYVF6WUZkcndmcWdDR09xSEU2YVlZVlE4RndoQVJpTUFTT2NBS3pINVludGJRN0xiUUdzal9xN0VmODNybjlQdlhlTGRFT2FQSDg2VnlqbkNROHpzZ1hLT3lPOVRkRFQydUVfV3pNYjlNNVhtRHFQRng1aS1POTVEd3cz?oc=5"
-    },
-    {
-      "id": "d710c4d403450de597772f7f87a60fc4",
-      "title": "Senacsa: “alerta máxima” en Paraguay ante casos de gripe aviar en Argentina - ABC Color",
-      "source": "Google News - Paraguay",
-      "date": "Tue, 24 Feb 2026 16:59:40 GMT",
-      "country": "Paraguay",
-      "lat": -23.4425,
-      "lng": -58.4438,
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR3hERTRFN294WkpTSUZVMUhrdjRTRlhURjJtR2dFYXFOVExHZng4bXhpRGliOFBmUWtZNmlUYk5GTzJ6VUtmOGhFYkZ2a2RMRGZheTE1T2M3SDVWckF1aF9yM3VQT2Q3Qm90MTlyajlDQmxob1g4cU1wczFWSU5mWGw0ZE4wVEV2WXBmNFVIQm5lLTdnSFhZV3hReVBBQnF6OHVORTVjbHpPRUpYdzBJa1ZnSHdtcWV6TzlxVVpzQ2U4QUU40gHYAUFVX3lxTE5wakM5ckdXTWl6TTY0QmhrMVdTb0NvUE85UnkzeUMtMXlITU0zdGdVRnJaSmV6WGpWb0VDUDViLTEyM2pHM0xLVElqVUdkdDRDVFFKei1ELXNZeHkzMjE0YnJNSjdjVDJBbi1tdXR5V3A3ZDI3ejF5bTRUZ1EtZGJ1VTZwSDZGdXhLc3dyRmVibl94MEFPeWFoX2VjY3FKaC1GbDJSX210RklleF9Gb3A0YjNSdmtzcXJiWnVpWF9zQk1KOTZFQUVMUlB4Z09MNE1KUzE5b3VDSg?oc=5"
-    },
-    {
       "id": "8e67144059dc19d4d0fe87402e498d2d",
       "title": "Senacsa emite alerta sanitaria por influenza aviar tras casos detectados en Argentina - La Nación",
       "source": "Google News - Paraguay",
@@ -3537,7 +3497,55 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWEwWkg0YXpEQ2ZiYmwwbEdsOFQ3bkIwa2xlX0lnUGx2ejFJN2dubGZVY2pRc1B2Nmg1aFFxNmFHMGlER29iZ25EYkZxSm5ROHlLQTNvMjJNaVJRRW1wTTBWQUUzdmltVGpUWE1CU3h0WnQyME9GdW9xTmJtS3lYSS1mUnRrNjJSeDZ3?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "fe4015de81444d305810a754a8bec58a",
+      "title": "SAG detecta primer caso de influenza aviar en plantel industrial y Chile suspende exportaciones - Radio Paulina",
+      "source": "Google News - Chile",
+      "date": "2026-03-26",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLU5YbUFrU0JUQ1o4MkxaQ2NiV3BSS2hscFpPMTdXaFROS2NHUUxFaC1KZDNhblUzS0NkZTYxZzF2aERzRVo0M1FiUy02b01vWHU3QzNvTU03ZklsOTdaVDJPWE0tRlhVUzFKNElDZll2WWcwTHEtMkhUdVZqX2VNNU5xSW9MWFk2bHNBQmJ6akdEM0hTWDBNYklRcXhPV2dxVmxydGFTVkw2MnA1bXlqTUVMV3dKSkNKdEo5cXcyTGhIOVJ2cWZzaFJkb9IBywFBVV95cUxQLU5YbUFrU0JUQ1o4MkxaQ2NiV3BSS2hscFpPMTdXaFROS2NHUUxFaC1KZDNhblUzS0NkZTYxZzF2aERzRVo0M1FiUy02b01vWHU3QzNvTU03ZklsOTdaVDJPWE0tRlhVUzFKNElDZll2WWcwTHEtMkhUdVZqX2VNNU5xSW9MWFk2bHNBQmJ6akdEM0hTWDBNYklRcXhPV2dxVmxydGFTVkw2MnA1bXlqTUVMV3dKSkNKdEo5cXcyTGhIOVJ2cWZzaFJkbw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "aab9b904521776758ed109949a4846f2",
+      "title": "Gobierno revela que se sacrificarán 600 mil gallinas tras pausa de exportaciones por influenza aviar - BioBioChile",
+      "source": "Google News - Chile",
+      "date": "2026-03-26",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZm9ObE9DeGhSd3dJT1lHVVNfQnlBX1dzR0xnQlRfTW1vWi15cm9qR3V6cDRLRnUyQzNXSzQ4cFAyYTQ0NGFVNWZ3NG9IWjZqUTRhOFpkTTlxRHJJTUJDX3BQVDFvbXVERWliY0Ntc0ZoeWRJa19ESDNQOVlydjRxQlFoUkgyLVR2a2ZCU01yQXlsWjlmUkRzTkduWkNqMG5KLXRBMUJIQUcxNnE5TVFEUll6NWcxd1VBTDg0bi1XbnV6TzdJZ20xdEVDVWR1RU1LMWhWZkk0SmJaWC05UjFUVmI0VnlxY3Z3MTA5Z0JCY0RwUGxRYTZRT2NHQndGMU5ad3JSb2V4WTNHckh4NkZQYQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "895f1efb28484625fabf21d808a10bce",
+      "title": "El ICA activó alertas sanitarias por riesgo de influenza aviar en Antioquia - agronegocios",
+      "source": "Google News - Colombia",
+      "date": "2026-03-26",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLTdVQ1JxbUNnT1pyUkFacGpmVWpYSzZidEVYVEtfNkF5dHlsRk1YNGhOTDFHdTAyMlVLdXRlLVFUV0JpLWJ1VERVMW5sQlJ6UXE5bTNhTW1hR2hXVVN2WVRiVUtzM2RuRTVRNktTazZsSlBfdFRtNU9rWUtUQ3Y0blFSZWgyX0taa3FwU19wcHlQLXJsVkhuaDJYZlNmb1hGcjZleV9Cakl4VUdBamJjRW9oT1hQdy1I0gG4AUFVX3lxTE5jYUxYR3JlTy11VEtIenNqMUxKd2Z6enJDSFJsV29oeW01VGtrSGY3bjhFNmlKQ040RUhvNnFBLUlNdVN2WEw2V1Q3SFp6dk9FVUVJTm9BV2lXR0wzbmhidTVJQk05alZXVkJoTXVKaVQ1RDFFVHg2NkNaRzVxSzlvQ2dONS1JUEl1cHJoSDRWMElPZHpDRlg1LWxXZXU4eXpTRThNeFhRbW5WUVpjamlXd2NZb184UlI?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "adb4c0bbe983a75b1ee1994411d3e2d1",
+      "title": "Las Américas refuerzan la vigilancia frente a la influenza aviar: 15 países participan en el taller regional de ProgRESSVet en Panamá - Pan American Health Organization (PAHO)",
+      "source": "Google News - Panamá",
+      "date": "2026-03-26",
+      "country": "Panamá",
+      "lat": 8.538,
+      "lng": -80.7821,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1d6ZjcyVDUwUTFwMVFndi10M1ZTQVFsQW1KbE10aXlSVlNkU01LalhQY0dVeWdEVFpvTklraEFHZUhHTUJpd0tmR2hvNVVRYVFTVUJGOTJZLWtGZ0M5S20zVmtoRXJaeWN0ZjZ5b1c4Mk5zdHVnNGpsblNtZm13WW00YXJjZnF6d2V1ZENUY3B1RDJoZGdzRnFaTVlfajIzSTFUbThaM3pXVkZHWDJyWVA2SS1IMnE4UVY0ZXdua3E?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-26 17:05 UTC"
+  "last_updated": "2026-03-26 20:39 UTC"
 }
