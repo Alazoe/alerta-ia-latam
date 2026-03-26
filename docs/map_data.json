@@ -1,36 +1,6 @@
 {
   "alerts": [
     {
-      "id": "09f4fd6946dd41d5e100836c7721c9cc",
-      "title": "Consolidan estrategia sanitaria frente a la influenza aviar - Gobierno de Guatemala",
-      "source": "Google News - Guatemala",
-      "date": "Wed, 21 Jan 2026 21:37:42 GMT",
-      "country": "Guatemala",
-      "lat": 15.7835,
-      "lng": -90.2308,
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWGQxSTVOT1RKT0NZcDZJZUZmRXl3enlBUmdfOHJ3Z1NFaUxyZFdjZEhBYzRYY2d5aUxsdGpZTnA0RURpaXkxQnJzb1RMV1RKVi12OHJCcXRKbFRQQlNkMDQ4em5sZUU5YVlZUGlWNlAtaWV6bS16b2ZkRnFMR09SdWtaUzh1clhVc05nRlln?oc=5"
-    },
-    {
-      "id": "d1d3f3803d5de24ec8fc4e9d21fd2f89",
-      "title": "Senacsa emite alerta sanitaria máxima por casos de gripe aviar en Argentina - ultimahora.com",
-      "source": "Google News - Paraguay",
-      "date": "Tue, 24 Feb 2026 15:31:00 GMT",
-      "country": "Paraguay",
-      "lat": -23.4425,
-      "lng": -58.4438,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFFoZk5ib0o1N0ZZV1I4SUJxanVNYjdZbGQ0bHFBVEZyd0EwNEdwcWluRFp3eVhER1VDUEVORldCSUlqTy1aWTVGX3FSNGhNMU1BSE03S1doZzF3QjJvN3p6V3JmbklkY1B0TnFVYUVVcVhOOU1XbDVlVnVZTkw3QmlKSi12VVJKZ251clBTWmhWV21FTXFiZVJDNGRtLUlqbXlWWWhWQTI2Y1c3Y0Q4em5R0gGyAUFVX3lxTE5wUWhmTmJvSjU3RllXUjhJQnFqdU1iN1lsZDRscUFURnJ3QTA0R3BxaW5EWnd5WERHVUNQRU5GV0JJSWpPLVpZNUZfcVI0aE0xTUFITTdLV2hnMXdCMm83enpXcmZuSWRjUHROcVVhRVVxWE45TVdsNWVWdVlOTDdCaUpKLXZVUkpnbnVyUFNaaFZXbUVNcWJlUkM0ZG0tSWpteVZZaFZBMjZjVzdjRDh6blE?oc=5"
-    },
-    {
-      "id": "0026392846065234a84c059b8d155ecd",
-      "title": "Argentina | Vuelven los hombres de blanco y el sacrificio de pollos: Primero fueron los cisnes y un rato después se confirmó la temible Influenza Aviar H5 - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "Tue, 24 Feb 2026 14:55:29 GMT",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOcjZ5Z05oTEZIMlhvbTJmRV9TOW5ZeDk0NnMzVGd1VFA1MGNQZV95eF8zSUVjR3N4MUZyblJvT05rS2xfUG9qX2ExaEVrX1YxbUNLTUJxTlB3eF82SzUtTV85ZW1SSFlfcnlMazE0RzJpMEw5aWYwTDZmOXhrckQ2MFlNcy1yZTAwc2pvYmJMeWoyX0ZkeTdKT1JSUDlGb1d6V3oyVE5NVU1lamhlSEJIR0g1THdJQ3hMYU1fLWZJZDhZY25kMUJqX3hkS1VSMmxzWE1RcDBBS25RWVNuNGxzT0NRVUt5dFZRQ0pSZzM0LXh3UWFNVWV2NlB4c09ZaVVhczFfenVsOTVCd2ZGdmxBbGVLQ252cEUwVmc?oc=5"
-    },
-    {
       "id": "4b960b4f33aa2654a97ebeea5c0e5e40",
       "title": "Por un caso de influenza aviar, la Argentina suspendió las exportaciones - Crónica",
       "source": "Google News - Argentina",
@@ -3531,7 +3501,43 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNajhjTnJ4OWptRUlCWWxRbWY3YkN2NXd4QktEY2UwNUtlT1hiSFFPSDE4Ukxrai1nYTdDekl4R1ZQN1BSU1k2MXdsSU1BNWZaWUdQdWlfUFlYUlJVa0Y5bE43Z2pfZHNwV3loZ2o4bV9CT0tRcHc4SVBqSmR0R3ZCeFpoQUw4MzBCNzhwMHAzY19BaUJocHdSOUJ5T2xqZWVmYjFYTmlZTFNQaW03b3dBc1h2Y1VLVEM3c0ZYYVlKNW5HdE0?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "0acb8fb4117f5e018ec22a0e6a00c82b",
+      "title": "Chile gestiona reapertura exportadora tras caso de influenza aviar - logistica360chile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-26",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbFBkbnhYRGEyVy1OQXlwZjdIWTA2cmw4S1hUdUd6MUtoOUtiWF84N0gwakduSjhmUFpodVNlYXJBSUJldjhEN1NQTDdha0J5VTk2NHhiZ1Q0RUV6Z0VaVE5OSFc2SEpPcDhEWG1uSHJQMkswU1VBb1BRZG5JSkgyYXlMb19RdFlqOTdQeEg5YUpTVnBLWWtXLXhzQU4?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "721adda03285d1855802f60d5d6ef2b7",
+      "title": "Universidad de Talca cierra su Jardín Botánico tras detectarse influenza aviar en aves - Canal 9 Bío Bío Televisión",
+      "source": "Google News - Chile",
+      "date": "2026-03-26",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNVJDaHNoOUp1NGhseE11dWI1RmZvM2laLXE1dC11WW4zams0a2lyc2FlN2VqVWoyNjRyY0pJOFZ0T0dya0VWeG1mVjNQSGx3VERpZ25VUnVTZlJZdlNMOWJhcU5NYnRhQlhBT0pidGIxMDFHZFV2am9PVlQ5QVBBTVFpZzJYRnJ3TUd4cFVMREVDWjg0dEZuMkpWcFJrYW1uTzIyalFWQzRwWnNhTVZLMl9fdVBRZ1RxbDEtNG9PMFRIVVBZVzFHYw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "ea24d4a903dceb625f7993c581a6dccf",
+      "title": "Suspende Chile exportaciones avícolas por influenza H5N1 - cronicadigital.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-26",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMWEwWkg0YXpEQ2ZiYmwwbEdsOFQ3bkIwa2xlX0lnUGx2ejFJN2dubGZVY2pRc1B2Nmg1aFFxNmFHMGlER29iZ25EYkZxSm5ROHlLQTNvMjJNaVJRRW1wTTBWQUUzdmltVGpUWE1CU3h0WnQyME9GdW9xTmJtS3lYSS1mUnRrNjJSeDZ3?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-26 13:23 UTC"
+  "last_updated": "2026-03-26 17:05 UTC"
 }
