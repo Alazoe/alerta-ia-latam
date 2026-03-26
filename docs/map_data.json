@@ -1,66 +1,6 @@
 {
   "alerts": [
     {
-      "id": "a385aaf76554c6e5ecad2990572c41e0",
-      "title": "Actualización sanitaria de contención activa de brotes de influenza aviar en Sucre - ica.gov.co",
-      "source": "Google News - Colombia",
-      "date": "Sun, 14 Dec 2025 08:00:00 GMT",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlQyQWlKLWVEd0Y0cW5WbHpCcFdlLVVPR0JURjFBbGVZV2U2Z1hQaXF6eDJtRGd2NjkzcEk0eVBKR3pYY3NxWkZkWkRmYkNtU1c1cFdFbWptXy1MUncyZGhiZTUzVEdidGwwRG9QaGNtR2hma0g2Y2tSN20zNUFiTWRYeUs?oc=5"
-    },
-    {
-      "id": "3d8b818e75512b45085e30b09fc5dacd",
-      "title": "Estrategia de vigilancia permitió al ICA detectar un nuevo brote de influenza aviar en El Retén, Magdalena, la zona se encuentra bajo estrictas medidas de control - ica.gov.co",
-      "source": "Google News - Colombia",
-      "date": "Tue, 30 Dec 2025 08:00:00 GMT",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaHJOaUswZ2JVd0t3T2lhanlzLWZaaW5yWEdfcVVCUE96cHJaME12cGplSXQ3RkJlOU1BUi1lUzRzcXJtdGJBSWZ3VVltSUxuTElING0xZWw0M0JPX1p1dHNjY1lpMjdrR2gyQ2lRRktCNF9UdzAtNTBtWUo3QXc2WDdUOA?oc=5"
-    },
-    {
-      "id": "3e6774f1aa7e04867d7b93e56ed0085d",
-      "title": "Aumento de brotes de gripe aviar en mamíferos preocupa a la OMSA - lapatria.bo",
-      "source": "Google News - Bolivia",
-      "date": "Mon, 09 Feb 2026 08:22:18 GMT",
-      "country": "Bolivia",
-      "lat": -16.2902,
-      "lng": -63.5887,
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQejB3NGtfa05NS1Z0b1RFT0piOEVRaFVXZTJOU2RpYXc4TTRaVU5OQ255V0ZvdUdQTXZtakM0bjRTSWc5SGNybDhXVkpGNVdzdFR2dGNUYW1FN0hFeF9DRFZPZVFYdzRCamZvaElQRHJFWnpfVG9iY0daRFlHbWJ0MVFrUjE0TGZQZUEwQUFQcXFJNUl2Qml4Si1NUQ?oc=5"
-    },
-    {
-      "id": "c9e3e10202b33f7714412be3dfd843ad",
-      "title": "Senacsa: “alerta máxima” en Paraguay ante casos de gripe aviar en Argentina - ABC Color",
-      "source": "Google News - Paraguay",
-      "date": "Tue, 24 Feb 2026 13:59:00 GMT",
-      "country": "Paraguay",
-      "lat": -23.4425,
-      "lng": -58.4438,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcEU2MW5fQ1lFcndMUWQ3ZnRQeldLT21NWmtSM1JQaUN0OUpPSUZJa0lYX2lwOXBFemRWdUhMTTJEakZEaWlNeHoxTGlqVEdFWDFuN211bjdBQVhTOTV4OTdrc1lUc3ZsTUxybnlDemFPWUc5dGlhODBhV1JTejhIczEzVkVpdnhrVXNfT21oa3ZxeHFvX0xIbjBVV2VpWTB3LVZEOExrRzFXYlVZeUVUX0s4ZGtvV2R4LUHSAc4BQVVfeXFMUHpFSHh1b1p2N3pyeE1PYXFVa0NBZEJUNzVZQ3lERFlyQVJIVER4WlZUMzRUX3NTdVkySDlScHVwMWtTWE5aYU43SlJZVUxpU1N3bEhWZDdvbGZpRjN3cm84U2VwUmRlOE14V1VIcTFGWFFRa1JIYWFBZW9INVE0eVl6dU5sRXZydzFVLXZQUFFRaXdkLXRXS2tmLWNqY29OZlI5bnB4U0JZSDJOeGRNbHNKdll5cmY2ZS1pMXdsclgxTEhDZ2g3Y0NqdlFyN0E?oc=5"
-    },
-    {
-      "id": "ba86cac3fab49506f796273b48fad55f",
-      "title": "Emiten alerta sanitaria por casos de influenza aviar en Buenos Aires - Diario HOY – En Paraguay y el Mundo",
-      "source": "Google News - Paraguay",
-      "date": "Tue, 24 Feb 2026 00:35:00 GMT",
-      "country": "Paraguay",
-      "lat": -23.4425,
-      "lng": -58.4438,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdlkwd2xUSFFfU1NtbGQtX0ltVmlDWHhoWmY0WmhIMHJwSGF2dnpBZGpHZURiTnFmZFdZeGxFeVV6d3NZb3BBa2ZVTjNwVHEyWjgwRmFTcFZUSWpVbGhFM2F6SGpzOW1kcnU3cklRMXp2eUZGckJLMjFLYmF4bEhIdUIwR1JkWXVodkJvYzExZGtjTFlFNVdjS0otWDJ3a3BXQl9hMGtSbTVFY3M0ODlMVzRXOA?oc=5"
-    },
-    {
-      "id": "b8877844eb8c1e7d9d8ea1315320b719",
-      "title": "Detectaron influenza aviar en especies silvestres de la laguna Garzón - ladiaria.com.uy",
-      "source": "Google News - Uruguay",
-      "date": "Tue, 24 Feb 2026 15:30:33 GMT",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZ2lOaUJQOTc2OXNyX09IWEN4Sm5UczVZV0FVcEJSWmcyRkZDbUYyeGpFSGF3MmNHSVlrWEtxb296TXI4XzhSX3I1LXhsYWpnRUp5X2RlOTZSTDJYY2pfakx6SFlYbEZTRUJrRTl4dnQ2eGJPMGxTcjNfSVdnX050d2FpUFM5TXdHY2IzYloyVE43NHd2cGR1dllkTkJOeml3SFFmLVJSeXhOMUJOVWdTVi1TLVVFbTJKdmp4ctIBzAFBVV95cUxPdndmS0o2aTl6ZFp4dWV0VTFIOUFzRGVXd2FUdTRkMzJQWHJpbmtScHVzSmJfcFFrNGdDNDlsSFp2ZzJkcnRoV0hGUzZsM3dMd2F5ZEpYZWVqakh3ZkVabzVacEhNVTgtZ3ZPZ2JOVm04ZllqZnRGTGJVdWpXNkd5Skx1UlloTnNVTlZhTjJ6aVA0T0I3ZHEtX2lBYzdvSkpYY2ZKZEVlOXk3TlJRVDg1ZVJ4cmhsc2pyMkJDUXlNZ2FDM18yUTBXWHdaOF8?oc=5"
-    },
-    {
       "id": "c883adb3d4f2ea5c60e9ee643e7c2903",
       "title": "Ganadería no encontró casos de influenza aviar en Maldonado - www.gub.uy",
       "source": "Google News - Uruguay",
@@ -3501,7 +3441,79 @@
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVRWWXluMjlUZ3c0WlRKcWxzdFU2dUx6OW1iTHlZUzJmUDYtRzRhYzZnc1Zkb0FaZlVQYkNBcnpNX25QUlByamxfaWtnbXExWnBINlhuZVBTZ0pERFNpb2hLQ0ZjNHVPbk1Ocks2czhBalVRU3o0YVNRMUdwS0ZiYUNNeGdsS0U0Q2RRVW0yUQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "88c5de9f4ec71ea9f71273a2fa76ac9b",
+      "title": "SAG confirma influenza aviar en plantel industrial y suspende exportaciones avícolas - BioBioChile",
+      "source": "Google News - Chile",
+      "date": "2026-03-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRWNaVnpJUWxId0J1QzExcWJVbU5TWm9BSU1CbmtCMUhYNnl2NkJHN3laX3E0ZGY2dUJJQjdLRUFMcnYyYUZJZHpxOHNxd2padk12SDFJX3FqY3dtSHh5YVYyam9XaWNSSkNLZ1FaenpGYnFFbkRtWHJpc3RTSU1Qak50Q2FpeXEwYW1TSHBwLXFwZkdTc1JxQ2N2NnRSZ2RNc0hHRVZtaFhlRW5yaVJ4Vngzc2p6dlJLcHBEdDNrdGdDMnRLZUVEZThRTkpGbV8zS2dXTnM1N1RZa0g4RXlFQTk1cFJrMzRZWWdvTGEwUXVNNnJaODFybmNMbw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "990bed6d158f28be6fb05f511067b6f5",
+      "title": "SAG autosuspende certificación de exportaciones avícolas tras confirmación de plantel comercial positivo a influenza aviar - SAG.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNGlDeGtJS1B4QmpqREk3VGdTQl9wWGRsMnNfQWx2MWFTelZUYm5URElLZi1KUHo3MTN0dGlSUVItT2FXQ3BtZHBUWVN3LWR6QmtkNTFpNVF5dk84ck96RWNDbW1UOW4wcnA3SG5zWnE3bmVFNzB5N2JDUHB3X2dNMURvNW10dW1wTU53cjVHZ2VEMkV3YkNHRUVaVlA3SHlrTWZ3a3Nld21zVVVwUEkweVIzdlE3MnNwdTB3ekpUMW5TZ0Uzb08xTk92ZWtxTGV2TnIteVNZU242cGFFVGlkUnFMaFAzUVk?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "83b4b117494528b1dbe4d8ef4fc2f4d3",
+      "title": "SAG suspende certificación de exportaciones avícolas tras detectar primer caso de influenza aviar en aves de postura en un plantel industrial - Diario Financiero",
+      "source": "Google News - Chile",
+      "date": "2026-03-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1NoQVlROVZyLWxQbmtLSUpzdWg4SVNod0VOVVBnYlNndURzVVR1OGRNTTZXVmdLT3JNTUVudzU0QXJLTDBNZG9uM1cySENNVElkNlJLNWNCbGtsTUdsM25qZHNzU1RvS1p2a0pGNUFLYXdGM3JnZHFVMkc0TGVRcXk0UjJFYzNkcHBNZHgzd0tjby1vUEoxdzh1VjVTTmxLZHlz?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "bfccb670032d6749a9f61d00eae481c1",
+      "title": "SAG suspenderá certificación de exportaciones avícolas tras confirmar caso de influenza aviar en plantel industrial - CNN Chile",
+      "source": "Google News - Chile",
+      "date": "2026-03-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZkhIeWFjTjdMWDltdy1LMXduaEJmVkxKVFBDRmUyaXl1d2ZVdHRWUExyamt0X3kxVFJPY2xZNkVoTWdXRG5FQnNCa0Y1SEE4MDhhUmtyYjlQT0ZMUldUbHJKb3ZvRFBfMGFMbS1vRWVyQjNsM0R6LWtscXk0ZmxieU9tMlp1cFVZTjkyMk1waGl5WEk4U1g3VWdvbUYyMnJxTW5HSGtwdHBuMWpjUWlMNXVtNVFqbXhDWTRKOXp2Q1pCZW1XdlZFdFFWV2VSMFNQeGVhOGZuRmVnbWpESkExaw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "8dced2f0434a203f51549fe9dafd0909",
+      "title": "SAG suspende exportaciones avícolas tras detectar influenza aviar en planta industrial en la RM - El Dínamo",
+      "source": "Google News - Chile",
+      "date": "2026-03-26",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQnYzTi1TekpWcjZkX3A4dE4tc1RqNWNlVkhLRlhaWDVycmQtTlpvQVg0MkFhUVlFVmxfR3hJMjBaSE0xamNteDBoQjVoaHBJb3g1Z0JsX2Qzb1RmYS03RFQxaVdkSzFBa29KRGZZcUxRNkJKR08yUGVTdmR3V3hUek8xUzV3SFZCX1BGT1hHcXlqUWtGdzJVcy0ycXlkallwNHZZMWF6Y21JZ2FXN1VpSFpVNU1QOUtaS2xrMFlTLWdaTWZJd0dxUWZjclA2STRyZ1E?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "d75cba6e943415554f5bdcb4cf0f9135",
+      "title": "La SE no justifica desabasto de carne de pollo y huevo, ni aumento en los precios derivados del brote de influenza aviar en Guanajuato - Gob MX",
+      "source": "Google News - México",
+      "date": "2026-02-14",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRERsNXRGeF85aE05Y0NNaHdyc2dqbm5RVm5mRk14Q2lIUHlsaFBua3pidDUyZEVvSkJiaWNOX0h3Qktkc3dJZ1ZLVVJWY2IyX3hydUJxWVRrVWZDaFcxUkxXV2MtSVBmWHFfWFFuN3owaFJob3dXZFpOemVlRHRvZEluNFpseXl1MFlYVzdnQmFBQy1CWlQ3S3F6UjY4LXRRSzZUU21iRXZyUkJ0dGlTVDkxV3luSkhCeHVLN2xoZ2JmaVEwTjFYUTd5aWVoc3c0NWpTWnZJMXo3TDFsajBNVWVPNzl4SG0yclBXekxfT05QVF9K?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-03-25 20:41 UTC"
+  "last_updated": "2026-03-26 02:35 UTC"
 }
