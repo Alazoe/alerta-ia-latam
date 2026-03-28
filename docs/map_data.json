@@ -1,118 +1,6 @@
 {
   "alerts": [
     {
-      "id": "bb569cf560bb5fbdb9649b6456dc456d",
-      "title": "Uruguay declara emergencia sanitaria por influenza aviar (H5N1) - Reporte Indigo",
-      "source": "Google News - Uruguay",
-      "date": "Tue, 24 Feb 2026 23:42:00 GMT",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQV3FoZDlXS1FFYmhuWTMtazZpZmRiYkJSdGVaT3FGZy1iOXppd3V0STI1YllhUXFha29idzF1dFVNdkRHRlBsV0g4Xzd3bThHTFZaRUE5amhBVHpLb0N0ODB1ZWdhZzRSRmJPelJfMlFmdW9UMHppaDNYZUFwcmNLSUlsbFpQVE50TVRONDBNb1lPMHRIWDNMcl9CZlBwUXZFVF9MdXJzay1Sa2ZzMW5HS1ZvX0VybWFJSkg2a1c5RXZQUdIBxwFBVV95cUxQMlpDVXRLX0hWbmJfZVYzQW55VDBnampuZUcxRU9oX2FfTlhPb1FGelRpdU1yczNfSElIWmJjaEVZQ3gzZnZVZ2tLZ0xoUDBuTmZreE5IYW9iVHJ1S3FIbUFGVDVybEpfbDM5SVpiUlMwQ1Z2Yk51bHlSVkJTbTZGS3Nqb1BCcU1QTkh6RlRDc2h2d19YYU1NS1dFWkVDMWNlNVhhWm5FZl9iMFU1T1RVQTRIZVBxZ1lDYjloM2hGZHlPOFhIRWtJ?oc=5"
-    },
-    {
-      "id": "2713cf9bd90646e837a2e256041289c7",
-      "title": "Uruguay declara emergencia sanitaria por Influenza Aviar H5 y restringe movimientos en todo el país - Revista Chacra",
-      "source": "Google News - Uruguay",
-      "date": "Tue, 24 Feb 2026 21:09:15 GMT",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYmNWOEJlWU9ZbVgwMFpjMXdzTnNBTUJxdldRZ0Y1cS1hVVdkeG9TY0pFV1BKZklpdFhqd2xJdUdJMVF6MzI3UnZKOTVmOEF5TjdCX1pjSDZMR1JVdkRSMHJwVHFDY2ozYTdUMzNLWkZFbkdtSmtXcG1tbDNaYURsd3ZadXJUeHNpSEtITHpIeDJTUExVVTM2cHg1MjZmcXJ5QklvU1I5Yzl1RnM2Ni1OZGFMbDRkWXpvUjhiR1dXckdZci11MzlNbUhGYnRYSjFVZ0HSAdsBQVVfeXFMTnFOTktTYnVwWEVKQ2g1Zk9UQ0laS1dtbVAtOW5IZXpIQmI0RmoxdVZfbUJhak9hSWFWT3RvSGlyV2tYUUVfRVJBSXVrMi1YSC05dEJTcjFoWjNOSHdLa0hHdWt6dmp0MFhKT09GeHIyVVB6V0xRSmVMV2hvMW1nWU5OaWJFRnhCV0V6VXFGWnV2ZDdVYXByZjl4a2JtWnUyVEtfcmhwUGlobkRaY1pBUXQ2VDBXWmhZdTRjYVJMaWFMV253R3djNGRMWkZvbmZVclRCenZvWkd4eHgw?oc=5"
-    },
-    {
-      "id": "18da81d560076ffb6a99ff6a8545ea9c",
-      "title": "Alerta en Uruguay: emergencia sanitaria por gripe aviar - Diario Huarpe",
-      "source": "Google News - Uruguay",
-      "date": "Wed, 25 Feb 2026 00:11:05 GMT",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbzItRjZTbTNVNDg3VlAwVFJTdWhWcW5pbzZrNkJaZzd2MkR4V1laRWlfbWxfSGtnRHNnVERudVBZYkxudVBZNnFvZ1FYc1lnSWRPSzVzdXIxdnBHY0dmbmdnRmlwblViTzVzRmE2dG1fdlFXdlJhNDA3QXdjRnROSU1XVTdQcVUzTzNXTUdRSFZ5NVJjUWI0d0pKMEVxVm94eElOY2czM2kxd2ZvOVRWWmV2Zw?oc=5"
-    },
-    {
-      "id": "b2e445cad73e0c0fbdea0ea123a885df",
-      "title": "MGAP declara emergencia sanitaria nacional por Influenza Aviar H5 - www.gub.uy",
-      "source": "Google News - Uruguay",
-      "date": "Tue, 24 Feb 2026 19:55:46 GMT",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS2x0Q1JibVVCbTBfZVMxXzZjMnR0dktQbmYxVXFscU9GNFc4bHJ4aThtYms1RnZILV9lam9tY2lOQlk2ZEFZeUdMQTZCTlVkNTFKMGRRbnJDZ1dpU0E2WTE2Q2VtYTVPNUZNNTk1NU8zN3lqbHpRUWNvaFplaXJTc1F1Qkp2enptbVVUQTU1a2FhenhRTUV4NzFscTZKN2xrWkY1QXhST3JyTEZIeUJUenlqcmN0M0VTV3lkNV92dFNHeHdQNmM2X1FheVp5Mnl0WEhZZTZuelE?oc=5"
-    },
-    {
-      "id": "9312b62639c3681cc12c6b4c44198ad7",
-      "title": "Argentina refuerza bioseguridad por brote de Influenza aviar en reproductores pesados - avinews.com",
-      "source": "Google News - Argentina",
-      "date": "Tue, 24 Feb 2026 22:46:35 GMT",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZExTOGwwY1NacU9hQnVkWjEtOXJuelY4RjV0N0MtVXdwNmk0QVhjSDNtbENoV3VoUmNwaFBHR3FQWmhzenhWbUJTT1dXUkpFMDY2NkZtdWo5aFh0OUY0clhtMWhiWkpvdlZSemhjRjFZR01PMGZKT3NOWWVqMlFIY2NtMWRkcF9EcEl0b0tsWFRmaGJLNHhCWDhGa0xhS3FmYWstdFEtbkNxQQ?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "c38c8c5f49270812fd3ef2731d1747c4",
-      "title": "Uruguay declara emergencia sanitaria por influenza aviar y enciende la alerta regional - Agritotal",
-      "source": "Google News - Uruguay",
-      "date": "Tue, 24 Feb 2026 22:24:19 GMT",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3pwNy1zUWZjckxBdkF3SGMzb3BFcHZkdHp3LU9QWUVXWG5lR0c4di12VWpTakI2bklJRjJwTWR5UzVBaWVyRnZkN3pkSUU0SlVrLVlVak53TUxCSm1oeGtHMDNnRzlRT00zSTY4S0F0SlFLeXB1Y1Q0VlZKM0dPMmpMa2NvNW1xdUpoV2pRVDdWNk5XQ2lUbWFsYW5uNjRCNGtGbkJMMWxkRk5PdGhvTDFnS0l4RmFU?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "2862faa943c713d7dd3a60c750f37d22",
-      "title": "Uruguay declara emergencia sanitaria por influenza aviar H5 en todo el país - Cadena 3 Argentina",
-      "source": "Google News - Uruguay",
-      "date": "2026-02-24",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQmhSRnRvRGFab1lUQzVOUkcyQ0lBd3BHYWdtcHZBOTlWaEVOR3J5eXktZ1ZyWDBDLTdYc3JuVFV2bngtcjFSQVVob1M1UmJUMVUwQm9WRVpfRWtYLWR6VDF3XzQ3U1VaUTNzb0dEdmtFb1lCNy13ajNrV05ZdG5qemMyZ1NIclpWQkpQajBvamxoZk9scm50UHlFb1A0dUpsMUxhd3Bxc0R2RDBuZXpUZXJpREhxRXFOVnFFVDJBV1pFZ9IBwgFBVV95cUxPQmhSRnRvRGFab1lUQzVOUkcyQ0lBd3BHYWdtcHZBOTlWaEVOR3J5eXktZ1ZyWDBDLTdYc3JuVFV2bngtcjFSQVVob1M1UmJUMVUwQm9WRVpfRWtYLWR6VDF3XzQ3U1VaUTNzb0dEdmtFb1lCNy13ajNrV05ZdG5qemMyZ1NIclpWQkpQajBvamxoZk9scm50UHlFb1A0dUpsMUxhd3Bxc0R2RDBuZXpUZXJpREhxRXFOVnFFVDJBV1pFZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "d1f73cdc91c7aacdde39713ec4414023",
-      "title": "SAG en alerta tras otro caso de influenza aviar en Argentina - Diario Financiero",
-      "source": "Google News - Argentina",
-      "date": "2026-02-25",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOG5xOGlzNzhNalBMam83Qm9TWWEwamVLZ3ZqN21uaXpOWFl1aTBaU1J2NGRXNWlVTmNkeE5DUmc5ZDFfV1VQaDVNOWdkRmJpaUJrd2wxcVA3TnNySllKWUhDVjhzNDJmMWhIZWJIUGRGdWhLWWh5TTcxSlB0alIyTVdYTXVFOHFXZlhoYzdUN2FpQ2xvWTlUSEJGU0w3VVRkMWMxZFhB?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "afcaa7f4526d8a99415ecf88a5c07a65",
-      "title": "Argentina refuerza bioseguridad por brote de Influenza aviar en reproductores pesados - avinews.com",
-      "source": "Google News - Argentina",
-      "date": "2026-02-24",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYkxPLXZtbWpuTi1rRDRVT3lCejd0SVNkRkp6TEozWERmRmJOMkdwUTRWNmJhQU5jTTQtdjdtazU0YzZIbWN6a0FpYXh0R1h0SjIwaE95MjhPdC1qekZUd2YtcXEwM2dJanVRYzhQc0FWUGlJUXRnVXZONkJ2elhYaUwtd1R6U0lFV0o4ZDFaX0tfdmdNSmVQRWwyWkRqVlFjRzY0enBNRms5WVl5Ull3?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "5675b6f91d93a783b3d94ab7985681ba",
-      "title": "Uruguay declara emergencia sanitaria por influenza aviar H5 en todo el país - Cadena 3 Argentina",
-      "source": "Google News - Uruguay",
-      "date": "2026-02-24",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd1VPRDJsb3VFMDRNREhxdmVfTnpLNWV1eWVUZGE5RlUzV05QR3JMYnRlakJHZXhNeU1SaEg5cXRkTjZYSE4ydm1PWkk4Q093dDBJallPTW1uZnNGUXJYTmljempoWUw1STFEMHdwVjVsaHlLQkk4OHlRZDFrTlYtUzhvMHlaYW41b1ZxWlBoTzFzZHRjZUZKT3hScnlhUG02TnRXY2p4Q21RLTVvYWZVWTRKc3l0RTc0Y2JfcNIBwgFBVV95cUxPQmhSRnRvRGFab1lUQzVOUkcyQ0lBd3BHYWdtcHZBOTlWaEVOR3J5eXktZ1ZyWDBDLTdYc3JuVFV2bngtcjFSQVVob1M1UmJUMVUwQm9WRVpfRWtYLWR6VDF3XzQ3U1VaUTNzb0dEdmtFb1lCNy13ajNrV05ZdG5qemMyZ1NIclpWQkpQajBvamxoZk9scm50UHlFb1A0dUpsMUxhd3Bxc0R2RDBuZXpUZXJpREhxRXFOVnFFVDJBV1pFZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "7830ebcdb75b2be02dbcc3203cd8b906",
       "title": "Influenza aviar: prohíben importación de aves vivas y huevos desde Argentina - ABC Color",
       "source": "Google News - Argentina",
@@ -3591,7 +3479,127 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONG05cFpwbWhoaXFoQWNnNGxUa3lXNWkweFBHeVdLT1pMVTZ1cEJGMWtjRzFPN2ZONkRNTkNIamRXcXJGTDV0WWVCVFgybzZGa3hpWm9HekFEQXBUM0pHNWxLN0ZTNDhsVE4wMkFKV0ZudkJTOGlUNVNxNWwyUHFZQXBsOVk4Nkt2NUt6Zkh4TjlveDd2TTNOa2RnVnJMRFd2enVqMVhVNURESHpUN2lxNmxIUlZwVk40NWVEU2M2R3dSNW9IQWRnR3B5VzgxM0Z6cWJaN0J1R3pYdEZndmhJ0gHzAUFVX3lxTE1qQklURF9ZaGdjUnd0NmVvaV9yQXBmVmtWc29XeHl5c0otN3hFODNjY2oySmhsQWZiV2RSWjZwYjBwTHZ2cmp2VXg5bzZBQXZ6LTRENEs5eVBEMmttbkVlR1pFRmVoRkF3bk5SVDE0bzdhU1BuV2l3YjFUMTRoc0h1Z2lua1Bzb1ExTThMZU1GODB5YWNPeU8wMm01WUdGU1JFNnNVYkYyYTdEWUY1WnNxMHdpMmdZWGRTcTNpanFtWklIWFdZYWNDbHRUZ0ZSTGRKcHlzbjdORm9INkZFaUM1WnVvOFVUblJuODQ1N1ZFWmZuTQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "484ceacfcb42b6450136d514e3812e88",
+      "title": "Río Negro: Detección de un caso de influenza aviar en un predio de aves de traspatio - argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-03-27",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZkhKVFh2UkFqNWFaT0FhOHJMXzFVV2EzaTM4dmZ5UFJiR0NCTVhncno1R3VpczZ3T05UNEpxbkZhVlBZRlJEZUhJbUFRWVlPdWpUMm5WSkNZUDNwQlVUQzFUQzdZRk9CSVpSNFdMTFpIR0JGREFWVkJpSHMyRDY2WThnblNlTDJwSWFucVI5MmEwLVZXVG01UVJ4RUhCVnZuXzNkMEdPbVoyaFJxdGQ0NmZhdkszY2RMYXVUdWNR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "78ceb6c45535df03a220edc780644d21",
+      "title": "Sigue avanzando la influenza aviar en el país: detectan un nuevo caso en un establecimiento avícola de Buenos Aires - clarin.com",
+      "source": "Google News - Argentina",
+      "date": "2026-03-09",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNVQ4cEViUFdrSXNXY1VxZF9ENHNHUGNkZWFXT1hKdGEyMXUyNFpjZWVqRXVIYXJITVFBaldiV3JLTlBIbXQyZlk2SC1tcVJqRS1rWGh4S01JSmlJN1BQaGRwTkpZWXhab0J6Y1NnbkwzZzI0TnpMNkNHTk9tSUtVck5PVF9rcERDZlVlbWtNZ25UaFRuaGxSQjBDU1R1WjR5OVVfN19zeTNpOFdBaEF4M3pWSHVCbmJtQ3h5MnkyMWJFaTZXV0FGR0VzS3AxeC1kd3FvcnhFOA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "340727cfbb8c6b9883719042c2288c43",
+      "title": "Buenos Aires: Se registró un brote de influenza aviar en aves comerciales - argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-03-07",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2pqSkJzWmtWaHhEaWNsTTc5WnR5ckEtZGIwNXY3Sm9INFJQdEVxQnROTWlMcTRBOVZ1S2xleTc1Y1VzY0JTc3pXUVVhdTlyTHgza1FmN21iSFRaem11d0ctb1RTNFZtWkFTeDFpZHc3V0NwWkdQbUFja0dkZHJ4NWh0cTdJY0xFS0ZYVXh0OF9MRHlQVHZrclVUdnhoRG9JVG5jekhDbVJnRUJxUHJJ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "c7471e663960ebd689aff892f93bd8ab",
+      "title": "Córdoba registró su primer brote de influenza aviar en aves comerciales - argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-03-02",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGN5TmdJaGIwQXhQV2s1UWFwRmxYNUpzMUpOeU45b041VzVLSU1yTUVvODByU2p2N3czNVc5WW1JUzhIN2s0cDUxV2dTT2J0aF9iemNIVmNVT1A5V2tEVFBhV3k1dWtsaVJxRjI3R0lLa0xJSWhIX3o2UWk1Qk1mUU94RlF6REkwbW5OMTdXUEhobjZvd0FKWGg1UkZzSm1Dc2trSGhMTW41Slh2alE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "ba7caf428d3116f16775483e9c0a09d0",
+      "title": "Buenos Aires: Se detectó un segundo caso de influenza aviar en aves comerciales - argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-02-25",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYUJFSUFzbmZZWVYtbk5ZZ09QWnl4UWRBdkZDWnIyNnI2emJYdzk2QllpWXdiVDBQaVkxUDVNQV93ZkFKZkJBdGFxdjZDcFVEMUMycG9La05TcW5aYlB2dDF0VjJzN2xuWXh2RnVHa2FlNnMzemdRWUM2ajUxa0dTV1lta1BlWFF5cjRLb29xeEJIN1BSQnhaWHo2N0pzOWNtQkJjbDlVb0hDakh0MkQ3UVJfQVJIWXM?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "738c90dd6459f96ab3cecff701bc7481",
+      "title": "Detección de influenza aviar en aves silvestres en la Ciudad de Buenos Aires - argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-02-26",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVR6eVpOSHJ1Q0x1S3ZGSjl5NHdPbS1XX0hrSDNOZlB5WERyeHpZbmc1cFQ3Vkw4ZldOVHJPWlVLRzJmSDJhbml2dVp3QjhYTDRrS19KWV9fYVdfQ3ZubGtmbW1ocElGZzl6OGxtem96a1NoR29ENjdYZl9PeVF4cDFrVXdkNncyMGxVZ2VDT0xhejl1ckFxLWN2Q3hfNDJtQ1UzWHFvaUFWdVQ4clNLb2g0a1o?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "5e5daa6c7dd186341a8b6c4167132f92",
+      "title": "Buenos Aires: Se registró un caso de influenza aviar en aves de traspatio en Las Flores - argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-03-07",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbTVDU0o1RzdXZjR4aE5Kcm9zSVQzb25kWWNNRTlIUU0xa0NPQkR0Y3Y4NWpudU1KNlBRQThuNkN5LUNoT2M3TmlXX0VoOFJqQVJNRzlWeHBzeFZnZDlqbG1SNVMtMFRnRDZ3SWMwdWw1MkRBd1htTjZ0dkVTZnA3MkhkeFhPYTVoVkRjRDRVdW1uOVpzZ0VoQlJsNlpXdkxqaWVmbXBEeDdmdUIwdWlPNF9OR05Jc1pLMmhwb2RaMA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "f7657f986b552c07a2e4878743d3a78d",
+      "title": "Mar del Plata registró un caso de influenza aviar en aves de traspatio - argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-03-06",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ0NUMUR2R05DaFhRODl2c2FfUU1DNFBqbFNmMWtzWU1QQk5OcHpRODJmamhmeTZrb2ZRbjdmS2M5azJPdW1KVnd1YlQyV05YNGFvbUlBWXFIX2taNnBnczNXekQ0VXlQM2pJUGc2NDRKTGxSTmdWZzlreVNZczdwdldmNXpMNzdoZU9TX0E0d2lzR095S040R2ZZUjRLaW5fNnEyV2k5eVpLUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "27f3b36523218e0fd12b1c289340003d",
+      "title": "Influenza aviar: Se confirmó un caso positivo en aves comerciales en Buenos Aires - argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-02-23",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaUhQV0piX0MzSDMzMWY3YnZNbjNwVklDNDJ6SE9ONXd4MlVnVjVITFlhSGd6dUF1V2plYXY4ZkxZN3lwVWNRaWRUSG5GV2JrbGVpRTV3aFY4WGNiNVFKWmhvTHRIQnNnSy0xOE5IQUFrbVVVR0RtYVdkY05nNkxYWGdHVC1GWXE3N3p2YjFDczhiMXUwWjl5U1VKZGRMMzVTbjNvckxmNlNaLVhQbm4tRjYxQ1BTVnk0c0E?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "dbf70d5ca9d491e6d1d098c481b0c2a6",
+      "title": "Buenos Aires: Se confirmó un brote de influenza aviar en aves silvestres en Navarro - argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-03-03",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUVd4S29NMWdMSl81RU16T2t3RENDYURaTU55aDhGa3BmVFBWeWFGSVFKWk9IV2lfa1JhN21DN0VyWl91eTFnNWY3RVc1TzJUOFoyci1wdHJLcUNSX1BYei1RejB3aGdKSURlLTBHOHVwX0VVNTVUNXc3TmowNlIzTVFHbS1aaFpFZlZNcVZ1Q2xQS0NXUWhvVDBGYXVqMWxCYXk2ODVKSEhmTnFCX2hFcUZkZmlHbWo4TlE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-03-28 02:28 UTC"
+  "last_updated": "2026-03-28 05:22 UTC"
 }
