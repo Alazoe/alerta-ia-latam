@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "984e427cb6a476f9708f8ee490009ed4",
-      "title": "Argentina: Se confirmó un caso positivo de Influenza aviar en aves comerciales en Buenos Aires - 3tres3.com",
-      "source": "Google News - Argentina",
-      "date": "2026-02-26",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUjMxek02bUpaUVRsUGpkeUZmcjM3eXhOV0dwd2d2ZF9PSVVyeHI0R3FDZHVsVDgtUDZwdVZnbS1TSkJ5T0llb3lOSE1ub1JfWEVYTFNlWTJwMGdLbjN0XzRISndEMWRTRHhGYTlzUnBiaTVwZ2ZuVEQ1dHhSVmtQLVZPUGFNUVRqcHlmUk01Sk5qUTN5bjNWVURUWm8zdXlYLUk3ank5R2s?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "7eed6a8ca91fe4c53f593fc88970c544",
       "title": "El riesgo de la influenza aviar mantiene en alerta a Paraguay - ABC Color",
       "source": "Google News - Paraguay",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3p4bHNHTS03ZmdrZkhLWlR5X1locTNCU1JWakNRZ0ppR1BKOC00NHRhckk5TDR6TlNsV1lJUWY1TjI3Z1E2ajZnVllrYTROLWVGMEZrdUZBSl9BXzVSbm1CZVlrS2FJMW8zaHpoZkhJZEt1WUgyaDJPOWJqRV9Sd25IVnhpd2tIMVluTGRtU0cxdzVlQUlrczkzeXVhZUN6SzYzV3UtV2JOT0dnS0E?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "32788b9ee612764028d26a241e1e8b45",
+      "title": "Peligro en el aire: aves migratorias podrían traer influenza aviar - contextoganadero.com",
+      "source": "Google News - Colombia",
+      "date": "2026-01-20",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdW9vaWdVbkhSZWxOTUJHSzdscmJxZGt4Q3FFdVhFLUtRZXVCZDhCUl9OcHlhelN4WVN4MDhoa3JieUs3VlpzaXY2cENOdEtibno1Vmh5ZWZSal9oY081OTVsRFRkbzZuVU5SNy1Ndkd2enBrTHBYQzJNMmhvT0huRnpxNklWRFE1MVFEY2FYazVQc2VpT2Zqc0h6NFdveFZyVjB1NGE5amtzZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-29 16:38 UTC"
+  "last_updated": "2026-03-29 20:36 UTC"
 }
