@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "2bac1dc5d47ceb3969fb576c89cda273",
-      "title": "Uruguay declara la emergencia sanitaria por Influenza Aviar - vetmarketportal.com.ar",
-      "source": "Google News - Uruguay",
-      "date": "2026-02-25",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSy1Xbm1LRnZ5ekFlNlFQb2U4QWVsN1ZHSFhoSVk1c3lETVdNMVg5TmRFZ0FTdU9wdE4wLUkyLU0yb0dQdmdCdmUzal9jd3JTbEo3b09wei04TG5ZNjFPQjRxMmZKVEl5VmFQNFJoYlItUlMzVmxhbjhRdDNZeHI0ang0RjZDRzlpOXFJTUdydXRGMnNSWkpFWDh3allYLTYxTkIw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "c12e3b9970f65dfd6d8613ae54f069f1",
       "title": "Influenza Aviar en México: Prevención, Bioseguridad y Retos para la Avicultura en 2026 - avinews.com",
       "source": "Google News - México",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNajhjTnJ4OWptRUlCWWxRbWY3YkN2NXd4QktEY2UwNUtlT1hiSFFPSDE4Ukxrai1nYTdDekl4R1ZQN1BSU1k2MXdsSU1BNWZaWUdQdWlfUFlYUlJVa0Y5bE43Z2pfZHNwV3loZ2o4bV9CT0tRcHc4SVBqSmR0R3ZCeFpoQUw4MzBCNzhwMHAzY19BaUJocHdSOUJ5T2xqZWVmYjFYTmlZTFNQaW03b3dBc1h2Y1VLVEM3c0ZYYVlKNW5HdE0?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "64860a752045dc7c07811ce8dfcaf2e5",
+      "title": "Influenza aviar en Chile: el virus que ya cruzó la línea crítica - portalredsalud.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-28",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjR2d04xSzRkMWp4dktmelN0RzFXOGQxVHlXVUhCcFZ2ZUxKS0s0c0RySGRZWjF4NEh1STBwWDlNRDFPckE4dVY4Smx1bnplOU1fem51emxqVEFRSXV3aS1kOG16WVRDYVhlQkZ6bTFtOHNua3B0eFZaSUN2M2w0Z2w5SElSUFhIV2llV2tSX1FBVHZQSnRPdjZYU3M2V3JDZUZj?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-28 20:34 UTC"
+  "last_updated": "2026-03-29 02:41 UTC"
 }
