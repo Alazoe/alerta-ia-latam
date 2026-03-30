@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "7cae7e11c94a11b80a4c7883ae870dc4",
-      "title": "Uruguay refuerza vigilancia por Influenza Aviar y activa plan de contingencia nacional - El Debate - Uruguay",
-      "source": "Google News - Uruguay",
-      "date": "2026-02-28",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY3RWazFDYlN4LVp5WnRlNUFSUlV5UlNYbVFVcFBSVmd3ZlZmRlhOMm5iZ0c4Q2NJQkdnZmFkSHZuY1JTLUZmOFNIV2VmOUd0QzEtX0xYTzdRcldXVjc5WHk4YmhJVmxiOGlYdGRNb0Q1R0hlVVlDSEVGR19vbmkzRDhGdjJsU3JwbzZSOVlJOWNaUTJXejlXcU4tU0FkV21teEVKZXRpN1NrRlNlbXlaOFZHbEZzUjVHZXU4dU05RWg2VVZxTndPODFUZGp0RlV6VHZEZFY2M1JZZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "464850a2e56b3f405721c23e9b2358f9",
-      "title": "Se detectó un segundo caso de influenza aviar en aves comerciales - Campo en acción",
-      "source": "Google News - El Salvador",
-      "date": "2026-02-26",
-      "country": "El Salvador",
-      "lat": 13.7942,
-      "lng": -88.8965,
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQnNJS0JwQmFEMzN0eWhGbkdQUDdkZEZhRmlDeC1NWlRIc0ZpY3h0ZGVpcUw2aXRYRWlYR21kLWp3dnlMc2N6d2k1cWJfSFN6ekNibjFuVWhwTS1VSUkxNTA2WXc4WjA5dDd1WEc1NUQ5d1VhS0VsVE9tMkdYbzVuM2tBTVNFemUtcjlraGZWb3UzS2tEWnRqWi1sYUFrWVQ2cmVqUEdRZ1pRRzFkOXfSAZ8BQVVfeXFMTTBpeXpJNGxVX0ktR2JTSDFNUDZqV3JVdlFWOElpdFRnZzVLcUJlLXY0bkZ0OE5Zd19mZ3NPQ3hzSHVyZm5ib1VILXh0UHlBX2RoYlA0SVFRd05JREZOcGZtSEVuR2RteFA2NlM2T1FiX21Cd3pKM2VuZEF0c0kzUkdKU2NoYm0ySXFFa0JRbmRQMTFlR2dPbUVlbTRjYkJr?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "9a885d4b1aea84117d7521257c569c7e",
       "title": "República Dominicana se declara libre de la influenza aviar - CRÍTICA",
       "source": "Google News - Rep. Dominicana",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdWozYTZTU0N4V29kTF9DVjVSVTFHLTExaVBtRUN4bS14a3JNdGU2ajBBVE1wNUFlNkltUlc1blVNeHJLSU1TcTBob0pzVnRvckI3a3N6YlFSTFYyUzZDN0dXRDJlcnhEWTJsTXA0WTJOMTZWWWRCNVA1TTdWZE9jWk5Wc2xVQU1jbDNObGsxSkhzNUlpcVNObzdvVmgxRHBKWkoxWWZ5cThxUQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "76271ce0af75a073b526fcc86e6cddbb",
+      "title": "Cierre temporal del Parque Nacional Natural Gorgona. Inicia cuarentena sanitaria por registro de un foco de influenza aviar - old.parquesnacionales.gov.co",
+      "source": "Google News - Colombia",
+      "date": "2026-03-08",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVWx4X0tvMWx6OEJnRjJrRXFlQVp5aldsRW9SU2w0eU1kTEZjLWp4RHVlRWpFQVBGYkF3dFpiT3EzNGxpMlNub1pidHMxMUN3OTYtcXI1MW5jdExESExFRTV2dEQ4VzQxejMzazNjU0Fpa3BreGJWV2ZVY3JBa0pYWFhnM3NNcXpFRUtrcGtxN2pHQmdWRXEycWJYdEhWRk4xRjd3NXgzX3A1Tkw5ZDJYZXBmTGpRMnYtQWdfbzM2UlVFaU9nQVVRY0htZW41OEp1bWNNYkJUdi1MQ3NJbG15SXRiMEFCb2xtcXc1RjVEZHRFaHJHR0I4YlVYc1ZNc0U?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "fc42d14f119ad24a86191ed0b1239399",
+      "title": "Brote influenza aviar departamento Meta - radionacional.co",
+      "source": "Google News - Colombia",
+      "date": "2026-03-11",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX1VvWXI3MFBOemFka0o0ek9iQ3EtMWVkbk5FUG1RSW4wWGw0Y19fVlVORFczVDBybGR5R0tVdHBlR1RqTGhlN2lUVk9YQTcyZVcwb3hndkZmSlRsRXV5aFpTSlF3bmhqX1A5VTM2S2dPSkZQUXZaaVdNeXB2TTVMWWRXY19rT0M1Z1dvNWp2a9IBkwFBVV95cUxObmFQd19laXZUcFlmYW14cUJxMGJYYU8tQm44MWVQYTE4Z3hYM0FVMzBSbEFDeTE3ZGtqTDU4TjR0Q2l4U1BXcVBQTnhqQ2pUTDl0b1pSZnR1OWE4YnA2ZDBnSGlKQzZDRDRGMHFyUXpkTjIzeFBxcmlYNXFoUE9Oa1hqNWNtT1JhbzJ3LV9vdnFseDA?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-03-30 05:59 UTC"
+  "last_updated": "2026-03-30 09:15 UTC"
 }
