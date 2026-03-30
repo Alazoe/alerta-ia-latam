@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "c49c75188d94e962ea909ab268e788c0",
-      "title": "Paraguay prohíbe temporalmente importación de productos avícolas argentinos por brote de influenza aviar - infolaplata",
-      "source": "Google News - Paraguay",
-      "date": "2026-02-25",
-      "country": "Paraguay",
-      "lat": -23.4425,
-      "lng": -58.4438,
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVWgtS1FGMDNNLUNtMV9lTkQxYTZGQkNQSWNSdjZkWms0c3lGaVNES1hkVjlmbU9lVVh1MGY4U1FSdWtSSU5NT3l4NGlVYkQ5RjU0WElnMU5TNHZYbG1LZzhMWGJKOEtMZTNUNndGME5ENGU4cnR4VUNNR3Fvdm5weThHQ2w1SHo2NTVSYzg0RHpTWlBMaHI1ODBZdXNHMVNYQXVHWXUtTTlkUDIxU2tpMWhWcWd0ZERZeTlHMk5LcnA3UFRVT0NFWA?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "7cae7e11c94a11b80a4c7883ae870dc4",
       "title": "Uruguay refuerza vigilancia por Influenza Aviar y activa plan de contingencia nacional - El Debate - Uruguay",
       "source": "Google News - Uruguay",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU0lMRm1rRkcxcFBPVUpLWWVWMHNtbmdHWE5kOXhPUElSUlZ6T0F2cmtNY1NhMHB3ZGtaZXRVUkZmSWgtakVYTUd1Z2dIV3N6LTBZM1A1ZW5zRFBiNm1vRW5raTNhdm9YeDhTUTk1MkhWRUdCbGZJckxxMXhzZlU2Zks4T3lsV0N2Z3JBTUJ0cG9kc3V4ajV2N0t5UE9reEM1SXVLbUZWWXhnXzF0b2tKTk5ZTDBTeW4xV2FpcGtXeEZQQVFqRnFR?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "b7a58c2c549e58875eafe9953206263d",
+      "title": "Chile suspende exportaciones avícolas tras brote de influenza aviar en El Monte - nuevopoder.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-29",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdWozYTZTU0N4V29kTF9DVjVSVTFHLTExaVBtRUN4bS14a3JNdGU2ajBBVE1wNUFlNkltUlc1blVNeHJLSU1TcTBob0pzVnRvckI3a3N6YlFSTFYyUzZDN0dXRDJlcnhEWTJsTXA0WTJOMTZWWWRCNVA1TTdWZE9jWk5Wc2xVQU1jbDNObGsxSkhzNUlpcVNObzdvVmgxRHBKWkoxWWZ5cThxUQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-03-30 02:44 UTC"
+  "last_updated": "2026-03-30 05:59 UTC"
 }
