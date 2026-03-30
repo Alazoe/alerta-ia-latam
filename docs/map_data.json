@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "7eed6a8ca91fe4c53f593fc88970c544",
-      "title": "El riesgo de la influenza aviar mantiene en alerta a Paraguay - ABC Color",
-      "source": "Google News - Paraguay",
-      "date": "2026-02-24",
-      "country": "Paraguay",
-      "lat": -23.4425,
-      "lng": -58.4438,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaW9ib3oxQVdTZ0pSQ0RJVUlhNS1QWDkxLTNSZWJ6bW5tUzBReDNKaDhGODVtRHhrbl9jak5JTkNlM2lOZUtMMFZ3Si1Zbm5jeUJmRXJQVEJTVHZxVjJaOFhYUVVJdkhCelVWRTVHY0lzU2Y5alNGbXBoNUhtOTViYTRacWhqZXBTcGluXzZLQ3N3QU4ycUFycFhWZG5OVVgtdjVoUkFESlpma0llOGRTbGNFbVU1VlnSAcsBQVVfeXFMT0EybmxHaUJQa2NmMWdEUEpDTlRqOXd6Um40TklyLUJwOGxkRV9ZQ1Y1R2R1WWtfdjFQLXFqemhhVWRURzVkaVVGeEQzdGZET0tGM0dGbUdwMXNSWTJfYjZwMlo2NWJUaTdHRVFrel9vZFd2bUJibjh2dHhiZnlJUWhNR1phOEZFX2YtMF9xQUZ1WDl2MEZwbjFQZEQ1NWliVkZrV2dTWEFGVndBN2VRLTR3a011dU1tVXFwUjl1SGZUdXFvYXpFMEhaYnM?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "cc7fa942eefad2cd2171bcebdcc5f502",
-      "title": "Refuerzan vigilancia en Chile tras caso de influenza aviar en Argentina - TVN",
-      "source": "Google News - Chile",
-      "date": "2026-02-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHhucGdxemdqaHM5aTBfV21WZ0Y1QTJOVF82Y2ttd00zYldudXVVeVRpVDRySFBrREE4TUVqR2ZmWXBFU0MyWlNieEc3N2ZQTWY0UUtFWlUwWWFHVnZReTJOdXR2WVNacUxneUphZnRFU1B3YUs1aWZULTVVVHNLU0dab0kwVDNOZ0pqeDRncWpjT2NKekl6bFlNcVBEaWZ0VTFlMUpTS1otcXByd3Y40gG0AUFVX3lxTE5jcU5QYTItclBETzhtbXh5bE1YMV9HaWR1Q0hDZnFFTnFzZGd6c1dENHpRb2NzeTZ3Y0NPSWthOUhJVEhhVVJGN1lMV3ZyOVNiTjNwNFE1NG5Oa0FFMFJuLWRkaWdOTWlvU29ydVY5VjFTNWVMMlNBN1AzaGEtV1d4TS1EaWo5RmJxU1ZYZzBSdHB4a0tybElNVFcwcFNvZ1FSR2lWUzZCLXRYTWt3YTFXMHpNQQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "7ef7be1fae5f743e7e2833fa29f42a6a",
-      "title": "SAG refuerza vigilancia en Chile tras caso de influenza aviar detectado en Argentina y notificación de Uruguay - 24horas",
-      "source": "Google News - Chile",
-      "date": "2026-02-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWFOWURXdkFUZGFGYTlodFUzeVoxYjdxNW82VWpBeDM5dlBsODJYTUlneFlwVVZ4M1RIMWdCZWU3WlhkY25FUng1bzZjR2Q5OXJEZEJmd0tvMmk1VzN2Vm1COHVtNnoyQnRYeDVDZVRrQkJ3b3lybHE2NHFZNi1icjVrVUl5YVdEZ0pxQmZ5Nk5qWGtULUtLVjIta2VtSnJjbHFfVzFfUdIBrAFBVV95cUxOd0hEQm50QU5kSlBIR0lndG1oSEE1MEVzcVhRcE11SzVGNmVXdmtKN0M0RnNCVG83cTlZd0hGTmtpc3RpYmlYM1E5OFVGUnp1c1l6WXFtaTI4Ym1IU2FTWThCT1FaZ29wZnNnR01HR0JRLWpxSEROQm8xem5KR2dHMmhsMVhXdjltTTI1T2hjX3FUeTFrVWxidXVDMFd5dkxzeWJDenYyQl9CNl9Z?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "c49c75188d94e962ea909ab268e788c0",
       "title": "Paraguay prohíbe temporalmente importación de productos avícolas argentinos por brote de influenza aviar - infolaplata",
       "source": "Google News - Paraguay",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdW9vaWdVbkhSZWxOTUJHSzdscmJxZGt4Q3FFdVhFLUtRZXVCZDhCUl9OcHlhelN4WVN4MDhoa3JieUs3VlpzaXY2cENOdEtibno1Vmh5ZWZSal9oY081OTVsRFRkbzZuVU5SNy1Ndkd2enBrTHBYQzJNMmhvT0huRnpxNklWRFE1MVFEY2FYazVQc2VpT2Zqc0h6NFdveFZyVjB1NGE5amtzZw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "ebfb1c7c9af005e87e1f9ba86cefd7ea",
+      "title": "Chile suspende exportaciones avícolas tras brote de influenza aviar en El Monte - Nuevo Poder",
+      "source": "Google News - Chile",
+      "date": "2026-03-29",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdWozYTZTU0N4V29kTF9DVjVSVTFHLTExaVBtRUN4bS14a3JNdGU2ajBBVE1wNUFlNkltUlc1blVNeHJLSU1TcTBob0pzVnRvckI3a3N6YlFSTFYyUzZDN0dXRDJlcnhEWTJsTXA0WTJOMTZWWWRCNVA1TTdWZE9jWk5Wc2xVQU1jbDNObGsxSkhzNUlpcVNObzdvVmgxRHBKWkoxWWZ5cThxUQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "66bea8d45b96da54ae34d9e721e708e8",
+      "title": "Río Negro: Detección de un caso de influenza aviar en aves de traspatio - argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-03-13",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcTZPdzF1UnVOUDNFdE1yMnd4bjFfaVhQM3RXYlB1aEdpdGJzQUJ5RXRDYzV0eG10UDk5N3hCM1R0Zmh1NTlBMTJ2WWpwdkFLdHBxVWhvM0Z6QU9DZU5kT2ZsUE9fNGNHcVN2S0QtYXp0WHFZenB3VzQ1Q0I1TlBXYmNrRDJpRlRDV1EtMjJ5MW53LVB3WnBLb1lFX2QwRmNxaXE0RmtqLXZrNkQz?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "8acad184c5fd23d007809efa23347e99",
+      "title": "Buenos Aires: Se detectó un caso de influenza aviar en aves silvestres en General Madariaga - argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-02-21",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQU0lMRm1rRkcxcFBPVUpLWWVWMHNtbmdHWE5kOXhPUElSUlZ6T0F2cmtNY1NhMHB3ZGtaZXRVUkZmSWgtakVYTUd1Z2dIV3N6LTBZM1A1ZW5zRFBiNm1vRW5raTNhdm9YeDhTUTk1MkhWRUdCbGZJckxxMXhzZlU2Zks4T3lsV0N2Z3JBTUJ0cG9kc3V4ajV2N0t5UE9reEM1SXVLbUZWWXhnXzF0b2tKTk5ZTDBTeW4xV2FpcGtXeEZQQVFqRnFR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-29 20:36 UTC"
+  "last_updated": "2026-03-30 02:44 UTC"
 }
