@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "4211841ca7901f92f769e47f9979eece",
-      "title": "México suspende importación de productos avícolas de Brasil por influenza aviar - elarsenal.net",
-      "source": "Google News - Brasil",
-      "date": "2026-03-01",
-      "country": "Brasil",
-      "lat": -14.235,
-      "lng": -51.9253,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNS3lBNVl5aXhaeU9rZ2VIekdmcjdDSzJEMnQtdl9ydGVsU1F2TzRFaXFKV2lyQXFJQXhoTmJRMFZPdm90dGJrdDJmVGdaaVNRZkRkWGM0cjlRSVdxTnFnNEs1RDJpbEZOQVRFM1htRlI0SnR5eW5zRzN5N2ZRSWFWdnFkcUFUcHJlWWU4YUZ2QTQyWU4xdzR0TXBiNXdCazh0Sm92Mkk5T3NyZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "6ef5a3c66c424753120a13524864d3c6",
       "title": "Argentina: Confirman caso de influenza aviar en granja comercial y cierra nuevamente sus exportaciones - El Sitio Avicola",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdC04blM3cGxORHprTGFJMkNFRUduRHQ1bktEVjJhWXZSaFdaaXBvV0w5SnZ5QXNsUGJTOTU1TGpueW1TMWVuN05TX1VpUE9FODZTMlE5QU9hQzRFSmM1U29qaUJnTnB6a3FFQ1haSDBHUnpHRHBZVmJ6dFE3dEVTbk5WTll3bTBiT3ZMT25pYkNCUUdjemNKSExCU1A4eXRoMERrNk40Mkk1N0JLaHVXSmluRjF5STBKT2loNm8zX0NlMUNhQmUwYzlCNA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "5bdaf3bb95b036b5b068fb238fa3f9f2",
+      "title": "Influenza aviar en Chile: el virus que ya cruzó la línea crítica - losandesonline.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-29",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3p4bHNHTS03ZmdrZkhLWlR5X1locTNCU1JWakNRZ0ppR1BKOC00NHRhckk5TDR6TlNsV1lJUWY1TjI3Z1E2ajZnVllrYTROLWVGMEZrdUZBSl9BXzVSbm1CZVlrS2FJMW8zaHpoZkhJZEt1WUgyaDJPOWJqRV9Sd25IVnhpd2tIMVluTGRtU0cxdzVlQUlrczkzeXVhZUN6SzYzV3UtV2JOT0dnS0E?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-30 20:50 UTC"
+  "last_updated": "2026-03-31 02:38 UTC"
 }
