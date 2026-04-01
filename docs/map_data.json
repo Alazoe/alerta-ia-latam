@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "ba4b772d8ecea1296caf4b8dd7dfe9a2",
-      "title": "SAG confirma caso de influenza aviar H5N1 en aves silvestres en la región de Valparaíso - RadioSago",
-      "source": "Google News - Chile",
-      "date": "2026-03-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbExWd2VRNUROeVJVMEU3cWtmakFlbTJJbzJ4djVUZ05JZUF2dmFRb0dpTUxKc2hlLTN1TUUtNzA1TG5tWWd4ZUNHNHEzMUVucXhiLVMxdWZqS3F5ZllZZFN2UThmVHlYT21KRFY3NlNFNVJZNTV1VkVhSmRiN3VvU3hUQ1c5R3Q5TjJwRUN3ZzNfOGpXbUg1bHNrNlNzMVhhaHVBdjdiVVZzOFh2SHJmellmTQ?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "d4c4d495ec7be742cbce18956c442f74",
-      "title": "SAG confirma caso de influenza aviar H5N1 en aves silvestres de la región de Valparaíso - Marga Marga TV",
-      "source": "Google News - Chile",
-      "date": "2026-03-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU21Ma2pUWDJ6ci1EOWxlNWZJNFZsQkN5aTZhWTR5MHVZNi1HSHdlUFNEWl9wU3BTb3B3aEV1Qk55UFp3cVQ5b181X1ZHSi1rRTk2NGI4U0VXMlMwY04wM2dubTdPQUlaSWxqM3dmQzNNU2s4TC1SZ0lCeE9FeHdpYW9MNVZyWWtvOEFqN0QyU0V2WGpaNXp5NktKTEo0Y21LbmFxbENPU2lhZDZKTFV6MXdR?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "4616fbe84f7d928c5013a6df29f4ce86",
       "title": "Senacsa refuerza prevención y control de influenza aviar ante riesgo regional - adndigital.com.py",
       "source": "Google News - Bolivia",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWTRGU2FUNzlWODg1Nm9yRGNoVDA3VTl0Y0RFWTdxTzNhYkdueVJqSjNIU085UUtQeHgxNG12VEkwMUpnbHpmcTE2aHRnY19wYUw0YmhQZEVXaUxiLW1paUtGLW5ERGRZLXItLTVuU0N2UEJMdXhWNVRuZWR3UlZaMTNHeVowZHhlWW84MWNSTTc0dkpVR3d5N0Rub2NxbFp4aW1udkFmQVAzcDJLNE5BMHhtb3hmTHVJalZvQnpoeklVU2ljLTBIajF2a3JNOU3SAdwBQVVfeXFMTTVyMUt2OG9Xd284WkQxbTNyaHZGNy1IdTdnMHRYQWRCN2V2S1IzTGVZalMyZlJiZ0xiTXJGclRoVjlmY3M5YXBNbUxVVG1pX2QwVV9IaEVVVFQ4NEp1akVVSjJiaS1wQkZOdGdfU09oaXBlWlRFbHdQdHViUW1WSUt3TENwQzRnVmpjOTU4NHNGQ0s4NTJvTTB0cndlX0pHbTlwLVZ5SFBUeEJqQW9FU2JyQkJjUms4MlBtNzRrRTdOUmJUTGJtTHNoUjZfbmx3X3owekxYcEUwN0l4bw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "8e80deff33bd0e4bb66a97f9fc7c979c",
+      "title": "Chile reactiva exportaciones avícolas tras brote de influenza aviar - reporteagricola.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-01",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbTZqQ1dfdTJTS0JkZ3hyenhnVDRLaGpzYVdMTThUT2E2cWtnaTlPY09jYTlNQkhzVFhkYzZLeVIzX3JfOWI2VnM4Z1hVcjZMWGdNazBTZUpzemRDbjdPT2RfckgzQTdmeUQ5QTduZTZnZDlkWXNDa0dCTzVORU1zY3pGRlpYdjBxdUUxbUhNcnpaeHppaEY0QnY2U0JxaTJTaVVCNmJXYXA0a0hzM0RTZjRIdnd2Zw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "8de3f4f08e6b9ef48aa1c435e66e64c0",
+      "title": "Paraguay prohíbe temporalmente importación de productos avícolas argentinos por brote de influenza aviar - laprensa.com.ar",
+      "source": "Google News - Paraguay",
+      "date": "2026-02-25",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdkNiaTVMN1o0YzBIVloyZkMyRVpnR0N3SWpsRlY4ZE9Ea3R5SlRtMTZWelpBamkwOEJGTDU3TzlBMG45R3l3dFNwb2NHVHVmWExEbkRIVWk5TXl3RXFaUmE5SDJQaEJqb2JUeVBDMGROUVluakx4eUpma3hUbXB6akdGVllLdXVQV0RqR1NpZmVlTHc4eWxLeUcxdC1xd1JucVNHWFJZSWlQTk5oVGVJSzJMS29RbENWQnEwaEhrbW12MEo5MDRkVnBtMFBnN2QzTU9TaExHNmlocmR6ZkI1UWhQaw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-04-01 09:09 UTC"
+  "last_updated": "2026-04-01 13:27 UTC"
 }
