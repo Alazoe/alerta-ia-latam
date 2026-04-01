@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "4616fbe84f7d928c5013a6df29f4ce86",
-      "title": "Senacsa refuerza prevención y control de influenza aviar ante riesgo regional - adndigital.com.py",
-      "source": "Google News - Bolivia",
-      "date": "2026-03-04",
-      "country": "Bolivia",
-      "lat": -16.2902,
-      "lng": -63.5887,
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQlZLUG9kN0FwRHFrWjFtR0RLMGFyRXVuYVdxTVR4bmlWSHdDZHVzeGNCb3U1WjVPR2hKT29JbTRCVDlfTEhlWncxUUIyMktpWTd5MVpoV19jaVRDSWpSTUJWOEZJbW9zem9paGlMb3lNcEhmTXZHLWdTVm85a3FMYy1tbDRHS3dGUi1YNHhtYXZDcTJCMDNXQURvMFY0NUJrWnEzWWZTS1F0WUhC?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "268ea9732764fa7321b5feda6024cc70",
       "title": "Por influenza aviar: Senapred alerta por evento zoosanitario en la Quinta Región - Teletrece",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdkNiaTVMN1o0YzBIVloyZkMyRVpnR0N3SWpsRlY4ZE9Ea3R5SlRtMTZWelpBamkwOEJGTDU3TzlBMG45R3l3dFNwb2NHVHVmWExEbkRIVWk5TXl3RXFaUmE5SDJQaEJqb2JUeVBDMGROUVluakx4eUpma3hUbXB6akdGVllLdXVQV0RqR1NpZmVlTHc4eWxLeUcxdC1xd1JucVNHWFJZSWlQTk5oVGVJSzJMS29RbENWQnEwaEhrbW12MEo5MDRkVnBtMFBnN2QzTU9TaExHNmlocmR6ZkI1UWhQaw?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "61fe9040ff337f1e38383f29314d2cd7",
+      "title": "¿Cuántas aves de corral murieron en lo que va del año por la influenza aviar? Hubo cuatro focos “comerciales” en - Bichos de Campo",
+      "source": "Google News - Argentina",
+      "date": "2026-04-01",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQQmQ3Zlhrd1VHemVaSzFTLTdBTC1CSTBtMXVqbUtQRTJiUG1QNHk2Qi0ybFBwVVlaVEg2S1cyYWlUWFk5ZG5BSFZUZVNGTlFCZV9aQjg2Z0d1OXFVRWJFNUNZMTQ0LW5yX0pESG91aVpqdDNMY3lNeHJ6OW5FY2FsZ0M2Qk1ZbC1kVDBOdENEQ1h3WWNWUDUzem9PMk1nbmQxR2JqWEIxREc5N3c2T3JjakdNR2FYQTRCV0I3LXZsZ0VBeTk1eUZQbHRPbHJZaThmUEstcTE4cExWZk5hd0FwSlJBd0RUZlJuc19raUhXZVZTcnNFVTJvQmYwdlNVNlpLZUNHUjByVFQ4X2xmMkJ3SzRoNGpkYW1RYWNkVHk1bS1tUWlZelJrTHFDbnA?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-04-01 16:58 UTC"
+  "last_updated": "2026-04-01 20:48 UTC"
 }
