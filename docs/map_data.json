@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "059ea5cdda948d370d3865fc1d885258",
-      "title": "Influenza Aviar: Perú suspende importaciones aviares desde Argentina para proteger su estatus sanitario - avinews.com",
-      "source": "Google News - Argentina",
-      "date": "2026-03-03",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMDBzaXdfRjFEZ3ZhbXN5b1RPdjZUUUpaQkdieGppOHN5WVVkUTRrSmlMZG1lRVZhV09rT1JLRGVkQmxyaWJkQTJtZTRnUWF2S0lSMUtIN0hRVGNXc3NDemxoQmp5bUdMelM1MG1aaVJwaVlpVEpFdFVYVmtPM1gyRXRmdE9OTW5zcE9qY2tOZmVhSGlKZUtzdnJzMEhNWXVJd0VDbWxqckNhZmw1TWc5Y2czVmJWYk5jSklVMDJxNG0?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "e58178d9ab6ef736a219201f78341bb8",
       "title": "Influenza aviar: Senacsa y avicultores en alerta roja ante nuevo foco en Argentina - ABC Color",
       "source": "Google News - Paraguay",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPODVwck15eWFmZ0ZGX2twUC1NOUdGVF9aMGpkQlBuLWdGY09YTVVOOG1lSmE3TW1JVTQyLVBkRjhrRlNDRmZtczhOa09WY21FejBUMDdNa0RST0dZdldMZTd1NG1DZ0N2dEZBYWxMZ0RGdXMzSk9yaE1LV1N1TTh1amlLSjVHekppcWpQdnZIMzlWSVBsUkpGSXNrcndRY3BXWGRKYlhmZndaZFFFWk83dGM0VEYwanZ5dlk5eXJoRHVxdldEejVSNHBCMVVuZzgwclBmZ1Y0Q2hCX1J1RFNHZlN6Y9IB2wFBVV95cUxOeXlzVVhiVUtHcjVuVk81dkpXY21UU0R6akxmdWJ5VS1pVUNONDNya0VzYzNhN0NyRUEtUnlybVFUaER1Zlk1QUd5c0c0N1NjMWpURHJwRHV3VmZmSGIxal9HaW1xb2k3ZlZMUFp6VlpKU3FFVE5ienZBRmFTVGNtWDdrRElRM0hISGktWV9MMjV1aTRXREdRNkMtZWo4YlBJaWhiRXpydzYtOVZxcnc2d2lUSjl5Zy0zbVQxX2VSVTlJam5uYVdkTGR3a2ZZdjdTM3MtenoyMllMTWc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "4bbd35bac141dffed61edc598d53bb64",
+      "title": "Senacsa requiere máxima alerta por influenza aviar tras caso en Argentina - udgtv.com",
+      "source": "Google News - Paraguay",
+      "date": "2026-02-24",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMTdPTE1jdHVXVnVJYTV0Qm5GOTlnZFkyRmlyTWcwQXVFR0Eza2dDVmFjd1R6NFVRWkNSdFJSOVBQRnMtNFc5T0I2Vnc0c1JRSnl6bFJJdlJJR0FvMmVQT0lwaWNIUXZYOGlUOEtEZmk4dW9sWGswV05hVXdxNkV4Nk1SV0o2OHlkNnJkUXV0bFhuTHBxRmUyaVRLd21qQzRP?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-01 02:50 UTC"
+  "last_updated": "2026-04-01 05:56 UTC"
 }
