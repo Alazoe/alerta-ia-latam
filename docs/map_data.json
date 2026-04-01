@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b37b6553b57137967fde655b6d489e3b",
-      "title": "Uruguay activa un blindaje sanitario por influenza aviar - Periódico MOTIVAR",
-      "source": "Google News - Uruguay",
-      "date": "2026-03-02",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTzd0VWlmYm5ET1doYTNTcWR6NWtjMjA2SnIwMWM1NVJjWk9mUW56VElXM0Jha0V5czBlak9IRk9FMnJHMXRpUTFyVGl5YnRCbE5mdUlGeFNyTS1CU1g5ZW5jZmttZGxDa0tKbzkxS2hpTG4tMHlRWVFtRV9UQUlUbWpUbGh5bVhEOS0tdXh2V3UtVHdOVUZSa3hNb0ZxdkQ0OUxpakNn0gGrAUFVX3lxTE1QWmpCWi03UndELVoyVG1XdVFWTjhaUkdkbGpnbXVISlVmbDdMX21jQl9NeEdPZEdBd3BtVVJUaGtlX3ZMLVlCVUpPOFE3dmljNU05MDNYakt1Vnc2cHJ1YkF6eENkQWQ1QTZuNmN1SlBUb2U5NkF6T1NmU0hwUlc3UHVrTmpnUHVoalJldWI3blNUdHEyQXlLTWdEdVo0OVN0NGpfLU5DOVlCcw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "6c102a6e8581157e021894918334d094",
-      "title": "Alerta Sanitaria Regional por Influenza Aviar Altamente Patógena - avinews.com",
-      "source": "Google News - Chile",
-      "date": "2026-03-03",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONEM1N2tJZDdLaTRSbmVBR2ZJWFY3STd2YmlhcWlTczd5WUxKYXBwS2xIeXBrdUhSVEJsbUpVaWtoRG5RSHVPN0ZFUUplZlpVWlBEZVVzVzMwVExNMXk4TWt6aHlYWjJLWklROVp2WU5kSHp1amJUS0FCRnhSOGJkMlU0X0lWQnRJcmFmcVpR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "059ea5cdda948d370d3865fc1d885258",
       "title": "Influenza Aviar: Perú suspende importaciones aviares desde Argentina para proteger su estatus sanitario - avinews.com",
       "source": "Google News - Argentina",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR3hEMVhUUkpPTlcxdGMwUXpkZ1F6N19ra2E5cV9SLS1HbVM5OXdUbWFQMlFCVE5kcnVpWlpPSnhvY3docE1YSjRQaGVaei1pLTJiN01MblpzaGVCNm5CRlhWOTJuSkNOX2JhY1ZEMEVxU19TeUVvWVlKeHN1TDNVaGFWVWUzbmNhV0ZacDFBcTZSaV9PTmliNFZZZG9DMGo1cW5r0gGoAUFVX3lxTFBxenduZWdaZk1SR2lkcEtyeWZvUWd6VVlTSVR5WHVfMG9QT2R6TmcwRnVyZXY3UVdfZGF1ZUJ2QWxvdDlqOFhodUlRaFAzX2oxM2J0YTJlZ1pwUW5CQ2R6MmFfazUwRDhpaFdSQ0F0NFIyYllZTlNRV3d3WXhFbkVlY1h0c0I4QkRjR3JfdXVZUHVMeGk3MTd5NXBDWkF6eW9tQXdIWWFpVw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "063fdf004605e7c5d8d4aa3acdae3987",
+      "title": "Tras foco de influenza aviar: SAG logra la reapertura de mercados de productos avícolas - Teletrece",
+      "source": "Google News - Chile",
+      "date": "2026-03-31",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWVdacnl3Z191VFpFN0dwR3J1bHdSUjg2RFVSUEN1eFRzdDFIUS1lMXNGZ1JhVmpHbTNBVUZoUHZab1pibW81clhVRGtYR3E0cHBXT2wwSjRrYjNWeHlxVzVRWXotc3lhMWZKVG1TbE5IU1hLdG5XUHlpczB0UW1LUTBvODJSQmJ1dHhfc2dlclI2U2ZrTk43Uk95VXVCRWZRcnhkblRZZVNON1V4YXFOMlZQam1NVFkxSzh3OGFSdjFFQdIBwgFBVV95cUxQWVdacnl3Z191VFpFN0dwR3J1bHdSUjg2RFVSUEN1eFRzdDFIUS1lMXNGZ1JhVmpHbTNBVUZoUHZab1pibW81clhVRGtYR3E0cHBXT2wwSjRrYjNWeHlxVzVRWXotc3lhMWZKVG1TbE5IU1hLdG5XUHlpczB0UW1LUTBvODJSQmJ1dHhfc2dlclI2U2ZrTk43Uk95VXVCRWZRcnhkblRZZVNON1V4YXFOMlZQam1NVFkxSzh3OGFSdjFFQQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "949b25dc88d1a1022645c265a87b42be",
+      "title": "Confirman influenza aviar en la Ciudad de Buenos Aires y Paraguay cierra las importaciones avícolas - revistachacra.com.ar",
+      "source": "Google News - Paraguay",
+      "date": "2026-02-27",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPODVwck15eWFmZ0ZGX2twUC1NOUdGVF9aMGpkQlBuLWdGY09YTVVOOG1lSmE3TW1JVTQyLVBkRjhrRlNDRmZtczhOa09WY21FejBUMDdNa0RST0dZdldMZTd1NG1DZ0N2dEZBYWxMZ0RGdXMzSk9yaE1LV1N1TTh1amlLSjVHekppcWpQdnZIMzlWSVBsUkpGSXNrcndRY3BXWGRKYlhmZndaZFFFWk83dGM0VEYwanZ5dlk5eXJoRHVxdldEejVSNHBCMVVuZzgwclBmZ1Y0Q2hCX1J1RFNHZlN6Y9IB2wFBVV95cUxOeXlzVVhiVUtHcjVuVk81dkpXY21UU0R6akxmdWJ5VS1pVUNONDNya0VzYzNhN0NyRUEtUnlybVFUaER1Zlk1QUd5c0c0N1NjMWpURHJwRHV3VmZmSGIxal9HaW1xb2k3ZlZMUFp6VlpKU3FFVE5ienZBRmFTVGNtWDdrRElRM0hISGktWV9MMjV1aTRXREdRNkMtZWo4YlBJaWhiRXpydzYtOVZxcnc2d2lUSjl5Zy0zbVQxX2VSVTlJam5uYVdkTGR3a2ZZdjdTM3MtenoyMllMTWc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-03-31 20:46 UTC"
+  "last_updated": "2026-04-01 02:50 UTC"
 }
