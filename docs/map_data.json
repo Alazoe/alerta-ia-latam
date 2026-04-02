@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "080d97f8f81b7f45e21c64d936772956",
-      "title": "Argentina: Cómo los brotes de Influenza aviar afectan producción y exportaciones - avinews.com",
-      "source": "Google News - Argentina",
-      "date": "2026-03-04",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmhBRk1ZNEN2Sk1BNzNVTGdVeW9nQl9lQ093RF8yRnl1M214MkRtbkdCbTlERmpGdExjWFkyMzNmeF9hSGRwNEMzSkd0UWhwa3F0STNJWTlNc0xVVG5fYUd6ZWF3SEZMcG1EVlEzTGQzd0RrdnRCVUlHWGRfMkh6VjZiTjhlNHBKcEs0X1ZQVWVVdjY2QTBzd2NxUTJ5Vnp2Z0E?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "aca083d11d14befd672f20bf84721505",
       "title": "Buenos Aires: Nuevos casos de influenza aviar en aves de traspatio en Ranchos y Chascomús - Argentina.gob.ar",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb1VLTmJxRVV0OHhtUDlzZkhnRTdveEpySDV5R1Bhdjd1a3ZtX2JyeDJoQTZSenM1cFFUSGt5VGNzTG11UXB5SFF6M0hHVVdYVDJ0UVI5RlpUOGdmTUVKOTRCbFd5TnpZbGtOeEM4eTkxSEllaUh5SDY4Z0J1aDJFOUJjX1cxTm1SdFNoRG83cHZoel9FVmkxbHd4cWxxNHlLVGcwOUxGR2FhVktzdGVSUA?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "9334fe96dcf5e278eb702ea4e030e5b6",
+      "title": "Chile retoma exportaciones avícolas a principales mercados tras brote de influenza aviar - laregionhoy.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-02",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZDJpS2N0MW5KWVFCcVB1NzlfM2dyeF9sT2l4cjBDUFRKWVFJVjMzQVdTU01VTV9CY3JyU0JSWWVMOHJFVEwwN044ZVFSSzl5VXZWVnQ0SDJRaTF2clc5VFlrUWJVeG9icWZXUGlaaklRQWN2bFNFQjhtdXhxZ29FZTJZZ3E3SWxxUTA4LUZtZ2V2amVhb3drVTRJZWdPclZTTjNYaklSb01wenBldXY1c1BBdmUzczhZZm1NR2xncW0?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-04-02 16:58 UTC"
+  "last_updated": "2026-04-02 20:37 UTC"
 }
