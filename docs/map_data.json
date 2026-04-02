@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "268ea9732764fa7321b5feda6024cc70",
-      "title": "Por influenza aviar: Senapred alerta por evento zoosanitario en la Quinta Región - Teletrece",
-      "source": "Google News - Chile",
-      "date": "2026-03-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQzNCcVhuVk0tU1ZnRkpEbUdOQWpjYXZzQ1Rob2xyLTB2djNyMHFjZXA4eGtOWWR6Y2JmWks0dGt0cDFQeDFJR0NhNDlIc3cyUHl2aDM2Umh3UjFvbUI0ZkpUZjJ6TzhBZDNXMkVvNFZJXzk5OE4wZHZTZVItMThtWkdhY1paWkg4c1RUV2VraHBFTlhRRjRFaHExMlVhcE1ZZ1B3Tm5KNkZxd3hjWFZ3QjQyNjlCcHdJVmplYmdvY9IBvwFBVV95cUxPQzNCcVhuVk0tU1ZnRkpEbUdOQWpjYXZzQ1Rob2xyLTB2djNyMHFjZXA4eGtOWWR6Y2JmWks0dGt0cDFQeDFJR0NhNDlIc3cyUHl2aDM2Umh3UjFvbUI0ZkpUZjJ6TzhBZDNXMkVvNFZJXzk5OE4wZHZTZVItMThtWkdhY1paWkg4c1RUV2VraHBFTlhRRjRFaHExMlVhcE1ZZ1B3Tm5KNkZxd3hjWFZ3QjQyNjlCcHdJVmplYmdvYw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "080d97f8f81b7f45e21c64d936772956",
       "title": "Argentina: Cómo los brotes de Influenza aviar afectan producción y exportaciones - avinews.com",
       "source": "Google News - Argentina",
@@ -1247,18 +1235,6 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaERYWDJtbDlabi1hdmh6ZW5TaUlRUGplQ19PSUpTdFRoWXRFaUN4aXlIeHQ1blRPQlZPaVVzVGtLcVJsMVJXX1E1MnQzM3pFeDZUS2NRRldxczZvREprYlhTQTZjNXlWdlo5SERkek5kTkRtMEQ5cjU5UjQxZ1VGTzMwZjVjSldaVjRwZF8wTS1tdUp3OVRVYzJrUQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
-    },
-    {
-      "id": "27a5ff638e35549f3452a1fc121b94a0",
-      "title": "Canadá reabre su mercado a la carne de pollo de Brasil tras el brote de influenza aviar - Agritotal",
-      "source": "Google News - Brasil",
-      "date": "2026-01-02",
-      "country": "Brasil",
-      "lat": -14.235,
-      "lng": -51.9253,
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSmJKMms2MnRlTkhTU0VUX2FmTmJkQW5EcENmcWZ2MkFkSVRyeDZOdHB1M2JsRDdfcURic0NNdWdGdzJ3RFhhSFN0TmpyNVVwem5pNTRLcjliSXBUWTBXZHp4YXVxdnoxVERROUFDOVlfc2J3a0dwbkNYVEFnbFJuSXlSM0x5SkM1Z0taNVJPN3FWWWRqbTJDTHRpNTR4cDdEdWc5cmNFMnZYVEZ3MjhPa1FUc09BTDN1NlZxRVdjQ2ZMNXc?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
     },
     {
       "id": "36149c433c7c5b738655f5d586d10500",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQQmQ3Zlhrd1VHemVaSzFTLTdBTC1CSTBtMXVqbUtQRTJiUG1QNHk2Qi0ybFBwVVlaVEg2S1cyYWlUWFk5ZG5BSFZUZVNGTlFCZV9aQjg2Z0d1OXFVRWJFNUNZMTQ0LW5yX0pESG91aVpqdDNMY3lNeHJ6OW5FY2FsZ0M2Qk1ZbC1kVDBOdENEQ1h3WWNWUDUzem9PMk1nbmQxR2JqWEIxREc5N3c2T3JjakdNR2FYQTRCV0I3LXZsZ0VBeTk1eUZQbHRPbHJZaThmUEstcTE4cExWZk5hd0FwSlJBd0RUZlJuc19raUhXZVZTcnNFVTJvQmYwdlNVNlpLZUNHUjByVFQ4X2xmMkJ3SzRoNGpkYW1RYWNkVHk1bS1tUWlZelJrTHFDbnA?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "eadff292f7f90eb1596be5157c09c76e",
+      "title": "Chile logra reapertura de mercados avícolas en tiempo récord tras foco de Influenza Aviar - avinews.com",
+      "source": "Google News - Chile",
+      "date": "2026-04-01",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVy1aSmxtRVdzbEpvRF9PdVJrQnljamJjMUp6SGN0dzh3TjVwRFMwTXNTUXFLbVpJbEpjNU0tLUx4QjlzUGFiREJFVUVaSG9uYTZGM0w0OHVmOXhaczNaNlJ2c3oyaDl4QW90WTlGSFNkRk1nY3F1TzVLX2xpU0czc2FXTWIwT05OendZQlA5enAxWXNlV2lfY192RjV2bmFmaG5WYTlRZXB1djRFd0hF?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "780cf9749eac7b27bed29731f82455f7",
+      "title": "Chile reanuda exportaciones avícolas en tiempo récord tras brote de influenza aviar - Radio Magallanes",
+      "source": "Google News - Chile",
+      "date": "2026-04-02",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb1VLTmJxRVV0OHhtUDlzZkhnRTdveEpySDV5R1Bhdjd1a3ZtX2JyeDJoQTZSenM1cFFUSGt5VGNzTG11UXB5SFF6M0hHVVdYVDJ0UVI5RlpUOGdmTUVKOTRCbFd5TnpZbGtOeEM4eTkxSEllaUh5SDY4Z0J1aDJFOUJjX1cxTm1SdFNoRG83cHZoel9FVmkxbHd4cWxxNHlLVGcwOUxGR2FhVktzdGVSUA?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-04-01 20:48 UTC"
+  "last_updated": "2026-04-02 02:34 UTC"
 }
