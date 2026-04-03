@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "724fdd7ae1f80e2cca6d5b8dffabea61",
-      "title": "Crece preocupación por Influenza Aviar luego que SAG confirmara casos en aves silvestres de Valparaíso: estos son los síntomas - Sabes.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSFBWYmZHa1FHN01Xem1KRGx6N09yVTloV090R1ZIbjFQbUhrUDhRRlVMUThpbTc2VVZoX2ZibDZCMmRTeG56eGdxazI5T3hWMEUyV3ZkeXVUODctZ1BxdEw3UXBHbXFyallaRDJabzIyak5sM2NfRHRsc3UxclRaeHN0b1VaUlZoNkVqSnpkcXMzY2pUdk9TdjV6UGo3YXJxYS1mVlpPaGw3WWxmdC0xUTFUMVk2cm5hM3J2M1NaNElWRU9pMXJDa0dWTEt1OVBTYjdDOE16bXZlQTZ6Uml0VHVlT243ZnotUHc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "923ba0c3cdef0ed1690a83d4ed085bfd",
       "title": "Detectan influenza aviar H5N1 en aves en Santo Domingo: ¿es posible el contagio en humanos? - El Dínamo",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd1lONkRZWDhhbnN0aWg3NVpOVWluMFJQeFhNd3pyMTNNQ2pUUnBJekxqVk1TX3J2d2UtbFNuc05BaklwMkJFSExkTlptOFMzUm53MTBTbk5GOWVRdWgyVkQ2elJuWGlVc3F2MWFmUHZWbFVsdm16U0RsY3dyNGxUekJQSG9JZUp2NVE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d5181067070275009c2105753b0ae410",
+      "title": "Volvieron a detectar nuevos casos de influenza aviar en Río Negro y Córdoba: cómo prevenir el contagio - infobae.com",
+      "source": "Google News - Argentina",
+      "date": "2026-03-22",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjlYM2tkQWc3VTFON0dwbFJXZHUteEQ4eXpHNU5FMTNiMEdvWjFkUHdHNUdiQzFTUW9RRHQwaXAwU2RqaW5IMUE4VmFWTEJuUWQyenFkZkdnRlRBaDBZN3ZWVXQ5NlhCZHhVOFVER0ZkZVQtN256QU9EbkN5ZmctV1dZUWZUNWVBelI3eGdtNWYybWJrRElZa2lia2V4eFRPT3otVkt1TWpBd1oyS2Z3RlBMYmdxa2IyY1NmZE1KUlVRYlhzZ2duRjduOTVHQWg1TmdUU1QwLXNieHVXQXpr0gH6AUFVX3lxTE1ldFJ2X0M0TFhxa1hHSllSYXJKdTR1b3k4V0FJblkydVZabU92Z2kzQzNFY3drNjlxTGNoY084NFFnbEE1Tm1pUkZlMHJYNlV2NER2dXhUSnFsbVFBNjBCNlFxSHhzYUc1TWxiN1FZQkxuZnN4X2g1Z3EyanFZTFpjUjJfSG42cERpZEJ4Z0VzQ0kzWm1wd25TUnFCcDdzLXNEQ2tEbFpuUUlrbmdwSl9ZdlpFR0dPcWR4S09PVC1ncm5lOXFTb0t3YnYwZVBoNFZ6dEllcWxuRFA4SkVpdlNSdnd2d2RRdVZVVzVhdFBncjJnVkp1UGRCOWc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-03 05:42 UTC"
+  "last_updated": "2026-04-03 08:58 UTC"
 }
