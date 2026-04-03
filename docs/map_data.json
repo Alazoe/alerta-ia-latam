@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "bc8585b2d2097eaa18aa5c211185397d",
-      "title": "SAG confirma presencia de influenza aviar en aves silvestres en Valparaíso - Radio Canal 95",
-      "source": "Google News - Chile",
-      "date": "2026-03-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZV9OLWhYTENXVF91ZWdIMjdPRW9fNTZ2aXlOSmx5MFcyX1R6Q1VUMGYwNzFrWFZvcEF3RUdnYm85VFFMMjNBVjVIT3VKMGpxMV9FSDlaU1hsUENaQm1nbXh2NVNxelF1dTlEblhHbjl6ZEFGLUFvdkJfZWJlWHdzQkZiM1JxVXlzckxlZW8xVWhicko1WWFabjZLQlRWUQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "b6babd9c40e1e1377aed4207fa1a3650",
       "title": "Chile confirmó un caso de influenza aviar H5N1 en Valparaíso - Revista Chacra",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNMjlYM2tkQWc3VTFON0dwbFJXZHUteEQ4eXpHNU5FMTNiMEdvWjFkUHdHNUdiQzFTUW9RRHQwaXAwU2RqaW5IMUE4VmFWTEJuUWQyenFkZkdnRlRBaDBZN3ZWVXQ5NlhCZHhVOFVER0ZkZVQtN256QU9EbkN5ZmctV1dZUWZUNWVBelI3eGdtNWYybWJrRElZa2lia2V4eFRPT3otVkt1TWpBd1oyS2Z3RlBMYmdxa2IyY1NmZE1KUlVRYlhzZ2duRjduOTVHQWg1TmdUU1QwLXNieHVXQXpr0gH6AUFVX3lxTE1ldFJ2X0M0TFhxa1hHSllSYXJKdTR1b3k4V0FJblkydVZabU92Z2kzQzNFY3drNjlxTGNoY084NFFnbEE1Tm1pUkZlMHJYNlV2NER2dXhUSnFsbVFBNjBCNlFxSHhzYUc1TWxiN1FZQkxuZnN4X2g1Z3EyanFZTFpjUjJfSG42cERpZEJ4Z0VzQ0kzWm1wd25TUnFCcDdzLXNEQ2tEbFpuUUlrbmdwSl9ZdlpFR0dPcWR4S09PVC1ncm5lOXFTb0t3YnYwZVBoNFZ6dEllcWxuRFA4SkVpdlNSdnd2d2RRdVZVVzVhdFBncjJnVkp1UGRCOWc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "5b91ac5c529bf1d19e673eeb0be2adce",
+      "title": "Alerta Sanitaria Regional por Influenza Aviar Altamente Patógena - aviNews",
+      "source": "Google News - Paraguay",
+      "date": "2026-03-03",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONEM1N2tJZDdLaTRSbmVBR2ZJWFY3STd2YmlhcWlTczd5WUxKYXBwS2xIeXBrdUhSVEJsbUpVaWtoRG5RSHVPN0ZFUUplZlpVWlBEZVVzVzMwVExNMXk4TWt6aHlYWjJLWklROVp2WU5kSHp1amJUS0FCRnhSOGJkMlU0X0lWQnRJcmFmcVpR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-03 13:09 UTC"
+  "last_updated": "2026-04-03 16:43 UTC"
 }
