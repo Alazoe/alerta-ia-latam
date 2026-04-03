@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b6babd9c40e1e1377aed4207fa1a3650",
-      "title": "Chile confirmó un caso de influenza aviar H5N1 en Valparaíso - Revista Chacra",
-      "source": "Google News - Chile",
-      "date": "2026-03-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU0RHeXVTaUNFYzBVeFBSUTlnaHRmWDRMWmQ0Qi1qeXFWRDVhSHFXcjk5dUZaVmpDRUludFVXc3JfVGJ4bUU5SXZfamJycG5KQVNEWFVWaHMtQWJaT0pIV1hiZWc4Y0hzdF9taTZHcDlGYzE5eHZxaktXREY0a0RJOHEtRWN3VHZ5eWJyZVpYd3g1SnljNE91UTYzSGkybFNBVXRV0gGjAUFVX3lxTE5TREd5dVNpQ0VjMFV4UFJROWdodGZYNExaZDRCLWp5cVZENWFIcVdyOTl1RlpWakNFSW50VVdzcl9UYnhtRTlJdl9qYnJwbkpBU0RYVVZocy1BYlpPSkhXWGJlZzhjSHN0X21pNkdwOUZjMTl4dnFqS1dERjRrREk4cS1FY3dUdnl5YnJlWlh3eDVKeWM0T3VRNjNIaTJsU0FVdFU?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "51355856a78f317a5a38698c42e5f75c",
-      "title": "SAG confirma caso de influenza aviar H5N1 en aves silvestres en la región de Valparaíso - reporteagricola.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS0VyUm9UWUxweG5OREtQOUo0bUFSNGJWcTFnMktpLUtPdHlXeF8xY2FaMXh0bDI0UUhFTGpPQ3hzVS04cGU2VXA0VDMwNi1PVTY1UHRJOVFWWWY4OUVUOTlySDFINmxMSHo2MlJHTm9hdFBJZ1hpbjlJZEQxSG9Pb0xmdy1GNlpTS0dXLUw2cmxmLTNQYjNCNFhKaUFwWkE1RGxUSjRIVk9pbEVBMXB3MmJNRVVZdEFNOEdZ?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "bda3f78ade0c5086b664bc3ad1bcddcf",
       "title": "SAG confirma influenza aviar H5N1 en el Humedal El Yali: activan alerta sanitaria en la región de Valparaíso - elmartutino.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONEM1N2tJZDdLaTRSbmVBR2ZJWFY3STd2YmlhcWlTczd5WUxKYXBwS2xIeXBrdUhSVEJsbUpVaWtoRG5RSHVPN0ZFUUplZlpVWlBEZVVzVzMwVExNMXk4TWt6aHlYWjJLWklROVp2WU5kSHp1amJUS0FCRnhSOGJkMlU0X0lWQnRJcmFmcVpR?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "fba3e413b47baaecc91f1668edb82827",
+      "title": "Chile retoma exportaciones avícolas a principales mercados tras brote de influenza aviar - KCH FM",
+      "source": "Google News - Chile",
+      "date": "2026-04-03",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb3MxRGRVMEZhMm82a09qRTFvUnVMRGpGdy1vQ0ZXZmdCcjRPcERybVNsRmpsSFBLanZhS1BtbFNTNjREcXVnRWpBeVdvWjlUdHRQcmRsTFpFc3B1Ulg3eGt4R2lteng5Z0c4blFUR01LdmlzX3JJMmx6SHdBakVIRjFITHo0VndBdlAyV1l6YWJ3NlJaLThwdktrX3RZZmkxbEdlRUpaUW1Eal82eG5MQ05pOUhHZUxfdndRSW5jTXNHanlpOXln?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "935fd16a4c937c056706ab1db8a6ce3b",
+      "title": "Reanuda Chile exportaciones avícolas tras controlar brote de H5N1 - Crónica Digital",
+      "source": "Google News - Chile",
+      "date": "2026-04-03",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2FlUGlEMEZITFM0bzZSYkotUF9jVGdBd3VMVHJCTERmNDIxZGpWd01kZXZkV2FCdlpzUHl1R1I2NGc5WnliT1FiZU5ocXM1R1VvQ2NtdVNRVGVFWnVEM2p3am12QzJQRFBoYlU3dzJiZ0FBUFZ5bFJoRjdsdVRTTmJPS1BMLW5na211Ym9WWHpTWUlncmhB?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-04-03 16:43 UTC"
+  "last_updated": "2026-04-03 20:40 UTC"
 }
