@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "4a6e96eee672ba2184c59463a2887845",
-      "title": "Influenza Aviar - GUB.UY",
-      "source": "Google News - Uruguay",
-      "date": "2026-02-24",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNYUF3NkZsQTRFSHVJUkVLQ2ZTaTlvdUFEbWhnelQwa1Njd2dORlUzX3dXX0NlYkZaWFhXdHhha1VJVGVHWk1LZWcxblZGT2hJT1QwRkJWSU9yTmNkSi1mWGwzTlFTTktNSEQtVGU1c3NfTG5UUmRUZWJFamV0ZGc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "f7180792dfd7f3daa4a910d791116e43",
-      "title": "SAG confirma caso de influenza aviar H5N1 en aves silvestres en la región de Valparaíso - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-03-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGV1TWlUVjVOYnBMb2E2TVFteFdkWENrTFNGSVlhT09sRTlRZy1fY1lOM3ZpMmZOcFhXNlRxMlpRVC1WZzNVcjlEeHFQSll3YWREY1NrSUFONWNUMkVpTk5DbXRGanlYbUdnNE94aGcwbDlyMnZwZ0U4eDF0d1B5ZmFLc0laeUdOTWd6dFFQcy1EcXBLTWMzaERnWjhmSE9jUlQzU2MxNjNmS3NHUnZfSlllSVc5dVAyRkE4?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "724fdd7ae1f80e2cca6d5b8dffabea61",
       "title": "Crece preocupación por Influenza Aviar luego que SAG confirmara casos en aves silvestres de Valparaíso: estos son los síntomas - Sabes.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE91dHdHcXV5SnZoTkd6Vk1IdTZkdVRsVDFEVDllYXNZb0l1Mk1pT1dnaXVtOFl0STl3dWk2S0lTVXlHcFpLTEtPNXhtejJqeDZFOGNTZTc2QWZZaXJZRHRCUHZ4LS1nTldvSVRwWmVzVkZybmFmTGc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "13c7936043742da65862147ef2346806",
+      "title": "Salud reporta primer caso humano de influenza aviar H5N1 en México - MSN",
+      "source": "Google News - México",
+      "date": "2026-03-31",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQUjk2VWpnR0ZOc2tSZnpGS1NjT09ZSldrb1k5YkxleTJxc0JkVXl1eVMwNlc5ZkI1MUdpaEdyZElMNEF6Z3RyZ25vblJDOUFHSnR3SWhNVENNdzUxVmxLMDNyM1ZaZmNFTmttOHNEeXhRend2U0FhLWxnTGluaW16eUJxNm1mSkxTTGNwNmxKdXBLbjZzdDg1eVFWSlh5WXJMZExMMUg5QW56S1pnZVVrczNiVmV2TVVPMVFSQjlxdzl2QkswRUJjeG5fS29pcmZNc19qUVppVlprSjNDZ1RwVXJ2RFJvLWtBcVJGWVhqUklWQzN2RVdGcF9ZVHQ3TS1mMXBEbjVySVZ6Z3dGVkdXT0xLUUFrU2tLcF92TXZ5dDJRZm1KQnRFc2pmbllEeWtuemIzWVNPMFlUZ2d6TTJrc2pRcHpMeWF3Q1JsT3NnUFBwN1hP?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "e1e8dfd09f14005f8b95b179aba0e65b",
+      "title": "México registra el primer caso de gripe aviar H5N1 - Quinta Fuerza",
+      "source": "Google News - México",
+      "date": "2026-03-24",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd1lONkRZWDhhbnN0aWg3NVpOVWluMFJQeFhNd3pyMTNNQ2pUUnBJekxqVk1TX3J2d2UtbFNuc05BaklwMkJFSExkTlptOFMzUm53MTBTbk5GOWVRdWgyVkQ2elJuWGlVc3F2MWFmUHZWbFVsdm16U0RsY3dyNGxUekJQSG9JZUp2NVE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-03 02:35 UTC"
+  "last_updated": "2026-04-03 05:42 UTC"
 }
