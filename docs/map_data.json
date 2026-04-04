@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "bda3f78ade0c5086b664bc3ad1bcddcf",
-      "title": "SAG confirma influenza aviar H5N1 en el Humedal El Yali: activan alerta sanitaria en la región de Valparaíso - elmartutino.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSnMwbzh0b0M3dEh5QzZSUlFEcUtBdWZfZDBxVW1MMm5lUS1IY2tUNTZDUXNpdlNZTjN6dVlmMXE1ZHZudkp3ZHRaQnFkcHJWTHBmVmw3U3JuY1NzUldveEpPRkE1SjdDbkVsUVM1RU5XckhVclBTQlFGWkl6N2s0VlBZcVlBRkFMWmtmWFEtclZTZS1ta2puLUp1bGFLRUIwaTdXVEpRX2VKT2NIOFd3MkJzVEV3R25rWjlmNnRkaXFJQUdKdWc?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "1454af7753fc635d2d01a492aa2b78ee",
-      "title": "SAG confirma presencia de influenza aviar en aves silvestres en Valparaíso - FM Plus",
-      "source": "Google News - Chile",
-      "date": "2026-03-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTnhRZmowTmtwQjJLb09DS01QbjA4OXBBZENfa1p3bzdzYkQ2YUJrTFBJTVl6dUVTakNuV3pES0FVN3ZUWFQ4aHFEV055NnNYZlQtMjM4Q3ZRb25Zal9OaGZXQW9qek8tSlJlTFA2MW02R2RINnY1SzFfeG4tNEJDSVBXZk9pVmhpeGZHcTBDREh0dlFGTm1XdnYzVVdGdk82Y1JaUy01U0VpZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "1690297c3af6ff64db0943016a7c4c3d",
       "title": "Caso de influenza aviar en aves silvestres por ahora no implica cierre de mercados en Chile, según SAG - BioBioChile",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2FlUGlEMEZITFM0bzZSYkotUF9jVGdBd3VMVHJCTERmNDIxZGpWd01kZXZkV2FCdlpzUHl1R1I2NGc5WnliT1FiZU5ocXM1R1VvQ2NtdVNRVGVFWnVEM2p3am12QzJQRFBoYlU3dzJiZ0FBUFZ5bFJoRjdsdVRTTmJPS1BMLW5na211Ym9WWHpTWUlncmhB?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "9c7acfc023fadd07db97289c41dbe448",
+      "title": "#Chile Influenza Aviar Exportaciones - Crónica Digital",
+      "source": "Google News - Chile",
+      "date": "2026-04-03",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rQTZ1eTRvalh5MnNNdDRiQUZTNFVpUlltS0dEYkg4bHc5cW5lMFY3ZGdwOFpoWDdJODhOYmJZVWMxV183ckdsVUxRTEZkUHRPbUpKUnUzM3pBRWxIbVg5NEt0LWVOa3VYUUVxZ0t0Rm03R3Fv?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "8f8faec2b12999ac9f6986cdeb3323c0",
+      "title": "SAG confirma un caso de influenza aviar H5N1 en aves de traspatio de la Región Metropolitana - SAG.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-18",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbDliOWpPamVuaFZlWUhUV1ZoTzliLXhOWENqOVFaaVBmZk9CdkVSUEkxdDl5Vkx0R3N6dU9JOWhKbWxKMVRFUzJaOTNuMDI3UXVvSF9ldFZ0RGtpSlhZU21WTkNzdm5FS3UwMm5SNE41MUsxUVF6aGtoR0xUMDNTRVlXWmRmcWRQUEFZOEM0ZFAtSGNDVF8wWlR5eWdXQzA3NWdtcURRN1htQzA1SGZ4S2ljRVVaOHBEMG5NWllJRHQ?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-04-03 20:40 UTC"
+  "last_updated": "2026-04-04 02:27 UTC"
 }
