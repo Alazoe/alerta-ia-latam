@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "1690297c3af6ff64db0943016a7c4c3d",
-      "title": "Caso de influenza aviar en aves silvestres por ahora no implica cierre de mercados en Chile, según SAG - BioBioChile",
-      "source": "Google News - Chile",
-      "date": "2026-03-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOWUhlQ1M5LVIyTGI1Wmg2VEJOUHBqRnBtckwwcHBGYWprSTRlNGMxOHJDY1NfZWRiSnZBXzVqb3BDQk1sb0Mwd0IwSU9Xb3NSbDBfZGJqazMtUS0wNnRya1Y0YTRicktiZ0RnT3pDUUVUdmExb2s1MGMtdDFuVG5QalpTMFA3M3kzVWlia3hzWTJ3aXl0dVQ3TlVUT3hFR1BkMjNzWi12a3ktdXRBdmlHbldSQWVkaS1JVEtmR1k1NnFhTGdHcW8zUUtMOEVhc2FzZ3dXcVZwYmVtZmhrQllnR19iYkRaV0ZKYVJWbGo1SHBWb2t5elFLMm5JME5ScEg4bTRYUDhrOVpveGtjWDlrQS13?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "a629df2eddd5c90d37fc1f88a9997686",
-      "title": "¿Cómo evitar contagiarse de gripe aviar en Chile? Detectan virus H5N1 en aves silvestres en humedal de Valparaíso - El Desconcierto",
-      "source": "Google News - Chile",
-      "date": "2026-03-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOa3pHeEVmUG1Wd2R4bUpobTZBME45VjYxM0dlYnU5Z295T21HT0xqVndsV3ZGU1F5WnBNa3lMUG5OYWxOZzh3bklPZkdSSVFkNU04RmlTZHpVc1Y2Q3lJWFNmbldzaUZUMl9vNnNqdUZLblJybWxOXzRSS3dUMTBfWnlGRnJzTkhBRHh5OXhOckxuRms3V3c3b3VHQkE5dFYzWUJUMjFqSnRlSGhhTGttX00zZ3hiaUlmNlJjYmFRZ2Q3a3h3eS1KQTloUS1naURoTE0wTGtmLWFLSkhIZ3B6SDVR?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "032e4971e3c22365024b3b72ec59e7a1",
       "title": "SAG confirma brote de influenza aviar H5N1 en cisnes del Humedal El Yali en Valparaíso - Epicentro Chile",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbDliOWpPamVuaFZlWUhUV1ZoTzliLXhOWENqOVFaaVBmZk9CdkVSUEkxdDl5Vkx0R3N6dU9JOWhKbWxKMVRFUzJaOTNuMDI3UXVvSF9ldFZ0RGtpSlhZU21WTkNzdm5FS3UwMm5SNE41MUsxUVF6aGtoR0xUMDNTRVlXWmRmcWRQUEFZOEM0ZFAtSGNDVF8wWlR5eWdXQzA3NWdtcURRN1htQzA1SGZ4S2ljRVVaOHBEMG5NWllJRHQ?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
+    },
+    {
+      "id": "80d0ad93673eb31a06f13e42a2785db1",
+      "title": "SAG confirma primer caso de influenza aviar altamente patógena en aves de traspatio en la región de Ñuble - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-04-04",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMVlSZW1NaGxwYlFHZzR3N1drSkZsaEFKNUtXWlVQaVRjLVItQ0sxd0E5ejlrQkc0bExnY3BuS0FpTmh2VlpEUTZjbDdOc0lZVjg1QlpyUW5EZW1WOEdxNUFUajBnOVNRYW5Rd0d4Yy1aN1BTUVVhOHBYNFNkUEZyRlVnR0JXUXBadmwxcVRDZFRZcF9INTUzMk9uNFZPb1J5dVlsX1JFQWY1Qnd6MVBmQ01LN05TQ0JpRmdBRFI5SUlCcW5YRm9RcHA2UU1la1VaTlFYbGtiU19zaVdDbS1IcXJB?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "97483e4e58d26e3c39e7a76606dc68d4",
+      "title": "Chile reanuda exportaciones avícolas en tiempo récord tras brote de influenza aviar - radiomagallanes.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-02",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb1VLTmJxRVV0OHhtUDlzZkhnRTdveEpySDV5R1Bhdjd1a3ZtX2JyeDJoQTZSenM1cFFUSGt5VGNzTG11UXB5SFF6M0hHVVdYVDJ0UVI5RlpUOGdmTUVKOTRCbFd5TnpZbGtOeEM4eTkxSEllaUh5SDY4Z0J1aDJFOUJjX1cxTm1SdFNoRG83cHZoel9FVmkxbHd4cWxxNHlLVGcwOUxGR2FhVktzdGVSUA?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-04-04 02:27 UTC"
+  "last_updated": "2026-04-04 05:22 UTC"
 }
