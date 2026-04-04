@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "280753d1da8043ee6de532f924da386d",
-      "title": "En Chile, detectan influenza aviar H5N1 en aves silvestres - Agritotal",
-      "source": "Google News - Chile",
-      "date": "2026-03-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTlDLXp5cDlxcFp3UjRTTEtMZjhKbXBPTHNZbk13OVVaNldKUGU2eFNwUm1DR1FuZkdfdkJJQ1RPamdRSy1Qckd1NDlvdEpQX0EtRVpSaUNaeGdtU1AyN2RidE54NkNIUk93MEN2U0tncVdnX0xObXNxMDFPS0JiMzVGN3FzblFGZDZ1ZS1pY3RzSWc?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "2283305010a3e2fa0aababf4a414192c",
       "title": "SAG confirma caso de influenza aviar H5N1 en aves silvestres del Humedal El Yali - hora de noticias",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUmhBRk1ZNEN2Sk1BNzNVTGdVeW9nQl9lQ093RF8yRnl1M214MkRtbkdCbTlERmpGdExjWFkyMzNmeF9hSGRwNEMzSkd0UWhwa3F0STNJWTlNc0xVVG5fYUd6ZWF3SEZMcG1EVlEzTGQzd0RrdnRCVUlHWGRfMkh6VjZiTjhlNHBKcEs0X1ZQVWVVdjY2QTBzd2NxUTJ5Vnp2Z0E?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "ec42d5ff93f15482f80ad0a8a892d47d",
+      "title": "Influenza aviar H5N1 se expande en Chile: 18 focos y más de 700 mil aves afectadas - Publimicro",
+      "source": "Google News - Chile",
+      "date": "2026-04-04",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUU5dXcwU3FkbncyVTRYYVgzVG8yY0JFcl9kX3h5TEtwSEdzTUlCWFItdnJpM25TRV9tVElEMnlTakY2aVJtYmJEN3dBLVBJR0ZUOVhOWmxpQi1rZTh6U3NnNE02NVNSdkluVHVSa1BwU1MzRHJaNzNnVXk4QXVROUlMWHRBQUhuT3lnb3JkZGtLMFY3cWY4Zk10alhYRFZQZENBQS15aw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-04-04 08:43 UTC"
+  "last_updated": "2026-04-04 13:01 UTC"
 }
