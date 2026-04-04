@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "2283305010a3e2fa0aababf4a414192c",
-      "title": "SAG confirma caso de influenza aviar H5N1 en aves silvestres del Humedal El Yali - hora de noticias",
-      "source": "Google News - Chile",
-      "date": "2026-03-06",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1dSbXE3N1kwM2dWYUpVbVhBSi1JeGNJRmZEd3gxOVlJb0pPQXR0eW9hdU9UbThWdy13WEtYSlBsT2NQNTI1clU5TW1hSF9QUFk5T1dtWGJfX3E3QmtVX3MyOU5TZGhwUXNtMVMzZGJBb1pEWVNZUnlmZHhRX3pNUkJkRDNQS0NseXk5bDdsN2luYktMOHlLeHpkdGNuc0pJTXNpWWRBN3BjWGp2WXBfY0VLeDdURktwb2c?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "a78139be505b4d8e63a6336a69a5d10b",
-      "title": "MGAP confirmó presencia de influenza aviar en fauna silvestre - GUB.UY",
-      "source": "Google News - Uruguay",
-      "date": "2026-02-20",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZkhmMmFjTllfWk5qTmJINHEyNTE4NzY2MU1nTWZhdy1adlc4VmZ3WEstNWphUDJUa1ZPbU1uN3hMMENsMXR3ZGNNTnU0SnRkQmhpV3RyNTd5VnJKQThsUllRZ3E4eU5kcXpPMDVLSVlIcm9sNU5EOEMxMWtIZlpDdWtqRS1jVzRfbkhOY1R6TGRxbVh6NTBrNXFuY0dhemtUbm11TE9yOXY2bThHczFaNzF1VVNrQnBueU50blZ5VmxSaGRHQUdFMGVLNDFBejl1?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "d563b2604453b4b5d5df3e20c2280b9d",
       "title": "Mar del Plata registró un caso de influenza aviar en aves de traspatio - Argentina.gob.ar",
       "source": "Google News - Argentina",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUU5dXcwU3FkbncyVTRYYVgzVG8yY0JFcl9kX3h5TEtwSEdzTUlCWFItdnJpM25TRV9tVElEMnlTakY2aVJtYmJEN3dBLVBJR0ZUOVhOWmxpQi1rZTh6U3NnNE02NVNSdkluVHVSa1BwU1MzRHJaNzNnVXk4QXVROUlMWHRBQUhuT3lnb3JkZGtLMFY3cWY4Zk10alhYRFZQZENBQS15aw?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "30b827c604835921a8bb783ee700b783",
+      "title": "PERÚ SUSPENDE IMPORTACIONES AVÍCOLAS DESDE CHILE POR BROTE DE INFLUENZA AVIAR - Vilas Radio",
+      "source": "Google News - Chile",
+      "date": "2026-04-04",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZjFsazlFaDlDTUxCelh2WDdmYjhRNUVyLVRQVHVGb185cTUxd1ItdXpjeW9vQndENVZkZkgyTy1NRXR4WnAtaU9sWGttWmdWR29PaTU3Rlp0NFdzcVVJVzVkdnp4QndOZmotekdwRGx4MTZJSk9oS0I4Q2VVZWVxaTB6NG5jUWZXb2ZDblNWSTJCWUN5Nkt0NDNxVXBqZk1kNHc?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "c11429355dd1334e151a3dde3f7d03c3",
+      "title": "SAG logra en tiempo récord la reapertura de los principales mercados de productos avícolas tras foco de influenza aviar - SAG.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-31",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUTR2OURwLUdTUDBYWE4zX1VwU0plQlRHalB5a0dOUGJ5VmR3enoteFlENjdaUFBZeUxDOURKdkVIcXZwNU5saWw2SWJkR2hKemxvbmFCVEVkbGRhS2xqMG1pLVZscF9WQTgtZ2x0ZTZ4SmFLMVhtQ283Vjh4R3R2UnJBUEVEbjBEVVVveHpNd2htYkxXc09tX1VoTlFUa3Z5QkpwNXRWR0VLV3E0UGVlWG5rY0N0andDNzNZZUktZzY4aXoxcUg4OUQ1ZTU5Mi1OLVgxSEN2SFVvRjQtRWZvOFh0c3Y?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-04-04 16:39 UTC"
+  "last_updated": "2026-04-04 20:35 UTC"
 }
