@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d5d87fd29b734c5b14785a218f042d55",
-      "title": "SAG refuerza alerta sanitaria tras detección de influenza aviar en Argentina y Uruguay - Puranoticia.cl",
-      "source": "Google News - Uruguay",
-      "date": "2026-02-25",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPckh2alVuVHp0bHBQWkZmaVdXV3BJd0h3c2ZyRUxYRS1OVWVjcXpoX1JfczhheksyWkpFZnZmSWswWm5UZkdCVl9KSDh0NDdSREplTWs1LVZvVjRaOVJwMUFSWnR6S0JMWDVBRm4yUkJjOE9WbnBfT2dlMERpY2MyLUc1Q0lvOFRoR0FFQ01CNDJyY2VaQkZRZnhBZ2N0S2RZOHU4Nw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "05dc9ba3169ed9affaae5017bf1466db",
       "title": "Buenos Aires: Se registró un caso de influenza aviar en aves de traspatio en Las Flores - Argentina.gob.ar",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb3MxRGRVMEZhMm82a09qRTFvUnVMRGpGdy1vQ0ZXZmdCcjRPcERybVNsRmpsSFBLanZhS1BtbFNTNjREcXVnRWpBeVdvWjlUdHRQcmRsTFpFc3B1Ulg3eGt4R2lteng5Z0c4blFUR01LdmlzX3JJMmx6SHdBakVIRjFITHo0VndBdlAyV1l6YWJ3NlJaLThwdktrX3RZZmkxbEdlRUpaUW1Eal82eG5MQ05pOUhHZUxfdndRSW5jTXNHanlpOXln?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "bf0099c02f0bf6b14abd6ae9e62abf74",
+      "title": "Declaran Alerta Preventiva en La Araucanía por caso de influenza aviar detectado en Renaico - biobiochile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-21",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZkpmNEctSVlhSVdXY0dqMDhsRWw3VHFMSTh3cUlLeXhmZ0x3ZEk0aHVvMDFweWZkbElvdzB3dTd4a2JyNHVZWE9ZRVBBczlKakRHWW9MMElSdWJoSEk4eU11bURMcVdxRURDSlVzVDJ5S0thRDM2WnB6TGtyczlBS0NPX05tUFVPTnZIaVNpZ190M2hFV1NUTXVSeWxFR0QzaC1pOFUwbktYbkotMFo4WmxHbnlTS3F3MU5ydWJVVC1lVXhuMDI0Ql9OLTJCMFM2YUVBNWJ2QUVKdWxaRThEbFpTX29hYzFHTzZ2cER4U0k2Rk4yOU5zNlpFZ21YS0hEODF2aXBjUQ?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-04-05 08:48 UTC"
+  "last_updated": "2026-04-05 13:03 UTC"
 }
