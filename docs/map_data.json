@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "987aa12378c7e3b9e6d351cf0de52325",
-      "title": "Buenos Aires: Se registró un brote de influenza aviar en aves comerciales - Argentina.gob.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-03-07",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY2pqSkJzWmtWaHhEaWNsTTc5WnR5ckEtZGIwNXY3Sm9INFJQdEVxQnROTWlMcTRBOVZ1S2xleTc1Y1VzY0JTc3pXUVVhdTlyTHgza1FmN21iSFRaem11d0ctb1RTNFZtWkFTeDFpZHc3V0NwWkdQbUFja0dkZHJ4NWh0cTdJY0xFS0ZYVXh0OF9MRHlQVHZrclVUdnhoRG9JVG5jekhDbVJnRUJxUHJJ?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "e325777e5d68d847b723404580bc8ace",
       "title": "SAG confirma caso de influenza aviar H5N1 en aves de traspatio en la región de Valparaíso - Portal Agro Chile",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSTA4S1gwVFpNS3BqbkhSZ1J2MlZtTFRIeFlZQ3A3STQtSVdseG96VDJIdDdPNURjUWQxM0J6QklNYUJpa19RYkdfc0pCemd6TEwxUnE0ZmJxM3VYZ1NaWVpSejNhcVl4anJLX2tLaDVPVHd5YnlaXzlzY2gwSkwtbmY0VkxvUVFGSnJsSFQxTmZXX3l3dzVkVGZrd3VocC1vWkprbU5LdmZud2FBX1Z0NFdtc21Gc1VIS3JhWTNXY9IBvwFBVV95cUxQSTA4S1gwVFpNS3BqbkhSZ1J2MlZtTFRIeFlZQ3A3STQtSVdseG96VDJIdDdPNURjUWQxM0J6QklNYUJpa19RYkdfc0pCemd6TEwxUnE0ZmJxM3VYZ1NaWVpSejNhcVl4anJLX2tLaDVPVHd5YnlaXzlzY2gwSkwtbmY0VkxvUVFGSnJsSFQxTmZXX3l3dzVkVGZrd3VocC1vWkprbU5LdmZud2FBX1Z0NFdtc21Gc1VIS3JhWTNXYw?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "42969bce772d4744924330e0a4e6e03c",
+      "title": "Entre Ríos en alerta por brotes de Influenza Aviar en Buenos Aires, Córdoba y Uruguay - Diario El Argentino",
+      "source": "Google News - Uruguay",
+      "date": "2026-04-05",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ0hRMkpsRVplcUJOU2ZOVF94WWxFUjlVRVFkTEJNTTZtRWhVU28wTDQ0YmhMdDhtYnRIbWd0dGROS0xfZGtMZnJpMUV6aWQybGo5U2VvM2tKOEdJaEJacHBoLWNmSmF5dnRiTURKeFcxVGxaMXBpZDRNZm16YW9vV2hzOE44c2YtS3g5M3JYVHlBd3lVTG9zQzN1QVNEdXdaZGRxTk0zYmRlb0RETUVhM0poamN2Sl9KZVZXNHdqdE03a1BvaDdB0gG_AUFVX3lxTFBJMDhLWDBUWk1LcGpuSFJnUnYyVm1MVEh4WVlDcDdJNC1JV2x4b3pUMkh0N081RGNRZDEzQnpCSU1hQmlrX1FiR19zSkJ6Z3pMTDFScTRmYnEzdVhnU1pZWlJ6M2FxWXhqcktfa0toNU9Ud3lieVpfOXNjaDBKTC1uZjRWTG9RUUZKcmxIVDFOZldfeXd3NWRUZmt3dWhwLW9aSmttTkt2Zm53YUFfVnQ0V21zbUZzVUhLcmFZM1dj?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-04-06 06:00 UTC"
+  "last_updated": "2026-04-06 09:12 UTC"
 }
