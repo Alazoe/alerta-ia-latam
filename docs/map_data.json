@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d3e95b27551ce0576d83bb4a4b783025",
-      "title": "Por tercer año consecutivo, detectan influenza aviar en la Antártica Chilena - MSN",
-      "source": "Google News - Chile",
-      "date": "2026-03-07",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPYklOSTlXaFVOZ0pPTUc2RFh1emcwRTlOYlRPYXRLdjhOdnFSVHpSQmVhTmI3SURseGJLVzFrcXZoSURRQi1ILTlBWFFhOGpPeWZsdThXdDIwdFFJV0FDRjc0OUxiRUo3WHJ4SG1UTDIwdnJ4dVFCS2NMemRPTWVueWcxMTA1TXRJdUFBMkpiQnVCRnJCdkxNVHRrVHRqblNfVGxhUTlLbW0wRDdpS2RxWFFoNVJJa1B4bHFsNnNXVGoxTHFKMmNUWTVSRTFxb29OTlVOR2NOR29VZThUb2c2NU5mcTBrVlBmNDRLQ0JSdmlaSVVGZURGYVhvZjF0TmViVmxueHU4dC00UEFXUTBaZ0J3V21yanNSZk5kdDFxaktRR0h1OFN6RnJTZzJoNlAyc3VQRFZzRFFmLWdZSkNEVGQ3QmQyZjhCc1JPbEgzMU91SUVIWG9tTWJmOElsTEtwWjlLMTBPVW82Zw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "5bc407fa281ca26a15b0914c1e0cd002",
       "title": "Perú suspende importación de productos aviares de Argentina tras brote de influenza aviar H5 - infobae.com",
       "source": "Google News - Perú",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelNPZExFVHdJNGROMURaaGo1ckdUQUlOY3djSTJSazF6YlgzTkFYVmlkRWFOUlR4OWNUVTRaSXM0dnBNODBsZXE2OTdPSTNMMmZoR1htbXRQOThZMkFpdVMxSGJwUFNtTlJwOXlXeXpXVzhWVFZvWXRUSmNtN3Y4Z2tlZTZrYVJJSHB2SmhTanpUejg0YmJfRUFzTkZOUkc0NnNGYkt6ekV3YjQ2ZVBMRXVDdThUZFI4Y2ZRQU5sa1c4bWpfTWQwTVZGb3oyS0pMNXBoYXIyZlFZQmF6clFKWDNNeXppRVdCY2hEd20waW1aRnMwUzY4VA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "686e0c3f526b1cb91b47fc4d3c5bd8ff",
+      "title": "SAG confirma primer caso de influenza aviar altamente patógena en aves de traspatio en la región de Ñuble - SAG.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-02",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORENKallYSXpIT2ZoTllQV1FlMGNsZkQwWXJaekkzNHdxZXhMREgyMkFjTDFrVWNCeWw0ODczcEVHdDE0N0pCV1BoUEtfMGVFQ2FJbDZNclZoXzZJZE53ZG1Od3VrNVVjT01YOVR3em96RTc4Uy14ckwwWEtvUW1IbkNfVkZWOENHNWJkcjFKbGdrMEtqOEdwVzhYWHcyeGItYzBmeFpYcU5GYl9EbnlJTDFYRnl0V3UzVHVDWnExalliUkFTUUF4d18zQV91bl9oRHhN?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-06 16:53 UTC"
+  "last_updated": "2026-04-06 20:39 UTC"
 }
