@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "e325777e5d68d847b723404580bc8ace",
-      "title": "SAG confirma caso de influenza aviar H5N1 en aves de traspatio en la región de Valparaíso - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-03-07",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmQ1NVpRblpNNGZBM1BuUTdadHVnUGVjWWdIc1hiVEo5M3BQNzJhRHFRMHdweEV1Y3pWeWJuMmdEWFdtVWhQRVlySXM4bmZXTjJGaENPdmNkVVRmUUdjX0hHRmhpdU1LbVhfYWMwTkkxMEVveHM4OGIxM0tWZEtRMnptQ0RfM3FEZXNHemJTNldMRG1NRU1NOXZvMUMtOTNYTVJzTnlOTTZWQzBuUHhpYk1neGdUemlXbnRkcFBXTHBHd2Zkb2pv?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "d3e95b27551ce0576d83bb4a4b783025",
       "title": "Por tercer año consecutivo, detectan influenza aviar en la Antártica Chilena - MSN",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ0hRMkpsRVplcUJOU2ZOVF94WWxFUjlVRVFkTEJNTTZtRWhVU28wTDQ0YmhMdDhtYnRIbWd0dGROS0xfZGtMZnJpMUV6aWQybGo5U2VvM2tKOEdJaEJacHBoLWNmSmF5dnRiTURKeFcxVGxaMXBpZDRNZm16YW9vV2hzOE44c2YtS3g5M3JYVHlBd3lVTG9zQzN1QVNEdXdaZGRxTk0zYmRlb0RETUVhM0poamN2Sl9KZVZXNHdqdE03a1BvaDdB0gG_AUFVX3lxTFBJMDhLWDBUWk1LcGpuSFJnUnYyVm1MVEh4WVlDcDdJNC1JV2x4b3pUMkh0N081RGNRZDEzQnpCSU1hQmlrX1FiR19zSkJ6Z3pMTDFScTRmYnEzdVhnU1pZWlJ6M2FxWXhqcktfa0toNU9Ud3lieVpfOXNjaDBKTC1uZjRWTG9RUUZKcmxIVDFOZldfeXd3NWRUZmt3dWhwLW9aSmttTkt2Zm53YUFfVnQ0V21zbUZzVUhLcmFZM1dj?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "d5e52500450617d95131d0930ac4715e",
+      "title": "SAG confirma primer caso de influenza aviar en un traspatio de La Araucanía y refuerza medidas para detección oportuna en todo el país - SAG.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-20",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelNPZExFVHdJNGROMURaaGo1ckdUQUlOY3djSTJSazF6YlgzTkFYVmlkRWFOUlR4OWNUVTRaSXM0dnBNODBsZXE2OTdPSTNMMmZoR1htbXRQOThZMkFpdVMxSGJwUFNtTlJwOXlXeXpXVzhWVFZvWXRUSmNtN3Y4Z2tlZTZrYVJJSHB2SmhTanpUejg0YmJfRUFzTkZOUkc0NnNGYkt6ekV3YjQ2ZVBMRXVDdThUZFI4Y2ZRQU5sa1c4bWpfTWQwTVZGb3oyS0pMNXBoYXIyZlFZQmF6clFKWDNNeXppRVdCY2hEd20waW1aRnMwUzY4VA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-06 09:12 UTC"
+  "last_updated": "2026-04-06 13:16 UTC"
 }
