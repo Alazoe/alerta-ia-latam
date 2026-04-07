@@ -1,54 +1,6 @@
 {
   "alerts": [
     {
-      "id": "5bc407fa281ca26a15b0914c1e0cd002",
-      "title": "Perú suspende importación de productos aviares de Argentina tras brote de influenza aviar H5 - infobae.com",
-      "source": "Google News - Perú",
-      "date": "2026-02-26",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNejkzd2Qtc0dtMzA0aFU1V0wxWDVOcEthQmhWMjE3eE9Od2w4MmZ2M1lwd0VjeWdYVjUtYlNqVE5QMVdoMDNPOU02eldINnZSQ1NjOGtyZGxEd2pTenNqY2FnSjFvS2pRcnpZWVJUMTVVbUZ0dmZyLV91a3g4MU1CUG1WS1kweUEtSEVxZFVSVloyTGRiZElWVlBsUGxsWDd5cklNUmtsblJlN2xuSldCaVBESkJnS1F3Vks0Z01YZUZhaVVzeGlxSTNDTDk4Z9IB6AFBVV95cUxOQzZuVF9VR0FpN0Nka3BoV1ZxNG92ZDZJSXBiN2xncUhILV9TQWRZZm42b3lBc05XUC01d1VreWRmS2ZGMDlONE9KcV9aYnhpV3dnNTFubHhtMDVuT3FzNEZQMVZZREV6X2hic0dWMVJDdHRnNVoyY1VLU2VXZWhoTVhYWlJkNFQ5eF9NaXJ0Yk0zM3Y3UnFjbW5od2Y2aFRIMVZ3SEk3ZlM0UDJNMEllSldiSjI2UC13QlZDdUFxU0pMQ2gtQXZLVDFjTGlKRGozN2JBdlVWOG9OMkpiS1FxeG92NDNGcjl2?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "ecb1b079bc75504fb74c4dafa634813e",
-      "title": "Actualización en SENASA Arg.",
-      "source": "SENASA Arg.",
-      "date": "2026-03-08",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://www.argentina.gob.ar/senasa/programas-y-proyectos/influenza-aviar",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "429fb2861e02388d527c4e264ca47b8b",
-      "title": "Declaran alerta temprana preventiva en la Región de Valparaíso por presencia de influenza aviar H5N1 en humedal - ADN Radio",
-      "source": "Google News - Chile",
-      "date": "2026-03-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRWJKaXVydDMyc09lV2ZvdEZldFpHX3VydS0wWlRmRlQyWWh3V09HT2xUSTlodFBnZ1F2N1lSUlJjb05QTS1qNUJQSnRqdGY0bTdsTTRQOVNMU0Z5QXNkaktHV3VTMU9SOHJGRk90QlFNS3BwTndjS29faU1ISWdsVF9mT1dtc1RLcWNwanFpdTVpRWJxU3BqT3NPYkkxb05zSDBVY2JYYmdiNUJEaW9td3hKaTBXZWJrWjNMYlhXS2pMM3VFcWhsOTNMel9HYmhsOWU3aGEtczdFd2l1Qms2OdIB9AFBVV95cUxNX0l5RW5XZXFoRFhIVmZ6cWxhdnNKSWNUaDR3UzFjM25VMkp1UzQ4SEw5a0lIRURicGw5VVIwYmJETU8tNDFaT2FYMTR0OURlQmNtSlNvbDZPTWJyZkctZjlzaDFsWm5mYW1MVW1uTkk4YU05NjhaSHlYMFdOMkl3c24xdmVlNVZDZjlIN2pUOFJvMGp3WjBwY29tMmFoTHo5bWh4MzVFd1F0YlFFSDNRc1N3QldOZXBRcHl1UTlYcUVDTDJGMWNVazFwdDNmYTc2R05YLVpSTVNlVkdjdnI2UVpESVM0MkZNekd2dGhXMGViWTgt?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "27faafbd31ddc82c75ecbad8643eb48f",
-      "title": "SAG confirma caso de influenza aviar H5N1 en aves de traspatio en la región de Valparaíso - Radio Agricultura",
-      "source": "Google News - Chile",
-      "date": "2026-03-08",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMzFVZlhVeGFIeU9xTGZxZ25GMGpMbWRRNGpkcmFFaUQwZWc1RFBmUmM2ckxyRnB3ZXR2dEhGOTZrRWVyelBSbGxTbzRpZ21XR0FHOGVWMl9PTzlGRHhTWDdmRDJuZ214UGh0T3kzeFpVcGlhWG1GcS0zc0hVY0c1aGlvOVFYNlpQd3BiOFBkNWlYQW5sV3dIUzBQaWVkWEhuT0JRR1ZLZzk3SzVDS1pIckNqOTlJVHpfMUc2eEV6RQ?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "0f3449f254f9cd2c33bc305c80eecbfc",
       "title": "Influenza Aviar H5N1: Colmevet plantea como desafío la interacción entre aves silvestres y domésticas - Mestizos Magazine",
       "source": "Google News - Chile",
@@ -3599,7 +3551,55 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORENKallYSXpIT2ZoTllQV1FlMGNsZkQwWXJaekkzNHdxZXhMREgyMkFjTDFrVWNCeWw0ODczcEVHdDE0N0pCV1BoUEtfMGVFQ2FJbDZNclZoXzZJZE53ZG1Od3VrNVVjT01YOVR3em96RTc4Uy14ckwwWEtvUW1IbkNfVkZWOENHNWJkcjFKbGdrMEtqOEdwVzhYWHcyeGItYzBmeFpYcU5GYl9EbnlJTDFYRnl0V3UzVHVDWnExalliUkFTUUF4d18zQV91bl9oRHhN?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "42c030bdb313d3f4385e43c14b3ff7f4",
+      "title": "¿Qué debemos saber sobre la alerta zoosanitaria en Chile? El virus de la influenza H5N1 de alta patogenicidad se establece en los ecosistemas locales. - uchile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-12",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQjdZS0E3Ym80SU9CZ2FmdWV6ZEVjcVBtc3E5ZTVRZ2lwaThEZDlPak56QVNWcVFlWloyaTBZS2NpV3BlaWsyMWFkZ0gxOG9nSzA4ZVJqR3M1RWxLOHcxNDluTEhYY1NvMm1mWXdJMVdCTGNZeHozUlYxTnJ4eWx4b3pSbFhqaElsbUdjQ05zOGtNbjA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "ee72f11508cfc48b395e7dbe80634887",
+      "title": "SAG confirma dos casos de influenza aviar H5N1 en aves de traspatio de la región de O’Higgins - SAG.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-14",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLUFTd3lyNE5uN1dSaFNDaXlwSU1LVEQ4cDM4R1F5Zkd6NFIyTVhrc1A5Wk5HczFCaFoxX1g5SUE3MVVWTXQwdzBiTVRQQjRsbGlZODZCNnI5T0otTnJSdnBYQkVBeE5ubk5uRS12OGtrSTVCQ3d2X3VYalBkdm5vQUJPWmo5ZnRNWTdtMDlLWFJhQ3BPeFM3bVBfN3JPRGtUTXpxZXFyMjhwNHZPbnp0WFJQNnVyeTk5SXQzajRubXE?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "9cb724ccb65f8a345ac0c12808d3f2df",
+      "title": "FAO activa protocolos de coordinación y respuesta ante brotes de Influenza Aviar en la región - Noticias SIN",
+      "source": "Google News - Colombia",
+      "date": "2026-04-06",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTEFIakd6Q0pjU3FYbktyb2p4c1FjSUxaV0FJdENWa01xMmwzbE1WMXRZd2dZX1RVSzVKZV9FZUdXQWMwVE5UZlRFbUhGdzVJUWhRT2xHdHJxM2ZSdEtBNXJ1Z0VLcHFwMzBIRVFsYTkzblJOZzNjc2dXd0JCMmtYUjZMVEVCV3RtWHhGejZJOUxVMW5ubWlzTTRQTUdwOGl0RFA1REJ6bHdqMHU1TzBqV2lpd01GdzNncDhNZGxWZlo4Z9IBwgFBVV95cUxPTEFIakd6Q0pjU3FYbktyb2p4c1FjSUxaV0FJdENWa01xMmwzbE1WMXRZd2dZX1RVSzVKZV9FZUdXQWMwVE5UZlRFbUhGdzVJUWhRT2xHdHJxM2ZSdEtBNXJ1Z0VLcHFwMzBIRVFsYTkzblJOZzNjc2dXd0JCMmtYUjZMVEVCV3RtWHhGejZJOUxVMW5ubWlzTTRQTUdwOGl0RFA1REJ6bHdqMHU1TzBqV2lpd01GdzNncDhNZGxWZlo4Zw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "6ccc42f4b0b705d532915c1cbd2925b0",
+      "title": "Las Américas refuerzan la vigilancia frente a la influenza aviar: 15 países participan en el taller regional de ProgRESSVet en Panamá - OPS/OMS | Organización Panamericana de la Salud - Pan American Health Organization (PAHO)",
+      "source": "Google News - Panamá",
+      "date": "2026-03-26",
+      "country": "Panamá",
+      "lat": 8.538,
+      "lng": -80.7821,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1d6ZjcyVDUwUTFwMVFndi10M1ZTQVFsQW1KbE10aXlSVlNkU01LalhQY0dVeWdEVFpvTklraEFHZUhHTUJpd0tmR2hvNVVRYVFTVUJGOTJZLWtGZ0M5S20zVmtoRXJaeWN0ZjZ5b1c4Mk5zdHVnNGpsblNtZm13WW00YXJjZnF6d2V1ZENUY3B1RDJoZGdzRnFaTVlfajIzSTFUbThaM3pXVkZHWDJyWVA2SS1IMnE4UVY0ZXdua3E?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-07 09:06 UTC"
+  "last_updated": "2026-04-07 13:24 UTC"
 }
