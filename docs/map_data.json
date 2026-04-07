@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "0f3449f254f9cd2c33bc305c80eecbfc",
-      "title": "Influenza Aviar H5N1: Colmevet plantea como desafío la interacción entre aves silvestres y domésticas - Mestizos Magazine",
-      "source": "Google News - Chile",
-      "date": "2026-03-08",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMnZZU1Q3YjlEOVBPQWNmYXRmUnJYVFRnQ0JKV2JWTzFfRlE0UGlHMmN6UnJVSERtRUR4MGRxcmlhdjdlbkZlanFUcVdGUmhCaDRwTXI4TjJ1bVlwMFRTcC0tU09xdUR0UkVxd013U05PZEFOZnpEOGx6WFhDSjdiLWtSeExEdWU1d015Ukp6dGt1dTlrd29GSGhJUklJd1cwWFpnUFRfTE5CVU1lbTlhbDdPa2hIRjNJMmNELVVOaW0zUjl5OV9INFNicmdKR2lvSGp4NTNqWmpCVmMzS2RXTzVDel8xZzVCRE1iZGg3MNIB9wFBVV95cUxNZGUxaFJmanBzdzNKbjFhYXlhLVRxMmx2RzA3OXVUWmNzVnIxUjV4SW5mTG00RTk3MVNCeV9sOWtLOGtkcThOMC1PZFhtWnBLQmFpaU9nTVpFekFHeUcycGM5NGg2S09hVF9FZVFOMXlaUmJNbWptVUFBUUNOWWN5SUNwMWEyWWMxWVVUMEhVay1CRVUwU2NDdk91VHc5MzRRQzRJdFRLWjBRNGpIbEYxbTM0LVhEZDhseGJWeE0tZUtENUh2RjFVNWhjemVUdXRCVFF2MGxfNHdQY2lsNUZKZzdHVnNHeTFJa2dtSXJQX29POHB5cWdZ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "c61a6004da1f1c76b27947900cd79b56",
-      "title": "Confirman caso de influenza aviar H5N1 en aves silvestres de Valparaíso - 24horas",
-      "source": "Google News - Chile",
-      "date": "2026-03-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbWZCNVU0ajd3ZU1BVjAwZjRfN3ZfV2hPS0lqTlVfaWE1cXB0N1poQ0RxTHgzSm00VGlxYVlONUFoTUJ4ZWhXMTNxS3l1Qm5obS1saG1VM0ZROGtXUDJReFU4UUV4RXRxMk9wYXl5VGFPZFNhRWVTWUVpUEJ5LXFOTF9waXZNbEhuUDEtenhqWGRDdU1vblc4aTdNVzVzcTJVVWFneDNMV095WkQtajBlUTlJellYeFRhUlllZHNvcmRnb2Ji0gHKAUFVX3lxTE1oeEZKWThvaERUOGpFZEVwbGtQWV82RWpkaW5fVF9ld29mRjhTOHl5LUV4V3dxQkhlTWxrWmc0M1VsTmh6TDRjZERDUnV4em5iZi1SZ3YwZy1MM2hoMHIwcGg0RVU4VnVZQkMxcDJ2Vi1BM3RUOW9IbFZMWEliVWRnM1ktQUJpems2Nmh6WklHMmZPaWRHRllYQWpZS1BGYUxkaW1yTDJDUUpiRENOb21STE9PMjFsemFELS1wckpiVWp2SjA0Vjh4UUE?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "3227feb5b9399b16b17c2a4c597e7d36",
-      "title": "SAG confirma caso de influenza aviar H5N1 en aves de traspatio en la región de Valparaíso - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-03-07",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONkRoVjA4OWlEc0FoQ3dKTDAtUmlKZW9RMTNwRkpyNTBBLXlPRlpkZ0w2Qk5QbnZWZTVKUXJ6UDlOQzBGakJ6UFRTQS16OUJldFVSZEdqZmEzU0tRWk05NUxOaUZsNlQ3YXdwZmZxTmlBQWhfbktLUEtoUE1ENG91c1NhY0JKSXVZQzB0anJBVmNEbFRlSzhLcXZ2VTIxR2VBV1hWVV9zOXB1elQ4SVo3cFE3VlEtZDc4dHdPdg?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "37a911a3d7ef4f8371b3d91c8f3700ea",
       "title": "Influenza Aviar H5N1: Colmevet plantea como desafío la interacción entre aves silvestres y domésticas - Tierramarillano",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1d6ZjcyVDUwUTFwMVFndi10M1ZTQVFsQW1KbE10aXlSVlNkU01LalhQY0dVeWdEVFpvTklraEFHZUhHTUJpd0tmR2hvNVVRYVFTVUJGOTJZLWtGZ0M5S20zVmtoRXJaeWN0ZjZ5b1c4Mk5zdHVnNGpsblNtZm13WW00YXJjZnF6d2V1ZENUY3B1RDJoZGdzRnFaTVlfajIzSTFUbThaM3pXVkZHWDJyWVA2SS1IMnE4UVY0ZXdua3E?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "1692440c9814162a674626c2572459d2",
+      "title": "SAG confirma primer caso de influenza aviar altamente patógena en aves de traspatio en la región de Ñuble - SAG.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-02",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYmFjdWpsaHdPNEN4QXhjOGREV2czdUF5Rld4MTZPcHRqU1NkOHp6YmRNU3kxWHBoc2d0ZjQtRGpHcUI4VnIwNzBPX1AyYWtoazF0NGZfSTR1UnM0N3RObE9LNUJlREtMMXZUYzZuNG9UR0VmbENpb3JKUTZkbThkcFhCVFk4VU5XUkE2VHFoVEQwZHdQb0l0X09tTE8tUldDTzcwODd6b2RWWmxRazdnaHR3Ykt1STRnOWJzUFZKdjRILUF6M3RZUzIyX1VNWFBGNnc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "74de448fe77b259d56a773a2702d7cad",
+      "title": "SAG autosuspende certificación de exportaciones avícolas tras confirmación de plantel comercial positivo a influenza aviar - SAG.cl",
+      "source": "Google News - Chile",
+      "date": "2026-03-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPczV3T3U2WFFuNlR4WnRnSW5XdFd1UnFyeTFGT1RjR3V3TmJfclBJbzZqMFg3SUQ5d21ZVnpER09YTTZPWDlDNDgxZlI2MzU2dzZ4LVJjeEhmN2x5ZHlvdll6TWJ1eXBTOS03VUVuX0s4QzNQMVhXTzA5b3d3aUxtSTdjNmh2MUNRaWkwM0NzTnZmQ0dXeTFxV0lZWjRWazJ5ZzAySklkbFRLNWdhSzVxZkhqdG8wUm95NDBzQTIxTXpiUHlPakF1Rkx6aVJlRWlrNE1DRGJkeEZUbnBERFU0M3FIU3NCQQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "518997cbedf131432f739f98109f490a",
+      "title": "Confirman influenza aviar en Chile y refuerzan controles en la región tras casos en Argentina - Revista Chacra",
+      "source": "Google News - Argentina",
+      "date": "2026-04-07",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM1R1UWsxc1ZhcHdpU194ZjlQZFBaV0g5Y2Y4alJaa0ctX3NzWjdaanJUelZtWC0zTDNBYmhSdGk1eG9rdzdfa196NFRPU0VSb3hPdE10Z1g5VEV0OGlCSm5hVkZ3MUdTVkZqTWx0QWNBVEU5cklTZmVjWmNGeFFJM0paQm1JcUh3bng0OVpLeGk2cjZvbE9aeDZHNTFKd0d0TlN4WmF1UjcweEdpTktZX1hZTzJsVHB5OHdDenhXOElVVzNmY05HMjZUWm5ITDBoT1EtUjZkTdIB0wFBVV95cUxNMm5lZ0VWWmFpYnpvTXNJRUc5NjZ2dVpmRVg1ZGlodWtLTFk2N2VuakF1MDRhdlhRcW9ONE1QcFZ0OEkwRkxMQm9ldDI5aFUzRDM1RVJodkdpZnBqNXZkcDF6RnpvRVJQSURNcFlrR1VFRTRnMWVscTNKQjg4NkdPOVRxNjY4LVNOdFNPZURHQUFlVUJaQlJ1b1pUd3Z0YU5YN2RBalo0cW83VnlEMHVqYXhaX0FteDJTdDYwY25Zd20wOWZ2OHhuNUJUTjF5SGtTS2o0?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-07 13:24 UTC"
+  "last_updated": "2026-04-07 17:02 UTC"
 }
