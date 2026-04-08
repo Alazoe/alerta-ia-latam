@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "eb135c16ec6ad9466a1a8ba5efc0562b",
-      "title": "SAG confirmó influenza aviar en aves domésticas en El Melón, Región de Valparaíso - La Nación",
-      "source": "Google News - Chile",
-      "date": "2026-03-09",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORlJCVlJMYVp1SENOOUtDUHlSQ21WMzBWMHBlaDB6YzFXaHFPVVYtWmY1d1FtMGdKYkd1ZWZPbDZuT211ZWk5SVpvZUhHeVFmN2FuS0owR01YNUxoX2NFcHU3OThmbWloVG1CaTBwNGtLdFpUMURYbE9VWFJWRGdIbnVYT0FBeEpySldwMG5wVDFXbmdLQXRETFl4dnVlMTM0RXNKUkFKUEU?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "fac8976cc4464b338c02b10062aeb249",
       "title": "SAG confirma casos de influenza aviar H5N1 en aves silvestres de la Región de Valparaíso: fueron halladas en humedal El Yali - La Tercera",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSFBWYmZHa1FHN01Xem1KRGx6N09yVTloV090R1ZIbjFQbUhrUDhRRlVMUThpbTc2VVZoX2ZibDZCMmRTeG56eGdxazI5T3hWMEUyV3ZkeXVUODctZ1BxdEw3UXBHbXFyallaRDJabzIyak5sM2NfRHRsc3UxclRaeHN0b1VaUlZoNkVqSnpkcXMzY2pUdk9TdjV6UGo3YXJxYS1mVlpPaGw3WWxmdC0xUTFUMVk2cm5hM3J2M1NaNElWRU9pMXJDa0dWTEt1OVBTYjdDOE16bXZlQTZ6Uml0VHVlT243ZnotUHc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "09cf84490299c90d5992ea7b2c4dee36",
+      "title": "Las Américas refuerzan la vigilancia frente a la influenza aviar: 15 países participan en el taller regional de ProgRESSVet en Panamá - OPS/OMS | Organización Panamericana de la Salud - paho.org",
+      "source": "Google News - Panamá",
+      "date": "2026-03-26",
+      "country": "Panamá",
+      "lat": 8.538,
+      "lng": -80.7821,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1d6ZjcyVDUwUTFwMVFndi10M1ZTQVFsQW1KbE10aXlSVlNkU01LalhQY0dVeWdEVFpvTklraEFHZUhHTUJpd0tmR2hvNVVRYVFTVUJGOTJZLWtGZ0M5S20zVmtoRXJaeWN0ZjZ5b1c4Mk5zdHVnNGpsblNtZm13WW00YXJjZnF6d2V1ZENUY3B1RDJoZGdzRnFaTVlfajIzSTFUbThaM3pXVkZHWDJyWVA2SS1IMnE4UVY0ZXdua3E?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-08 17:06 UTC"
+  "last_updated": "2026-04-08 20:48 UTC"
 }
