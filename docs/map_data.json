@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "37a911a3d7ef4f8371b3d91c8f3700ea",
-      "title": "Influenza Aviar H5N1: Colmevet plantea como desafío la interacción entre aves silvestres y domésticas - Tierramarillano",
-      "source": "Google News - Chile",
-      "date": "2026-03-09",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNncyaGdrLUdaejhFa2dOUWZyYlVxd2lTWjIxYmhOcjA4Q1BoZ01KNktlUzRqT0ZDb0syaGx3YzRjOU03cHVMQ3JkbGxnaDBqV1BwNVZWSHc0NFNtRlJKQ21EeG42T0FXWWlRajdLQmh6MnYzU0lYRG9ONmgydU9tWUd6VXpmekpCYXAtckNYc3hHR1lUcGxFYU84NUprUG9uWlVUSEREcHB6NGRfWlhUc2xQQ1ZsRS1xdHI4NXpaTE83cjhZNGE1c05RQUtPb1M3QkNjOXRn?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "eb135c16ec6ad9466a1a8ba5efc0562b",
       "title": "SAG confirmó influenza aviar en aves domésticas en El Melón, Región de Valparaíso - La Nación",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM1R1UWsxc1ZhcHdpU194ZjlQZFBaV0g5Y2Y4alJaa0ctX3NzWjdaanJUelZtWC0zTDNBYmhSdGk1eG9rdzdfa196NFRPU0VSb3hPdE10Z1g5VEV0OGlCSm5hVkZ3MUdTVkZqTWx0QWNBVEU5cklTZmVjWmNGeFFJM0paQm1JcUh3bng0OVpLeGk2cjZvbE9aeDZHNTFKd0d0TlN4WmF1UjcweEdpTktZX1hZTzJsVHB5OHdDenhXOElVVzNmY05HMjZUWm5ITDBoT1EtUjZkTdIB0wFBVV95cUxNMm5lZ0VWWmFpYnpvTXNJRUc5NjZ2dVpmRVg1ZGlodWtLTFk2N2VuakF1MDRhdlhRcW9ONE1QcFZ0OEkwRkxMQm9ldDI5aFUzRDM1RVJodkdpZnBqNXZkcDF6RnpvRVJQSURNcFlrR1VFRTRnMWVscTNKQjg4NkdPOVRxNjY4LVNOdFNPZURHQUFlVUJaQlJ1b1pUd3Z0YU5YN2RBalo0cW83VnlEMHVqYXhaX0FteDJTdDYwY25Zd20wOWZ2OHhuNUJUTjF5SGtTS2o0?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "373e752b248fcbf837b06a66ca0cf1f2",
+      "title": "Crece preocupación por Influenza Aviar luego que SAG confirmara casos en aves silvestres de Valparaíso: estos son los síntomas - sabes.cl",
+      "source": "Google News - Perú",
+      "date": "2026-03-05",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSFBWYmZHa1FHN01Xem1KRGx6N09yVTloV090R1ZIbjFQbUhrUDhRRlVMUThpbTc2VVZoX2ZibDZCMmRTeG56eGdxazI5T3hWMEUyV3ZkeXVUODctZ1BxdEw3UXBHbXFyallaRDJabzIyak5sM2NfRHRsc3UxclRaeHN0b1VaUlZoNkVqSnpkcXMzY2pUdk9TdjV6UGo3YXJxYS1mVlpPaGw3WWxmdC0xUTFUMVk2cm5hM3J2M1NaNElWRU9pMXJDa0dWTEt1OVBTYjdDOE16bXZlQTZ6Uml0VHVlT243ZnotUHc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-08 02:40 UTC"
+  "last_updated": "2026-04-08 05:48 UTC"
 }
