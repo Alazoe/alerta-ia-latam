@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b04b69c5fec2602cab711039d4822d4b",
-      "title": "Autoridades confirman brote de influenza aviar en Meta: se activan protocolos - Blu Radio",
-      "source": "Google News - Colombia",
-      "date": "2026-03-10",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQTg0OEEyQjdtMG8wYWhsejV3NVUtbng4VXlHVjYwa2QwSWpOOFhzNkFQZEVMWi1TdjNQcklvSjVZYS1MWnFobVpTLTFwcFZ6cDVVM2F0S19rQ3Z3akt6QmVjRnpqT0JldzVHb2dLRFRBQ1p2d09wTVZmQW11S3VxMXlrUzRqSkRDekxpcWphVXRVVUFKMFk1b1hEZmxwbDI1cmF4XzhVbV9qMl9MV2p3aG9R0gG_AUFVX3lxTE1zVU9Zd0VDMUtkVnk0UmozSnZaRVJ5d1NGb09ZOTdVcUI4b1U0Qm5DOW9xNFVOay0xeU9ZUmpwU2FyWTFUVU8xT3BGRUZiUjBWUGlkWTE3QnRPWkxYZVI2SE42NG1GMmhkQ1phTkVuT0VhaUhNQi14VGFvc0JhYlZ0R29sbUZTZWRrQVBJVnR0c1ZnZG1HRWl4Q09OUzFma1hHNFNMSm5nTkQwczR6ZzJWWExFUEltT1lkVk9PSmk4?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "cdde65c873e727a10340712e50983b97",
       "title": "Detectan brote de influenza aviar en Colombia: explican qué pasará con el consumo de huevo y pollo - Pulzo",
       "source": "Google News - Colombia",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYlNSRVd0N2ZKNnh1aE9zZDFxRm1sZ0U4bUtJTWwzY3R5OE9laFRfMXNTZDVFOFE1MlB6MDd1NWR2NVBUMng3a0NaR2dPbm9DSnlVYmFfc0RiN0FXWkhzYjRaOTlnaFpZUFlHUVNoU0w0akI0NHFPd081UEFVcmVLV25zQzhTWlRXQ1JRMWhpakxmR0d0OU1OOGs1OGxXSEtfTHFpUWtQWEFTQlNrUVRDb1ZkZnVnbmhQeGRj?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "b7ecda1a1f941640aa4195243419a6ef",
+      "title": "Influenza aviar en Chile: productores de huevos coordinan medidas con el Ministerio de Agricultura - latribuna.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-09",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMlB6MjM5Y2syMVlOY3NoSUhkRWhlcFkwWE1MZkdyX1J1c2t3QmducGF1QUo3dFVvMHR2RFNVbjJuejFMVi13UXJzSV9ROXhVdlhSVktfaDZrc0kxR0prU2NvdGpHZVhzT2Y5ekNNNDNTellGUzFKblF3Rk9Ic1ZVMTZFeXhCaXh0X2FFbnNEVGJaTXJibjB4NFcwMGh5NnEyNWduRl9FZU1QeHR1RUJ0V2ZSb0dVMGVldkZhcGhVR0FnZU9EY2JrUUhGMU1hNDZ4ZVdKOU9WcGVXcEtRWjdiQTVMX3NWUdIB7gFBVV95cUxQT2g2OWpYQlQ1WGdyYm9aaUhWTFExd2tMaVhCdldyYW5xRVVDVGliMXJ5N2xVaTBwOE5aSExRWDFvZ0EtcDByVFBsNkRCV0lBOWR1SHhuR3dyaU9MNEU0VlJfMnZmNXNiaWQ4djdGcjRkb05kWHBFMmJhNl9Nb2dHcFNlSTg0bUlfdUZpdlMxMWVBSjlxTDlVb2NlTWpzYTdSOU9LdFJvWDh2SUkzaGZEbXZOQVJlZW00cHNzUlVoa3FENzcxaTNvSUdyRy1PSWpWaXJoNjlJTXlfUVhVdGZXSlJscHR0ejN6dkpZdlpn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-09 17:10 UTC"
+  "last_updated": "2026-04-09 20:54 UTC"
 }
