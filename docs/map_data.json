@@ -1,102 +1,6 @@
 {
   "alerts": [
     {
-      "id": "fac8976cc4464b338c02b10062aeb249",
-      "title": "SAG confirma casos de influenza aviar H5N1 en aves silvestres de la Región de Valparaíso: fueron halladas en humedal El Yali - La Tercera",
-      "source": "Google News - Chile",
-      "date": "2026-03-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPUExid2h2NDkzMEoyRjBEVjVRLWFvQXc2UDlXa2RFOVpkSGwtbVFsNUxOZE9pcDE4dE0yckNsT3R2WlhsV2dtUXNNNlNWY2pfa21ubG9qTHBILXkxRmNaV2cyWHdXbGU3bmJJcnlpOHBZc0dFNGx6MDJxZXRWdWtIZjZJajRzMzAwdW9lMGNZVExKRnk0ZUhWLUZnOWRtTGJqRV9jeE1tbGhWRE1iWW5BZldHTXBhdm5xcUlwNUNVd1RfWU5QcGFpaXNndWxlVEkzWTJJdzlrcGo1cUVqc3Zsb3JLUlR1b3d4R3NCcUxYd0ExaGs1Vlh4S2lNVdIBnAJBVV95cUxNdXlac0JhZ0FXZ1FKQllOU2NIaTItb1Z4Tk1HTjk5X3BtS2d4VjcycUxYbGhjN2pDbEhMNE5DaTF1dlVyWlBkWWdTeEhJdUhjRUZ1eS0yWGZiRmduZmNKZ2N6Z2JXczJPY25senc0QWhkX19FbzNrZWJEVXZ4aUh6OXB6aUh3X2pnQ21QSVJIVnZoeTdkcmptbVp0LVo2NnAxQ3J6UXNTV3ptM0NfUVVxY1liUWVCaTBlX1h4eGgyY1BKckpkeGw0N2ZXQXkzV01YVmRiLTRQVHVGYURrNlRVNGJ5SWtMQ0Faa25uVmJkaTdnY0wwUHNwTFoyN3RzZklLU2VONlExYmk3M3VmV0pSU0RPZ2JEMU9DamwtSg?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "eefb73ecde50f0ba5df8111e5741458b",
-      "title": "Chile confirma caso de Influenza Aviar H5N1 en aves de traspatio - avinews.com",
-      "source": "Google News - Chile",
-      "date": "2026-03-09",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPVnFpY19lazFiejBMQWRvLTRzUVFuVmpqeGdUNXR1N2VIeUs4R1l5cXBiazN0SlR0cVVNRXNIN2ZwQXNucGtiTnl3MkM5aXVRUmIwUXRFd3Q3d0tZdzVvUHg4bEE5NmZiSkhnTlVnN1FjUnhBTXZSWUtCcDRUb1pHRGRzZlV3SVlBRFJ6aUNn?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "3c668d8b84c3d502fbc77f7035b9a782",
-      "title": "Colmevet advierte sobre el riesgo de interacción entre aves silvestres y domésticas tras nuevo caso de Influenza Aviar - VLN Radio",
-      "source": "Google News - Chile",
-      "date": "2026-03-09",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPMFhyd2YzZWVpQ3dQdGZINFF3R0JtM3VJT0ZJY3Jfajh6OVZ6SUFaUkJrY0lHOTdjV3lpYy1uUUlQQlllQ2VoY0doQXUyMUlTVGpYajFNYTlyMFlSZEh5NFBqeU8wR0tYeEZqRG9UM282SUNQaGxsMjB1ZVV5S1M1QklhX25RZkV3d1Y4c2N6STh3TzBFNGN4UEdMT2YxN09IOTRydmV4XzBwQy1CRzFYZHBhZUdieThLY0ZOYmJ3T1hKWjFBYlRvQWlLNGJIVDE2UEZKUlBQbV85U0RhTnVIc2hRRWFNX201TEp1X0xaTmwyTmZCWF9YbkRoN0wtc0Z2dVHSAYcCQVVfeXFMTnNWOVRnMjVZbldZRUVlOV9XekRYY0w5U25Pa3paOEpKbjVfeDRuTkxLUFdlLXNMSmxWUTJXWjlLam00UkE3NUJCdzZMOHRhSTd5MkZjdy1FWDdNZlpkbTNpcHF2S0hqZlRQNlMzYkhwNE5CRmxsYzhyVzI3N2hubFpKajJueTJyN3BITmlvZ25kVzFUQjhzYnZOME5NRnhvSER2Nkd3NV9NV19OY2hMenVOSWVyVlpNNGFkVldoTEcxN2pONi00Y0M5QWVCR1Y0NzY5eFd2X083WkFwRWNFTVpxNEZZcUpMeFBXMVFlYUJyOTdYNjhKQ2hvUThqME9fc1dVMGRoaVE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "b5761d37436b5215bcab4688b01dd1fd",
-      "title": "El ICA alerta riesgo de brote de influenza aviar por temporada de migración de aves - Agronegocios",
-      "source": "Google News - Colombia",
-      "date": "2026-01-22",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSDZ5ZkJZU0dycUY0UVZkVkRWVzM2dUU4UE4zTUpPcmw1Q2Rlc0hteE9IcWtwdy1qYXM1U0M4RkVzRGVHS09DaHMwc3BLZTRTYzFyRV91QmZxMGtZVy1GQ1p0Y0VqU3hDdV9VVlNRV3lWT0o0MENzWWRodFEzRjc1akx6LVVQSjFvbkppLUhGZW5aejEyYm53OUpXUzBDMFZzUU1OZkJGWURsbVlEb01KUm1TeExsYkplbDE0ZzBIaUNzcE0?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "2aec416d2236e43fa5d47ed3dab5fc5c",
-      "title": "Paraguay prohíbe temporalmente importación de productos avícolas argentinos por brote de influenza aviar - Prisionero en Argentina",
-      "source": "Google News - Paraguay",
-      "date": "2026-03-09",
-      "country": "Paraguay",
-      "lat": -23.4425,
-      "lng": -58.4438,
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNU1QxU01KSDNBTTFJR1dzNk5PV0dFMmNjZkpCWVRuMURSa3RpWm9jTTJOaXlETUViWTU5RXNTMXRXM0ZraFdrT0tLY1liUVRNcE1SNFA4SjlvTGFSUzBwVWRnbldQMEVRckVvYzh5dVlZbVNfSHczdW1pVmtzWGVfNnVPQWxYYktrb1VTT3VSVlpZYVAxN2k2N2F6REtodFlqQXhMZkphMVNJSHppRFJuMkV5dkN2Y1ZxcWppWGxELWlaMXhGb1RMWFRja1NOTlNHZVZ6S1Vn?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "3f29ce68059cdc9eb1db13eb99ab833b",
-      "title": "El ICA controla brote de influenza aviar en el Meta - ica.gov.co",
-      "source": "Google News - Colombia",
-      "date": "2026-03-10",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaUR6VmZVeFZSTWNRSmV5bkEweXhmRWhFclYycHhwcEJnMlBtcTM3X01NRXU3bC1VdGRIRkdVRlVEME9FSkxYNzZiM0ZWUXFRVklYZWppdGtPSFluMmZNbEU4WW9jVm1yd3hhZW9MU0Y4TzdSWXRDVDA2VzJZYzc3am9YRVU?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "db5e47a9866dd34138e70ad1c36e9806",
-      "title": "Refuerzan medidas sanitarias en granjas avícolas ante presencia de influenza aviar en aves silvestres - El Debate - Uruguay",
-      "source": "Google News - Uruguay",
-      "date": "2026-03-10",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSUhOQzYwYzJOdUpNLWYwamhNb0E0aGh0WDVRTzU1M3M4NE1vbEE0LUhLYVNLQVFGVTQzRTBORG5zS1lIVmw5ZkFYX0htcUJzclozWUh2ckJmd1pZRVJON0ZzRUZvVk93S3ZUUWNGbDkwX09ncFpfYVdTOUduZmtZLVVncWtOVldYSm9zUHFHX21oWUZTMW9nb2xmUFdTWl9tWTNSS0pNQXFzZnltUkYtS0NBQ19DUTJuVHpQLXhQVnVySWk1cXE2eUtuSUtRQno2MVExVm9haWRUS2VoczgwT3kzUGJmdFd5czQwUlN3?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "2dbc0ff2eadc3b4b5f0c4dc059bf3486",
-      "title": "El ICA controla brote de influenza aviar en el Meta - CONtexto Ganadero",
-      "source": "Google News - Colombia",
-      "date": "2026-03-10",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTVVpbjU1N2lVU3Rmb1hSZkxTZ2s5azgwV3dnRUhISC1PRzhzR0Q2VXJVR296Rng3elcxX1ZyZUdpUzNrQ0VnUzBLbzAyWmZJZm1ZUEI3NGstZU82TXE2ODVrUi01SGg5d0dkQWxfVDNOTlNxX3ZuSzV3NkZUd3RLMHdLMVhwclVubnJZbVBVSnhzRlp5MnJYNTZDNklDVkE?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "51ee5c6cd88fd2f1d4501fb08713f5e4",
       "title": "Cierre temporal del Parque Nacional Natural Gorgona. Inicia cuarentena sanitaria por registro de un foco de influenza aviar - Parques Nacionales Naturales",
       "source": "Google News - Colombia",
@@ -3599,7 +3503,103 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1d6ZjcyVDUwUTFwMVFndi10M1ZTQVFsQW1KbE10aXlSVlNkU01LalhQY0dVeWdEVFpvTklraEFHZUhHTUJpd0tmR2hvNVVRYVFTVUJGOTJZLWtGZ0M5S20zVmtoRXJaeWN0ZjZ5b1c4Mk5zdHVnNGpsblNtZm13WW00YXJjZnF6d2V1ZENUY3B1RDJoZGdzRnFaTVlfajIzSTFUbThaM3pXVkZHWDJyWVA2SS1IMnE4UVY0ZXdua3E?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "bfff757a2fb3e8f251c591872dad16fe",
+      "title": "SAG autosuspende certificación de exportaciones avícolas tras confirmación de plantel comercial positivo a influenza aviar - SAG GOB",
+      "source": "Google News - Chile",
+      "date": "2026-03-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPczV3T3U2WFFuNlR4WnRnSW5XdFd1UnFyeTFGT1RjR3V3TmJfclBJbzZqMFg3SUQ5d21ZVnpER09YTTZPWDlDNDgxZlI2MzU2dzZ4LVJjeEhmN2x5ZHlvdll6TWJ1eXBTOS03VUVuX0s4QzNQMVhXTzA5b3d3aUxtSTdjNmh2MUNRaWkwM0NzTnZmQ0dXeTFxV0lZWjRWazJ5ZzAySklkbFRLNWdhSzVxZkhqdG8wUm95NDBzQTIxTXpiUHlPakF1Rkx6aVJlRWlrNE1DRGJkeEZUbnBERFU0M3FIU3NCQQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "8be1b13100c20ce79e4c54f181dc6a1b",
+      "title": "SAG confirma primer caso de influenza aviar altamente patógena en aves de traspatio en la región de Ñuble - SAG GOB",
+      "source": "Google News - Chile",
+      "date": "2026-04-02",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYmFjdWpsaHdPNEN4QXhjOGREV2czdUF5Rld4MTZPcHRqU1NkOHp6YmRNU3kxWHBoc2d0ZjQtRGpHcUI4VnIwNzBPX1AyYWtoazF0NGZfSTR1UnM0N3RObE9LNUJlREtMMXZUYzZuNG9UR0VmbENpb3JKUTZkbThkcFhCVFk4VU5XUkE2VHFoVEQwZHdQb0l0X09tTE8tUldDTzcwODd6b2RWWmxRazdnaHR3Ykt1STRnOWJzUFZKdjRILUF6M3RZUzIyX1VNWFBGNnc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "5c604b06dddd1c00575da22bf7ecd73d",
+      "title": "SAG confirma nuevos casos de influenza aviar en traspatios en Magallanes y Maule y refuerza llamado a la prevención - SAG GOB",
+      "source": "Google News - Chile",
+      "date": "2026-03-23",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYnY1cHBsLWlqd3ZJU0JpVUt2d2JZWEk3bDQyYjh4ZFlOM0NSX18xaVhibUVHZDQ0QTFwd0dHMjVKbFlMcW5rQUlfMDFfbE5neURfZ05rWlQyTnBENUFwVHk4Vm1oX3FWZGpFM2pRWmJyX2JLak1mdXVvYmdzU0pTZURFa3kzd1d6RmtZNmNtdWphVGdzU2kxNllKajZrcVRLQW9LR1JsMjBFLWZpdUF0bklQajBKaVVCN1U2eG40anVlbG8tcnVMLUdsckRiYWs2ZWFQdjdzWXZQZXBf?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "51dbd2d61c9e69394958972607f8b872",
+      "title": "SAG confirma caso de influenza aviar H5N1 en aves silvestres en la región de Valparaíso - SAG GOB",
+      "source": "Google News - Chile",
+      "date": "2026-03-04",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnhhMFI4cWlOcmM1VzdzUE9WamRBa1FZTVVkUXp6c1EwYmszdXpueUtpaUxMQm5pcU5OOHZqTDU4RTVHaFRveVpRRW9hMjlJdkNLRWFRVU9XSWVJOUNWcDVhQWcyc1RXcnV1UGdHOWpxbnpfZmkyZ3FZNkJUd28zc1dIQmZZRFYydnVPbHhVc05RQU1oYVZCRGhhaW5IcXl2SEZGb25qaE9MNWE3TmFSUEhDcTROY3hubHc?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "e5de001e0eb3339d915a434fe682aae1",
+      "title": "SAG logra en tiempo récord la reapertura de los principales mercados de productos avícolas tras foco de influenza aviar - SAG GOB",
+      "source": "Google News - Chile",
+      "date": "2026-03-31",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUTR2OURwLUdTUDBYWE4zX1VwU0plQlRHalB5a0dOUGJ5VmR3enoteFlENjdaUFBZeUxDOURKdkVIcXZwNU5saWw2SWJkR2hKemxvbmFCVEVkbGRhS2xqMG1pLVZscF9WQTgtZ2x0ZTZ4SmFLMVhtQ283Vjh4R3R2UnJBUEVEbjBEVVVveHpNd2htYkxXc09tX1VoTlFUa3Z5QkpwNXRWR0VLV3E0UGVlWG5rY0N0andDNzNZZUktZzY4aXoxcUg4OUQ1ZTU5Mi1OLVgxSEN2SFVvRjQtRWZvOFh0c3Y?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "77dd34c3af3fc0feef8712aca6497419",
+      "title": "SAG confirma un caso de influenza aviar H5N1 en aves de traspatio de la Región Metropolitana - SAG GOB",
+      "source": "Google News - Chile",
+      "date": "2026-03-18",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbDliOWpPamVuaFZlWUhUV1ZoTzliLXhOWENqOVFaaVBmZk9CdkVSUEkxdDl5Vkx0R3N6dU9JOWhKbWxKMVRFUzJaOTNuMDI3UXVvSF9ldFZ0RGtpSlhZU21WTkNzdm5FS3UwMm5SNE41MUsxUVF6aGtoR0xUMDNTRVlXWmRmcWRQUEFZOEM0ZFAtSGNDVF8wWlR5eWdXQzA3NWdtcURRN1htQzA1SGZ4S2ljRVVaOHBEMG5NWllJRHQ?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "6e738d032a67e5bb83f60f8ced79b989",
+      "title": "SAG confirma primer caso de influenza aviar en un traspatio de La Araucanía y refuerza medidas para detección oportuna en todo el país - SAG GOB",
+      "source": "Google News - Chile",
+      "date": "2026-03-20",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelNPZExFVHdJNGROMURaaGo1ckdUQUlOY3djSTJSazF6YlgzTkFYVmlkRWFOUlR4OWNUVTRaSXM0dnBNODBsZXE2OTdPSTNMMmZoR1htbXRQOThZMkFpdVMxSGJwUFNtTlJwOXlXeXpXVzhWVFZvWXRUSmNtN3Y4Z2tlZTZrYVJJSHB2SmhTanpUejg0YmJfRUFzTkZOUkc0NnNGYkt6ekV3YjQ2ZVBMRXVDdThUZFI4Y2ZRQU5sa1c4bWpfTWQwTVZGb3oyS0pMNXBoYXIyZlFZQmF6clFKWDNNeXppRVdCY2hEd20waW1aRnMwUzY4VA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "31ace779a1ffed478292d2dbcf5c4fa3",
+      "title": "SAG eleva nivel de alerta zoosanitaria tras nuevo caso de influenza aviar en Argentina - SAG GOB",
+      "source": "Google News - Chile",
+      "date": "2026-02-24",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0RPTjdBSDhCQ1U4VHlBejJTMGVub3YzOGVSYS05aVk1UDN1bEl3a2R5NDBpT3dKV0FYdXNMbGMxZGl4dTJPMlBGN0NQWEc5VXdFZDJSYnpHbzZjSDZfOEpNLW9yTm9WM3A3Qjdld3RsNzBpQ1VkVHJnZjhqZHMwWXhRekxMaU5uU0dESU9SNUlZZlhTVjZDUlM5WEtJUXRuR3dlbUJHbHpFZjNzSWFqMkNvejZoUmhi?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-08 20:48 UTC"
+  "last_updated": "2026-04-09 02:34 UTC"
 }
