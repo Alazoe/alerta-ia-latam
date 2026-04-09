@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "51ee5c6cd88fd2f1d4501fb08713f5e4",
-      "title": "Cierre temporal del Parque Nacional Natural Gorgona. Inicia cuarentena sanitaria por registro de un foco de influenza aviar - Parques Nacionales Naturales",
-      "source": "Google News - Colombia",
-      "date": "2026-03-08",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVWx4X0tvMWx6OEJnRjJrRXFlQVp5aldsRW9SU2w0eU1kTEZjLWp4RHVlRWpFQVBGYkF3dFpiT3EzNGxpMlNub1pidHMxMUN3OTYtcXI1MW5jdExESExFRTV2dEQ4VzQxejMzazNjU0Fpa3BreGJWV2ZVY3JBa0pYWFhnM3NNcXpFRUtrcGtxN2pHQmdWRXEycWJYdEhWRk4xRjd3NXgzX3A1Tkw5ZDJYZXBmTGpRMnYtQWdfbzM2UlVFaU9nQVVRY0htZW41OEp1bWNNYkJUdi1MQ3NJbG15SXRiMEFCb2xtcXc1RjVEZHRFaHJHR0I4YlVYc1ZNc0U?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "b04b69c5fec2602cab711039d4822d4b",
       "title": "Autoridades confirman brote de influenza aviar en Meta: se activan protocolos - Blu Radio",
       "source": "Google News - Colombia",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0RPTjdBSDhCQ1U4VHlBejJTMGVub3YzOGVSYS05aVk1UDN1bEl3a2R5NDBpT3dKV0FYdXNMbGMxZGl4dTJPMlBGN0NQWEc5VXdFZDJSYnpHbzZjSDZfOEpNLW9yTm9WM3A3Qjdld3RsNzBpQ1VkVHJnZjhqZHMwWXhRekxMaU5uU0dESU9SNUlZZlhTVjZDUlM5WEtJUXRuR3dlbUJHbHpFZjNzSWFqMkNvejZoUmhi?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "870d68420a803409342fea9fc0116964",
+      "title": "Confirman influenza aviar en Chile y refuerzan controles en la región - Radio Continental",
+      "source": "Google News - Chile",
+      "date": "2026-04-07",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYlNSRVd0N2ZKNnh1aE9zZDFxRm1sZ0U4bUtJTWwzY3R5OE9laFRfMXNTZDVFOFE1MlB6MDd1NWR2NVBUMng3a0NaR2dPbm9DSnlVYmFfc0RiN0FXWkhzYjRaOTlnaFpZUFlHUVNoU0w0akI0NHFPd081UEFVcmVLV25zQzhTWlRXQ1JRMWhpakxmR0d0OU1OOGs1OGxXSEtfTHFpUWtQWEFTQlNrUVRDb1ZkZnVnbmhQeGRj?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-09 02:34 UTC"
+  "last_updated": "2026-04-09 05:49 UTC"
 }
