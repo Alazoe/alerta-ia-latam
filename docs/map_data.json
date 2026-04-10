@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "aeb074bc91c0a423574339e3bc0ae7ee",
-      "title": "El ICA activa plan de contingencia por brote de influenza aviar en Puerto Concordia, Meta - Caracol Radio",
-      "source": "Google News - Colombia",
-      "date": "2026-03-10",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPR3ZrWDdDM1dMQ1hrX1o1YzVnVjYta2NlYWYtcDlsVlg3U0RfcnNXWHNBOWlDSWVQckRrOVR5bXNMQ25LQzR1NGlMbWlhaWpmTG5nZl9ISWNyNXJzSWQzZHJJSVdlNTNjeHVWRnlaR1l5V3dxUzdZWGNXdVNLSUp4YkF6X01zUGRhYUNmUms5cllfaXU5bzh2WlE5UGhJZDlSRUZmNHZXZlh6UG13aXJ3ZUZaZEpjT1lzYWlDclhrYW_SAdQBQVVfeXFMTTZYTmRKYUJNbS1aQTNkMm1rQ2s3cUlGWjVlU3FqVi0yRzVHbHloSGtfdXhETGFjcWpZVTVkeFVBQUhUYTRXM3JUaWJBYzh6YTdqeHg4SUZZNFUzWFN1bElQZ0lZNTdjek5CNGphZlVjWTc4blJUNU9BczJub1BBSEpOYjk3anZ4akthb3l1MjcwdER0UjRvYU5JVmg1cF9VREdIS05SNkxIMFBlYUdKMmU2YTE3TzZBSnVteWFNbDViVy1uNl9RdkhYQTUwUkRLUy1CNkw?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "42b2a47e384c83547c013dd6527c6ab2",
-      "title": "Influenza aviar H5N1 | \"SAG Aysén llama a reforzar medidas de bioseguridad en aves de traspatio\" - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-03-10",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORmNYOGpJRVpVbzRSUENzRzJzaVdVSkkwN3dnazNGcFNmd0JoTnVSWGI0angtaENQQVZXUHQ4X1A2dlNzSUROamFOcFNLN2t5aUtqNzFBY1kteHBCb3RHc0lMSC10S1VJblFwVVkxa2YzUHFlZXlyTHVMTm1wUjliNk5ZTV8yd2FhWDQ4NFA3TkdsZ0VvbkRGeFZZLXJVVXZxQnd0SFZJcWplZjMzWWQ5Sm5DN2phelducXZSS0N4eDJnMmFOdkhjbmFLbw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "cf0c3c3f3b0a58c1e58ee697fb0f9115",
-      "title": "Nueva alerta del virus influenza aviar: se registró un caso en Buenos Aires - Infobae",
-      "source": "Google News - Argentina",
-      "date": "2026-03-08",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVVo0bEF0c2FOU3lDcXhSbWdwWjhYV180bnlIdm1YSlI4b3doeldNVkxqTUVmWi1XZUpFRTdlVVZ0eHVEbEc3eHBHTUNIT0xXXzNBZmRlSkNZSW15Y3lUd1RrbHRMU2lFa0RzLXdmNUdvaEtXU09WeFpPUTl3Ym5RRDZydVdxOHhPV1VJMFBxZEhibVlhc1pfRTZRTmhPaDRHYjEtNjc5MEx4LUZ6NFpGbTNMc3VkTWl6S0tr0gHWAUFVX3lxTE4tODZBNE5yWmpZT3hWT3JCX0ZrRnh1LXUzcklSYlNPXzVwNXJuU1U5RThFak1pR3JvWEVTZjRGZVlkV01ka0JEdWRST0NtN0I1WlZPZ2tIemFza0QwQ0pSdks0VHBLRWFucFNoLWZxdnY2Wjg4RmVYU2VXbkdua1BRWlAyQ3FOTmdISGJLUFMzT2MyVUU5WEtaT0kybDZWeFgxQVVTSHFPUDlNZkpLQkFITUxXdkhmRkZma093WDNDLTg0YnJyUjFsLVdsMzg5TUN4b0VveFE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "9256967a2fc27fbec83dc78721943427",
       "title": "Detectan brote de influenza aviar en Colombia: explican qué pasará con el consumo de huevo y pollo - Semana.com",
       "source": "Google News - Colombia",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3VpU25HcVZQcjZFb1JqM29oSEljMWg3UGw4YkVndkxVcW5YZ1BCM0piclBYdXAtem9FTzJ0ZmxOUEdGc2FLeF9YMUxlT3M3bzBWRkFFUHJOZU52cEVJYjB0MFQwRHF0QXExV2VvVHVjNXBfZmJwUWFNUlFnOWpNUkRoazI0QQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "0d8d6c7ecce5e20eed7b1e20f18cbe85",
+      "title": "SAG confirma influenza aviar en ganso del Jardín Botánico de Viña del Mar - ADN Radio",
+      "source": "Google News - Chile",
+      "date": "2026-04-10",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX21LcnJRXzhBX01wZHlQUlJlSFlnSEd6c1hiYXRqdGtaazRTUzRkVFMwQXhUSDdfNUVCd1RSWXVjOHdXdExIOV9TMGt4bi1aNjRmQy12dFFONV9jOFd3RlhQMmlyZGZ1T1pxc3N3TThvZlR2d2FrTktFdURjcGZqQU9VTFk2dThERk5sQUpnUXZzYTJmN3FOZkh6dUsxbkJFR1BfMFRVaFdWUlg0Z2lERzJKOEhJRjhMQjhwMWMwY0pjZ9IBwgFBVV95cUxQX21LcnJRXzhBX01wZHlQUlJlSFlnSEd6c1hiYXRqdGtaazRTUzRkVFMwQXhUSDdfNUVCd1RSWXVjOHdXdExIOV9TMGt4bi1aNjRmQy12dFFONV9jOFd3RlhQMmlyZGZ1T1pxc3N3TThvZlR2d2FrTktFdURjcGZqQU9VTFk2dThERk5sQUpnUXZzYTJmN3FOZkh6dUsxbkJFR1BfMFRVaFdWUlg0Z2lERzJKOEhJRjhMQjhwMWMwY0pjZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "e8f38e5a6388f3896bd0d43a864f6676",
+      "title": "El ICA controla brote de influenza aviar en el Meta - CONtexto Ganadero",
+      "source": "Google News - Colombia",
+      "date": "2026-03-10",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdjNnaUV1SV9pdUNHSXFCZVd6WjJlbG51cVRKVzJsamoxdzNTS1VkOF9rMzM1TTFrMGI1UjMxZ1Z4QTJBbzBjbks5Z2NKbzFoVWt1Q1owaDFRckRpaDVMdThJV1oyUWQwRXliZklyeHAwZFlMMUVGeFdLcXJiWHBaY281ZTBIZFFYMURNSzlHTDdqa2FibW5z?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "470dad6c22b95a10cff659f0bd6cdb93",
+      "title": "Aparece primer caso humano de influenza aviar en México ¿Qué hacer? - RÉCORD",
+      "source": "Google News - México",
+      "date": "2026-01-29",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0JvWkdJR1llcXdUMXNqMUs2N0p2bXRNWHBWYXdFaUhaZlk2b1M5dW03RHNlQXZJc3FnejZBTE1adFZCUi02ZXF6RmctU0o5S1dNTGRoTmhtRC1zRnJaVlJ1dENZbHU5NHJacDdhSjFaOTNEbXg4QjZmX2RHN0VVWnFiTThFV0J5N2ZMXzJQSTFGRDA1NzlTVXBCeXp1LTEycTNzZGluQmN0SnotZjRWbWtjZnhTMHM0QnFQSQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-10 16:54 UTC"
+  "last_updated": "2026-04-10 20:41 UTC"
 }
