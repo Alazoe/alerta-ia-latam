@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "cdde65c873e727a10340712e50983b97",
-      "title": "Detectan brote de influenza aviar en Colombia: explican qué pasará con el consumo de huevo y pollo - Pulzo",
-      "source": "Google News - Colombia",
-      "date": "2026-03-10",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYll4ZFhoZnlJNTNOamUxZnVDaWpuTkNYcTN3Mlg3WF9HdFA1c24tYW5jWUNJbkgxb1hMYzI1MWtFTkVGVm0teFJwQkh3MHRKMU1tSkx1UDZET0NiZHRUTWRKTGNGN2l1LXdnMDNPd3FuNFFaQVVnaU1Ub2l2WlhrZ3ZLUVVjdzB5aFdMaUMzbWREeEdfdlcyc2N3?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "760bd56bdd221f9ccc2ab4cec078e228",
-      "title": "ICA confirma brote de influenza aviar en Meta y activa plan sanitario en Puerto Concordia - La FM",
-      "source": "Google News - Colombia",
-      "date": "2026-03-10",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUFV5Y3FwSzQyWmhubk1XaldnVEU5dEJON0lnV2NmUjZzYzdKTnY2M3dNeDF1WFgwWVM5Skx5b3V5VDlSSlh2WVJGUzJPNWpvZWZ3V1BFQXJnMjBFVGFoNFRkVV9MdXdFRXBsdldaVHRqLTNxWDlrZE1kQm1YRTBxWU9YN21ncGM3b0VaLVpYYU1XSDZWWVNONlpnYXfSAZwBQVVfeXFMTXRjOENvOUZtTEkzWXloTGxUaFRaMHNnUHEwdGk5NzAzazlYSFFNZUNYNGlsYXhIY1hCbUxTT29vVkE5Wm1nakY0M0dSeGNwbFRpRGczeUhWV1ZXcjJ6R1JBNDBraUtVOW1nOTNqejBQS3REYUJmelBQUHJKQzV3WXRGQ2ZMMElBSkRjUkdBbDlhMmd1c2twNjRoci04?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "e7d1bf9364663c950a9885af9819ec8c",
-      "title": "El ICA confirmó la detección de un brote de influenza aviar en el Meta - Agronegocios",
-      "source": "Google News - Colombia",
-      "date": "2026-03-10",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRkU3REdBdFhZVkctb3pnUHROWU9BYl9OMFF3OGNJVkw4XzRfeEdQbWt6QVRDUHVwdDRRNl8tRVByM0ppWVJUYldBc0FGbXNmZWEyZzNxc1ozaFRiOXNCTzAxcTk5bG5aSWhFZi1UeFpLbzNfdGZMcFk5cm9NRkFGZXpyNktEaWE3ZG42MTJjVVhCLTFvbnlWSlJid3g1UlQtX05CMmo2cHB2aWswOVJGTXhn0gGyAUFVX3lxTE1Idm9BS2pUTGVlWjRaSzF1d1pYWThveEs5SnBEQUZrWWNQZkxqUWtsWVpnTzM1QmcwSDRhOEdmTzY0czE5T1A5eE0tMVh2UWQ5a09UamdTV2I0QXZjVXdkZnVjVW81VnFzR2ZNYTN0dHBmRmZBVTBKYWMzZkdLQUlnay1tUWpFampkSmJRcFVsVEVudkZKNGJXaUt2VnRtbDJrTEVqNEp4c0JfUXZVWHhpdnc?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "aeb074bc91c0a423574339e3bc0ae7ee",
       "title": "El ICA activa plan de contingencia por brote de influenza aviar en Puerto Concordia, Meta - Caracol Radio",
       "source": "Google News - Colombia",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMlB6MjM5Y2syMVlOY3NoSUhkRWhlcFkwWE1MZkdyX1J1c2t3QmducGF1QUo3dFVvMHR2RFNVbjJuejFMVi13UXJzSV9ROXhVdlhSVktfaDZrc0kxR0prU2NvdGpHZVhzT2Y5ekNNNDNTellGUzFKblF3Rk9Ic1ZVMTZFeXhCaXh0X2FFbnNEVGJaTXJibjB4NFcwMGh5NnEyNWduRl9FZU1QeHR1RUJ0V2ZSb0dVMGVldkZhcGhVR0FnZU9EY2JrUUhGMU1hNDZ4ZVdKOU9WcGVXcEtRWjdiQTVMX3NWUdIB7gFBVV95cUxQT2g2OWpYQlQ1WGdyYm9aaUhWTFExd2tMaVhCdldyYW5xRVVDVGliMXJ5N2xVaTBwOE5aSExRWDFvZ0EtcDByVFBsNkRCV0lBOWR1SHhuR3dyaU9MNEU0VlJfMnZmNXNiaWQ4djdGcjRkb05kWHBFMmJhNl9Nb2dHcFNlSTg0bUlfdUZpdlMxMWVBSjlxTDlVb2NlTWpzYTdSOU9LdFJvWDh2SUkzaGZEbXZOQVJlZW00cHNzUlVoa3FENzcxaTNvSUdyRy1PSWpWaXJoNjlJTXlfUVhVdGZXSlJscHR0ejN6dkpZdlpn?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "2ddddfbdaea39920f020eeacfdff848b",
+      "title": "SAG confirma influenza aviar en ganso del Jardín Botánico de Viña del Mar - ADN Radio",
+      "source": "Google News - Chile",
+      "date": "2026-04-10",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU2FpeWhWcmNmaVhXdS1zYWd0Y3FpMmZOTlc3XzNIQkhCcmUyU1ptYmtfMllTRjNhdGxfaXBLRmlNNXZxZjZZa0pZb0hpTHhMVnpLbHFFYUlsaEg2ZHVrM2pIblhjOFVVVkRnc3EtX0VJU2wxRjVsblJkbkZLbW1tbEp6anFCeW1QVklFZGpCVXpuZWNWVS1qeVJSRlFfWDU2cFJTY2RhVkxDWnNNNFHSAcIBQVVfeXFMUF9tS3JyUV84QV9NcGR5UFJSZUhZZ0hHenNYYmF0anRrWms0U1M0ZFRTMEF4VEg3XzVFQndUUll1Yzh3V3RMSDlfUzBreG4tWjY0ZkMtdnRRTjVfYzhXd0ZYUDJpcmRmdU9acXNzd004b2ZUdndha05LRXVEY3BmakFPVUxZNnU4REZObEFKZ1F2c2EyZjdxTmZIenVLMW5CRUdQXzBUVWhXVlJYNGdpREcySjhISUY4TEI4cDFjMGNKY2c?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "bcdddaded4ede40187b4432d22db3ba9",
+      "title": "SAG refuerza vigilancia por influenza aviar en Jardín Botánico de Viña del Mar - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-04-10",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUtFMGtEeW9FOU5xMG40dzZRWDlneEdGRDVwUWl1X0RoM1hQWDNTSmFjNnJhVXd5dE05a2ZlVWR1VVJVWG5zUnlSdXY4dGJvRjdoVTg3TGhRVm53bGROSm1ZX3VjZlpLZ3NKMEcwcFRsVFVaSnBaOFBzMnBjN2VSOFRYUTVXdHNiN0l1dmRTODZVZG9Ydl83TDROSWNleURYMkk1Yl9LVU1nbHZSQ01xY0x5cmpHUnBYQzNzakFn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "7d8dc32f308a6cf285142d8c1f64b2fd",
+      "title": "Colombia fortalece su vigilancia frente a la Influenza aviar con participación del ICA en taller regional en Panamá - ica.gov.co",
+      "source": "Google News - Colombia",
+      "date": "2026-04-10",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3VpU25HcVZQcjZFb1JqM29oSEljMWg3UGw4YkVndkxVcW5YZ1BCM0piclBYdXAtem9FTzJ0ZmxOUEdGc2FLeF9YMUxlT3M3bzBWRkFFUHJOZU52cEVJYjB0MFQwRHF0QXExV2VvVHVjNXBfZmJwUWFNUlFnOWpNUkRoazI0QQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-10 13:17 UTC"
+  "last_updated": "2026-04-10 16:54 UTC"
 }
