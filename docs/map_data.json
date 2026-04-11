@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "57b563d075c6c1b56313b375188c9e5f",
-      "title": "El ICA confirma brote de influenza aviar en Meta: fue detectado en aves de traspatio - El Espectador",
-      "source": "Google News - Colombia",
-      "date": "2026-03-10",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb1lmNWFOenJGbWtreXhlUGI4RVk3QzViSjNQckNfdDUyVzg3Tm52Q280MnlLV0ZkU3hHejFNMkw1S1ZiSzJYT0EzVW9YR1ItUU1pWFlHemtrMzU5MGJfUWJlTkpIUzRtU2NFUlhRRjRVRlVFVVIxM2dUZy1DOUZBV3pEMWdwb3E2Y3ZWWU1oZ1IyV3g3dmNLcHlNTGI3RUFEZUxUUnJFbk5GVmlyZ1huSm15MXF4NnZnTmpTY2NZTGZqSlQ4VXNRSHhEMDNWQ1HSAc8BQVVfeXFMT29ZZjVhTnpyRm1ra3l4ZVBiOEVZN0M1YkozUHJDX3Q1Mlc4N05udkNvNDJ5S1dGZFN4R3oxTTJMNUtWYksyWE9BM1VvWEdSLVFNaVhZR3prazM1OTBiX1FiZU5KSFM0bVNjRVJYUUY0VUZVRVVSMTNnVGctQzlGQVd6RDFncG9xNmN2VllNaGdSMld4N3ZjS3B5TUxiN0VBRGVMVFJyRW5ORlZpcmdYbkpteTFxeDZ2Z05qU2NjWUxmakpUOFVzUUh4RDAzVkNR?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "4cbb32b4f412acf707f6e77b5e28772a",
       "title": "Brote de influenza aviar en Colombia: ¿Qué sucede con el consumo del pollo y huevos? - RCN Radio",
       "source": "Google News - Colombia",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ0NSSldVejNLZW05RUY4TjU0cGQ4QnE3bFdacW9GS3c1cGtUc2dBekI4SXFaVWI5MWt5MGFqSmtQM2t4aDNveWd0NUlZam9TMVJBaEwzZ1JFUVItRjUwbGZvdlZ1Z3RsdGtQcXRCb2JVMkI4LTY4MlNnREVIb1pCNmw1RkxwaURFTGxkSFo1cWUxZEFXcWtiODdweUh3ajJNV2RWVGZSMmNHRUhzejB4dW5jTS1qRFhOTDFrTDFoLTM5aGtZYTN4U3dablVQVzRBM3piWjZkN3NFSC1LeVRBd0I5Y2h1MjJjMTlzYmRuM1NpY1poMnl4LWwxYmF2RUJUaGhXddIBigJBVV95cUxORU5FeU5mZU9zeF9hR1pYWnYtQmtfYWRuamlBQ1NRdDJ1N1NJcjZzcklTall6czZJWmRvTHhVWU1JT0tVbDk2Wm92RWtLMEFkLVlZdmpvMTlzeEtDeThxRzVPX1ExZWI0YlM1ZDRXaThtLUp2bXlCdFVsdVFjS0ZFREhJM3FWWXdhUFR4aVlhZWlaQkU2STRNdWhOeW9qRW1kTVJIMmtKVDRUd3hMWVk0bmVwcDJEZjM2bDYtMjZVaXRMbENxRGYydE1hVE1jZmVwTnFzOGJYMTZud05UOUtCdkJaSmtvdDBJNzNDbDI5Y0QyRlRlTDZSb1F0UkxtcUVJN3ktLVgtVXJ0UQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "9d7530b9ec2872e92c4570058a5daea2",
+      "title": "El Agro | Experto advierte por brotes y nuevas cepas de Influenza Aviar en Chile: “Está Mutando” - Radio Agricultura",
+      "source": "Google News - Chile",
+      "date": "2026-04-11",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQjJaWXBGclBHU0ZpMS1JLVljN0VTZzQ1OEloLXNrNE9LMklBd2VQaG1rckRITWhyV3JHbmEzQ2RoVHVoa1FJT3Q0YmFZTmJDZEplUWIwckM2UFFaOFpFWFdJSWIwaS03OVVYYTY5bkI5OXd5MGxZQjRCTHdoVnZwbW8xbVVTNEhTd0s0THNKb2ZuUnNhaFNnQ09kTkNFWGk4M2Nqb2czT3hzN3dwclVXUGhhWXlVOE5WWHpoOS1ZUE9fSWFOU1ZCQ2lmOS1JVG9DLVRYWk5pSkt5TmJwbVpUbDRzRHdydw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-04-11 13:03 UTC"
+  "last_updated": "2026-04-11 16:40 UTC"
 }
