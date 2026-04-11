@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "9256967a2fc27fbec83dc78721943427",
-      "title": "Detectan brote de influenza aviar en Colombia: explican qué pasará con el consumo de huevo y pollo - Semana.com",
-      "source": "Google News - Colombia",
-      "date": "2026-03-10",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNd3JIV0RnaHZSd3EzT0ZNV29rSHMtcWpsVWoxV1BHbUV6UVBVMVpQUlBpRC1qQjhMbHNOZERRRzFZLXRwRmctbGVaTFdDalFxeExYdmlOdE1VNEVuTnpkci1VXzBDcGU2bnBQOXdTVlEtbkc2cVlXLXUyekpwNUJBYUlLalBpdlRmTzNQNDcxNjhmZWdoaklWTFBreS1TUGh0RWoxMS1kNnl6dktnREdrQmRDaERXelEzTWVBRzJfS1Vza3JSX3lHQ0J2Q2dWdkRUM1pRdV9zR3FKZDct0gHiAUFVX3lxTFBJakU0SkJROWVHOWxKZkNSVUp4SzlEVmhHckRBM0ZQbW9vTEZ6bUZBNzh2OVBIMmNneHI0V3d3dDY4bHhMbVRoM3BlbXpzazBXTUdUMFA0aUZPay0zNUo4MFNXelJMZXdvaWVReUNEcG11Ulp6aDFsU05lbGNicFhlYmdzdkdvZVpVNGZpbFpDZUcxQlpCRHM2YkRJYnEzY0NNWXNfY05xRU9HdFVjSERvUHZuTElfaGlvdDMzSUZveTRuR1JxSjRRYXBOV2YxZHBDT0JqV3NUNFZ2V2dDel9kaVE?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "dd7aa317dbea778337d8e6c4ae0a1eab",
-      "title": "ICA confirmó brote de influenza aviar en el Meta - ELHERALDO.CO",
-      "source": "Google News - Colombia",
-      "date": "2026-03-11",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONDBvWHBGbnBjNTlCZ1EtYmNCT3dZTnBKaU9FU1JLZnZjZkpFMC1yMkd6V3lVaThNRWZ1b3RsVFlJZ3ZpZnVhcFNwYndCTEE4VzZ1RV82bkd2cDQ1SWxzLWVOQ3B1V3lxUk1xczFXZWdva3hkdUMtdG1UOUZBZkw3YWhCd01hdmFYODA2cTBWTHBKNFVQZnB1eXVn0gG0AUFVX3lxTE5fUzhyaXN0bGgyTlRSLVBHWnk5d2o4S19Ma2hCRldwOENLclRtRHYwM0JBX0t1MmlQaXg5UGtYUV9FaXBsMzMyU0dwS2lGTHZ6YktfVk5kbXdNTTVYbUtIYWxMdXZ6WVBOU3VpY0tMVkkwNHNJb1lLSGtxWHZuNkM2ZmlFMlA1dUc1VTg2b0l3MjRUUi1BaERvMlJCbmt6TGptV0x4VWZUUFlwZ0dRb00zU21DSA?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "57b563d075c6c1b56313b375188c9e5f",
       "title": "El ICA confirma brote de influenza aviar en Meta: fue detectado en aves de traspatio - El Espectador",
       "source": "Google News - Colombia",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0JvWkdJR1llcXdUMXNqMUs2N0p2bXRNWHBWYXdFaUhaZlk2b1M5dW03RHNlQXZJc3FnejZBTE1adFZCUi02ZXF6RmctU0o5S1dNTGRoTmhtRC1zRnJaVlJ1dENZbHU5NHJacDdhSjFaOTNEbXg4QjZmX2RHN0VVWnFiTThFV0J5N2ZMXzJQSTFGRDA1NzlTVXBCeXp1LTEycTNzZGluQmN0SnotZjRWbWtjZnhTMHM0QnFQSQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "ac4a80afde212bfdff133dec47ce2d97",
+      "title": "SAG Biobío realiza monitoreo de influenza aviar en aves de traspatios - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-04-10",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVEx3Z0hrdXFSOTZ2S05VdEw3TlNBX3ZfemxVaFNld3NiQmhUdUpWUExPYmR5RzFQekJhS1FiN0oxVHBZOUxRNVhqc0FSblJiREJGLTVMTXhWcFROTFhSWDhVS0VXVkl5bDFNUklqMlBpVmtoUnM4ZTVRcUdneF95ckNZTXRfaF9RUVZSTkRKNUhvcnRFMWVjcUdfNC16TnJtTWVrX3VyQ1dBeDFiVkxUQklR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "48407adf5764ecfa537a3bf6badf6c01",
+      "title": "La influenza aviar se cuela en una granja de aves de corral de Brasil, el mayor exportador de pollo del mundo - CdeComunicacion.es",
+      "source": "Google News - Brasil",
+      "date": "2026-04-07",
+      "country": "Brasil",
+      "lat": -14.235,
+      "lng": -51.9253,
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ0NSSldVejNLZW05RUY4TjU0cGQ4QnE3bFdacW9GS3c1cGtUc2dBekI4SXFaVWI5MWt5MGFqSmtQM2t4aDNveWd0NUlZam9TMVJBaEwzZ1JFUVItRjUwbGZvdlZ1Z3RsdGtQcXRCb2JVMkI4LTY4MlNnREVIb1pCNmw1RkxwaURFTGxkSFo1cWUxZEFXcWtiODdweUh3ajJNV2RWVGZSMmNHRUhzejB4dW5jTS1qRFhOTDFrTDFoLTM5aGtZYTN4U3dablVQVzRBM3piWjZkN3NFSC1LeVRBd0I5Y2h1MjJjMTlzYmRuM1NpY1poMnl4LWwxYmF2RUJUaGhXddIBigJBVV95cUxORU5FeU5mZU9zeF9hR1pYWnYtQmtfYWRuamlBQ1NRdDJ1N1NJcjZzcklTall6czZJWmRvTHhVWU1JT0tVbDk2Wm92RWtLMEFkLVlZdmpvMTlzeEtDeThxRzVPX1ExZWI0YlM1ZDRXaThtLUp2bXlCdFVsdVFjS0ZFREhJM3FWWXdhUFR4aVlhZWlaQkU2STRNdWhOeW9qRW1kTVJIMmtKVDRUd3hMWVk0bmVwcDJEZjM2bDYtMjZVaXRMbENxRGYydE1hVE1jZmVwTnFzOGJYMTZud05UOUtCdkJaSmtvdDBJNzNDbDI5Y0QyRlRlTDZSb1F0UkxtcUVJN3ktLVgtVXJ0UQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-10 20:41 UTC"
+  "last_updated": "2026-04-11 02:30 UTC"
 }
