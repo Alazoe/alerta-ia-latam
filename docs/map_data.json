@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "4cbb32b4f412acf707f6e77b5e28772a",
-      "title": "Brote de influenza aviar en Colombia: ¿Qué sucede con el consumo del pollo y huevos? - RCN Radio",
-      "source": "Google News - Colombia",
-      "date": "2026-03-11",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb3E0SEJBczlraktTWldUTWFlTV82Y3RNX2MtYW9McVpfbFNSdHM5V2NHelFia2tNQkxfNVNtZmhZSXh4emJNZUF6Sm15bjFfcVpJQmtxdjhWYkk4a0xlVFVDbHBwTFRkenl1WE93b0E4NXZ2ZnhaLXJxcG1lOEFTOExfV0lYMk5aTVJ5OC1aejFXZFNKM0VWVlhwTG1tQkZKR1BNclpjVzNLTE1EYlI5bFFielZPb2pKcHhlZjhB?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "d8daf1f9f775ffbd337d2d5b8e8b0c45",
       "title": "Detectan brote de influenza aviar en Colombia: explican qué pasará con el consumo de huevo y pollo - Pulzo",
       "source": "Google News - Colombia",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQjJaWXBGclBHU0ZpMS1JLVljN0VTZzQ1OEloLXNrNE9LMklBd2VQaG1rckRITWhyV3JHbmEzQ2RoVHVoa1FJT3Q0YmFZTmJDZEplUWIwckM2UFFaOFpFWFdJSWIwaS03OVVYYTY5bkI5OXd5MGxZQjRCTHdoVnZwbW8xbVVTNEhTd0s0THNKb2ZuUnNhaFNnQ09kTkNFWGk4M2Nqb2czT3hzN3dwclVXUGhhWXlVOE5WWHpoOS1ZUE9fSWFOU1ZCQ2lmOS1JVG9DLVRYWk5pSkt5TmJwbVpUbDRzRHdydw?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "f75e343d0545a709acb7352fee2d6fa8",
+      "title": "Argentina ya suma más de 20 casos de influenza aviar en 2026 - Periódico MOTIVAR",
+      "source": "Google News - Argentina",
+      "date": "2026-04-11",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzNTV1BSOWhZYk11WTAwUVU3X2ItcEJDYTJzZ1pOdG5Hbzl3a1RDM1RoYXU4NWRpV1pQYTRJd3ZpVmRkY3FNMVkwdnI4OTVBcVBHWi00ckYwXzk4aWxpOGJURFEzc19lR2NqY09Ba1J4R3dCTGtxcUR2NVlRcEtGZWF2eGt0VTJKX3dFU3pubWhhdHNiV3JZbWRoVUdBS0xRM0UyedIBqgFBVV95cUxQZ1dsb0N2X0haVzZmekhSV0JmckFiRm5fUFhlWF9jaHVRNDZtb1ZHS2o5aDRvc1luZHFCX0wzV1RZMUFDOVctVGdJRm1IRDgzdmVlWnA3SmpiUVN4Zms4S21EWXpib2dJV3lQWWIwVVJMT3pUV1daTFhNZWZPTUF0VGl4eVRWVm9YbU9VNHZzd3NaRGQ0Sy1GMXA0RjBibldTVFRuSElOUC1mdw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-11 20:37 UTC"
+  "last_updated": "2026-04-12 02:50 UTC"
 }
