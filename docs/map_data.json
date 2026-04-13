@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d8daf1f9f775ffbd337d2d5b8e8b0c45",
-      "title": "Detectan brote de influenza aviar en Colombia: explican qué pasará con el consumo de huevo y pollo - Pulzo",
-      "source": "Google News - Colombia",
-      "date": "2026-03-10",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYll4ZFhoZnlJNTNOamUxZnVDaWpuTkNYcTN3Mlg3WF9HdFA1c24tYW5jWUNJbkgxb1hMYzI1MWtFTkVGVm0teFJwQkh3MHRKMU1tSkx1UDZET0NiZHRUTWRKTGNGN2l1LXdnMDNPd3FuNFFaQVVnaU1Ub2l2WlhrZ3ZLUVVjdzB5aFdMaUMzbWREeEdfdlcyc2N30gGfAUFVX3lxTFBjMEpHSHBGbVFnVTJ2d2VlaFpmNDJDTDZLZ2o4YlQ5TU5GWUNBSXhCdUdGUVk3VnczRllvdFVUYUNTa1hYbHEtVS1LbE5iS1hWYkEtTWhBSW9lWFhRWTkwMGhWazRBOHdMYXpaS2UwS2FaWlRpbUM4TWY3MmR3S2xFQ1JfZnAwaWFUOER0ZE8yUzloR3BHY0ZMTVJrY29GUQ?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "70af36ce7453098d968980044c078560",
       "title": "Influenza Aviar | Ministerio de Ambiente - GUB.UY",
       "source": "Google News - Uruguay",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTzNTV1BSOWhZYk11WTAwUVU3X2ItcEJDYTJzZ1pOdG5Hbzl3a1RDM1RoYXU4NWRpV1pQYTRJd3ZpVmRkY3FNMVkwdnI4OTVBcVBHWi00ckYwXzk4aWxpOGJURFEzc19lR2NqY09Ba1J4R3dCTGtxcUR2NVlRcEtGZWF2eGt0VTJKX3dFU3pubWhhdHNiV3JZbWRoVUdBS0xRM0UyedIBqgFBVV95cUxQZ1dsb0N2X0haVzZmekhSV0JmckFiRm5fUFhlWF9jaHVRNDZtb1ZHS2o5aDRvc1luZHFCX0wzV1RZMUFDOVctVGdJRm1IRDgzdmVlWnA3SmpiUVN4Zms4S21EWXpib2dJV3lQWWIwVVJMT3pUV1daTFhNZWZPTUF0VGl4eVRWVm9YbU9VNHZzd3NaRGQ0Sy1GMXA0RjBibldTVFRuSElOUC1mdw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "7d3894e5e02902c03ec5446beaddc83f",
+      "title": "SAG confirma caso de Influenza Aviar H5N1 en aves silvestres de la región de Los Ríos - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-04-13",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONjlEYVp4Qmh1X2t2MUhrd2c5UzdDN2dYeHc2RWhzLXU2NHA4eWxOTlZrMGd2ZVlVZm53MjAwRXFnei16MHE1OVFYcFRDR29Bb2dXQ3B2N0tpd01LM0VOZEhjcTZJcm93TFhTSFZVUThWeEVVRllRNHR3ZWVnVW1majlYTDFpVEpJbGxEYjVYZWZWcGFaUVF4MERlWnY1bVRmV0cxeTlKWW5uZGcwdFZxeGh4c0UzRlFuS01nX1FjUkcxcVJMMzdN?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-04-13 09:57 UTC"
+  "last_updated": "2026-04-13 13:44 UTC"
 }
