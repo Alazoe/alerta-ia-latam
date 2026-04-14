@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "934ca7b2419cae529b21d79a18551ddf",
-      "title": "🐔 Detectan primer brote de influenza aviar en aves de traspatio en Meta, Colombia. #Colombia #Salud #InfluenzaAviar #Meta #Alerta - facebook.com",
-      "source": "Google News - Colombia",
-      "date": "2026-03-11",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeUlITVdQenNwZ2REb1ZXWE9NemtmVGg2WkxOVzc1QVo0bVBzcUw2bV90OWtLQndqYktqS0VIMi0xTEZUc3ZUaDJrZERXcmRsMkhqcFZsSFZPbTNEZTQwTFdQYXdDVF8yNGNOQ2oyakp0UWZ4SG5RWkRYLWNNTjFzYlZDZE1EbTVjeF94YUFtcVRjSnVKUzFMN2F2TE54ZkdHSVlJTFVxOUdnMWRZUzNEWDdtOGQ1ckpCN1Y1Ul9WcUc0eFYwenc2WU1ubE5UZmpjTHEzLUVrNGhaZlpaUEE?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "37e992cec22ad1415b13de4ab93efe85",
       "title": "El ICA confirma brote de influenza aviar en Meta: fue detectado en aves de traspatio - MSN",
       "source": "Google News - Colombia",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNd0RPTjdBSDhCQ1U4VHlBejJTMGVub3YzOGVSYS05aVk1UDN1bEl3a2R5NDBpT3dKV0FYdXNMbGMxZGl4dTJPMlBGN0NQWEc5VXdFZDJSYnpHbzZjSDZfOEpNLW9yTm9WM3A3Qjdld3RsNzBpQ1VkVHJnZjhqZHMwWXhRekxMaU5uU0dESU9SNUlZZlhTVjZDUlM5WEtJUXRuR3dlbUJHbHpFZjNzSWFqMkNvejZoUmhi?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d066e8e970441030c1aeb71841ccc137",
+      "title": "Bío Bío: SAG confirma primer caso de influenza aviar de alta patogenicidad en aves silvestres - BioBioChile",
+      "source": "Google News - Chile",
+      "date": "2026-04-13",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTDRtTHMyYlRJNWxocXBEYW1xdXo3Z2JFLVQ1a0pFekQtYUNSZTVjRUZubTB3SlhxZGJhbWxpYlhEdmdEZDRWWXpES3NLUmpOMGJWdlJXRnV1SDdJZmVxZ1l0akdsTGVUenpteGdxOXFRV25FQThEVDcyVzI4Vk56a2tCcGFFamxYdzVfN0tXc29uZjA5dWZOa0c5LVh1SHI0YjlwLU9BR2EycnJZRllzV1FsbzdtLXFHNXVVSDZYOXNmLW9JLW04dVRRUHM5cHVNWlg5MDZzVGVmeGc3YU9JTWVJa0Rsb3ZXSkVxVEJXdHFaUG5ROHZoVnB1QjJ3RkxKV0JR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-13 20:57 UTC"
+  "last_updated": "2026-04-14 02:47 UTC"
 }
