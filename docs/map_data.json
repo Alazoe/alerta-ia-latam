@@ -1,66 +1,6 @@
 {
   "alerts": [
     {
-      "id": "37e992cec22ad1415b13de4ab93efe85",
-      "title": "El ICA confirma brote de influenza aviar en Meta: fue detectado en aves de traspatio - MSN",
-      "source": "Google News - Colombia",
-      "date": "2026-03-11",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdVFFemFQdGhZbU9kNW8zdFNlT0lpTllZQ2RFanlwNHhjZlYyRlo3MHdfMXdvbUhfc1BmbnhzaEdoQzlfYXZMS0tlWFpfUGpsNnJna3RDVUdCWV81VGRrc0NoOWdlampEa1FCS1F2Z1plc1laLVR4eVY2RmFxVTRHUWNEM05STXRYSkxPY0t0YklJN3FNS3J5Q01FQXA0Z1RYLVYzTm9Hc3dYc3BHMG8xWTc0bkJsYjVoaEZEeTlUSWFGeGU4Qm1UdlJvVzBqVVZnc0pzZWdn?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "16a410c44883d6aaf4fb49e89636fc42",
-      "title": "ICA trabaja en vigilancia y control contra la influenza aviar - El Frente",
-      "source": "Google News - Colombia",
-      "date": "2026-03-11",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVRWWXluMjlUZ3c0WlRKcWxzdFU2dUx6OW1iTHlZUzJmUDYtRzRhYzZnc1Zkb0FaZlVQYkNBcnpNX25QUlByamxfaWtnbXExWnBINlhuZVBTZ0pERFNpb2hLQ0ZjNHVPbk1Ocks2czhBalVRU3o0YVNRMUdwS0ZiYUNNeGdsS0U0Q2RRVW0yUQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "6d0392f5777db8594a9bde7db1533306",
-      "title": "Colombia fortalece la vigilancia sanitaria ante brote de Influenza Aviar - avinews.com",
-      "source": "Google News - Colombia",
-      "date": "2026-03-11",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNXzJZTnNhc1RDekpnczJUM2tEVU9GdVlrbmQ3bVptY254bDR3TlpyRFhvd25rdUxoUXNVRnFGS24tbG1BSlJlaUdTQUdfS05BZVdueFNoMEVLU0RBVTZXQ1JkX3lLNkZ6TFFzZ0VHenU1R2FjWW9nek5feGx5ZndESTBIaWNKdXgyMmpueGZBMEFtTU5tbjM4Zg?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "1ea55072f066ffdd43577eecff988f28",
-      "title": "Brote influenza aviar departamento Meta - Radio Nacional de Colombia",
-      "source": "Google News - Colombia",
-      "date": "2026-03-11",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPX1VvWXI3MFBOemFka0o0ek9iQ3EtMWVkbk5FUG1RSW4wWGw0Y19fVlVORFczVDBybGR5R0tVdHBlR1RqTGhlN2lUVk9YQTcyZVcwb3hndkZmSlRsRXV5aFpTSlF3bmhqX1A5VTM2S2dPSkZQUXZaaVdNeXB2TTVMWWRXY19rT0M1Z1dvNWp2a9IBkwFBVV95cUxObmFQd19laXZUcFlmYW14cUJxMGJYYU8tQm44MWVQYTE4Z3hYM0FVMzBSbEFDeTE3ZGtqTDU4TjR0Q2l4U1BXcVBQTnhqQ2pUTDl0b1pSZnR1OWE4YnA2ZDBnSGlKQzZDRDRGMHFyUXpkTjIzeFBxcmlYNXFoUE9Oa1hqNWNtT1JhbzJ3LV9vdnFseDA?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "81ccf81a25eb85f4264ca0f71423b130",
-      "title": "🐔 Detectan primer brote de influenza aviar en aves de traspatio en Meta, Colombia. #Colombia #Salud #InfluenzaAviar #Meta #Alerta - Facebook",
-      "source": "Google News - Colombia",
-      "date": "2026-03-11",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQeUlITVdQenNwZ2REb1ZXWE9NemtmVGg2WkxOVzc1QVo0bVBzcUw2bV90OWtLQndqYktqS0VIMi0xTEZUc3ZUaDJrZERXcmRsMkhqcFZsSFZPbTNEZTQwTFdQYXdDVF8yNGNOQ2oyakp0UWZ4SG5RWkRYLWNNTjFzYlZDZE1EbTVjeF94YUFtcVRjSnVKUzFMN2F2TE54ZkdHSVlJTFVxOUdnMWRZUzNEWDdtOGQ1ckpCN1Y1Ul9WcUc0eFYwenc2WU1ubE5UZmpjTHEzLUVrNGhaZlpaUEE?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "5c89a0adf1a707a465137fd69ec9bc65",
       "title": "Desarrollan vacuna intranasal contra la gripe aviar H5N1 - ultimasnoticias.com.ve",
       "source": "Google News - Venezuela",
@@ -3599,7 +3539,67 @@
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTDRtTHMyYlRJNWxocXBEYW1xdXo3Z2JFLVQ1a0pFekQtYUNSZTVjRUZubTB3SlhxZGJhbWxpYlhEdmdEZDRWWXpES3NLUmpOMGJWdlJXRnV1SDdJZmVxZ1l0akdsTGVUenpteGdxOXFRV25FQThEVDcyVzI4Vk56a2tCcGFFamxYdzVfN0tXc29uZjA5dWZOa0c5LVh1SHI0YjlwLU9BR2EycnJZRllzV1FsbzdtLXFHNXVVSDZYOXNmLW9JLW04dVRRUHM5cHVNWlg5MDZzVGVmeGc3YU9JTWVJa0Rsb3ZXSkVxVEJXdHFaUG5ROHZoVnB1QjJ3RkxKV0JR?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "e74173b32b5b292a035c39fb9f480ea1",
+      "title": "Influenza aviar: SAG confirmó primer caso en aves silvestres en la Región del Biobío - Resumen.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-14",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWNUc3ZwdWt4U3d6bFUydVBOb2hyeVFNYTF0MUVkNUdJMHpZOGF5VmcyRklwaTk1dGFxUHJOTXVTNzhlU24wQlFWSWNaSFNsNE1qQkY5c3RSelhWUTJjSlM3VW1lWDJrVGFSaEQxZEhZb1FWeWNIdElRU0Jyc01keEZQSVh2RENYTFJ1ZTZicnJUZjZPRXBLVWgtWUtKM1AyeldQMXY3c2Q1dVJEaU1oTzFn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "4218f44698cb08d7c524aebb7170ba1d",
+      "title": "Confirman primer caso de influenza aviar H5N1 en el Biobío - reporteagricola.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-14",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0JqMUJGVmFIanNFMnNlSEVCZnRlWDFlelk5Tkd5d0NReks3dllMMzRCX1N2Zjd0R1dDMEt6VktGQ2prczRjWWI4TWNKa0tJLTFDXzNDSUtrRGdac0YwU3UwVHk2QTVyd3Z5VThodFd5S0c0bDhsOVZUZmxSeThlVHQ3T3ZvY3kzb0pYUnctU0FSc2JfMnFEMC1aVDQtVm9tWmktaVVPbkY?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "0457de87156bce4b7d1e37f0c2388f15",
+      "title": "Detectan influenza aviar en cisne de cuello negro en humedal Río Cruces - Radio Agricultura",
+      "source": "Google News - Chile",
+      "date": "2026-04-14",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMXNsVE5jMzhQRG4zUkVudjFrOXBsT3B1dThyWkV3M242UVIyVEJFaE5mdXNnYk5SLTNNRW0tQTZSTmJDa3pnMmlrNkJwOW02YS1jZUhleWdpcmVVVTdhaTBYYURaVFgzSkt1dlVFUWZCNnFBSjZpdjRlcGNRRGoyZkN0SVo1OUxtMHV4T1BtcW1HanhHOFgwWWRUTjJrUXV6U3RoU21nbWliLXhFbzFubmZicEZnZm5Ka09abTFEbw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "4aefdba7003e762659ec773aefe0b5a6",
+      "title": "Humedal de Río Cruces: Confirmada presencia de Influenza Aviar en cisne de cuello negro - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-04-14",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNWt5UjNDc1lLc0JpaWZUQTQtbkFLc25oMy1sT2k2NndsN254eVdyR1liXzJTNzk5QklJdmlPUGpYLTZoWXZWRFdISDVGOXdaai1XS2ZWNkdoemQ4Q3BiM0tXaGdReDd3blRYNjlSU1hRUWE2U2VoVFI3RElvNU5DaWN3Y2NEVnYzd0swZHB1YjI2LTlBX2U1NmwtZXMtS1NlRXZWeXJxLThVSjdhX2ZSQ19ibWlPR1VwWDFxT0p4Nnk0ZXNmbEViZg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "47a2048ade80e6c83dc758d6a066eda0",
+      "title": "Mesa Técnica de Influenza Aviar se reunió tras confirmación del primer caso en aves silvestres en Biobío - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-04-14",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUzNaMGlsTEpsdm5PVy1qdDI1Wkh4cjMwR0J1U05HZ3ZPcllicWc2X0RISTI2TmxuZ3RqVk1pYUV3cUdPYW9LZWZwLXA1eFR2aXpVdkZDVEZPVXluMUJrZmsyT3djZm5aclZNdHZRY3prREtKdVJIbWcteGdqVzZFUGhocHJib05IY2VhSkhXZmJBVVdTYmVBLXpJSW1GWVNDNjI1U2N2VVltc0tJa2xhZG1iZE5pdHhYXzdPLW5aT2VCSnJ1RTdlUk1UN20tdXk0STZoM0d3ZVF3RTJ1VTZqWg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-14 02:47 UTC"
+  "last_updated": "2026-04-14 06:01 UTC"
 }
