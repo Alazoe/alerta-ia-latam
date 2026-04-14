@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "5c89a0adf1a707a465137fd69ec9bc65",
-      "title": "Desarrollan vacuna intranasal contra la gripe aviar H5N1 - ultimasnoticias.com.ve",
-      "source": "Google News - Venezuela",
-      "date": "2026-01-30",
-      "country": "Venezuela",
-      "lat": 6.4238,
-      "lng": -66.5897,
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOTF5X05XTWNyZmtmYm9VRzA0Tm1rdlNDZmFIeGFmamdtNC1hX3c4OG45dVlwVWUzMkpaa3NtVjhHR3Y5RWJCeVVTR3B5SmRmZ2gxQ184OEQ5V0lQT1NGS2Z1YURveEVpWnZFUnBwbUNmZHZtZXlNbTE4a2Rwd2wwR3ZTSFhQWHh3YW5OSkpBNnBPVUFCVEFiN2xHM3c?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "14bc58c6bc59bfbfea84af61e7df58f4",
-      "title": "¿Qué debemos saber sobre la alerta zoosanitaria en Chile? El virus de la influenza H5N1 de alta patogenicidad se establece en los ecosistemas locales. - Universidad de Chile",
-      "source": "Google News - Chile",
-      "date": "2026-03-12",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQjdZS0E3Ym80SU9CZ2FmdWV6ZEVjcVBtc3E5ZTVRZ2lwaThEZDlPak56QVNWcVFlWloyaTBZS2NpV3BlaWsyMWFkZ0gxOG9nSzA4ZVJqR3M1RWxLOHcxNDluTEhYY1NvMm1mWXdJMVdCTGNZeHozUlYxTnJ4eWx4b3pSbFhqaElsbUdjQ05zOGtNbjA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "02022c6b2160cf112886815a9d7e54f2",
-      "title": "Autoridades sanitarias de Colombia activan protocolo ante brote de influenza aviar en el Meta - Notiprensa Digital",
-      "source": "Google News - Colombia",
-      "date": "2026-03-12",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNek4xNnRBWDN0UjRHSEU5VjljZWZuNldXeUR2VDRLTWZmWUpqc001cmV5bmtSYUdHOWlVYXZieVhaN0txNnZBYVExUmduVkhvZk5mN3Vod1UtY2lwcVVVbTEwVTM5R0pVc1VpVlJCYnhSNmszRXJUVWJNVUllQkhYNHR6elNUcjlVT0Rxb1FKSl9zLUZNSmNBdk1qSGJFMjJMdTQtVVRuTTZKd2t1QTRESm1QYVFERUdPRUNqN1VvejVDdw?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "093e1a9d9b0f96f3ad7d7e4398dd26a3",
       "title": "Sigue avanzando la influenza aviar en el país: detectan un nuevo caso en un establecimiento avícola de Buenos Aires - Clarin.com",
       "source": "Google News - Argentina",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUzNaMGlsTEpsdm5PVy1qdDI1Wkh4cjMwR0J1U05HZ3ZPcllicWc2X0RISTI2TmxuZ3RqVk1pYUV3cUdPYW9LZWZwLXA1eFR2aXpVdkZDVEZPVXluMUJrZmsyT3djZm5aclZNdHZRY3prREtKdVJIbWcteGdqVzZFUGhocHJib05IY2VhSkhXZmJBVVdTYmVBLXpJSW1GWVNDNjI1U2N2VVltc0tJa2xhZG1iZE5pdHhYXzdPLW5aT2VCSnJ1RTdlUk1UN20tdXk0STZoM0d3ZVF3RTJ1VTZqWg?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "de10d68d78be448517e78190325be3e8",
+      "title": "Confirman primer caso de influenza aviar en Biobío y refuerzan medidas sanitarias en Arauco - latribuna.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-14",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRllIcktRNHE5dmNENDZjdFNjbWE1cW94TUJpTUZoQlpRMmJXb3g3dTI1UmlTQmZQdWJnSkc4d2M0anhYM19EMkxLTTlBUFJfZkZCMVRUbXA4Um9wQ09nZDlqQkN3TGxBVE52eUJXOFV4VlZzam5PTm5tQXZ6RDlZRVkwLWZzREk1OFZIZVI0Q1VzR0dIdTRmTzQzNWk1bkVsdlFvLVdWZWkzNlJmbVVGU292b1dJZlN5bVo0ZWlDMHY0NGxldzdCNWp1bE9tQXotNlJLT21TeFhkT0RpS0HSAeYBQVVfeXFMTks0dHZfRlQ0dXhGVWtPRDdQZVYyZnpnRkFlbXRTTEVseGUxSlRqMHQyeHlBZHViNFNPSU43eUJWNlhqRnZ6Z2hZSmw0S0dpdU0weGJ2QnBmVDlaU3NKZ0x1WTJmZTYxbEo3ZzBSNmRfR09DZUdEdk9SUllMY2xtSkRhM1BKQy1RTjdDMGFyTlk1eTh2YXZMSWVhZENwbTh5Q19Lb3hiWVhDS2JSS0pCenh6MU9abkNnZUg0RUQ3R3NBNFIyQmhIMGJMTmo0OHdWeXBPemUwUElGZEhIbE5qRzZmQ3VsLVE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "f35b7460c9c3688e633039be2836f8c3",
+      "title": "El Servicio Agrícola y Ganadero (SAG) confirmó el diagnóstico de influenza aviar altamente patógena en un ganso asilvestrado en la laguna del Jardín Botánico de Viña del Mar. Este caso corresponde a un hallazgo, no evidenciándose la presencia de la enf - instagram.com",
+      "source": "Google News - Chile",
+      "date": "2026-04-10",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VRG5SemVSWXotU0ttRjQzWGJwZlAxbnVpdUZ6Vmx2dHVMa3RtbTdiRjl3eDJqanZWaVY3NzI3Z1M5QkxRZmVvQlQtOWk2dUJQYUFMVFRR?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "d4d5887b66c1bf99c3f3cb8a09786793",
+      "title": "SAG confirma caso de gripe aviar H5N1 en Los Ríos: fue hallado en un cisne de cuello negro - BioBioChile",
+      "source": "Google News - Chile",
+      "date": "2026-04-13",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbGVxR0JfLUlfS0o1TVI1T0s0RlRxZkRIWVBOeFYxcWxfR05ocFExOGNxZmpOYW5xQ3QyQUVLc2J5cGJvaHV1MU9qMm9PdlpqMG9fRXNwV3FTZkl5aEd5WnRwblBnUzE3Si1GNzBiZUljOVlaRjhlay13c2VYbzNaNXZjQ1lGeDA0dXpUTlNUaHJveWtXYUd2QmNsQnphc0tpT0xSeUxfd1p1WEZLVUd1blBXbDFJMmZubHZzRTlxU29waWY5azQ4c1RTblZUUW1vWndKMnZoa3ppSkFQMjIxUE1FdHhHaERGYkJEUlhpenNQbU5IYmZvb1lYUUp6OGM?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-04-14 13:48 UTC"
+  "last_updated": "2026-04-14 17:12 UTC"
 }
