@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "257bab61d51625f8f4b30522688611e4",
-      "title": "Influenza aviar y contrabando presionan al sector avícola - ABC Color",
-      "source": "Google News - Paraguay",
-      "date": "2026-02-26",
-      "country": "Paraguay",
-      "lat": -23.4425,
-      "lng": -58.4438,
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcFdiTWhsTlFuX0pKZGNrZm1YMUtrb05ZWC1kQ2gtTEpoOHY4c1FYNm1aajRmWkx5dTRVcVBxdGlRX2tiREhqYngteHpYUGpGWnhrem9WVk1SUEZjZ0E1MTFxOF9zMFkwcEdMRVE3QXhLYm5FdVpqcElaclVlV0dZRmZNZURlaGV0RHdUODVkWFplUFpzc2k4czF2ZU9WTks5d0lYYkxBNzBVRU10WV82RzVjQjNNd0hpemxYeWc5R1gzM2lNeG5BamZabzhIUkVSS0REc09SYlNPNFHSAe8BQVVfeXFMUHo2VXRxbHF2UTkzT3lTMk0tSkE5dU5PYklpdlRXSWRpZGVhdkk2VjNIVmh3TUZjQ1NaQzlOQmZLSzdTYTNoUjMwcmRWcHlRZ2x4djFrczljTTNaZllaU2pMQ3R3MFRoX2ZfcXh6d1h0T1VnVTVyWmxnU0swVmliOXhGNmktRC1EOFV0MTdjTUhTbEhuQThhWlJ2NUQzT0JUOXAtaHRrNWJaTV9Hakp5RDBvS1gxMmdYbk9QRDFYTXZRdlRGN0RVZ2dhRmxBTG9oakYtYVEzUVhVTVBzckR3QUlCdmNCc1NXS29mTzJBLTQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "3c9b43f18b0c6a0765e1f2e0710af681",
-      "title": "MGAP confirma nuevo caso de Influenza Aviar en fauna silvestre y descarta afectación en aves comerciales - www.gub.uy",
-      "source": "Google News - Uruguay",
-      "date": "2026-02-28",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQlpuN0xjeFZEX1NSTjYzdm5ZQy1IY1l4NlJGUGk2S2pxd19BdTUtSXIyRDlvYTcyUFM3WG51Z3VEdF9GWmEyUDQxUVFEU3dPVDFJck5fSUk4VXFOZEkybGFndzVlVkxNa2lQa1UxWU1YWFpXUmt3NDV4U0FrS3d5dTlIdW9ZRHV4NjVNWDJZRzVZQUNlZlF4NjdGQXppbWNXUE5OdmRfa3JpQ0tLTzllcGp3WUR4M1ZxQ1UyMkliMHIyeGU1dUU3LUFybFZZSnRpS2ZMeXBqZnRhUkVDcEZNeTRhd2xTQ0x5WHhyTw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "b957a429c7da687aa6b467fd28a5a6b8",
       "title": "SAG confirma nuevos casos de influenza aviar H5N1 en aves domésticas de O’Higgins - Radio Agricultura",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSWQ2TGZaY2JKWmNDcGo2alFWN0NKQTNnVlozUnhDSHZ2RVRhV0VtZGdhU2VqX0lZYmF4MkU0cG93aEZoVDg4WFlDUVloSHV6XzlWTUJlOC1yRmhlbWxrd3QyZkFlT0ktaWNtZVhvb2ZlUXFrN01kNkk5bFlWeHRMaXVKYVAzOVpBbUxlZnJtckp0dE8yWHUxNU1lYk9YZmtmMTBpLU1VNmt2M0t5dGhCVVhzUFBteDBmcjBuSzNTTG5lRXBxMDRBLUdZY1RfVDBESV9yU25lSWJLWFRSTDd0Q2pzb2dLMWM?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "eab21d8e9b73006f6b783c6f6211b5db",
+      "title": "Alerta por influenza aviar: Ministerio de Agricultura pide reforzar medidas en gallineros - Radio Agricultura",
+      "source": "Google News - Chile",
+      "date": "2026-04-15",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNODdmM2lITmViZUdJOEQ4R1JmX0E5cXp4UGNVUGtXRE9OLS1ja3dOSUtqbjRCemRvOU1jb1FDeFAzX3ZEQ1FfaWtST1RlZV8xWXJ6U1RiMTRnR3VEVXd2eXNUR2p6SmRVWGF0czBLODlUbHdxdlMxMmJCN3J6a216YWhNRDdtX1gyZVhDbEF0c0VsX0hFd3ZwTjhKaGxyQ2VKbTRLQWo5a2VZNjE0VmYwX29oNUhVakNyQkJla2V4RnN6RWdkb0xnQUhZRzQ0ZERrMFprZ3k5d1RFdGIwQWJWSVdn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "7123950424426bd58e6348f1ab240607",
+      "title": "Mesa Técnica de Influenza Aviar sesiona de urgencia ante brote detectado en la provincia de Arauco - latribuna.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-15",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQnRrbl91cENoMUhSV0wxaS1UVGNCLXhpWWQzVk54M2hBb0R1aW5KOURHUmNmX3VuZG82OXlhWlNlLUNXSFpRczNlb3JRMWNkSUEtbTlUM3h4S1gteUpUQ2lOS0NXOUlnS2xCZTV1Mm5LbXRJODkzM1B0YnNhd3ZyLW9JbzVCRUZxdllyRl9VY3JSVHhNSzkxVUdQbDJBSjV5eHlfc3VTa3NHNTJ2VVQ2YU82VnQ0aFZyY1VaMzRxYTZtNFZ5RGRpSFVwbFpISUloZ1pQejFxSGVqVVVGaUdmWmNJMnA4TknSAe8BQVVfeXFMTWF4MjJTbW1uSGFCUWdiWDZXOUs5YVJ1UnNUaTNOeGVxa1hfQmF5Y0VudThvNVZrLXRZQjNZU1lIMGwxZTQ4a0xPYmc5YnR5YmsyRS0zUzFsM1g5V1RBSDdSSzRReUp0dVljSGxvZVE3WFRlbjNGNzFCZXVzVXEtblNwYmJCVTNWeTU4SHAwNWdvYUFiT3NSTE1lak5LTVR2ZWZYQUUxd3dOZEVlVEgzZlNmbzBmcFpVWldkbDJpWXBjSkRndDdpcU5ycnZ1ZDQ0VVpDdnZBSURuYWM0UXN5TFkxSGZleFd1RHM0MDV6cEU?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-04-15 17:07 UTC"
+  "last_updated": "2026-04-15 20:54 UTC"
 }
