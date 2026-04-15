@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b786b99647eb5f35d32b050cd2f2b59b",
-      "title": "Brote de influenza aviar en Colombia: ¿qué sucede con el consumo del pollo y huevos? - MSN",
-      "source": "Google News - Colombia",
-      "date": "2026-03-11",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZlhuVG9kWjVUS19YUGFCTkVoT0xOUEQwN0lXUEZhRHlHSHQ3VFBKa0JRa2RSQXA0STVoS05RZmxIZUIwZjhneE5GSm5LRkdfczdRb3VjSWRBSmtIY2FKc2JGbk9aY21xVy1OU2JHdWI3NHRQVUlQSXg2UWhWdXluMWI4Z3RvYW9lMWNfUDcyTUF3SWxRV1RhVGJpREY2M1VoRVZiSUY0bC04TThoVzh4TmI5NWFJTEE4b053Y184WWFON3c1VVRhQVBwRDFCR3gzUjNER2RB?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "257bab61d51625f8f4b30522688611e4",
       "title": "Influenza aviar y contrabando presionan al sector avícola - ABC Color",
       "source": "Google News - Paraguay",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ2ZGdEVTeW52UmdGdUdKd2NvYVpnbTBxTms3LXJYSTRGT0JSb2dpd1oyc3h2anZ1TFhHNm5SWmVBeDVOS3NWbDRvZlNwN2Z5dGRrb1oxa3BWM0ZxMFRhOW9EN2NzeXZMMWVZNEdBUFpWbE5HSVNKRlRJbjBEbldUeXhJM0hCVE5aZTRFZkl2TVk4SlU1RnFGVllFUE1vdFBrQ0NWSnRia3BYR2hPdlJ4M2lpX1g3NzhRN01zcUFn?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "7f8330158217a0557478548dff1cf442",
+      "title": "Ante la presencia de influenza aviar en aves silvestres, refuerzan medidas en granjas comerciales - www.gub.uy",
+      "source": "Google News - Uruguay",
+      "date": "2026-03-03",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSWQ2TGZaY2JKWmNDcGo2alFWN0NKQTNnVlozUnhDSHZ2RVRhV0VtZGdhU2VqX0lZYmF4MkU0cG93aEZoVDg4WFlDUVloSHV6XzlWTUJlOC1yRmhlbWxrd3QyZkFlT0ktaWNtZVhvb2ZlUXFrN01kNkk5bFlWeHRMaXVKYVAzOVpBbUxlZnJtckp0dE8yWHUxNU1lYk9YZmtmMTBpLU1VNmt2M0t5dGhCVVhzUFBteDBmcjBuSzNTTG5lRXBxMDRBLUdZY1RfVDBESV9yU25lSWJLWFRSTDd0Q2pzb2dLMWM?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-15 13:42 UTC"
+  "last_updated": "2026-04-15 17:07 UTC"
 }
