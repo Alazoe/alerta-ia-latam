@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "c99d0bddff861854833236cafbc49996",
-      "title": "Situación actual y recomendaciones en Uruguay sobre detección de Influenza Aviar en fauna silvestre 2026 - www.gub.uy",
-      "source": "Google News - Uruguay",
-      "date": "2026-02-24",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVF1QTNrdFl0d2tEeTJFWG02ZUZROEZtMW9remNGMTk4UmlEcHZxM1I3bmxyM24zTDJ0dVBYQkV2d0ptWndSZC1jcUJlOU1ITzZKb0JVdUxxZWNkQ01UVEh2dEttVm9TWENJTjJsS1haSDlaQ09zRkNlSU5iU1BFWnFwUlQ1Vk9EZU1NMWlycThONFJ0TGhmd0ZVQ01rcV9xb0dFNklhSldzVHRrdDVLWk9yVFNzTzYxYzNuQTNUVHhGSFVUTkxaYlZXcGU1VzJYMGZZ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "184d7dc2313fe5c3bfa551a6cb7ebb5c",
-      "title": "Senasag alerta por influenza aviar y refuerza bioseguridad - La Razón Digital Bolivia",
-      "source": "Google News - Bolivia",
-      "date": "2026-02-25",
-      "country": "Bolivia",
-      "lat": -16.2902,
-      "lng": -63.5887,
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZHNHT1AwbG0xbFd1U2VFZkFSVG1RSW9xOXpMUkNRa1RiaWpjdHdUbG9sbHYtVU94dVhtOUlLS0RCaWY2T0s5anFjTEF0U3h2MXQ5QzBxX2dtcFFMWFdhOElXQmhWaWVwVUNnMTdSZWRSUk5GYjVBb0hCVlE3YXI0N2ZQeFZsUUdUS1c3eGI0c2dVLVFrLVZReUxlTjJYSkVxel8tejB4Q2pWS3ly?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "80f1583549ec4a788a2489bbf590320e",
-      "title": "Río Negro: Detección de un caso de influenza aviar en aves de traspatio - Argentina.gob.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-03-13",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcTZPdzF1UnVOUDNFdE1yMnd4bjFfaVhQM3RXYlB1aEdpdGJzQUJ5RXRDYzV0eG10UDk5N3hCM1R0Zmh1NTlBMTJ2WWpwdkFLdHBxVWhvM0Z6QU9DZU5kT2ZsUE9fNGNHcVN2S0QtYXp0WHFZenB3VzQ1Q0I1TlBXYmNrRDJpRlRDV1EtMjJ5MW53LVB3WnBLb1lFX2QwRmNxaXE0RmtqLXZrNkQz?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "b786b99647eb5f35d32b050cd2f2b59b",
       "title": "Brote de influenza aviar en Colombia: ¿qué sucede con el consumo del pollo y huevos? - MSN",
       "source": "Google News - Colombia",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUDBhTnNUamw5N2FRejZGM3B4Y1kzcGNwc3hlTlE3Y3YwWEt1aWpWMFUyZGlBUW9wcUJ5aC1MZE5obmpqU01pNzg2S0RySFZSWmc0NjVIMmhMUFNsaGRZaEVrMzY1SjNYbTdLWmdtRFV5bk12LUdmcHQwWXIzTWJ6YXdCeDd5QUZncXFtR0czY1VnNHVZdWFaUjV4dDB2UmIwTHc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "07cd33b78eb90e13336b40f3418e1903",
+      "title": "SAG confirma primer caso de influenza aviar en aves silvestres en la región de Biobío - Home | SAG",
+      "source": "Google News - Chile",
+      "date": "2026-04-13",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUWdycjlEMTh1YW92Zl9kc21uMVV0VVd5ZkpfclZWUEpGNVNWeFJmMGctWElzdWRQYmhvcXV2aHpuXzdVbTQtV2lMa1RZWmtrMndVcFByaWtWTk5PUlpxSVI1MUxNSGJFYmNOdWNtUUJSOC1kOGxEVWZaalVhVFNKUmMwaVFfYVRKTFRPbmxCN3ZiZ1Q0WHZDMjYxT1p4MkdYNDRIajdTSkdZdzFiMS0tc253SHdVSzg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "4115c658afdbb972c7d8c8db94ec0ed1",
+      "title": "Alerta preventiva por influenza aviar H5N1 en Biobío: autoridades refuerzan vigilancia tras casos en aves silvestres - latribuna.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-14",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOa3MxYk9pS3FYbkdZbTFIek5ySlU5SzdPak83T0hyWFdkLTZJcGpmLTBXYl93RC1jcVVJZFVCbXNOcjZEZmFfek9aaW5OcmNpbllmbGg5emRfSExfSEctS2Q2dXNNZDZKbWpHdmtYS2NXS1o5VC0wQ0xUbTRuek9YUjBvY2JmYUZNZVQ3QUxzQ2ktcWctd0xfQzB0OS1lWHZ6QlBqd3JjYXA3ejVzOU5EWjkyTmdERG5ReklaUFhXUlFaX1d1dWpkZzBMNDdOSlRzUEFHZDJMS1ZwZ2R3Mk44dnhLSGd5SzZUTHdQRG1EWjhXTXpmZHVLcC1kQTBIWjJX0gGIAkFVX3lxTE5hZEwycjFMTkw4aWZKVVRodzItMEtjY1lnNzhYUlQ4a0JuMnVHaHlGVnNOYW5ZQ2YwRlVnZGJLTk9FNkw3blp2M2tuVlBFMDhoR0R2SjZxNWs4Y2VoYmtTelFFSF94LVJRZmlmaXB4QTNHMDFZM2xjMmRndTNkeWtGY0twRnFILUhnN3MwUWt0TzR3RzNjcFktYlMxNXlvNE1Gd3RvUGxxNnkyNEw2OFNNNTN2bkMwNWNOT1dNU0E1eE5UUC1JOWZCcG41WUJIbHI5b2lrN2ZQX0VtUk92SjZtSmVIa0FWMEJfNGR2ZmlVaUxtQU9pSGFBV2MxVWQ3Um0wUWNrTUNkaw?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "6cda3a088d39e60865da44569f54e9ee",
+      "title": "Río Negro: Se confirmó un caso de influenza aviar en aves de traspatio en Cinco Saltos - Argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-04-14",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ2ZGdEVTeW52UmdGdUdKd2NvYVpnbTBxTms3LXJYSTRGT0JSb2dpd1oyc3h2anZ1TFhHNm5SWmVBeDVOS3NWbDRvZlNwN2Z5dGRrb1oxa3BWM0ZxMFRhOW9EN2NzeXZMMWVZNEdBUFpWbE5HSVNKRlRJbjBEbldUeXhJM0hCVE5aZTRFZkl2TVk4SlU1RnFGVllFUE1vdFBrQ0NWSnRia3BYR2hPdlJ4M2lpX1g3NzhRN01zcUFn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-14 20:57 UTC"
+  "last_updated": "2026-04-15 02:45 UTC"
 }
