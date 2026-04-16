@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b957a429c7da687aa6b467fd28a5a6b8",
-      "title": "SAG confirma nuevos casos de influenza aviar H5N1 en aves domésticas de O’Higgins - Radio Agricultura",
-      "source": "Google News - Chile",
-      "date": "2026-03-14",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWFhMV1VqVThuUGNFZHFqM3o1Y3pRVFV5dDViZW5PQzYweVB6Uk9pRWhza0hBZzFJZDVzUXYyS3J2b3ZJUlRBOVk0YkxPUWRRQmJ3ZzJSSnFxb2dVY0VCVUd0Y0ZDWDVTM0hLUG9KWFZaMzY1UkFUWVI3V09VTjVoVmNHUUd1Y1pKMXJ4MThoVTlhMFo5b0ZBYlpPOTNPcW1vOURJTGFTQ3J3N2JDYXA3VjNQQVh1Rm1lX0U5S010b0gtQ19oQlBzTUZBWQ?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "7ccc6358bfadd74d1b5e093ff035d686",
-      "title": "SAG confirma dos casos de influenza aviar H5N1 en aves de traspatio de la región de O’Higgins - G5noticias",
-      "source": "Google News - Chile",
-      "date": "2026-03-15",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVHk2OW5OeW5mMnVrLUZoRDhKak5jV1cyTVUwaHY4Qlk0bWVLUGlVLW9wZUFzZEVENlNFc1I5TGxrWDh6V0lJT0FDOUpwZkFISk9UclQ2TzI5QnZCM3lOdS1oZjdGb00yMUpNd2tRZ3QwM24yS1duLWNueGtTN3p6dWJnR3JGR045RG9yU0pfdEVUY3BqY09OaDZ5TmZ6aHdYRWRCUjVoZk1HUlBSY192bThYR0dfRjBwcXktVVJ6cEJQYnZC?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "43442ca365b7dd295c000da90d117f2a",
       "title": "SAG confirmo dos casos de influenza aviar en O’Higgins - RadioSago",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQnRrbl91cENoMUhSV0wxaS1UVGNCLXhpWWQzVk54M2hBb0R1aW5KOURHUmNmX3VuZG82OXlhWlNlLUNXSFpRczNlb3JRMWNkSUEtbTlUM3h4S1gteUpUQ2lOS0NXOUlnS2xCZTV1Mm5LbXRJODkzM1B0YnNhd3ZyLW9JbzVCRUZxdllyRl9VY3JSVHhNSzkxVUdQbDJBSjV5eHlfc3VTa3NHNTJ2VVQ2YU82VnQ0aFZyY1VaMzRxYTZtNFZ5RGRpSFVwbFpISUloZ1pQejFxSGVqVVVGaUdmWmNJMnA4TknSAe8BQVVfeXFMTWF4MjJTbW1uSGFCUWdiWDZXOUs5YVJ1UnNUaTNOeGVxa1hfQmF5Y0VudThvNVZrLXRZQjNZU1lIMGwxZTQ4a0xPYmc5YnR5YmsyRS0zUzFsM1g5V1RBSDdSSzRReUp0dVljSGxvZVE3WFRlbjNGNzFCZXVzVXEtblNwYmJCVTNWeTU4SHAwNWdvYUFiT3NSTE1lak5LTVR2ZWZYQUUxd3dOZEVlVEgzZlNmbzBmcFpVWldkbDJpWXBjSkRndDdpcU5ycnZ1ZDQ0VVpDdnZBSURuYWM0UXN5TFkxSGZleFd1RHM0MDV6cEU?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
+    },
+    {
+      "id": "eeaa727add8747661e1d42466d62f85e",
+      "title": "Ministerio de Agricultura llama a reforzar medidas de seguridad en gallineros ante riesgo de Influenza Aviar - araucanianoticias.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-15",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeFRTZmhqcFg2Sl9VZ0c3TVJUR2lnQmIxNmxjUTg3Um1DaGdwTzhCaE9vTm9pSERCZWlNWEdKRGhtWUFzcnV2X3l3d0d3M2V2bHhnQU1sdzkyQkZaSjVmMWFaUUxWdnVHcFJxck9DbXVCem1qcGJtWlJQRDZFRk9LMzBzSzZTaEsyY2ZLYzZpSFhlbGhLbnlBSUJfR2k2aThldUt1UjJMNl9GTDQyYV9sSE5QWHRERGNqdEgtRlJvRGx1cVV1OVhlN2NJRURQMWpJOWRwVnlwY0pNd2FpN2N0LWphekRyR0JZ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "7727d98e70b0a40f2a3d6c103f78e0e5",
+      "title": "Seremi de Agricultura de la Región Metropolitana refuerza medidas de bioseguridad y destaca vigencia de seguro ante brotes de Influenza Aviar - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-04-15",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNHZPclNUdE96NEFvOHFadGhWeGR5T0RXa2pRSjg0ZTAwYm1iYkQ4di1DNFNPY0lVeHJtZnRiRktDMmFwRU1IUnBTUEc0QW5nWHVsOTBuMktXZUkzN2luLVVhTkVFNGtZek93UHYxdk9xM09EakFXQXBfR29HZjZpdkVySE5WWTZqRkkyczREaGVfUXRnOUdsTU1HOGlFNVBUVVhvZU9WMm13QkNVRUNaanNadllad0xmWHZMUFZoUHJneWNNZ0hYenVDX0ZLcXRiZVdFV1h6WTVWRUZ0b29vMHZ3eHRmYWZkb1o2Y1k5RjN1Y2otV0tjVWdkcFJyTXFjOXNFcU91THB2T2VJUjVfeERB?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-04-15 20:54 UTC"
+  "last_updated": "2026-04-16 02:52 UTC"
 }
