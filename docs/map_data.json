@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "c4b919b3d588301beaeb8bcfa0575a1d",
-      "title": "Confirman presencia de influenza aviar H5N1 en Pumanque y Las Cabras - El Tipógrafo",
-      "source": "Google News - Chile",
-      "date": "2026-03-14",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY21CX2hjeVZsQlFIMTVMVkQtdWR2eDVjRW5QcHZ5SmtEV0xHMTZKb0pwNjhSR3RXRVNRVWJOT3lNQS1nODNYVjA0NWlta1hhckVpdURxVVY5Q3d6SlRIRTJjLUdDRnZTWGJlZGhnd0M4N1ZaQzUyQVpSWlRDdlBYelpaWFFMU2xFcG9fZG9uRklyVzNUajR5UlQtc1lQcXNw?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "77fbc6027ff692548e4159e862945fb5",
       "title": "SAG confirma dos casos de influenza aviar H5N1 en aves de traspatio de la región de O’Higgins - Home | SAG",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWldwSVlDUzRER0VLV290U01TN01NTVNFTGl6Zmhud012WlQwZkhpQUpYbUFkN0Y3dzc4WFlKM19ES0ZwcEZZS3JubmsyLURxN2RNSDRfTGFVLW9XblU5eDlPejE5OHNES1R3LWhCNGt0Z1BxOUhncEtMU05DRk9WM3BKZ3ViWl9VOG5FM1JPVFQxdS1ROUo3c1FfSUVUMTBUbFFrUjk5SW1tckxjdTl5clZtMU5MREZBMEx6ZVpoYTA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "6b63a9df78038f118d8737c37ce9a981",
+      "title": "SAG confirma primer caso de influenza aviar en un traspatio de La Araucanía y refuerza medidas para detección oportuna en todo el país - Home | SAG",
+      "source": "Google News - Chile",
+      "date": "2026-03-20",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelNPZExFVHdJNGROMURaaGo1ckdUQUlOY3djSTJSazF6YlgzTkFYVmlkRWFOUlR4OWNUVTRaSXM0dnBNODBsZXE2OTdPSTNMMmZoR1htbXRQOThZMkFpdVMxSGJwUFNtTlJwOXlXeXpXVzhWVFZvWXRUSmNtN3Y4Z2tlZTZrYVJJSHB2SmhTanpUejg0YmJfRUFzTkZOUkc0NnNGYkt6ekV3YjQ2ZVBMRXVDdThUZFI4Y2ZRQU5sa1c4bWpfTWQwTVZGb3oyS0pMNXBoYXIyZlFZQmF6clFKWDNNeXppRVdCY2hEd20waW1aRnMwUzY4VA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-16 17:18 UTC"
+  "last_updated": "2026-04-16 20:52 UTC"
 }
