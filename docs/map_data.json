@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "3c3f400f9da96c1d75199405a72fc1ba",
-      "title": "Influenza Aviar: Tras el cierre de las exportaciones, el mercado comienza a deprimirse - Diario El Argentino",
-      "source": "Google News - Argentina",
-      "date": "2026-03-15",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONGo2SEh6dE1jNlNvUmdtdVYwTTM4NVBud2hUbWhqT3FsZnJ1V2tDOTlVdk0xaWhsN1dNOENYblEwNHMzMDZjME1pM3VCbnlQVWtEN3hhVy02UkhBS2dac3JQTnU0dHJPbW1UNVFEMDNJLUxXMTlCSnBQVE43VV96d3BvenY3TVRldEhZMUJzcU9vQlp2T1BtYjcwcTFaTzFPcW5oc21YOUwtLTI4U0N1enBZakZUVExsT01XUnItQzhoZHRlSmNMOVdTa9IBvwFBVV95cUxQZ0tzUDZCRlNya1ZZY2xXVzNrV0Eyb3luRlBYUVo0eDd3cUxYMnVxLVd2VmsxWkFidGwyZFJZa2dBU29BVFk1RGtvejl5UWcwakpFblQzUVdqOWNMSFpDdExYbnVtVE9YR2pqN1RueHBzeGRhTDhHelBPSTZnVWRVWDRmYk5xNjB3empWaktnRmwxb19uN2lzQ0tWTzVhUVltdnNjSGptVER5bnI5NHRLeG8xSE9TSTBtaVU4eVBxbw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "a90635ff1621b11048d43724b74dd7c9",
       "title": "Brote influenza aviar departamento Meta - Radio Nacional de Colombia",
       "source": "Google News - Colombia",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM05KdHBRVjF0XzRiVXFwRk5XSlpFc2hGbFZnSmp5bm4xSlBKdGVGcVljRzRLSTAwcnM0T2FXWFVCUkF5djhYWEJHSXRaSDlvS1hiTUNJb09RMUx5N01Hc2p2SjF5M19QM1htR1dZeGhZRVE0SHFLVkl3YkhXQmZvYVZmMENoMmpMM3lXeV9yNFFSbDlYVHBsSXpBWjNCNnRNUF9Xb0VxMnhOMHps?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "a91456b463fcb02684799568852c83aa",
+      "title": "logra en tiempo récord la reapertura de los principales mercados de productos avícolas tras foco de influenza aviar | SAG - Home | SAG",
+      "source": "Google News - Chile",
+      "date": "2026-03-31",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUTR2OURwLUdTUDBYWE4zX1VwU0plQlRHalB5a0dOUGJ5VmR3enoteFlENjdaUFBZeUxDOURKdkVIcXZwNU5saWw2SWJkR2hKemxvbmFCVEVkbGRhS2xqMG1pLVZscF9WQTgtZ2x0ZTZ4SmFLMVhtQ283Vjh4R3R2UnJBUEVEbjBEVVVveHpNd2htYkxXc09tX1VoTlFUa3Z5QkpwNXRWR0VLV3E0UGVlWG5rY0N0andDNzNZZUktZzY4aXoxcUg4OUQ1ZTU5Mi1OLVgxSEN2SFVvRjQtRWZvOFh0c3Y?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-04-17 02:48 UTC"
+  "last_updated": "2026-04-17 06:04 UTC"
 }
