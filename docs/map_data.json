@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b85eb32bdb208f272b00c4fb3f7da4fe",
-      "title": "Confirman casos de gripe aviar H5N1 en Valparaíso y Maule: experto explica riesgo real para humanos - elmartutino.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-16",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdmw3S21KUTRKU2NIa21oTFVqX2pPYnB2dVEwYmJTZ1M2QnkyMHZKenFtUXp1cG15NmJVZ3hCSE9iTDB4dU5ZQ2xPRWdYcDlWc1UzZktWeGdaV3RoMUhNZzNjdFpzcWZpUmttbFBST2pXYVhJQlBoQXM2M3g1Y2dfVExCcncxNkNZdFp5MWpmOVV4YXRDb1FSd0FqdS1hbTdGaXBWZVZwYzhqNWFTekJCazdxTGw3VjRNUlhZOEN6QUd0XzNFV3c?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "5d8a0a72a9a0fbe7048758bddb5e268a",
       "title": "Situación actual y recomendaciones en Uruguay sobre detección de Influenza Aviar en fauna silvestre 2026 - GUB.UY",
       "source": "Google News - Uruguay",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSWQ2TGZaY2JKWmNDcGo2alFWN0NKQTNnVlozUnhDSHZ2RVRhV0VtZGdhU2VqX0lZYmF4MkU0cG93aEZoVDg4WFlDUVloSHV6XzlWTUJlOC1yRmhlbWxrd3QyZkFlT0ktaWNtZVhvb2ZlUXFrN01kNkk5bFlWeHRMaXVKYVAzOVpBbUxlZnJtckp0dE8yWHUxNU1lYk9YZmtmMTBpLU1VNmt2M0t5dGhCVVhzUFBteDBmcjBuSzNTTG5lRXBxMDRBLUdZY1RfVDBESV9yU25lSWJLWFRSTDd0Q2pzb2dLMWM?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "1a062b3a11a4f66fdcd4c4889c9399df",
+      "title": "Confirman presencia de Influenza Aviar en cisne de cuello negro en humedal de Río Cruces - Cooperativa Ciencia",
+      "source": "Google News - Chile",
+      "date": "2026-04-14",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWkxTUnhlNWc0bnpsVmZQRkVNNXI3aGZKZXBrSXhuYlpkak44T0VGUzNZZ2NYUVRicFRteG84M2RRc0lzWDFjOVVRbHh2UTN0Ulh6aWpqMlVLYWdsNTF4UGk4dVFSLUNOcm5ULVdSdnJ5ZS1xQVhVTnc0UjgwMWMxdkgwaGpOQklGZDk3bzNRRGg5MXpTelpmTWVKazk4ZC0xbFJyZnJ5TTlrQUVaZ3VZSUdLa2YybDhWWVZSN2N5TnRaeVN3bGlKX0FsNVNxWTNSaFJGVGM3U3FOMDlWcFlYdllTYw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-17 16:56 UTC"
+  "last_updated": "2026-04-17 20:49 UTC"
 }
