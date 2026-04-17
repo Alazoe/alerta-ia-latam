@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "77fbc6027ff692548e4159e862945fb5",
-      "title": "SAG confirma dos casos de influenza aviar H5N1 en aves de traspatio de la región de O’Higgins - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-03-14",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVm9VaTJNR3h4RTNFODUxM3NUdWZqTGE4eEZFLUhNcG9wbEtRZGRhb3hTUWJkd2lJcUVKU3RCWEFxb0ZIa1R3c2M3NlQ1QjlwSGgtVFJEeXFoQzZrc0RmT1FHLW5JR19WOU1tdXY5bDNnRGsyX2kxSWRzMzVrWE80aktyWFdFOTcxUGZMZEVaVEVxWURCUDNCX1daOElKWU1pMjdNdUE1blhsakR0dGFEX2JhYzN4Uzg4SmNLOWFkaE9aQQ?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "3c3f400f9da96c1d75199405a72fc1ba",
       "title": "Influenza Aviar: Tras el cierre de las exportaciones, el mercado comienza a deprimirse - Diario El Argentino",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOelNPZExFVHdJNGROMURaaGo1ckdUQUlOY3djSTJSazF6YlgzTkFYVmlkRWFOUlR4OWNUVTRaSXM0dnBNODBsZXE2OTdPSTNMMmZoR1htbXRQOThZMkFpdVMxSGJwUFNtTlJwOXlXeXpXVzhWVFZvWXRUSmNtN3Y4Z2tlZTZrYVJJSHB2SmhTanpUejg0YmJfRUFzTkZOUkc0NnNGYkt6ekV3YjQ2ZVBMRXVDdThUZFI4Y2ZRQU5sa1c4bWpfTWQwTVZGb3oyS0pMNXBoYXIyZlFZQmF6clFKWDNNeXppRVdCY2hEd20waW1aRnMwUzY4VA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "50eaf6cca1025f133759d57c0c16f429",
+      "title": "Influenza aviar: Gobierno refuerza llamado a prevenir contagios en gallineros - portalmetropolitano.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-16",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM05KdHBRVjF0XzRiVXFwRk5XSlpFc2hGbFZnSmp5bm4xSlBKdGVGcVljRzRLSTAwcnM0T2FXWFVCUkF5djhYWEJHSXRaSDlvS1hiTUNJb09RMUx5N01Hc2p2SjF5M19QM1htR1dZeGhZRVE0SHFLVkl3YkhXQmZvYVZmMENoMmpMM3lXeV9yNFFSbDlYVHBsSXpBWjNCNnRNUF9Xb0VxMnhOMHps?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-16 20:52 UTC"
+  "last_updated": "2026-04-17 02:48 UTC"
 }
