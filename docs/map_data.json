@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "5d8a0a72a9a0fbe7048758bddb5e268a",
-      "title": "Situación actual y recomendaciones en Uruguay sobre detección de Influenza Aviar en fauna silvestre 2026 - GUB.UY",
-      "source": "Google News - Uruguay",
-      "date": "2026-02-24",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVF1QTNrdFl0d2tEeTJFWG02ZUZROEZtMW9remNGMTk4UmlEcHZxM1I3bmxyM24zTDJ0dVBYQkV2d0ptWndSZC1jcUJlOU1ITzZKb0JVdUxxZWNkQ01UVEh2dEttVm9TWENJTjJsS1haSDlaQ09zRkNlSU5iU1BFWnFwUlQ1Vk9EZU1NMWlycThONFJ0TGhmd0ZVQ01rcV9xb0dFNklhSldzVHRrdDVLWk9yVFNzTzYxYzNuQTNUVHhGSFVUTkxaYlZXcGU1VzJYMGZZ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "241b3867b29aa8fc5b0d192c58f091f4",
       "title": "MGAP confirma nuevo caso de Influenza Aviar en fauna silvestre y descarta afectación en aves comerciales - GUB.UY",
       "source": "Google News - Uruguay",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWkxTUnhlNWc0bnpsVmZQRkVNNXI3aGZKZXBrSXhuYlpkak44T0VGUzNZZ2NYUVRicFRteG84M2RRc0lzWDFjOVVRbHh2UTN0Ulh6aWpqMlVLYWdsNTF4UGk4dVFSLUNOcm5ULVdSdnJ5ZS1xQVhVTnc0UjgwMWMxdkgwaGpOQklGZDk3bzNRRGg5MXpTelpmTWVKazk4ZC0xbFJyZnJ5TTlrQUVaZ3VZSUdLa2YybDhWWVZSN2N5TnRaeVN3bGlKX0FsNVNxWTNSaFJGVGM3U3FOMDlWcFlYdllTYw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "c280ced1bbb5e8f0b5483e75b1bdb609",
+      "title": "Chile confirmó influenza aviar en una granja comercial - Agritotal",
+      "source": "Google News - Chile",
+      "date": "2026-04-17",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWp2cjE3TU8yT0hMNFMwckIxT3hrYTBNRDh4WUQyWkFycVRIcWl4bkZsV1N0cURfTnlGRS1PSDVkVnBrWXluV3pzSkNON3N1eVg4VUkzR3EzN0dRenF6MUlqUEhtQ2psVE93U1F4Y0dEM0pqY1pjd1JyX2JmZi15bEswR25iXzdSUENkVEZBc1FZTEowZHc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-18 02:38 UTC"
+  "last_updated": "2026-04-18 05:42 UTC"
 }
