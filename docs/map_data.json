@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "241b3867b29aa8fc5b0d192c58f091f4",
-      "title": "MGAP confirma nuevo caso de Influenza Aviar en fauna silvestre y descarta afectación en aves comerciales - GUB.UY",
-      "source": "Google News - Uruguay",
-      "date": "2026-02-28",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQlpuN0xjeFZEX1NSTjYzdm5ZQy1IY1l4NlJGUGk2S2pxd19BdTUtSXIyRDlvYTcyUFM3WG51Z3VEdF9GWmEyUDQxUVFEU3dPVDFJck5fSUk4VXFOZEkybGFndzVlVkxNa2lQa1UxWU1YWFpXUmt3NDV4U0FrS3d5dTlIdW9ZRHV4NjVNWDJZRzVZQUNlZlF4NjdGQXppbWNXUE5OdmRfa3JpQ0tLTzllcGp3WUR4M1ZxQ1UyMkliMHIyeGU1dUU3LUFybFZZSnRpS2ZMeXBqZnRhUkVDcEZNeTRhd2xTQ0x5WHhyTw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "126e73fd62e8f642e0d94d1db446d76f",
       "title": "SAG dará charla informativa sobre Influenza Aviar en El Melón - observador.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWp2cjE3TU8yT0hMNFMwckIxT3hrYTBNRDh4WUQyWkFycVRIcWl4bkZsV1N0cURfTnlGRS1PSDVkVnBrWXluV3pzSkNON3N1eVg4VUkzR3EzN0dRenF6MUlqUEhtQ2psVE93U1F4Y0dEM0pqY1pjd1JyX2JmZi15bEswR25iXzdSUENkVEZBc1FZTEowZHc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "e062731193a2dc006d27234f8b635eab",
+      "title": "confirma nuevo caso de influenza aviar en región del Maule y activa protocolos sanitarios para evitar su propagación | SAG - Home | SAG",
+      "source": "Google News - Chile",
+      "date": "2026-04-02",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTHVQU2l0ZVA3Yy1KVWVpczJWZ3pESW5xb2M3UzBYOTVnUkpGUkM2TUM3eVJPNVdUb2tmUk5DVi1WMjZyZHI5NS1odE5rY05zemxITC1jblV6VWZKZmNBVmZVd2ZDZ1VXQ2ZVYkJodEdGX041QmdtT3o1akpGQm1McTV2N2FTdmRTSEp4Rkl6UHhVbE9Oc3c1dDRHNXA2Nk1kUzNqQlN0Y2FyUVY4dFc0Z1huUllnbUhOWHRSTDBPUjRpZUo2MlpwYUxIN21jdFZzbFRSbHA3SkVNWkt3c3pzVjcxbFdWZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-18 16:43 UTC"
+  "last_updated": "2026-04-18 20:40 UTC"
 }
