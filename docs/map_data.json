@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "126e73fd62e8f642e0d94d1db446d76f",
-      "title": "SAG dará charla informativa sobre Influenza Aviar en El Melón - observador.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-16",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOaG9zajJ0RU1jSVNtRTlLVEZDcUdpQ09pdkgxOEppZTFVZnFLel9FYkFiaXVKOVluVjB5QzNtbHFhZEM5aU82VzQteml3cWFDbkE0RnE1a2pFUFNTdy1tLUQzWFRMNUZ2R3c5MlpBU0gtOGoxeVJXYmNSSWR2SzFxMXk5Z0tpSEdpZlF5SW1JYnB2WDJWemsxY05nUmNDOERKT09rZ1ZwRDF1SDVYWGlGMll4RUNzdDRqekQyN3c3YXlLemY5QlpQblN6MFdPY0wtNjZuZGJ4M0J0ZXZrV29GeEFHUERBSHdI?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "9d7a10b13350fc15fb58b35af223d456",
       "title": "Alerta por influenza aviar: productores piden vacunación masiva y advierten sobre una posible crisis sanitaria - Presente Noticias",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTHVQU2l0ZVA3Yy1KVWVpczJWZ3pESW5xb2M3UzBYOTVnUkpGUkM2TUM3eVJPNVdUb2tmUk5DVi1WMjZyZHI5NS1odE5rY05zemxITC1jblV6VWZKZmNBVmZVd2ZDZ1VXQ2ZVYkJodEdGX041QmdtT3o1akpGQm1McTV2N2FTdmRTSEp4Rkl6UHhVbE9Oc3c1dDRHNXA2Nk1kUzNqQlN0Y2FyUVY4dFc0Z1huUllnbUhOWHRSTDBPUjRpZUo2MlpwYUxIN21jdFZzbFRSbHA3SkVNWkt3c3pzVjcxbFdWZw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d2d87d6cebaca6b5ac04969e7db4d876",
+      "title": "Influenza aviar en América Latina: vigilancia permanente ante un virus que sigue circulando en la región - avinews.com",
+      "source": "Google News - Perú",
+      "date": "2026-02-13",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPckdRUFRfQlljQ0FUcEZ0MWVwUDBwXzBCY3dXdEJKU2dmamc0SHZDc3VPMlh2MXhmNjRYU0RTLUFwbXFNU3F0MFhGdktDajhlZk5NYms1X3RNLVNycTdXVnExeWc0TlZWQVJ4Y3M4a1c0a0NqcUlYNDg5TVVUd2JDa2JR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-18 20:40 UTC"
+  "last_updated": "2026-04-19 02:54 UTC"
 }
