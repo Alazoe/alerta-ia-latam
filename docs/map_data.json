@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "9d7a10b13350fc15fb58b35af223d456",
-      "title": "Alerta por influenza aviar: productores piden vacunación masiva y advierten sobre una posible crisis sanitaria - Presente Noticias",
-      "source": "Google News - Argentina",
-      "date": "2026-03-16",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOdV9SM0Z0UHEwR2NCZHR3dF96SUl6MjFEN0MzazhnemRXS255QjJLMHlKWEFfTlhaSk1MaFhSN005aFhPTk51dlRQOXlvcWtNR3lhamJjWi0xVDFoaVozZW1BVVV4eFFSNUY2a2NXNzN3V2pjTHNWZ0JjN0RwQkRBeTVhTktpNjVhV1FocDBoM3dGT3d6VjlpQUJ2X3Zab1Q3NXV3eGh5NFoxTXN0OF95TVJiU1IzbVRCZm9jcUdoSzR0WDdRZTd5OVJzT2tfUjBzVTY0NVZ2QXdtZk9VbEROcVY0Z0l1SlRkaV9ldzJmamZ2eF9hUHMtdTUzUnbSAYICQVVfeXFMUHotSVNXZ0NSaF9HVUJ1bWc0NUZqNUFveElsZTFTVFVRVU5tVXlEd2liWVpmZVJMT2lSaElwZGs4eDFqTzFSTjJaZElYanUzNVZPSFN2Ynpmc2MyVUxzdjJHNnJINUM0dFZzc05BaGZDRGRReDR3Y0tDcGZmYThyQUxEMVZCcW8tNkFEWU1KY09RR0RUMzVLdUVHMlE4MHoyaUp4b0dQUVh6MXdpcGJMV2ZWUUZna3BENEswY2ZpV0FoLUtwUTdUOVplZHhHckpQS0dyLVlNblgwc1laeFpJVVhpRmROU00ya3VoQlBOX0g4T19MeVRONFZtNUR4UHRTSlR3?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "1244e1182fbd3b370374f575c3a11672",
       "title": "Influenza aviar: Uruguay mantiene la alerta sanitaria con focos limitados en aves silvestres - Diario La R",
       "source": "Google News - Uruguay",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPckdRUFRfQlljQ0FUcEZ0MWVwUDBwXzBCY3dXdEJKU2dmamc0SHZDc3VPMlh2MXhmNjRYU0RTLUFwbXFNU3F0MFhGdktDajhlZk5NYms1X3RNLVNycTdXVnExeWc0TlZWQVJ4Y3M4a1c0a0NqcUlYNDg5TVVUd2JDa2JR?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "3800d3bc0fafce897f5b3817b8149709",
+      "title": "120 mil aves ponedoras serán sacrificadas tras detección del primer brote de influenza aviar en un plantel comercial de La Araucanía - Diario Financiero",
+      "source": "Google News - Chile",
+      "date": "2026-04-17",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYk90Q1BzeGpLVEhJSk9Cc0RvLUFHcUx2VHpaWk9UMXlHY3BROWFHZ3YzME1LM1JqcjdXTFVBcG5kcDZ1MEZYc3k3aDlfZkktQzhpdENDMVpZTXl6QnRYUXRqV3loU05nV2lDQjk0VnVRZXVaeWFWMEs0di13Y291UGFmV1A2eVZYaEl5Smh3RHV5ZGQtSGdOUUVYdXVWc1FjZWdrZG10NER5MWdoNmdfWG5sUEI?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-04-19 02:54 UTC"
+  "last_updated": "2026-04-19 05:59 UTC"
 }
