@@ -1825,18 +1825,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "7076b44021eeb70dc05c809fa3bd4c6e",
-      "title": "Peligro en el aire: aves migratorias podrían traer influenza aviar - CONtexto Ganadero",
-      "source": "Google News - Colombia",
-      "date": "2026-01-20",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdW9vaWdVbkhSZWxOTUJHSzdscmJxZGt4Q3FFdVhFLUtRZXVCZDhCUl9OcHlhelN4WVN4MDhoa3JieUs3VlpzaXY2cENOdEtibno1Vmh5ZWZSal9oY081OTVsRFRkbzZuVU5SNy1Ndkd2enBrTHBYQzJNMmhvT0huRnpxNklWRFE1MVFEY2FYazVQc2VpT2Zqc0h6NFdveFZyVjB1NGE5amtzZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "bfa9023f0fea3779d2856fc7bcb12a4e",
       "title": "Senasag pide al sector avícola nacional intensificar medidas de bioseguridad ante brotes de influenza aviar en Argentina - abi.bo",
       "source": "Google News - Bolivia",
@@ -2073,18 +2061,6 @@
       "lat": -35.6751,
       "lng": -71.543,
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3p4bHNHTS03ZmdrZkhLWlR5X1locTNCU1JWakNRZ0ppR1BKOC00NHRhckk5TDR6TlNsV1lJUWY1TjI3Z1E2ajZnVllrYTROLWVGMEZrdUZBSl9BXzVSbm1CZVlrS2FJMW8zaHpoZkhJZEt1WUgyaDJPOWJqRV9Sd25IVnhpd2tIMVluTGRtU0cxdzVlQUlrczkzeXVhZUN6SzYzV3UtV2JOT0dnS0E?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "32788b9ee612764028d26a241e1e8b45",
-      "title": "Peligro en el aire: aves migratorias podrían traer influenza aviar - contextoganadero.com",
-      "source": "Google News - Colombia",
-      "date": "2026-01-20",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdW9vaWdVbkhSZWxOTUJHSzdscmJxZGt4Q3FFdVhFLUtRZXVCZDhCUl9OcHlhelN4WVN4MDhoa3JieUs3VlpzaXY2cENOdEtibno1Vmh5ZWZSal9oY081OTVsRFRkbzZuVU5SNy1Ndkd2enBrTHBYQzJNMmhvT0huRnpxNklWRFE1MVFEY2FYazVQc2VpT2Zqc0h6NFdveFZyVjB1NGE5amtzZw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -3601,5 +3577,5 @@
       "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-04-19 20:41 UTC"
+  "last_updated": "2026-04-20 02:55 UTC"
 }
