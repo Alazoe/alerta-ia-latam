@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "1244e1182fbd3b370374f575c3a11672",
-      "title": "Influenza aviar: Uruguay mantiene la alerta sanitaria con focos limitados en aves silvestres - Diario La R",
-      "source": "Google News - Uruguay",
-      "date": "2026-03-17",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNFVTSGJ4VGg5VjVELUcxUXJHRDZSMkZhS1l0MDBOOUZXVzloYmVfYTE3TmhZZ1ZvYjhabmk1d2ZjckFHUnJKYW8ycGJKb1A1N0E2ZzNmU3hSSHktemEyckZ0emJHTDlva1RwbG51RUFIWDBEU1ZQME5JOXlQZGg2MXE3NWVITW5XOUZQSElVUWJraW9nUmlET3R2Zml3NGVUd3JjVl9rV19tb3d1ZHNYN1BBVFZPZmdnb2hyc0tEZHpWcG9LUFloUFdR?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "f81acd350572b2252d547ecfb3806013",
-      "title": "SAG confirma dos casos de influenza aviar H5N1 en aves de traspatio de la región de O’Higgins - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-03-16",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWXZFSGROQ2lRUkUwc1dLUkw1NnpMd0JUSFdLWXBMSS1RWkRnclRkLW5uT0RIQW5iV2k3ZGozbTVvSjhiZElBcHl0LXIyblVKcXZGeEIwMXBBaHZHMnp2QWpjSThMVXI4NllsSnE1d2tvYmJSZnpKcm9CYzFxRTRTcWI2bVJYNVptenRQSjNRZDFfaWR6TUdjNDQwV2I2MHZJVHpjQm9vcHdDcGwwTE5zcGRVOHJWcU1FODlPVDc2ZDVhTHZKZTFhMldzVnhLZktZQ0hr?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "e751adf0af1b0398f53d46dc4ab81c56",
       "title": "Productores de huevos de Argentina piden vacunar ante el avance de Influenza Aviar - El Telégrafo",
       "source": "Google News - Argentina",
@@ -3575,7 +3551,55 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYk90Q1BzeGpLVEhJSk9Cc0RvLUFHcUx2VHpaWk9UMXlHY3BROWFHZ3YzME1LM1JqcjdXTFVBcG5kcDZ1MEZYc3k3aDlfZkktQzhpdENDMVpZTXl6QnRYUXRqV3loU05nV2lDQjk0VnVRZXVaeWFWMEs0di13Y291UGFmV1A2eVZYaEl5Smh3RHV5ZGQtSGdOUUVYdXVWc1FjZWdrZG10NER5MWdoNmdfWG5sUEI?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "e79f4c22d5ba3f5b233b14de411fd61b",
+      "title": "Chile refuerza medidas frente a la Influenza Aviar - avinews.com",
+      "source": "Google News - Chile",
+      "date": "2026-04-20",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1acFNrWnR1N25yVktWRVB4YkZvOGNmeGRYNXY3WF9sVzFxejhiSklsalRJOUJuaEpscWV4YW9LU3otSW51Z2MzVTBMZ1dhUUdvdy0wYVZCRTZhWDBqTVFRb2ZLSTg3ZVNyQXVzcnNMTzFFMjQ1c1dhdC1FWQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "300d90ca83d7ba3d933fe11eaae1973e",
+      "title": "Influenza Aviar | SAG confirmó primer caso detectado en un caiquén en Chile Chico - Santa María – Radio y Televisión",
+      "source": "Google News - Chile",
+      "date": "2026-04-20",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHNTNlZPUy1EVnN0YXM2dTVFSHdsUENjSVBZWEF2YzNsUHNnWm1HRWNRR0FlLTF4eVpyTUVyZVVRc2djTGJ2LVVJbHVaM0psdTlycWY2R3loR3l1cFQzMEJOamFfakdhYUVfdnpPUk5mTEFYZzhKeHNPVWlEYzNmZnJWWHN5Q0s2eTRBUm1PMXpYdTlQZ1JBSFhIUTdPVkx0OHBhQzFuSTVER1FfWGpjbjdVdVFxZmJuWlFjTFJGaw?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "064057ed42205445e63f60ef337bfc5b",
+      "title": "SAG confirma primer caso de influenza aviar H5N1 en la Región de Aysén - RadioSago",
+      "source": "Google News - Chile",
+      "date": "2026-04-20",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN2gzdGVQcjFyRWxaZ19yX2Fram9zTks0U1VSa0g5UTd4NFFObV9ZajN1bTRjenVnNWtLREd4MmxJX2NtYlB1OGJ2SFJxZ184bDhUT0xERy1Fa1FlYXFZNzUyd0NDUHIzQXp5d3dwTkpjN2lsOWxVYzdGYlRGQ1dWdFp1V1QtVGpmNE5ZaGg2UVl0T0I1TG5xcnNqM3E?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "ee59e32edde4b12feefd3ed568176da3",
+      "title": "Influenza aviar: la amenaza que vuelve a poner en alerta a la región - Andes on line",
+      "source": "Google News - Chile",
+      "date": "2026-04-20",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeVlFazc1Y29KR3JCOTlPQlhuQnFOX0NPMmRZNUlNVWI1UDluY0ZMOGF2NGE1ajFwWEdxZUgxdjlhWXhQRXd2b1A2SnNxcEpEZ2Fpdm5NdVlIQnlHejRXUlJUMUM4TEFaVDRtSFNja1hVcGd2RF85LTIycVdIOVBmSTNTYWVNZmNUR3R3c1Ffa1J6b1hsbnVTTG4yY3ZSS0xzZ3lfRlhoYUMxejRoMXMzaDRlNA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-20 17:07 UTC"
+  "last_updated": "2026-04-20 20:51 UTC"
 }
