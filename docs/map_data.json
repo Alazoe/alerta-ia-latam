@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d371087d877c10a1870427ff7b67dd8e",
-      "title": "El ICA confirma brote de influenza aviar en Meta: fue detectado en aves de traspatio - El Espectador",
-      "source": "Google News - Colombia",
-      "date": "2026-03-10",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSm1ETXk3bGlUSHBtSU9LYVhyZm5VSVotVWY2T1JfSFZucjUwSi02Vm0wUS1pdnpzRlZCdG9zWDFOanV2enZxSFVDYVdPb1RuV2RDQ2hpU2JRTE01YmtRQWFnV05PT2xnc2swZF9oTFdlZzJERWZIOThPTUk5ZHh3bnZPMjRDa3VnTHl1Vk5YQ0l3bVd6clN4MWZ2dzVhNGFzeThDVDQySmV1RktobV85cjhqSWhqc3Z4TXQw0gHPAUFVX3lxTE9vWWY1YU56ckZta2t5eGVQYjhFWTdDNWJKM1ByQ190NTJXODdObnZDbzQyeUtXRmRTeEd6MU0yTDVLVmJLMlhPQTNVb1hHUi1RTWlYWUd6a2szNTkwYl9RYmVOSkhTNG1TY0VSWFFGNFVGVUVVUjEzZ1RnLUM5RkFXekQxZ3BvcTZjdlZZTWhnUjJXeDd2Y0tweU1MYjdFQURlTFRSckVuTkZWaXJnWG5KbXkxcXg2dmdOalNjY1lMZmpKVDhVc1FIeEQwM1ZDUQ?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "4b32d47fb9b4b6c135a648e28de2f026",
       "title": "SAG confirma un nuevo caso de influenza aviar H5N1 en Chile - La Tercera",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTZpVFZRNE1TSU5LazFaQTl3Sk1lOF9Wb0VUdXdwZzE2eWE5Q0JvNHZHbEVZRWhGZ1g5cGpZalBhMXczaVlFU3dWaE40U191UHpGcTlYd1paZmJxRjY5aU5mY0JVeF9NRkptTFhIbGcwSGs2eUxIanNCT2c3NnFjWUZUblNYRG9tWEpMcHA0X1hvbnNBclo4Q2JHaUlubjMycXJlbHVlU2V1Ny1FXzc0eWhWSQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "384a561e66d384cae39f7a43b9ff9526",
+      "title": "Alerta sanitaria en Aysén: confirman primer caso de influenza aviar en un caiquén de Chile Chico - Puranoticia.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-21",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVRsYkhTVXlVY2tfTUhMd2Y5NXZoTUFiaTBVNDFvZTFIbmlnWEk3dlN2NElDRDBVdUFZM1AxbkIybDl2MS14dzJJNy1LLXllU2JPSFRJdEhxZTdoblIyM2kwTkxZcGtmQmo3d1VxUWd2NktBdVU3NHRKVDRKZjhDY2o3R25QaUtPQkRzT203Z0NNZ05UeWVleGx3aE90ZWd6NGQxRWFLcG1wOUFf?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-21 13:47 UTC"
+  "last_updated": "2026-04-21 17:06 UTC"
 }
