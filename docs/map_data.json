@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "e751adf0af1b0398f53d46dc4ab81c56",
-      "title": "Productores de huevos de Argentina piden vacunar ante el avance de Influenza Aviar - El Telégrafo",
-      "source": "Google News - Argentina",
-      "date": "2026-03-17",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa1FydFdGeG13M2dsWE9fQzJHZWtvLVV6S1NtRWVJWnUyemhJSE9TbEJCcGRGSDU2eW5ocTVCSHJWZXJLS3pOdzNmWGpXc2VCRWZaR2ptUEpKbnp3aGJ5dUdkOEEwMUZhTFhwMFBMMmoxS0o4SVk4SW9aZTFtUjRqbzhiZnpwN3UzM21SbzVYNUg0RFp1YlpHZ2p4VFZ6ZkR0TFJSVDV3c1M5TWg0N1JZeXM5Wkxma3dzVHNZ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "703cec720c4fd44d41a05a7a50228505",
-      "title": "Influenza Aviar y pérdidas millonarias: El costo de no vacunar en Argentina - avinews.com",
-      "source": "Google News - Argentina",
-      "date": "2026-03-17",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaERYWDJtbDlabi1hdmh6ZW5TaUlRUGplQ19PSUpTdFRoWXRFaUN4aXlIeHQ1blRPQlZPaVVzVGtLcVJsMVJXX1E1MnQzM3pFeDZUS2NRRldxczZvREprYlhTQTZjNXlWdlo5SERkek5kTkRtMEQ5cjU5UjQxZ1VGTzMwZjVjSldaVjRwZF8wTS1tdUp3OVRVYzJrUQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "36149c433c7c5b738655f5d586d10500",
       "title": "Confirman la influenza aviar en la Antártica por tercer año consecutivo y afectaría más a lobos finos - BioBioChile",
       "source": "Google News - Chile",
@@ -1701,18 +1677,6 @@
       "lat": 8.538,
       "lng": -80.7821,
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1d6ZjcyVDUwUTFwMVFndi10M1ZTQVFsQW1KbE10aXlSVlNkU01LalhQY0dVeWdEVFpvTklraEFHZUhHTUJpd0tmR2hvNVVRYVFTVUJGOTJZLWtGZ0M5S20zVmtoRXJaeWN0ZjZ5b1c4Mk5zdHVnNGpsblNtZm13WW00YXJjZnF6d2V1ZENUY3B1RDJoZGdzRnFaTVlfajIzSTFUbThaM3pXVkZHWDJyWVA2SS1IMnE4UVY0ZXdua3E?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "533b66708657ae038142fccde6981851",
-      "title": "Consolidan estrategia sanitaria frente a la influenza aviar - guatemala.gob.gt",
-      "source": "Google News - Guatemala",
-      "date": "2026-01-21",
-      "country": "Guatemala",
-      "lat": 15.7835,
-      "lng": -90.2308,
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWGQxSTVOT1RKT0NZcDZJZUZmRXl3enlBUmdfOHJ3Z1NFaUxyZFdjZEhBYzRYY2d5aUxsdGpZTnA0RURpaXkxQnJzb1RMV1RKVi12OHJCcXRKbFRQQlNkMDQ4em5sZUU5YVlZUGlWNlAtaWV6bS16b2ZkRnFMR09SdWtaUzh1clhVc05nRlln?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeVlFazc1Y29KR3JCOTlPQlhuQnFOX0NPMmRZNUlNVWI1UDluY0ZMOGF2NGE1ajFwWEdxZUgxdjlhWXhQRXd2b1A2SnNxcEpEZ2Fpdm5NdVlIQnlHejRXUlJUMUM4TEFaVDRtSFNja1hVcGd2RF85LTIycVdIOVBmSTNTYWVNZmNUR3R3c1Ffa1J6b1hsbnVTTG4yY3ZSS0xzZ3lfRlhoYUMxejRoMXMzaDRlNA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "57d66bd9f58da968e3b695faae2608f3",
+      "title": "Declaran alerta temprana preventiva en Aysén por caso de influenza aviar AH5N1 en Chile Chico - La Tercera",
+      "source": "Google News - Chile",
+      "date": "2026-04-20",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQTRvRzNrdE9RazBod2F3cFpJY0s5dHBFb002WnVOTnlHUTNiYm4yRmV0SW5UTVlLLUZ4RGh1WXplTGpGMjE5Mk9uYUVhVDc2bmEzOEhIakJDV1QwT05TUGNOTFhsSWNaRm1ycV91b0h2TTc2eHA0TDZieC1TOXkySTltSXhrRVBnMHN6TXJzOVNYa3Y5WUl5dzY4YjcxVk9JZXpPemt3cnNHMmZNWDJEcDRyVWNoSDhabFdiZDdhSGNyM0U1VFpndmkwck9kSDRBTGfSAfMBQVVfeXFMUGd0S2lKSUtrZXJyUy0zV295X1dRalo5a1d0YmhxcEktX1p1bGFILTFsbzBSWDQ0Q3l6LTZFaENjMllacW9WaDczQ0ZEZDM1eFRReGtqNWFyVF9zdEJZaTYzdmJuNEUyYWMwY3BGNnN4cmhKMlV5cjNScDFPVDBlSlkxYVVwMzB1c0Y3dURTUmtzRXJJb283MHhZNmhDeWt5SEJnV0ZqbWpBa0xIdHBBNkc0TXN0OWJfeUFvU0JabUwxZDRTUUJJc1JmZnRRcVRNeHpNbEpVSTJlbUNpY1U0bGlyb0ZCb3RuVE1IZWtiRldGeWI4?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "8ea864c664224f79e0d30a250a611c37",
+      "title": "SAG informa de caso de Influenza Aviar Altamente Patógena (IAAP) en Chile Chico, región de Aysén - Infogate.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-21",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWdUVJakRjMGNHblc4WWxvajA0bkRXSE5lTDFrNzZxM09oMnhSSDd1SUFFWEFBeGhzRmE3NlZsUWtVbUE3MjdXbUhVcnpTRnQ3STZDcmxlRlZCeHJvRGdSZ2pLdy1fSF9rS1RfWEpUaDlqTnNhZ3BF?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "9370a1e6da79974645462809f037c7e0",
+      "title": "Influenza aviar llega a Aysén: SAG confirma primer caso en ave silvestre - reporteagricola.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-20",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVE3YjVCZkdJMUNmajc4WkRSWnRjUkF5OEFHN1FhVzRyQWdNSjJsU1ZPdUZOXy1DeXN0VG1QeEg2WGxwbzQyVW5kNjVzcnpmTVVIeExaS0RKVVJwTi1oeXJUaVpkV0lkVDc2RFUxUnNyX2MwbGlObW9xQlVLVUJTQzVxcXlUbm9OZUpVU3NWYVdzLWdhbWtqcmg2Njd0N25QVGExdzVzYmUzZlI4eXl2RktyX1hrZ2dsTlQ1WE53SQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-20 20:51 UTC"
+  "last_updated": "2026-04-21 02:49 UTC"
 }
