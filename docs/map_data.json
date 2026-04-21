@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "36149c433c7c5b738655f5d586d10500",
-      "title": "Confirman la influenza aviar en la Antártica por tercer año consecutivo y afectaría más a lobos finos - BioBioChile",
-      "source": "Google News - Chile",
-      "date": "2026-01-26",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOYjM1Mmh4R0plRExiVUhRdUNEd00tQTFrMzl4YlZ0dzlFYUxrcUVmVWQ2WDUwbWc4cHNRM0xfYlRiUkVxeVd0ZUE1aFRCWnRmMkRXVXlGeGpscGpWcEV3UktydEwtdmp1MnJaU2gtTUY0VEVkeVhSbC15ZTB3UDc3MHJoLWlBRE1Lb2pFMlhJanlPUHhmWDVVaGhDX05ZNE9qQjRYR0E4MExTLXBDazVsZW9qVHBOeWtmamM3b0hGaHJnSHBVS3VyZTlPTVFkdEM2VTZUenJkVjRUY2hhNXF4QUZwU2hyaTc5MWUzMGRMaEx4emJRZXNRcXR4ZXUtMWIzOVN5Z1lnNnJXc2NXYnNVNg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "d371087d877c10a1870427ff7b67dd8e",
       "title": "El ICA confirma brote de influenza aviar en Meta: fue detectado en aves de traspatio - El Espectador",
       "source": "Google News - Colombia",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVE3YjVCZkdJMUNmajc4WkRSWnRjUkF5OEFHN1FhVzRyQWdNSjJsU1ZPdUZOXy1DeXN0VG1QeEg2WGxwbzQyVW5kNjVzcnpmTVVIeExaS0RKVVJwTi1oeXJUaVpkV0lkVDc2RFUxUnNyX2MwbGlObW9xQlVLVUJTQzVxcXlUbm9OZUpVU3NWYVdzLWdhbWtqcmg2Njd0N25QVGExdzVzYmUzZlI4eXl2RktyX1hrZ2dsTlQ1WE53SQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "b3b4c724673bfca5a6d84f2c8936ce71",
+      "title": "Confirman primer caso de influenza aviar en ave silvestre en la región de Aysén - radio45sur.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-21",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTZpVFZRNE1TSU5LazFaQTl3Sk1lOF9Wb0VUdXdwZzE2eWE5Q0JvNHZHbEVZRWhGZ1g5cGpZalBhMXczaVlFU3dWaE40U191UHpGcTlYd1paZmJxRjY5aU5mY0JVeF9NRkptTFhIbGcwSGs2eUxIanNCT2c3NnFjWUZUblNYRG9tWEpMcHA0X1hvbnNBclo4Q2JHaUlubjMycXJlbHVlU2V1Ny1FXzc0eWhWSQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-21 09:42 UTC"
+  "last_updated": "2026-04-21 13:47 UTC"
 }
