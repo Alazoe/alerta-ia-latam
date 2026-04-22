@@ -1441,18 +1441,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "d14bc17ba0559c36bfbc7a2a9d7faeb0",
-      "title": "El ICA alerta riesgo de brote de influenza aviar por temporada de migración de aves - agronegocios.co",
-      "source": "Google News - Colombia",
-      "date": "2026-01-22",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSDZ5ZkJZU0dycUY0UVZkVkRWVzM2dUU4UE4zTUpPcmw1Q2Rlc0hteE9IcWtwdy1qYXM1U0M4RkVzRGVHS09DaHMwc3BLZTRTYzFyRV91QmZxMGtZVy1GQ1p0Y0VqU3hDdV9VVlNRV3lWT0o0MENzWWRodFEzRjc1akx6LVVQSjFvbkppLUhGZW5aejEyYm53OUpXUzBDMFZzUU1OZkJGWURsbVlEb01KUm1TeExsYkplbDE0ZzBIaUNzcE3SAcMBQVVfeXFMTUVtSWJKQTJrLTZvNk5IQkZmMDMyb19NRXF0N0JLQkhpV093djZTZU0wbHFPTS1GcUVIck1kY3ZGTVNOeVBrcW83eW1FS1RqVHkwM2FLYXZPTVZMcDZ2QUtoVkxidXAwNFFDVy1pYjh5RVJrSkZaeUVoTTRwWThWLTRwaENNaFpmYlVjemVpVndLVlkxYzRfV0tHaHhjWThSMnY5bElRSkl5ZXNrZUkyQVFteUc5WkhmSmkxSXpTalZWdTM4?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "e99b4edd8bf3f41d8dc7911a45281213",
       "title": "Senasag pide reforzar medidas de bioseguridad ante brotes de influenza aviar en la región - reduno.com.bo",
       "source": "Google News - Bolivia",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVRsYkhTVXlVY2tfTUhMd2Y5NXZoTUFiaTBVNDFvZTFIbmlnWEk3dlN2NElDRDBVdUFZM1AxbkIybDl2MS14dzJJNy1LLXllU2JPSFRJdEhxZTdoblIyM2kwTkxZcGtmQmo3d1VxUWd2NktBdVU3NHRKVDRKZjhDY2o3R25QaUtPQkRzT203Z0NNZ05UeWVleGx3aE90ZWd6NGQxRWFLcG1wOUFf?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "e96d9aa7f28b20aea5a883d69bf94abb",
+      "title": "Influenza aviar: Chile confirma un nuevo caso de H5N1 en Aysén y refuerza la vigilancia sanitaria - Agritotal",
+      "source": "Google News - Chile",
+      "date": "2026-04-21",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTEk4UXppYU14Z0I1WFdMQWc1VEZzcXBaNDRwN2FUZm15aWVXS19YeTQ2c1dTbldqWlBtMmZybVl2c0luU3J3UUMwYk1zTExDcjRXUzRESTFIWVQxRTlvSk1vTXV6RGxHbFIwTk0xU1hwNHl5ME01M19maG44b0JPUmFIWnlkSXlYcktmd1FZREJqbVF6RTJyMGJfeGxmNHlqaVA1dm0zdWJPT3pVNXh3YXhHbm82X3VRc3dZNVhDZlo5WHJ4TjJhU0o0UG45Zw?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-04-21 20:56 UTC"
+  "last_updated": "2026-04-22 02:47 UTC"
 }
