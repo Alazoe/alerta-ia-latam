@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "4b32d47fb9b4b6c135a648e28de2f026",
-      "title": "SAG confirma un nuevo caso de influenza aviar H5N1 en Chile - La Tercera",
-      "source": "Google News - Chile",
-      "date": "2026-03-18",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWDNSdFNZdVYtT1M3T2hnbTc5cExOSTg4TlFPWHRySVVPd1cyQTNiLWVEcWNlZ05pWlJIRHdNNkFIeXdVWlJsbXBkLU05NWZHWE9MYlZrWVpteXIyUWI3LVROYWdLVENQUnNLeE1SMXVYVndENnZZUHhheGsycWJqODJyMUpuY1dWT2VucUlDbkpDUE9lUER3S0ZpZ1bSAb4BQVVfeXFMTVVpUUtFUzNHbE1MR2RMcmYyZm9ja1ZFc2Q4dS1OTWJjc0xvR0M5MW9yRVhfeFFzMkxMeG9FNGpxS2s5aFVUTFVXRnNLQ2FFRU5FaUt1X2tkNlVsOHZjdTRCQm5HTnIyMEtqUDNaVEJRVVl5Xy1xTkU5OVpmSHJUTE9kdUhIcEJxWUUxTVdUVC1HS1NnbUtLeHJwV0xibWlYT0Y2a3FUMzFHYWlKMXV6UzdqWkJDRk5ZanVUcmxnQQ?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "0d2cf71ca7949b81d4db8f55d4d52bd5",
       "title": "SAG confirma caso de influenza aviar H5N1 en aves de traspatio en Melipilla - ADN Radio",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTEk4UXppYU14Z0I1WFdMQWc1VEZzcXBaNDRwN2FUZm15aWVXS19YeTQ2c1dTbldqWlBtMmZybVl2c0luU3J3UUMwYk1zTExDcjRXUzRESTFIWVQxRTlvSk1vTXV6RGxHbFIwTk0xU1hwNHl5ME01M19maG44b0JPUmFIWnlkSXlYcktmd1FZREJqbVF6RTJyMGJfeGxmNHlqaVA1dm0zdWJPT3pVNXh3YXhHbm82X3VRc3dZNVhDZlo5WHJ4TjJhU0o0UG45Zw?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
+    },
+    {
+      "id": "76bf696fb3fdfedf5446ffb860a9246d",
+      "title": "México refuerza vigilancia por llegada de aves migratorias como medida ante virus de influenza aviar - MSN",
+      "source": "Google News - México",
+      "date": "2026-04-20",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQcUF0dnFHZzJ0V0s1WGpxME5rc0cwX0ZMZHh2N1pXWWl1SElBbWFaZExpX0p2TXFNLTRDTHVyTHFSU29MQzYtZnhwanBNNVQ4WnN0RG5IVzNDR0ZGdjJtZnZiT3p5OTROeTNieF80TzhqLXNvQmFETVpLUWFUd29ZeUF0aWxHeUxGaHhaRGFlNXl6LTBYWkszY0N1M0FyMGdYZlJYM2RidmwzVjhNWVFjQjRwRFhqbWlXOWRpVzRLQTV4OFlCSGRWN21ydF9GeXdfQ1pGWFJWUWllcXM3dXFSSUcxVDVxWFpmQVVSaXNjdnlCZ0psNG9QcG16U2V1T3pQX29Sc1FOYmw5c0duRFd0MUtXaVlxUjZVbURHdnplUlBscGlnMElJWmZWclVUMDFncDJlWGpONzFDMkFwdlhMVWZkc3h6UlBZcV9Kd3JCME9XbF9yYk9mYWo4U1RtSGpvOXZMVXJSRlJ3TFZGODBMeXJ3cF81OUh4TmdVMlAtb3V3TFBxMWc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-22 09:23 UTC"
+  "last_updated": "2026-04-22 13:47 UTC"
 }
