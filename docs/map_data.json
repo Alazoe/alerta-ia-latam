@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "aa710a3b2e6830a617e3e2b00f4e854d",
-      "title": "SAG confirma caso de influenza aviar H5N1 en aves de traspatio en la Región Metropolitana - CNN Chile",
-      "source": "Google News - Chile",
-      "date": "2026-03-18",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbjBiNDEwWW1SUFNJdl8yWlNjR0w1T3dpUVJrRllEaURSbWFjMW5SMGppRmUwVV9zbmYwOHpJazM3Yy1kcUl3ckZ0SzBnVVJUSWNCV1BFNjN4cFJsVHVUNkZkQklYN19HU0pEcExDcS1xTVNtdVQwU2FHaVdzYW1PVVF6MGItcjdPbldoTnd3T01xNVRVMU1CdWhSV3lCRl9XSENQZ0pPbnhmQ0pTMmhGSnBR?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "de7c8e601cf6af3c0ac3ee9f33ea3df3",
-      "title": "SAG confirma un nuevo caso de influenza aviar H5N1 en Chile - La Tercera",
-      "source": "Google News - Chile",
-      "date": "2026-03-18",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVWlRS0VTM0dsTUxHZExyZjJmb2NrVkVzZDh1LU5NYmNzTG9HQzkxb3JFWF94UXMyTEx4b0U0anFLazloVVRMVVdGc0tDYUVFTkVpS3Vfa2Q2VWw4dmN1NEJCbkdOcjIwS2pQM1pUQlFVWXlfLXFORTk5WmZIclRMT2R1SEhwQnFZRTFNV1RULUdLU2dtS0t4cnBXTGJtaVhPRjZrcVQzMUdhaUoxdXpTN2paQkNGTllqdVRybGdB0gG-AUFVX3lxTE1VaVFLRVMzR2xNTEdkTHJmMmZvY2tWRXNkOHUtTk1iY3NMb0dDOTFvckVYX3hRczJMTHhvRTRqcUtrOWhVVExVV0ZzS0NhRUVORWlLdV9rZDZVbDh2Y3U0QkJuR05yMjBLalAzWlRCUVVZeV8tcU5FOTlaZkhyVExPZHVISHBCcVlFMU1XVFQtR0tTZ21LS3hycFdMYm1pWE9GNmtxVDMxR2FpSjF1elM3alpCQ0ZOWWp1VHJsZ0E?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "9cece4ff2a906245f3312a38b4492ef6",
       "title": "SAG confirma un caso de influenza aviar H5N1 en aves de traspatio de la Región Metropolitana - Mestizos Magazine",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUGg0d21xdzJWWUJZV1RCYnd6Z3dkSE0xTWx3TmZ4bjB1Um03SVpmZHBlQVMwUlB2WkZ4bm1QWmUzUjBBdS15NVBFYURwU1kwQ1JFUTYzMWRSc3U5VlY3a2h4WUsxVDNib2hTZ1c1SFdWU1RiYUsxN3pLc0Z4aVFhNkpfNzhRU01yS19VaHExNDRpcnUwcTc1dGZrRDdDQmRhdjViUkZvS2FveTZhdWk2STlSWEMxbmNhTkFHM3p6WWE4d0NPRWR3dWRTYzMzczRHZm0wMWZTNWhJLXZGZHhDT3dKYkNJSld1OHhnVEFrekpsZUVRSFNXWnBHc0cybmx2VE9CRVRR0gGGAkFVX3lxTE5QaDR3bXF3MlZZQllXVEJid3pnd2RITTFNbHdOZnhuMHVSbTdJWmZkcGVBUzBSUHZaRnhubVBaZTNSMEF1LXk1UEVhRHBTWTBDUkVRNjMxZFJzdTlWVjdraHhZSzFUM2JvaFNnVzVIV1ZTVGJhSzE3ektzRnhpUWE2Sl83OFFTTXJLX1VocTE0NGlydTBxNzV0ZmtEN0NCZGF2NWJSRm9LYW95NmF1aTZJOVJYQzFuY2FOQUczenpZYTh3Q09FZHd1ZFNjMzNzNEdmbTAxZlM1aEktdkZkeENPd0piQ0lKV3U4eGdUQWt6SmxlRVFIU1dacEdzRzJubHZUT0JFVFE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "872cadf05aa183e84548e29e37c43a1e",
+      "title": "SAG confirma caso de Influenza Aviar H5N1 en aves silvestres de la región de Los Ríos - Home | SAG",
+      "source": "Google News - Chile",
+      "date": "2026-04-10",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPczlaT0RDNC1vZGZ1X2dFTHlWRkJUREQtc3ZZMm5lR1VyOTVQRmJBY21PTTVMZDJLQnpwUHBoekRTME9OZ2t5UkJfeV9BcVNtLUxVWHhmTzlPc3FudzdoY19LQlRueWJockwtWGctYkx5R0Q0UjRlcGJhNHJoNGpleXFVYV9UaC1GaWlVTVVNNXdJeWcwUVp2bWpXMVJTVVJzVlZMWDRLV0RjUGtxTTR5X0UxWDY3Q28?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "ff2f5db4169b340c056ccfa34bc9439b",
+      "title": "México refuerza vigilancia por llegada de aves migratorias como medida ante virus de influenza aviar - MSN",
+      "source": "Google News - México",
+      "date": "2026-04-20",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNeWNyVmVXX1IwblllSk01OXpPU2VOb1ZMTnNvdzAxemVuNHVUZjRueFRaQkUxbHRkUGlzUFFXN2xNN1RHMlNaVUg1am1lOWZSVzRBT1IxdmNlT2FBQTFDYmRLVmM4TDJsNDlkY2dWa3laeXZ0QnpaTXJJVGxQemN2NkpoOWw5VV9saDJVY1BHSkJ2b0R6SnBPeXpPT2NkcXo4ODlxWWNxMUwxNkthYzBmNHlhNWhFbnZnLVhLYXlvMEc4TURxOHVKTU1saEFEcU51RWZ5Y0ZZOFgtR0M0RUZBYU1wVVhabDhOTnVHcjh2TElwZUQ5WXVpaGNzZzYySk9aMHRiZHVxVWY2Y0pwQjNXMW5MREFwckdoSVRhYjN4Z2ZNZjhtUUhNa2M3Y0ZhTEplOWNhXzNjS1I3NkxBMWNhNWFtSFdzb29ud3U0NnhQVEg0eTY1ZjBCVzc5U3VKeXE1elMwZ0JpTjdteWNRamItMzFkNlZGdUloX2JPRmsyNGtuaHBM?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-23 02:50 UTC"
+  "last_updated": "2026-04-23 06:07 UTC"
 }
