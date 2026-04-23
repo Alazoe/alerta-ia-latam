@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "9cece4ff2a906245f3312a38b4492ef6",
-      "title": "SAG confirma un caso de influenza aviar H5N1 en aves de traspatio de la Región Metropolitana - Mestizos Magazine",
-      "source": "Google News - Chile",
-      "date": "2026-03-18",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUnVoQUloTXhPdENlT3JiSGFSSFhzMTJmLTVmY2hPUVdXeFd3ZUMxZmVsRzRkdGgxVUdlOGVWb0pKLTJ2TVhCTDJCSGh6eTNwWHVxVzZqQ0YxZjYydDJ5bkNLcWc1WnVpZ0J2MnFjdGZmZVhPRG5RYjZLZUxyUVhCckZSOUNPWEhuckRlQTNtLVJfY2hKeVliWGhzWUI4ZEUyeUdHSlh0RTdoMWNkdVp6SHd6X1J1bkZRTEIySlNwYmR0a0wwU1VtLU1EaGwzd21zV21yMGlNY0FaUEZsYW1uVmp3RWLSAewBQVVfeXFMTno3RmNsRF8tZzN3d3h6WjVTRndfdXVvaE5pdmRqUnRiVHNBZUREYUtlSXRKYzlSbWlWOUVsNXpPZUxndEpUdXkwUXNfX2tSYnFicXN3azhLMHVUQTVFdm9odWJIelF4bGRuYWpyTUhMQjR4eWtGd2JJYkItWEpGT3JOazIxX0FZVGxFWUVLUnUxSVVvSURCcDh0WldaVGM2Y0plNzFWMmprRnROMWEwYzgtWlBMd1FnVUgxMmZHR05odGR2NTdlSktUaUIwUTROQmhpM1A0eEl3NExxM1ZiSFlCMkZEZ085MHRCN3I?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "ffc95f2e866072cff3440a485505eae0",
       "title": "SAG confirma dos casos de influenza aviar H5N1 en aves de traspatio en O’Higgins - Diario El Pulso",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNeWNyVmVXX1IwblllSk01OXpPU2VOb1ZMTnNvdzAxemVuNHVUZjRueFRaQkUxbHRkUGlzUFFXN2xNN1RHMlNaVUg1am1lOWZSVzRBT1IxdmNlT2FBQTFDYmRLVmM4TDJsNDlkY2dWa3laeXZ0QnpaTXJJVGxQemN2NkpoOWw5VV9saDJVY1BHSkJ2b0R6SnBPeXpPT2NkcXo4ODlxWWNxMUwxNkthYzBmNHlhNWhFbnZnLVhLYXlvMEc4TURxOHVKTU1saEFEcU51RWZ5Y0ZZOFgtR0M0RUZBYU1wVVhabDhOTnVHcjh2TElwZUQ5WXVpaGNzZzYySk9aMHRiZHVxVWY2Y0pwQjNXMW5MREFwckdoSVRhYjN4Z2ZNZjhtUUhNa2M3Y0ZhTEplOWNhXzNjS1I3NkxBMWNhNWFtSFdzb29ud3U0NnhQVEg0eTY1ZjBCVzc5U3VKeXE1elMwZ0JpTjdteWNRamItMzFkNlZGdUloX2JPRmsyNGtuaHBM?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "706511b07a6cb57f1cb1f247285908c5",
+      "title": "Alerta sanitaria en Aysén: confirman primer caso de influenza aviar en un caiquén de Chile Chico - Puranoticia",
+      "source": "Google News - Chile",
+      "date": "2026-04-21",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVRsYkhTVXlVY2tfTUhMd2Y5NXZoTUFiaTBVNDFvZTFIbmlnWEk3dlN2NElDRDBVdUFZM1AxbkIybDl2MS14dzJJNy1LLXllU2JPSFRJdEhxZTdoblIyM2kwTkxZcGtmQmo3d1VxUWd2NktBdVU3NHRKVDRKZjhDY2o3R25QaUtPQkRzT203Z0NNZ05UeWVleGx3aE90ZWd6NGQxRWFLcG1wOUFf?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-23 09:46 UTC"
+  "last_updated": "2026-04-23 13:50 UTC"
 }
