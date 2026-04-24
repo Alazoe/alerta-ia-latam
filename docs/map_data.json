@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "0e990b007d4565aad069943857d3cc8b",
-      "title": "Confirman caso de influenza aviar H5N1 en la Región Metropolitana - reporteagricola.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-19",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSjhqWFdsX1VDNTh2NDFvUG5Gd05zZUptSkR5UmZDaWJOX1lCRi1UZjliamU5Skp5UDIyX1ZqaHotajZLQVpyODRMRk9PTUtpdjdjUXRLZGpvQkNUUHZPQkJDVmJHNEFQeE50dmJWZGVIWGJ0M3NKdWhMQU9OMXVkVms4THBTdnVzVUhiT2E4UktqSVYycV9ZY1RsdFRUQzVodTBIdHRxZGZUWGE1Y3NaQ3d3?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "9b2a8b7cee976ae37f6c235d17577378",
-      "title": "SAG detecta nuevo caso de influenza aviar H5N1 en aves de traspatio en Melipilla - BioBioChile",
-      "source": "Google News - Chile",
-      "date": "2026-03-19",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdlB4MkxlUENXUExvek5pRVZOeVVmMlNqeV9YaHY5X2NvUFJnaVFTRlBfN0Rhd2I1UWRoX1c1ZEg5S2MwdWtON2dVUVVDSkVLMVZZbFZhM196NHk2dXNoVkl2c0lMYzFydFhqQkZkT3F5NXlTbXNsNVN5Qjd5TWtOem4wdm43UUE2V2ZpN2lEQnhxWF9zQWd1djRBMk5PZ1lfa3Itc2RWT1V4R1JVcC1COGk0c0NPUzBySjIwdDl5bFFIVGpVaVZTZmNvZHh6aENQdmpReVZEcklSUWc4cnFQd05tZ1o5eU52WmdUaE1udXczM1FpN0E?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "c43c68c7ec944c965c55217c06361625",
-      "title": "Caso confirmado de influenza aviar en Chile: Epidemióloga explica el riesgo en nuestro país - portalredsalud.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-19",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcC1hMC1mb240alV4T3Uyb1psY2t2NndxYndTR0hwelNIVTlELUR6ZHhjbnNUWHZyYnp4VXZvVTVEMDV0YUppZjdOUkEtaFZXT0RRczJsNkxMZ2JrWmZ1d1UzeDUzU1oyckN4VWZyMkZibXRvdzE5NTJjempxRmk2Mk9EUGcxaU1fQjlZclZSdElnTHc0UlpxWnRwVW04M2RUeWdnNkdVZkhxMldUV1FsSHR0T29SNHhFMnJ1MmlxN1g5TEt4U0U4?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "fc4949d505d15b92b7ccd79cd8e076fe",
       "title": "Experta advierte riesgo persistente tras detectar caso de caso de influenza aviar en Melipilla - tiempo21.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdm9HX1o4cHpEb0djNE84aTFEaWxVd0dHUjhaM3JaS0RyMkRGZElCbGd6MmdRMUtPdEF6QWd1aEhoY0Jta1hycEF3RVp0aGtwTHpDODhmRHotRHM5M0MwaF9kRVJFeDEtazg0NEh0cG5sX2hFMHJITE1TdVcxNmZlNDU5NHl2a3h2TnhFdU04ZnRKY3EzQlQ1R2xUa0RaYXdhdXdqTVN3M2JhS0xaMk1KZkREWXpMZ3ZMVm5j?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "249265a40a2831d03a05058a9ae2d64e",
+      "title": "SAG aclara exportaciones a China tras brote de influenza aviar: Chile suspendió envíos - Radio Agricultura",
+      "source": "Google News - Chile",
+      "date": "2026-04-24",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOFVTRks0Rk4wY2ZZYWZTUnVhWDBGZnB5X0x1MFVpcHRoYjdOSVBNZVhNZ1RBRkJDWnRiR0dLbG9hZGxmV1cwOFpTQmlfeW4xa0g3bjdBUm03cjc3TzRjNldQYmg1RERQdGFCWWFacG1haXJZMDhpR3o1V3Yya0ttSVQyX0Yxb1J3NTBaRzJKdW9KbEV2UDh3LXNGQjJvTGdyekQ0cjFpM2lDZzJFOFpSUTB3cWpqRWlyRkZud21iMC1RdGJpb3ZGYnQ5MUhHZFlFTktRVUF6S0F2YlJrbUE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "6a046b1bed9ac5bbcb56effd4d430328",
+      "title": "Brote de influenza aviar: SAG aclara suspensión de exportaciones a China y descarta aviso de destrucción de productos - MSN",
+      "source": "Google News - Chile",
+      "date": "2026-04-24",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQUUNIbElORUxkV0Y4c2pTWE1oUzU4MzllbXoxR2QxYUN6M3hyRGw0NzZqdUZONjVfd0pOMV8zYXJFODg3cTVQVlhGeGNNYWtIclhERGRmV1N0LTRuTXE4NHJudEZBUUdpcTNRd05OUWdWNzBkQnEzUHJ5TlVlX0RUMkFKZzhQYk9QNlJfR0lGNEs0ZnZuc1pYa3dELURCdXgzNUlMbEROaFl0NVpKWGpTVVNaVG5zdlJyd2x2b01Jd0Z6V2lOWGMteng1NGJibEhTTzdnRjVyTDlGbTUtQkFBMWpQaUxIbmlMbFhFdUlvamxwUFhsclZzaDctdURlN0dxTGIwakxFTy1HdEotNEFjM3h0VEpWci1ZR2pEd1ZoX2stSURSS2Z0ZTZIaExVVUEzRWxNbENPaDBGeWtGMDZmTG9fWGsteHdGT1hpMA?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "6e6784db97a78382bcf971245e7ad6fd",
+      "title": "Campaña de prevención y control frente a los riesgos por influenza aviar - gob.pe",
+      "source": "Google News - Perú",
+      "date": "2026-04-24",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMlA1a280NkMybUgwa2NJRVBLTVJJV3NSVVJfT1luZHF0eHhaekNWRlBLUVVmOFc3am50TzdYTW1uN3RoYlloVHNUc1ZkYzR4QXh5S2xCeFJsWDgycm82SE1oY1hKNFVPUDFCaHhnT2FVSjRZRER4ekJEbHVCY0h4Smd2Y0w5RFVyc1JlZEhtbXBsQmVTaWw1andUeXp3MklVWHhuLXVITmgzNG96MjhLdGxkdHBPR0hWOGxWYk53?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-24 13:41 UTC"
+  "last_updated": "2026-04-24 17:00 UTC"
 }
