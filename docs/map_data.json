@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "cecf53730f1ffac0d75712b176f78bd1",
-      "title": "SAG confirma un caso de influenza aviar H5N1 en aves de traspatio de la Región Metropolitana - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-03-18",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQTZ0UWdud09jMlhIYWZoeG1tRXVrQzB2bVVMM1FqcG1oSmJ5cDNtLTZaVm5VNW44bk1sa3FRT3V6SFI1aHMtamx3ZW5VdHlGLVJoc3RYZmE0aU8wa1JYUnJjYlNkT3RNeWl2Sm5udVNOSlFYY2pXZVVDZGZRUzhVRDBiRmQycU1PdVdTRDdFNUduV0RBcWx1dGFnRldVeHY1NjgzRVhWYzJ3REdCVmhrQUh5SXRRQjFlRzVyUUJSMl9FZw?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "0e990b007d4565aad069943857d3cc8b",
       "title": "Confirman caso de influenza aviar H5N1 en la Región Metropolitana - reporteagricola.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGxfQzlLWS1Tb3B6UFRNTXhsdEZCSEFHZ1JaeFI3ZEJPYlAydnM0b3ZyYjZISjlaR19zbFRCUEFlMUVxY1VINGhWWFJ4RXdPcmlfdmJLMjl1NGRZMWFsbUNWbm1yS25pVnRvX2dNUFFPbTNFeWp3NFM0SjhSWHU5TWhLMWQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "dc1e5ced7aaa2221e00ae8b1d1b80823",
+      "title": "Influenza aviar: SAG asegura que fue Chile el que suspendió los envíos avícolas a China - Diario Financiero",
+      "source": "Google News - Chile",
+      "date": "2026-04-23",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdm9HX1o4cHpEb0djNE84aTFEaWxVd0dHUjhaM3JaS0RyMkRGZElCbGd6MmdRMUtPdEF6QWd1aEhoY0Jta1hycEF3RVp0aGtwTHpDODhmRHotRHM5M0MwaF9kRVJFeDEtazg0NEh0cG5sX2hFMHJITE1TdVcxNmZlNDU5NHl2a3h2TnhFdU04ZnRKY3EzQlQ1R2xUa0RaYXdhdXdqTVN3M2JhS0xaMk1KZkREWXpMZ3ZMVm5j?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-04-24 09:46 UTC"
+  "last_updated": "2026-04-24 13:41 UTC"
 }
