@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "ffc95f2e866072cff3440a485505eae0",
-      "title": "SAG confirma dos casos de influenza aviar H5N1 en aves de traspatio en O’Higgins - Diario El Pulso",
-      "source": "Google News - Chile",
-      "date": "2026-03-16",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQYjc3NVVfNkp4aGFGanViS2ItbFM2T2x4VGFmQUNZR1BfZG9RUDdiN1BmUkR2d2s0b2RLN19idTRIUDF4Uml2TWVxekdPNG1JX0JzbDlVNmJNZnRoRnVyS1YzcXhrWTFrd1k5djM0cFJwbWVJc2M0Z2NEMDJGSy12RFdJeWRrM2NmMmN1MkNkSWRXTEw0MlBjUWFFOEI0eTQyWE5CMm9jaG5jVXBQbHhDRzVaVUtzcWZRYjBrNNIBwgFBVV95cUxNWTBnV3ItMkhpSF9EX3g4S0JMU3J4VHp4QUNqNHRWWFhlOWdLbC10bm40QlBKV1UyOGZfZEc1SFNaQ01vRm13TnlNVG1UVTF5LTFFRTl3dDFnU29DSlpiQXdsdk4zMngtUTl1WFZMYW9FdXlnSjlsU2ttY0FWQi1CR0NMUElUNDBxN0tsOTB1VzZ0aVVNWHRhTmoydE5aMThBM0JmNEVUMHVYOENKYjRQV1FkYndfcUlOalpHcDc1dktZUQ?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "81a0a8a40b4f1b63dcb387b8b58a31e1",
-      "title": "Senasag pide al sector avícola nacional intensificar medidas de bioseguridad ante brotes de influenza aviar en Argentina - ABI - Agencia Boliviana de Información",
-      "source": "Google News - Bolivia",
-      "date": "2026-02-25",
-      "country": "Bolivia",
-      "lat": -16.2902,
-      "lng": -63.5887,
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTU9XVEQ4WjVMaHNrbWJuZXVWX3F5WE1wNjZTUVU0OVdUcTlrTWxTUzB6MnZ5RkNSUWFGRkZfWmNVM2pYRTFPM01kdlBjSWFiM3pQQktNVDVuZF90Ymtoal9jSmRuc2lBejViTk9xX1EyN2lpck9icndFSTFtaFEyTVpCTFM5NG05NXJtZDYzQS1wNXptUXJfVEoyRmlzaEtQYTZnSFJDWGJtQTdReGF4VFh5cDdKSUpFbkFobTd5TURrajZ2TTZtdnZ0TmJ5MFFwNEE?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "07f78c882a8385003bf11ee586726caa",
-      "title": "Senasag implementa medidas ante brote de influenza aviar en Santa Cruz - lapatria.bo",
-      "source": "Google News - Bolivia",
-      "date": "2026-02-12",
-      "country": "Bolivia",
-      "lat": -16.2902,
-      "lng": -63.5887,
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObnluN19Ecm4zLTlHa1lPQWJLWWNyNGRaczZkLTlIVzhFbVpNRlN6UllSa3NZdnN4RnFoYksydzd3TGgyaTdwZklYc0lQYVZjRmZycmU1Z2w3M1F2dzhOako5OThFMko4WmJXTmhva0VSOGZGbTg1cUtMb0tUTVFTN3ZrNGEwZ2o2YzJTUU9lNkxuWVVwS1dYeHJ1cEpjTkdnemRfZ2dYVTh0UWM?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "688ba504315532c29902c4de53a79f0b",
       "title": "Chile detecta nuevo caso de gripe aviar H5N1 en aves de corral - El Economista",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVRsYkhTVXlVY2tfTUhMd2Y5NXZoTUFiaTBVNDFvZTFIbmlnWEk3dlN2NElDRDBVdUFZM1AxbkIybDl2MS14dzJJNy1LLXllU2JPSFRJdEhxZTdoblIyM2kwTkxZcGtmQmo3d1VxUWd2NktBdVU3NHRKVDRKZjhDY2o3R25QaUtPQkRzT203Z0NNZ05UeWVleGx3aE90ZWd6NGQxRWFLcG1wOUFf?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "92704c6eb9c380c1c1d1a052526f1dbf",
+      "title": "Golpe por gripe aviar: China prohíbe importación de aves de corral de Chile y productos derivados - BioBioChile",
+      "source": "Google News - Chile",
+      "date": "2026-04-23",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOU0hZRUQ0SzdIeF85VmdYYzROTXlHS0NhNzM2U0hEcVEwYjRTNDlLZzFYVDBOMjRPSi1Pc1NFbFByNmIwU0xtOUhUcWpfOXJEU1p2WDYwNm9NWURXMWwxeWUtX0RkbGhldzRIZFJtZDJlSGxacVc0MnpxWFZPNzBEdTRRczlkV1NpUDVUMnFkSjM1cTZYMm10clhoTGNyVVVXSDJSWjZqWVhGNktOTUxoWU0zYlFDcHdBVGtTZmo4VkhhdW5sMjd6YXNJWENzWnVvM2hBYjZiUWdtN0VmaDRyWE40elpuYXVNQzFQQWtYc2lrOGxGN1NnQ25Od0NkVTJZUUlvNWhucGptSms?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "c2d12c3109d5e4ee88bbe94de1e9c985",
+      "title": "Brote de influenza aviar: SAG aclara suspensión de exportaciones a China y descarta aviso de destrucción de productos - La Tercera",
+      "source": "Google News - Chile",
+      "date": "2026-04-23",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQd1lxbFRObFZTamM5UGVQcUZnMS1DOFQ1ckhCM1h5LWlaY2hkNl96QUF1U09QWEpLUFdDX0lNeVpFRlpqWXFzMXRfY245SHA3NHVnel9nOE5CSnMzQXhhWVVSOTJXMmctaFpDS3BXUGJkdEtDSDVUc0JSNldzQ01NaVdtQkRSUURoTDBMaF9DRWhEc2FmWTk0MThQSi1nWHpTWjFnc2NfR25YX3JnLTVIVklRRFA0V1JJYndRU0FLX3VYdnNFbVFpaGFpU0pja1U2bVptR0UtOG9vWmJ0RGNCcTdFbzVLNW50SkNueVctdV9SZ9IBkwJBVV95cUxObVM4SUpHck5PdWRDa1phYWR1NEV6RlNwSTFPaVdCYjluWUc4R0FqUWFuVDdRaGtPTmtHcjU2cDVmeEUxeGVpaHdxbUtxSkFndjJPeVNFZ0tWSFBVTklCVzI1Tm5xQkJwNkxfNUMwSVRkVEhNdU9Xd3RzUjNmc0xMNVE0SXNQNW1xX29zd21LY2RJdzFJUUxGMHZqTHpwQzI4TUQxLS00NDNuTnNjU0VuNHFmejA0Uy1MeDVtYmNJbTRmLXg1c1ZOR1o3d2tTUmsxcGRKY3RjLUlWRThCcmY4alROZUdBNkhUaUg3eVZDWjhvUUZNNU9mTUJOMDBCeUlBckNkZDc3cEJsVTdXckNGaGdwVQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "534258d63c346400e6106262847308af",
+      "title": "SAG aclara situación de exportaciones de productos avícolas a la República Popular China tras brote de influenza aviar en plantel comercial - G5noticias",
+      "source": "Google News - Chile",
+      "date": "2026-04-23",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdFlxeGVvSzQxSEhaVnc5SXNoVEZRRngzUzNia18xakZzZlJkakc0alRmTWFGR1FCMHVHX1pVajkteHRmclBnTi1SYlotRzVmS20xSHRTa2puNDl3M1NwQU1ndi1ZQkN0M2R4Q1BWZTFRZUhjN3gxaE12cldWdnkwcmNfRmc4dkNBZ3VpUUZLRFdiT2d6cExEOXZIbml5eWVNdmpZSDhCMkh2Q3VrSUNSeUtSNEgwSVl2WVRlenpUMW1CelVMcU5GVDRYbVZhREtIOWRUSUR5X0ZsSTQ5QmdieE5uNTNRNVZMdEFReTl1d2RPRXpwQTZhdjdnSy1tM05CWHpv?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-04-23 20:55 UTC"
+  "last_updated": "2026-04-24 02:51 UTC"
 }
