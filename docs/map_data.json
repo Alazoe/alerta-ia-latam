@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "dbe852eafdee93b0be4b7403d102a452",
-      "title": "La vigilancia es clave para contener la influenza aviar altamente patógena - Andes on line",
-      "source": "Google News - Chile",
-      "date": "2026-03-20",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWk5PV0plY1dWbzFBSm5MVG00S085ZmZrOUNfVS1YSlU4NFA3eGpkV1FaZ1NXdUFZel8ybnFFZEMzYlY3ZzBJZW9SeWoyOS1VMVQ2TU9qNS1RaDFKOU93VlpXbTZsUm9hOFNMME5DM3hXcnZtZTg0Um9pZ25TVVc0UlVkRUhid050N0hNTHlWQ1NmUWc2MHFKM2VZM2Q3a18wUDhwb3dOcEtNUXhlZE1xbUNGeDFfdkc0c2s0M3ZTRVJlZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "67bbc10b458b2bb081d307041aef4da3",
       "title": "SAG confirma nuevo caso de influenza aviar H5N1 en Melipilla - SanCarlosOnline",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSllXU3o2VjNBQThLNmZzYTFFNmFfMmVLOUtDdUhESE5KTXRkQ25vOVdNeFRXUWJwWC1JNHc1U3RtNDcxQXZJd0trdC1vRlJmZ21KT1oxWlZSWUhPeGRDMWVCT0NpNTRrdDNJU2Z3ZDBHUHNXa3k0U1FxMVBqWTZ1VDJPdEF6blBTTDZmN182bUdpSjdndXg2d3hzenJFV1lSV2I2UjVyTkhrcU9FRnZJUmNGeVQtajBpeWN3bld5cjl3Z0N1?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "2878dfda98b2fbed49d08b4077b44cff",
+      "title": "influenza aviar Chile - Radio Agricultura",
+      "source": "Google News - Chile",
+      "date": "2026-04-26",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9obEVWQktjZy0zSmVTaVRRYTg2bTZGWm4tN1dhMnA3dXFjUmNSMW5mdnlrelo3OVlLYmMzdk5UcWNjZ0lVYWpRdXRGSU84NzhOcnhSYkEtbWVVTmNyTHlQeE9DR2tFQndoQnc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-27 10:19 UTC"
+  "last_updated": "2026-04-27 14:00 UTC"
 }
