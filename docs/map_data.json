@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "2002c81210d8c21fe340f9ea83d152f6",
-      "title": "Perú suspende importación de productos aviares de Argentina tras brote de influenza aviar H5 - Infobae",
-      "source": "Google News - Perú",
-      "date": "2026-02-26",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNejkzd2Qtc0dtMzA0aFU1V0wxWDVOcEthQmhWMjE3eE9Od2w4MmZ2M1lwd0VjeWdYVjUtYlNqVE5QMVdoMDNPOU02eldINnZSQ1NjOGtyZGxEd2pTenNqY2FnSjFvS2pRcnpZWVJUMTVVbUZ0dmZyLV91a3g4MU1CUG1WS1kweUEtSEVxZFVSVloyTGRiZElWVlBsUGxsWDd5cklNUmtsblJlN2xuSldCaVBESkJnS1F3Vks0Z01YZUZhaVVzeGlxSTNDTDk4Zw?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "f881d8c8bb133ae68255d2e13ea4a379",
-      "title": "Venezuela declara alerta sanitaria en cinco estados por influenza aviar - noticiassin.com",
-      "source": "Google News - Venezuela",
-      "date": "2026-03-21",
-      "country": "Venezuela",
-      "lat": 6.4238,
-      "lng": -66.5897,
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVTZfcWxRRzZ3UTB3akV2ZVJEY3FDQTE1dHRjMTVnS1AzQnd6dTBnbFZEaUVvV003aFoyUmhEdTFGNGVvMEU0RWhTRm5xdVJrbHdfMktLbGNrUmFHWVk3c1dWbk9fcnc2T0k0T2h6ODFoRk5CRkhfR2Q4S252eWppY3hRUWNRbWctWWJUbEdScHpEaElOMjBTbWJpUnR3VGFlakdyUdIBpAFBVV95cUxOVTZfcWxRRzZ3UTB3akV2ZVJEY3FDQTE1dHRjMTVnS1AzQnd6dTBnbFZEaUVvV003aFoyUmhEdTFGNGVvMEU0RWhTRm5xdVJrbHdfMktLbGNrUmFHWVk3c1dWbk9fcnc2T0k0T2h6ODFoRk5CRkhfR2Q4S252eWppY3hRUWNRbWctWWJUbEdScHpEaElOMjBTbWJpUnR3VGFlakdyUQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "0acdbc325df3337324f720aca3d5d026",
-      "title": "Confirman primer caso de influenza aviar en un traspatio de La Araucanía: refuerzan medidas para la detección oportuna - puranoticia.pnt.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-20",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSXVkVy1jMjF4ZmRuNVRhZDM1SFJfQkcwYm00MTJoLVhmMzBCZ2R5OHNUQklDeTJsMWNZaHc5QlQta0ZDU3NyU290akVHT0xoVFdzaE4xUWpJc1ZGMHFiU0NtOGMzekFJRWhuc3YxUmVUTjN3azZXUm1XU0JLZzNjRERlUUhuQ1VqdDBkOHBrckZTZ1RnQXZsc21lWXNhWnRSejdyWWpnejBscjBh?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "d92eff47b72fafdc883ff7a050bd73d3",
       "title": "Alerta en La Araucanía: confirman primer caso de influenza aviar en aves domésticas y activan vigilancia nacional - araucanianoticias.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3Z3czZOMEt2QTR1aWRjUm1LV2w1RnRfYW9tYUFlaDJUREQ2UkloWmNUckZETHRzOVR4MU9oZHgwam0wUHZfVnZjczZlM2RnT1hHRnAxazdOZVRNMVk5ak5Na3NldDVlU3JodW5QeHJNa1ZuazZxcWxQSm9oanh2bk42YmVyZTk3bUwwaGUzVEpfdkEyLURnWERJSHlQZnhLUDZUUUc3RVhaUWF2c1UtTUFlUDdKVGZ0OW56VzFKNTNfR1JLaHdQeWZuQXV6UW_SAc8BQVVfeXFMTkd2d3M2TjBLdkE0dWlkY1JtS1dsNUZ0X2FvbWFBZWgyVERENlJJaFpjVHJGREx0czlUeDFPaGR4MGptMFB2X1Z2Y3M2ZTNkZ09YR0ZwMWs3TmVUTTFZOWpOTWtzZXQ1ZVNyaHVuUHhyTWtWbms2cXFsUEpvaGp4dm5ONmJlcmU5N21MMGhlM1RKX3ZBMi1EZ1hESUh5UGZ4S1A2VFFHN0VYWlFhdnNVLU1BZVA3SlRmdDluelcxSjUzX0dSS2h3UHlmbkF1elFv?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "7c8b0ecefa1840e02f8e4106eff26d4e",
+      "title": "SAG confirma un nuevo caso de influenza aviar H5N1 en Chile - MSN",
+      "source": "Google News - Chile",
+      "date": "2026-04-28",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxOaksxLWZPa0VxNHlhTFNtc0V2TzBMcVhKY1ZhbFU3UXJVSVR2R0MzYy01LVRDdnlwWXVlQ3NFcEhLdlh4ZVNXWW56RDJCWVpURll4aXhZMmRJckk1a040RWF1UjBkSE5kSlZpQkxVeUJ5N3NLd19RMGttX2N6N3dHenBiOE01RURweXFlYndmaVRGcENrcTlrcWhIUXlScV9mRHV2SnJISDgwb0V3bmRNTjNUeTJkdEx4UkRNei1tVGhQVllVNThsSk5CNTNhU3BaV0dxcF9mQ2pIZW1xUzh0UHl1eXdQeEFlNmRIREhpVVFqQVF1SmM1YThLbVo2Z0tlSmtyeFpNd19IUkRJOWpoRGpRY3V6Z21MNUN0QmM3cDFBdkdVQjA5WmhZUUgzMXp5YWZLRzExaGRxS2J6Sk1sNjFGTTduWDJ5dVMyX3JJSVBSSFJad0NISDltanJqczVYR2Y1TQ?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "9930b76b822300af927036fb592a25fb",
+      "title": "Argentina restituyó su estatus de país libre de influenza aviar altamente patógena - Alvear Ya",
+      "source": "Google News - Argentina",
+      "date": "2026-04-28",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTzlRY2NGTjVQVGx0V1FNRXN6M2hwWDMzb2pOdmZMMnVBTko3TklXaTkwSHlsck44cTBRNzQyMVlENEs4emxUbmxfaGlxajBLRmV2N1FmcDZJRUlLczFRT25vSVlaaEVBUFFyZ3FTRzZ0aGhKMlB4Q2xqWGhNTExUMjQ3RExZRkNzV1NhWVhsLWYzU0h0emhSYVE1WGhPaTRMTTQ4c2psc0hHUC1wMlM3aE1raHJwYi1MY2o0SGRoQQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "eff45471c31b2f7d17af56c60811d42d",
+      "title": "Argentina se declara libre de influenza aviar y busca reactivar exportaciones - Infobrisas",
+      "source": "Google News - Argentina",
+      "date": "2026-04-27",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS0FfNTBEUk41dUN0dld6T29SeUMtQWRjTXZjY0x4aVBqX2JIRUlnVG91aFA3bWFVQm9Cd0VPcHlmSzkwUldFbEh4U1JaSTZ1UzhRNm92dXZIUm53UXdVVHA1d0gySGtXMDZGWTJoNlJWQjZ3OEhwaHhUV0FlWVE2U2pTWktnWEJDSGpOYWRtbF9sUXo4X1lqS3hTS2lxSmo2X0M0VWdDTERZcWRBRzNsdVRTLWhKSm5nRzNQZG93U21FdHZCMlJpQnVB0gHPAUFVX3lxTE5HdndzNk4wS3ZBNHVpZGNSbUtXbDVGdF9hb21hQWVoMlRERDZSSWhaY1RyRkRMdHM5VHgxT2hkeDBqbTBQdl9WdmNzNmUzZGdPWEdGcDFrN05lVE0xWTlqTk1rc2V0NWVTcmh1blB4ck1rVm5rNnFxbFBKb2hqeHZuTjZiZXJlOTdtTDBoZTNUSl92QTItRGdYRElIeVBmeEtQNlRRRzdFWFpRYXZzVS1NQWVQN0pUZnQ5bnpXMUo1M19HUktod1B5Zm5BdXpRbw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-28 06:31 UTC"
+  "last_updated": "2026-04-28 10:17 UTC"
 }
