@@ -1,54 +1,6 @@
 {
   "alerts": [
     {
-      "id": "432a44b3c8b5ac532e02dad1b9d230cb",
-      "title": "SAG confirma un nuevo caso de influenza aviar H5N1 en Chile - MSN",
-      "source": "Google News - Chile",
-      "date": "2026-03-19",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOQTVCa0dldWRfZ0p4T1F6UlRfdURMMTFMcUtoaTlEbVJId0tNOG93eWdCSzRjMTlSSWNkbnd4WVdPWWN4MGpKQlR0RnFDakNfZUl5RWpxdjFxSGFVa1cxeDM2UndBdEZUX0N2cHZLdjZla280TzMzNEhWTzN5RjFyZG5Jei03Zjg3b25RSjBId3NOalpJVnJtU00xLWp2a3VNMy1DSTZtd1F3YnNPeVdzSDVidXlCbDJLYVNMa2JkS2Zfc3Y2MC1ocU5WRnN3OVZ6TFJYaGhCbTlvOGxZLXVKTGdlVnVpWFNSVDhiWlBCM1lYV0xTRFBxVnIyOXliMHlhbTdZVzJfUmlqazhIaXBoOXpsdGtBZm0zRVljbXJILVpmQjAzclVaei13MXpyQ3VtXzJpdm03aHRxbnZ2MEU3Vlhnb3RnTjQ?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "7a0ab4ce3787f9a816484705c1f26caa",
-      "title": "Refuerzan vigilancia por influenza aviar en Chile tras nuevos casos en aves de traspatio - radioagricultura.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-20",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSVJSUGFnQjNqeEtaVVFvb3dINE1aMjRwR0k5NElGNjlVR0hVUV9ybjJFRXJSMjQ0N21YSnotNENSQ0I1dDN4dFo1bjVWUUhTLUVrM3BaeGpVLUswLVFQZkVoa0RON2t2eDFZQTVfN3dKck51d08wRFVsUElTemY5QU5PRjRDdlRhUG5KckUxMnJEbC1PYm56b3RGMmZYck9XVHhzVno2OG1JcXljS3hLQzBwc09QNXF2R2pzeWs5SXpMdGhWeWp5enpNQTJRMEFsQkdpYUg5U1dFeFdIYldzUFNn?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "0b2d7d33a2d8cb00f7b2573683833aad",
-      "title": "SAG confirma primer caso de influenza aviar en traspatio de La Araucanía - radioagricultura.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-21",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZGtpVUduc3dJeWVZNlFZQjB1RkVwWm5OWjZ2RHIwUnlDb29IVnFnZjBYOGk0d0RheHlBT3NCYmV4QktERzlQUWVQNERsV1VzYk1ROG1Ma1VSRkFoeHVNVmNzMnFIeVhJRkVYUk9FZ0pFMzhOMGNZQ2tzbnlMSnJaTTVRc1p3WWlQanBNbUlCMnlsTkZvSDF1QnlfMEZGNFZPUTZucktQYWlyZ3RqcEtzTEk5RnVNUzVVQ2tIZzFuSDh6NVhoYUp5eGhBZWE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "4f48e279bd3fab8b0f6230430de2af80",
-      "title": "Declaran Alerta Preventiva en La Araucanía por caso de influenza aviar detectado en Renaico - BioBioChile",
-      "source": "Google News - Chile",
-      "date": "2026-03-22",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZkpmNEctSVlhSVdXY0dqMDhsRWw3VHFMSTh3cUlLeXhmZ0x3ZEk0aHVvMDFweWZkbElvdzB3dTd4a2JyNHVZWE9ZRVBBczlKakRHWW9MMElSdWJoSEk4eU11bURMcVdxRURDSlVzVDJ5S0thRDM2WnB6TGtyczlBS0NPX05tUFVPTnZIaVNpZ190M2hFV1NUTXVSeWxFR0QzaC1pOFUwbktYbkotMFo4WmxHbnlTS3F3MU5ydWJVVC1lVXhuMDI0Ql9OLTJCMFM2YUVBNWJ2QUVKdWxaRThEbFpTX29hYzFHTzZ2cER4U0k2Rk4yOU5zNlpFZ21YS0hEODF2aXBjUQ?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "1cb1e1fafba936c1950176976c57b825",
       "title": "SAG confirma un nuevo caso de influenza aviar H5N1 en Chile - MSN",
       "source": "Google News - Chile",
@@ -3599,7 +3551,55 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNXzlvOTZxM3BEcXM3VTJfQU9vcjlicnJIS0QtNFFOcHpwUERycmExUnI3YzJ2Z3ZBMWI2UXRwR0xjRmJ5SlRZQzZrbW0tTUZkaTR4OEVwNFhEUDBTOGc4UmowdU9FLTQ2aC1EdXR6RHAwV2tJNkJBZHJWSFBhXzlFblVqVnJJTzNFeDk5YjVoM3phMnpZRW15RFpWTFM5R0NKUEdkR2xUUUUwTUlicUdQRUNBY19WRVp3OVhjdE9zc1Qwdw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "0f3be0ff008f0fa61faeef32e4c95d91",
+      "title": "Influenza aviar y comercio exterior: claves para entender el impacto en la industria chilena - Séptima Página Noticias",
+      "source": "Google News - Chile",
+      "date": "2026-04-28",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVkc2WGx1ZzU4TFFsNV9WaXU1MzB4Vmp6eUJZei1PZ1NOa1pIaHQtMUFlbkhhZzV4c2w3VTh4RUt1dVFsT3BlSHhLYnQ1SnFsSkFuTzR4akxRNWFYeFAzbm50V0tjVmM0cTdFRC1oaGMycmVBSDhJRkhWTUhvTk14dkdIMFpuM3ZWYXlNU2tjVXQ5MUlLU3JHUXhjUkhEdDRrN0VrdjhLRi1fTzBVZGg1MWY1WUtmcnZ6SE9ZVkZiSmw4eW5aZnRV?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "91dbb919083bfc9ce93b4827119c51d2",
+      "title": "Brote de influenza aviar activa restricciones al comercio exterior y desafíos de bioseguridad para el sector avícola - Diario Chiloé",
+      "source": "Google News - Chile",
+      "date": "2026-04-28",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFM1eUJ1dEUtZ0ZjbWktemt0eHhCQkZIUzNSdUw5LUt0RC14T3J1S25SWXFmamdSUlg5dkIyQ3dLLTNaYWNJVjRkYkVrel9FOThvSGppVzNvLTQySkw1dUFvTHBnM3FLVGhVaEcwWnhjRUZIVkVOMTlIQ20wVEdFWm5YN2NOb2xLR3piemVJRlh2QzRNUFJlNndUN2U0amh5SVIzTEZDNVZBNWVmR0JMQlNHQjlWTTJHVmNockdjQ0I?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "7d84c8a9660a01905ddf64d937486c9c",
+      "title": "Argentina vuelve a ser país libre de influenza aviar - Sur 24 Noticias",
+      "source": "Google News - Argentina",
+      "date": "2026-04-28",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVmNUVTcxcmdsbDNSRTJtMEtqbDM1UVRwNF9FeVAya0RpazBOdVZaN203Z2J1aDBDSVZUX1N6YUY4dkdmRlp1ajZxc2E0VC1wNDhla0M0WWpaOEx6UnlsLURtRWFuTnhCMkgtX3FSQkNnLTVaVkdtTEdpMUZ5VDcyQlE4VnhzMmZhVzNfd0t0OA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "140e51d6a566e22764c008440e18dfd3",
+      "title": "Buenas noticias en el sector avícola: Argentina volvió a ser declarada libre de influenza aviar - Perfil",
+      "source": "Google News - Argentina",
+      "date": "2026-04-28",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa2ZwRGktUUhkZEF5bkdTVkdaSVFIMVlzZ0lUWXdyVERpc1R0ZzhhYkhCRmRRbFB6SFhtdm5WQ0Z2cG9scDhMaVV6ZGRwVXcxZnNxaXlNUzF6SmQ2OElNYlRRVWpjZ2Vta3JVZnc0Q3g0c21YY1FKcUtIZWhwa19lOTFfYkU5cE9BdDVnNXh2dVVoLXNLRndxMkQ3c1VrNHhNVHo3ZEhFUzlyeHpqellHa1ZLMmoySk1iUVdNLTJ4VlZoLWYtckFBWVBwZGdrZGFPZGFQOTA3ONIB3AFBVV95cUxQc2V5QlBJMFhTZkxoQXVNOEJaMjZnVklIN25Md2hnN3RIdmhtWnZLZ2x3aW9VRDZMYUxqVzJ5cnZqZnhyRDhubXVxX0VYWHdrT0gxSGIxNVVWRDNXWVlDT0NqbjZKYzVveDU2OWdWbHc2NHM4NG1VQ1lDVTI3NkF5RjJRaVpteDBpM3R5NEgtOEhtZVpUbnZyYTZqUWdXZnNPdndtUkQ1YzNPbmdOQXdVcXlIN3hNQlZydVpoOXQ5X1FfclJ1UGJ2d1BTTjBsWkU1NGdaeTNiTDNacnFj?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-28 14:14 UTC"
+  "last_updated": "2026-04-28 17:48 UTC"
 }
