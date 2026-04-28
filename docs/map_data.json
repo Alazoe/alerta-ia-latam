@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "1cb1e1fafba936c1950176976c57b825",
-      "title": "SAG confirma un nuevo caso de influenza aviar H5N1 en Chile - MSN",
-      "source": "Google News - Chile",
-      "date": "2026-03-19",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVnI0eTRWWHB3R3pKcmtWaGJ6SW9TNERXTzU1R1lDM0E3MWNSbG1WeHRCdG5mU3RYY2FXQU8xa2ZhZ3hJb1AyTElxSDN5MmYwRWNOeklXTXFSY01ianIzY1hjd3BKQ3B6VENiem90a2xFV3MxVzNqREVZOEJ6NmxnV0hsdGppVUo4aElDbUJMYXZocVFWVjhuQ2s1UVFBUUFycUNScTZYa05OMUE3bkcyTDJB?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "e1941a6c36b9e1bace41b9e6fa018a32",
-      "title": "Llaman a pequeños y medianos productores avícolas a reforzar medidas preventivas ante la reaparición de la influenza aviar en Chile - De Mar a Cordillera",
-      "source": "Google News - Chile",
-      "date": "2026-03-23",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOOGo0eTVhNmNWcmdNcmx1ZnpVQlJMa3RyWENmMHBGRXNmY3gwbFEzS3pLQTMxaDM2WEExRjhUTEZOT21WcHloVVRWajhmN0JCWlp6YWpiem9ITkt4bmRfODhqZTBleDFPZ3BDV0QwM1NzSUczQ3JxakZCT1oxRmM0VHdFRTNTVkNsN184eEE4SzVZb1FFcDZTZEVmbVNuWG1JQ21wRmFUdFFmZzZreFg4Yzd4MGk3WFoxMWhPSTlMdnNBQmFnejhRV1VxdGFfdVV5NVNuQVdUcUxHU2Nza0VPVkI4TEZRMDEyWjZyLU9jSFZKUFd3TGE5WnFLMjVPWTNvbThn?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "459f0458f1eecb97a695dad60676f21e",
-      "title": "SAG confirma primer caso de influenza aviar en un traspatio de La Araucanía y refuerza medidas para detección oportuna en todo el país - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-03-20",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWmhTTkZUVlY2VEdQaTdUSlUtOGtUSG5IdnVpQ2FCTTdhaEp1S0RIOXdKS3hYUmtpazhqOUtBb2JZb3ZmVTU4T0l4Y2xnaVhSTzNubnR6cy0tYlM1SU9iSkN5QUtoYm9yQ3FGdm9aZEFDeEVucE9uSGpFUHFDVV9qNjhvT3pFMFRxRVNqZjEwcDdHQkZFdVFlWUNjUjVEbU01U1Q3NzB6SnFBNFhxY1lCbVN6c0F3X2dwQ3VWcXU0WUhRMy16TDFXc2l4Tkt0Rm1xUUgyUE9lal85czZLdG9pZkZDT1BJVkRBM1pyUzRlaDExX2RVVUVrc0N3?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "48d968e1667d126e97c6cadba1304673",
       "title": "Detectan brote de influenza aviar en Colombia: explican qué pasará con el consumo de huevo y pollo - MSN",
       "source": "Google News - Colombia",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa2ZwRGktUUhkZEF5bkdTVkdaSVFIMVlzZ0lUWXdyVERpc1R0ZzhhYkhCRmRRbFB6SFhtdm5WQ0Z2cG9scDhMaVV6ZGRwVXcxZnNxaXlNUzF6SmQ2OElNYlRRVWpjZ2Vta3JVZnc0Q3g0c21YY1FKcUtIZWhwa19lOTFfYkU5cE9BdDVnNXh2dVVoLXNLRndxMkQ3c1VrNHhNVHo3ZEhFUzlyeHpqellHa1ZLMmoySk1iUVdNLTJ4VlZoLWYtckFBWVBwZGdrZGFPZGFQOTA3ONIB3AFBVV95cUxQc2V5QlBJMFhTZkxoQXVNOEJaMjZnVklIN25Md2hnN3RIdmhtWnZLZ2x3aW9VRDZMYUxqVzJ5cnZqZnhyRDhubXVxX0VYWHdrT0gxSGIxNVVWRDNXWVlDT0NqbjZKYzVveDU2OWdWbHc2NHM4NG1VQ1lDVTI3NkF5RjJRaVpteDBpM3R5NEgtOEhtZVpUbnZyYTZqUWdXZnNPdndtUkQ1YzNPbmdOQXdVcXlIN3hNQlZydVpoOXQ5X1FfclJ1UGJ2d1BTTjBsWkU1NGdaeTNiTDNacnFj?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "233f27a1355056076de7d9945696dec0",
+      "title": "Argentina se declara libre de influenza aviar y reactiva negociaciones para exportar - El Marplatense",
+      "source": "Google News - Argentina",
+      "date": "2026-04-28",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOXhNRy1FOVpmdUgzYnZiZlhNMW5ieGRwZXFxYVhaa29VUVRHZ3Zqdk51WXpYUUEtVkZranowUDhhNE44b0VWOEJ1RDMxdlBLT1loUnNiMndmejdLR2JQN1lmS2xBaGhVV05Ra0VIR0Zudk5ibi14Y2dyTlUzN1g3cU02bExjWmdqSzJlb1daZVc5MV9LSW1HbWVtZUhBQkFIRXpmWjBGRUxFMmM0YVREWVNScEI?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "771696e9a22d4d67f624e0f51849f3ab",
+      "title": "Argentina restituye su estatus de país libre de influenza aviar - Periódico MOTIVAR",
+      "source": "Google News - Argentina",
+      "date": "2026-04-28",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaF9KNllPMDBOX0xTcTNrV0hKVVVQOE9uZTgzOGQ1Vnp2ZWlpYzVvN2tXcHpoZzNRTUVUTUxhZF9PS3BxRXB3QmZabW5nTkNyek5MQlZVNE9OMUNHS1JVMEtsUy14MW1mMlpCVzliUERCT2NvMEY2QkhsN1otbW5xVlc2VzRFak5LZUk1bWFrd2ZoVTh6ZEczatIBngFBVV95cUxQcE9mbTd1SXlJbkpOX2VpQjI0ZFVWQ3M4SlFTcFNpN0ZDMTJUMWthNm5kV0lldTEzRlBuODdTZU1jaklSQ1RMX2lFQVBCWkJfeEkxU1F6WURKUHhManhRV19uQmlzNDFpLTdqcVBfR3FLVDEyTWdoajNKb2Z5bWkweDQ3MHhYMmNRRVpvTmhaYnAwMW8zVTBQZmNWY3J6Zw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "0ecccb23b24bf2f6f6654b1d4c88520d",
+      "title": "Argentina restituyó su estatus de país libre de influenza aviar - La Pirámide",
+      "source": "Google News - Argentina",
+      "date": "2026-04-28",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcDZySUdOc0xKU0Zvc1JfRTdvSTQzSU9idjRuMUFSWVJYRmE0NTlGeXRzeDBFV2Izcm5wNGUyQkZjcGdZamZfa1duSmRTemZNSGVUME5od250enRGN1NVcEpTRVdkQjdybGJIUlRBRG5BT0xzR0VBUG91d0NTajJJaFZjNTVSdXFDQXc0ZENLbEF3c183X2NabDVxUmJZcGFmb2t5VVc5LVUxWkZhRmR4aFp3SEQweFU5a1RhY0NR0gG-AUFVX3lxTE1wNnJJR05zTEpTRm9zUl9FN29JNDNJT2J2NG4xQVJZUlhGYTQ1OUZ5dHN4MEVXYjNybnA0ZTJCRmNwZ1lqZl9rV25KZFN6Zk1IZVQwTmh3bnR6dEY3U1VwSlNFV2RCN3JsYkhSVEFEbkFPTHNHRUFQb3V3Q1NqMkloVmM1NVJ1cUNBdzRkQ0tsQXdzXzdfY1psNXFSYllwYWZva3lVVzktVTFaRmFGZHhoWndIRDB4VTlrVGFjQ1E?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-28 17:48 UTC"
+  "last_updated": "2026-04-28 21:08 UTC"
 }
