@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "fbcb0176539d036a891411a0c8ec7789",
-      "title": "Ganadería declara emergencia sanitaria nacional por Influenza Aviar | Presidencia Uruguay - GUB.UY",
-      "source": "Google News - Uruguay",
-      "date": "2026-02-24",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONjN5OUswTGk4V0paUzl2UVViXy1PZGIwZEtQQ29wLVN1dF96ek1ScHh5ZzJWRm9ON0R0dVhEZGlqZHY2SEVrYXhJdXVqUUQzX3RQQ1FrOWpMNnZwdjQ0dFd4TG16YlM5YV9kUXRVYzc4ODBIRERCZUZ6T01HZG5zUi05Y24zWUNad2k1cmVnYVZ2R3dfUTFVY05nWlEtVnp2dXRlSzFZWWVfamJuZzlwWkJmaHowV00?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "0dcb9b59480d7b0a7bf7473bb0b8d029",
       "title": "Influenza aviar: prohíben importación de aves vivas y huevos desde Argentina - abc.com.py",
       "source": "Google News - Bolivia",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1ZBTnJlT2NQZXlQbE9HdFJZUm56R0tPYVhGX2YyOGFycWpyOVBJaDhiSjVfdXVwZUI2VnBDYWpXd3JCVzItcEVzVE9RZFNuaXRIdnV1M05fQ1IzLXh0dGlZWTkwLV82WUlMU0g5UFNTNU1Va3JYWHNVRXJQSkxuck5LLURENC12eThLU0xoQnBYUE1GUFAyaERDU1d3dHdtWlJJbDVQM0d4NmVoenJnVmxCT3NhR1hEcF9uRVkyLXpsUQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "b01408695a4cfe0118cfa2825b3bcc59",
+      "title": "Paraguay fortalece su preparación frente a la influenza aviar bajo el enfoque de Una Sola Salud - paho.org",
+      "source": "Google News - Paraguay",
+      "date": "2026-04-17",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNzI3WU42aXd4clR3X0hTZVZJTnZZMlZqZjJiR0hLZ2hjdnc0WTd4cFdDRlJ0VUZISkNOa2FhQ2VTLVp5U0NDenBFX19aa2piMWJkR1lzREFuLUxjQm94WHR3NUFSRE9pVWZFU213Y01ZSkI3blFHMjlYeHB0WWVGeVZ6UldRYklTT2hnMlFkWUYwdFYyVklOemRwTmEtS0pSN0N2Tkx0dnY0U1BMNE9QZjRrYTIxTXdTSDUwS29TWnE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-29 03:27 UTC"
+  "last_updated": "2026-04-29 06:25 UTC"
 }
