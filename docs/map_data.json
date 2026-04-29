@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "1049addc8dc209eb6d9ce9643d07759b",
-      "title": "SAG confirma caso de influenza aviar H5N1 en aves silvestres en la región de Valparaíso - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-03-04",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONnhhMFI4cWlOcmM1VzdzUE9WamRBa1FZTVVkUXp6c1EwYmszdXpueUtpaUxMQm5pcU5OOHZqTDU4RTVHaFRveVpRRW9hMjlJdkNLRWFRVU9XSWVJOUNWcDVhQWcyc1RXcnV1UGdHOWpxbnpfZmkyZ3FZNkJUd28zc1dIQmZZRFYydnVPbHhVc05RQU1oYVZCRGhhaW5IcXl2SEZGb25qaE9MNWE3TmFSUEhDcTROY3hubHc?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "8c4ececfac566cbf9a399fb1b1e49d47",
       "title": "Influenza Aviar en Chile: Vigilancia, Prevención y Respuesta Coordinada - avinews.com",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMUFaR0drVGNqT3Z2WTQ1NHVlZTZkUjhOVFU2VnJBQTNLVUhndGlBNjFPVUhNbFczUl9nalZOdV83X3lUdWFHaGxqRGxCcDk0MmRaX3R1cU5aZXlwUFQ3dTFMX0YwTEJBWFNwZ1d6UUlFZDNLTmpUa3EzN2daRXRFQVBvdXRWbUpiT2c?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "4c54f78d7d25bd2dc5f0db45301937cf",
+      "title": "SAG confirma dos casos de influenza aviar H5N1 en aves de traspatio de la región de O’Higgins - Home | SAG",
+      "source": "Google News - Chile",
+      "date": "2026-03-14",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLUFTd3lyNE5uN1dSaFNDaXlwSU1LVEQ4cDM4R1F5Zkd6NFIyTVhrc1A5Wk5HczFCaFoxX1g5SUE3MVVWTXQwdzBiTVRQQjRsbGlZODZCNnI5T0otTnJSdnBYQkVBeE5ubk5uRS12OGtrSTVCQ3d2X3VYalBkdm5vQUJPWmo5ZnRNWTdtMDlLWFJhQ3BPeFM3bVBfN3JPRGtUTXpxZXFyMjhwNHZPbnp0WFJQNnVyeTk5SXQzajRubXE?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-04-29 17:41 UTC"
+  "last_updated": "2026-04-29 21:08 UTC"
 }
