@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "235686d75df506782433f3b9a6d11360",
-      "title": "Alerta por influenza aviar: SAG confirma nuevos casos en Magallanes y Maule - Radio Agricultura",
-      "source": "Google News - Chile",
-      "date": "2026-03-23",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZDRqMzFNdVYwc2c4c1hYOXpUM09tS0ExRm1hRS0walJZaHNnY0RNWE96WURsalFrei03Zm1QbTlYSEhES1lxcDV0c24tSVhZUV9mTUx4R0lHR216WGVELUI2UHZfM0Z6aGI1a0IzSHJXVHY2Sl9yTlFkbGZPTGRrQ21venJwRzZRSHNMZVZOcnlGeFZTbHl1X00zWC1IY3JTUG5zX1k3Mmc2V0EwVFVmQlBjeUdEOFhKZ1hxZjl1dTVHRXZVVklxOHliSXRvbkU?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "d7e21b3fa5c6a581c1d4b09676a793aa",
-      "title": "Caso confirmado de influenza aviar en Chile: Epidemióloga explica el riesgo en nuestro país - elobservatodo.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-24",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWVk2cVdvZHB6Z3ZJTGRyX3paeGVMRkVuUnpweVhrbWwzMVFYLTduTnFZOXhTX0dDTG11MlZWWFhwNFdMVXZLYVVGVG1CTWk0Yzk4VWYyMXRJTzNtRTFHV0ZJLWhqZFpkODNRWFAwZjVublNzQVBOdUxGSEZUSlg3OGdaZVlNYXdyNHFiSlAwcFd1OXJPQUZ0cmZGMEl4d29KaGpiWmd5b2ttU0Fyanl4OVR1SEhmQUNUOGg1WjBtZmwxVl9fME5FVw?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "1049addc8dc209eb6d9ce9643d07759b",
       "title": "SAG confirma caso de influenza aviar H5N1 en aves silvestres en la región de Valparaíso - Home | SAG",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRW14d2dQVkFfa3pEZzI1eXNDVlk3TFJyZWVQd2F1SEJoYUV3Y2V2Qi1wUURnNEFlQ2ExSkJSRzlicVBiQzBfUnhVVkVNc0RGV3hYX0ZTWENiQ3BCTEVEQ1dzTG5ja1BUV2F0Rmlqbkt0Vm1uSG1mc2xKR0pCWjQ1N1FpVnZFUkNmRWZueDV5VWtQMXFnU3k1VzJhTFllWEMxZDBWaWFMWXd4b1BSRnNaNmtTR3rSAbQBQVVfeXFMT0VteHdnUFZBX2t6RGcyNXlzQ1ZZN0xScmVlUHdhdUhCaGFFd2NldkItcFFEZzRBZUNhMUpCUkc5YnFQYkMwX1J4VVZFTXNERld4WF9GU1hDYkNwQkxFRENXc0xuY2tQVFdhdEZpam5LdFZtbkhtZnNsSkdKQlo0NTdRaVZ2RVJDZkVmbng1eVVrUDFxZ1N5NVcyYUxZZVhDMWQwVmlhTFl3eG9QUkZzWjZrU0d6?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "2930253883eaffabd70037f84161df41",
+      "title": "Argentina vuelve a ser libre de influenza aviar y busca reactivar exportaciones clave - Agroempresario.com",
+      "source": "Google News - Argentina",
+      "date": "2026-04-29",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPREVIMzR2QkJZQVpuMmpmTFJZdkRnRVdrMFJoZnVsT3oxb3RYX1ZzQTZYWUFlSXoxVXl4VFRKaVRJLTJtdnVQZXY4Z0x6Y1hvTTlQSmNHTm9aUFdReHV3bFFmbmhTb3RVOU1jZUxxUi1NclJYVlJ5dG5oZ3NPMi1UWktOYW1BQUZZSDRucWhMNEVVVFl5NmUyWFF0SHJyREVqM0xZVnNWdjRCLV9BclU4ZzRNMUV0MFUzOU9OTGxabGV0XzdoM2JPT0VkTUEtbXpBVVpF?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "0839b5023a822be196287eee3c575142",
+      "title": "Argentina recuperó el estatus de país libre de influenza aviar y reactiva exportaciones avícolas - Ruralnet",
+      "source": "Google News - Argentina",
+      "date": "2026-04-29",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMUFaR0drVGNqT3Z2WTQ1NHVlZTZkUjhOVFU2VnJBQTNLVUhndGlBNjFPVUhNbFczUl9nalZOdV83X3lUdWFHaGxqRGxCcDk0MmRaX3R1cU5aZXlwUFQ3dTFMX0YwTEJBWFNwZ1d6UUlFZDNLTmpUa3EzN2daRXRFQVBvdXRWbUpiT2c?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-29 14:03 UTC"
+  "last_updated": "2026-04-29 17:41 UTC"
 }
