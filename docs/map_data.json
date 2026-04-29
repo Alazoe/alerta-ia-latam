@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "48d968e1667d126e97c6cadba1304673",
-      "title": "Detectan brote de influenza aviar en Colombia: explican qué pasará con el consumo de huevo y pollo - MSN",
-      "source": "Google News - Colombia",
-      "date": "2026-03-23",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMGt3Q0p0d0dQTlNyWVVSdk1NUGlqRUVZUjFMaGthRndSOG5BanNUUXJEV2VsaWdVT1ZKU0F0eE9oT05vVm8zMnZCV0NxdGZ5RVBRZTJDTUxvLWlSdU83cDl2WG5DRmtjWW5VeDFodmk3Q3VGTGRsTmNNUURfTzlkSDIwdndwcno0M0dtMTZ2T0ZFdXFqT2lfckJYOVV2SXNTUEExNXlmS3cyUDRpbU5CaFF2YllGbnVfbzFwOXI3RUZSWTMxQ3Jza3BMX3lqRFE0QmNQT2hpMWlXYzlETzRrd1ZxSHJzZDY0VzVOSERsNDAtOFNSekE?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "fbcb0176539d036a891411a0c8ec7789",
       "title": "Ganadería declara emergencia sanitaria nacional por Influenza Aviar | Presidencia Uruguay - GUB.UY",
       "source": "Google News - Uruguay",
@@ -2389,18 +2377,6 @@
       "color": "#ea580c"
     },
     {
-      "id": "470dad6c22b95a10cff659f0bd6cdb93",
-      "title": "Aparece primer caso humano de influenza aviar en México ¿Qué hacer? - RÉCORD",
-      "source": "Google News - México",
-      "date": "2026-01-29",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ0JvWkdJR1llcXdUMXNqMUs2N0p2bXRNWHBWYXdFaUhaZlk2b1M5dW03RHNlQXZJc3FnejZBTE1adFZCUi02ZXF6RmctU0o5S1dNTGRoTmhtRC1zRnJaVlJ1dENZbHU5NHJacDdhSjFaOTNEbXg4QjZmX2RHN0VVWnFiTThFV0J5N2ZMXzJQSTFGRDA1NzlTVXBCeXp1LTEycTNzZGluQmN0SnotZjRWbWtjZnhTMHM0QnFQSQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "ac4a80afde212bfdff133dec47ce2d97",
       "title": "SAG Biobío realiza monitoreo de influenza aviar en aves de traspatios - Portal Agro Chile",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcDZySUdOc0xKU0Zvc1JfRTdvSTQzSU9idjRuMUFSWVJYRmE0NTlGeXRzeDBFV2Izcm5wNGUyQkZjcGdZamZfa1duSmRTemZNSGVUME5od250enRGN1NVcEpTRVdkQjdybGJIUlRBRG5BT0xzR0VBUG91d0NTajJJaFZjNTVSdXFDQXc0ZENLbEF3c183X2NabDVxUmJZcGFmb2t5VVc5LVUxWkZhRmR4aFp3SEQweFU5a1RhY0NR0gG-AUFVX3lxTE1wNnJJR05zTEpTRm9zUl9FN29JNDNJT2J2NG4xQVJZUlhGYTQ1OUZ5dHN4MEVXYjNybnA0ZTJCRmNwZ1lqZl9rV25KZFN6Zk1IZVQwTmh3bnR6dEY3U1VwSlNFV2RCN3JsYkhSVEFEbkFPTHNHRUFQb3V3Q1NqMkloVmM1NVJ1cUNBdzRkQ0tsQXdzXzdfY1psNXFSYllwYWZva3lVVzktVTFaRmFGZHhoWndIRDB4VTlrVGFjQ1E?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "f47364a5afce8f064af0c45122cff570",
+      "title": "Especialista analiza consecuencias del brote de influenza aviar en Chile - El Tipógrafo",
+      "source": "Google News - Chile",
+      "date": "2026-04-28",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM3BaQ3hlQnNyTjlrVkcxWUdjV3p2V2VjSVo1dnBTRm5CcHMyckxHTDJWYnNyWkFSeThSN3ZLeFhIMUlZVkltc2o5RzRQNUc3VUgzYlZPWWRxZmpTRC1oX2JrMDk0eUw5Wi1HcXA5RHh5cmtrRnpXcWpxUHVBd090bnNQUGdMN3FzemdvNGYxMWgyY19OS1hkTm5MV2d4QVBTVUFxSFVn?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "6cf1020061433c3483bf78c306441fda",
+      "title": "Argentina recupera su estatus de país libre de Influenza Aviar Altamente Patógena - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-04-28",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1ZBTnJlT2NQZXlQbE9HdFJZUm56R0tPYVhGX2YyOGFycWpyOVBJaDhiSjVfdXVwZUI2VnBDYWpXd3JCVzItcEVzVE9RZFNuaXRIdnV1M05fQ1IzLXh0dGlZWTkwLV82WUlMU0g5UFNTNU1Va3JYWHNVRXJQSkxuck5LLURENC12eThLU0xoQnBYUE1GUFAyaERDU1d3dHdtWlJJbDVQM0d4NmVoenJnVmxCT3NhR1hEcF9uRVkyLXpsUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-28 21:08 UTC"
+  "last_updated": "2026-04-29 03:27 UTC"
 }
