@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "ec7666e651347411b4c7d95ec08a4e19",
-      "title": "Influenza aviar y contrabando presionan al sector avícola - abc.com.py",
-      "source": "Google News - Paraguay",
-      "date": "2026-02-26",
-      "country": "Paraguay",
-      "lat": -23.4425,
-      "lng": -58.4438,
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcFdiTWhsTlFuX0pKZGNrZm1YMUtrb05ZWC1kQ2gtTEpoOHY4c1FYNm1aajRmWkx5dTRVcVBxdGlRX2tiREhqYngteHpYUGpGWnhrem9WVk1SUEZjZ0E1MTFxOF9zMFkwcEdMRVE3QXhLYm5FdVpqcElaclVlV0dZRmZNZURlaGV0RHdUODVkWFplUFpzc2k4czF2ZU9WTks5d0lYYkxBNzBVRU10WV82RzVjQjNNd0hpemxYeWc5R1gzM2lNeG5BamZabzhIUkVSS0REc09SYlNPNFHSAe8BQVVfeXFMUHo2VXRxbHF2UTkzT3lTMk0tSkE5dU5PYklpdlRXSWRpZGVhdkk2VjNIVmh3TUZjQ1NaQzlOQmZLSzdTYTNoUjMwcmRWcHlRZ2x4djFrczljTTNaZllaU2pMQ3R3MFRoX2ZfcXh6d1h0T1VnVTVyWmxnU0swVmliOXhGNmktRC1EOFV0MTdjTUhTbEhuQThhWlJ2NUQzT0JUOXAtaHRrNWJaTV9Hakp5RDBvS1gxMmdYbk9QRDFYTXZRdlRGN0RVZ2dhRmxBTG9oakYtYVEzUVhVTVBzckR3QUlCdmNCc1NXS29mTzJBLTQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "c39d1144bbcf569c60d4b49b65e747c4",
-      "title": "SAG confirma nuevos casos de influenza aviar en traspatios en Magallanes y Maule y refuerza llamado a la prevención - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-03-23",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQY0RGd042ekMzZkJIdEZWOFVRN2RGVjhMZS1wcGVFUjZSVkxnSlZxbFVMQmlUY2lFLXNKSU5ydHF4azFTLU81NjJuQzNEM2JTX0QtWUhLSmtsVEhnWGtGUEg4Z3BqRU1wd0hETFJCa0RvaE5aQnM1aEpra0ItT05VZ0t1Z1ZUS1Jtc19BQXV1QXdzb01UQ0QzbTduZ2ZYcHlZakJkRWpWSE9aN3ZsRktNc3dBT3RpRmlEQ2syMWpDSURoS0xkR0E4MEdhQjRINTN5cE1iQjBDeE9YQmpac0VHM2xIQ05hZ25pWnROcnZUQQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "235686d75df506782433f3b9a6d11360",
       "title": "Alerta por influenza aviar: SAG confirma nuevos casos en Magallanes y Maule - Radio Agricultura",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb3E0SEJBczlraktTWldUTWFlTV82Y3RNX2MtYW9McVpfbFNSdHM5V2NHelFia2tNQkxfNVNtZmhZSXh4emJNZUF6Sm15bjFfcVpJQmtxdjhWYkk4a0xlVFVDbHBwTFRkenl1WE93b0E4NXZ2ZnhaLXJxcG1lOEFTOExfV0lYMk5aTVJ5OC1aejFXZFNKM0VWVlhwTG1tQkZKR1BNclpjVzNLTE1EYlI5bFFielZPb2pKcHhlZjhB?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "4769c92ac072f66f8da4a493267277eb",
+      "title": "SAG confirma un nuevo caso de influenza aviar H5N1 en Chile - MSN",
+      "source": "Google News - Chile",
+      "date": "2026-04-28",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQclhMZU9EWll5MkR6SXA3QUt1UHVuN2pHQkhtRHRfbE9LNXQ4Q1VGaHBHdzg5OGNLZGlsbE9nZFA3YVk3S1FVVWpUV0hLbktsOU42WXBuS09tN1Zlak5QeDRBa0VsNXl1Zi1tTUt0eW1KWFBxYzNhQ3o2WVByaERaWDlKbndsZ2R1VVBlYy1XbElyUjZQdkhwelU2NWIzMHI5UEQ3QlktYmVVZVMwWWRqU3A3NFN5YVAzZVZNd0JiTFIzMFpuNGNuaEJLVWNmeVRocXJWRGNOdTRtTmpodjQwR25KUEdPeWxtN2F3SlB5dEpQTlFpSkRyQVkzV3JCUjF6cUtlbzhBRlkySDV1aEJPanhGZTZhZDFiSkI4VUU5TTVNcDItR3Y1TFU4SE4zUjRueDAteVNCYUdrNENmVjd1M1Z3cVQyZkRMZk55RmktSVlNU01aMUc5b2k2dEdleDdqall1aTZn?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "8fca3bfdae8631ef5c740be0c0038494",
+      "title": "Argentina recupera el estatus de país libre de influenza aviar - CdeComunicacion.es",
+      "source": "Google News - Argentina",
+      "date": "2026-04-29",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRW14d2dQVkFfa3pEZzI1eXNDVlk3TFJyZWVQd2F1SEJoYUV3Y2V2Qi1wUURnNEFlQ2ExSkJSRzlicVBiQzBfUnhVVkVNc0RGV3hYX0ZTWENiQ3BCTEVEQ1dzTG5ja1BUV2F0Rmlqbkt0Vm1uSG1mc2xKR0pCWjQ1N1FpVnZFUkNmRWZueDV5VWtQMXFnU3k1VzJhTFllWEMxZDBWaWFMWXd4b1BSRnNaNmtTR3rSAbQBQVVfeXFMT0VteHdnUFZBX2t6RGcyNXlzQ1ZZN0xScmVlUHdhdUhCaGFFd2NldkItcFFEZzRBZUNhMUpCUkc5YnFQYkMwX1J4VVZFTXNERld4WF9GU1hDYkNwQkxFRENXc0xuY2tQVFdhdEZpam5LdFZtbkhtZnNsSkdKQlo0NTdRaVZ2RVJDZkVmbng1eVVrUDFxZ1N5NVcyYUxZZVhDMWQwVmlhTFl3eG9QUkZzWjZrU0d6?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-29 10:08 UTC"
+  "last_updated": "2026-04-29 14:03 UTC"
 }
