@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "0dcb9b59480d7b0a7bf7473bb0b8d029",
-      "title": "Influenza aviar: prohíben importación de aves vivas y huevos desde Argentina - abc.com.py",
-      "source": "Google News - Bolivia",
-      "date": "2026-02-25",
-      "country": "Bolivia",
-      "lat": -16.2902,
-      "lng": -63.5887,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSm1jWkttcGdkLXdTOUczSUYyODhvVmhqLWNRNnBTck9vazJiUVQ4SnAtc2k2QVozVmE0cTREREZJTG1WM3RKWTFrOFM0WGJIcVp6SndFVEFSeWxqLWVER2x0UGRrUlVnUFlGaGd5VC1qSElrVmVkUWtPYkdnbFVfZUNsdGhsSHVCSG5kT3dzZWF5R3RDVUFLXzRWbThVeXc2b1ZycU1QcHZycjVEU2xhZ1RnSzRxaGFtdjFfQm5R0gHSAUFVX3lxTFAxVFdnRnVDLXFFMjktUVBHR1p1clZaczZDaktIRHlDZ3YzcHlrVnQ1MkYzN3BjbHJoYmd2c2U5TEZucWl1NjhwWUZwclNnRlUxc0tmOHctWmRTTWd5QkRwM1JiSW9KcHpOa1lGUjNEaFB6UGw2NjRTSW1yVjEwRkgyeUNaZl8zWm5MV0ZONGVaWXM1S3M4cHotdUVZVFliNnl5SXFoWFhnb1dzSXdLem9abHFkTlcweEl2RUxkVk1ORWlkX3JqRkJSQy1pWHlfOTZMQQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "96bb574a50e192dea9eaff94da56d2b3",
-      "title": "El riesgo de la influenza aviar mantiene en alerta a Paraguay - abc.com.py",
-      "source": "Google News - Paraguay",
-      "date": "2026-02-24",
-      "country": "Paraguay",
-      "lat": -23.4425,
-      "lng": -58.4438,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaW9ib3oxQVdTZ0pSQ0RJVUlhNS1QWDkxLTNSZWJ6bW5tUzBReDNKaDhGODVtRHhrbl9jak5JTkNlM2lOZUtMMFZ3Si1Zbm5jeUJmRXJQVEJTVHZxVjJaOFhYUVVJdkhCelVWRTVHY0lzU2Y5alNGbXBoNUhtOTViYTRacWhqZXBTcGluXzZLQ3N3QU4ycUFycFhWZG5OVVgtdjVoUkFESlpma0llOGRTbGNFbVU1VlnSAcsBQVVfeXFMT0EybmxHaUJQa2NmMWdEUEpDTlRqOXd6Um40TklyLUJwOGxkRV9ZQ1Y1R2R1WWtfdjFQLXFqemhhVWRURzVkaVVGeEQzdGZET0tGM0dGbUdwMXNSWTJfYjZwMlo2NWJUaTdHRVFrel9vZFd2bUJibjh2dHhiZnlJUWhNR1phOEZFX2YtMF9xQUZ1WDl2MEZwbjFQZEQ1NWliVkZrV2dTWEFGVndBN2VRLTR3a011dU1tVXFwUjl1SGZUdXFvYXpFMEhaYnM?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "ec7666e651347411b4c7d95ec08a4e19",
       "title": "Influenza aviar y contrabando presionan al sector avícola - abc.com.py",
       "source": "Google News - Paraguay",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNzI3WU42aXd4clR3X0hTZVZJTnZZMlZqZjJiR0hLZ2hjdnc0WTd4cFdDRlJ0VUZISkNOa2FhQ2VTLVp5U0NDenBFX19aa2piMWJkR1lzREFuLUxjQm94WHR3NUFSRE9pVWZFU213Y01ZSkI3blFHMjlYeHB0WWVGeVZ6UldRYklTT2hnMlFkWUYwdFYyVklOemRwTmEtS0pSN0N2Tkx0dnY0U1BMNE9QZjRrYTIxTXdTSDUwS29TWnE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "3d3bd9d17770d3fb60f66c3b8749f7bc",
+      "title": "Brote de influenza aviar: SAG aclara suspensión de exportaciones a China y descarta aviso de destrucción de productos - MSN",
+      "source": "Google News - Chile",
+      "date": "2026-04-27",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxQdjRGWnlMeHFCMGhXVXBBNTNzTjRIUTMxRXVZNFBKU0NCUlQweWpNRHV2bHhLelZ3QlNIWE0yNlI1d0dpR2c4XzNGS29uVzNKQ1RYcTRGZzlQSUFwQlI1aHg4VnROVkh2R1RZSzRlaEVBZE1sRExMWUI2VUtPakU3Y3h0eXpNNjBNMXVLRl9WcHl1SXJKMVQ3VTNTOEpPcDdMWlBiTkpyeHRXaUlUaTBtbDB2ZG04ZUVxMEE2V0hJazRvaTQtdE5RQ09WX2VJMGJFRUFnazBhczNIVk9aSVI0ZVF6MTMwb2tlWDdteVViY1NFdzRBRkduS1N5cWYtOG5rbV82YUhUeExMMTFsV2U3UjhwZTlrcmRPOW5WSFZfNFpLdVZJTjU5X3pZSE11V3J4U3lYWlpXcFd4eENZVnFpZEtoSzA2R05Jb2lBMW93a2lMa3c4aWpoVFdKUGVFTndxd3NZSVlmVUxoZkhZQThoN3BIclRJd1dTc0dSM1BtWkVBUEp1MHU5RVE2WUV5ejJIZlRCTkJhN1JNaC0wRnU1bHhFTnFRSENObEtRdTVyTW81anVtVVhXcFJ0RDliWWJaMmRDUnFrVHZUS040TjJUUXVCNXo4NHViLXlkSU5EZk5JanVGeTVOQy1CSU14bVotangycEpDa19LWGxxb0JDNg?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "752f30ec4031d765e3b3f6419d22b758",
+      "title": "Influenza aviar en Colombia: ¿Se puede consumir pollo y huevo? - RCN Radio",
+      "source": "Google News - Colombia",
+      "date": "2026-03-11",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb3E0SEJBczlraktTWldUTWFlTV82Y3RNX2MtYW9McVpfbFNSdHM5V2NHelFia2tNQkxfNVNtZmhZSXh4emJNZUF6Sm15bjFfcVpJQmtxdjhWYkk4a0xlVFVDbHBwTFRkenl1WE93b0E4NXZ2ZnhaLXJxcG1lOEFTOExfV0lYMk5aTVJ5OC1aejFXZFNKM0VWVlhwTG1tQkZKR1BNclpjVzNLTE1EYlI5bFFielZPb2pKcHhlZjhB?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-29 06:25 UTC"
+  "last_updated": "2026-04-29 10:08 UTC"
 }
