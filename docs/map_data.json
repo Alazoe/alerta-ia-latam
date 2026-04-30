@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "8c4ececfac566cbf9a399fb1b1e49d47",
-      "title": "Influenza Aviar en Chile: Vigilancia, Prevención y Respuesta Coordinada - avinews.com",
-      "source": "Google News - Chile",
-      "date": "2026-03-23",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbWlGaF94LXNYeWtPM0ZQNHBkY0IzZGJ4cXZseG5UaXhqeHlZUFlQaFVCRGwyVXQxNXNMMEFiZXI5clZBVUEwZWJLMmxmZ3EzQ29rc0tiSjZ4bUY0eXUxcTg4dkNlcjdsVG5vUmZtZm4wVkZYZ1VnNDhXcG1aVW1CSTRYN3BwN1VOOVVjSkdVbHpzQW51?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "7f36eb8443e8a2bbe9718893707e1c1a",
-      "title": "SAG confirma nuevos casos de influenza aviar en las regiones del Maule y Magallanes - 24horas",
-      "source": "Google News - Chile",
-      "date": "2026-03-24",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRTEyRnEzTGhhMF9qdlh4VlRQN2EtMVRpZmpGdkRTRTBwWXRWQk9JRzBEeVFILUJweVNSVkI5V0tnRjkxSzdoMG5NWjBQcHI4U3I0dVpZNDRYMGlPSlR6M09uVFdjYWlGa2RzMHVxVUVTV1BvOXBSX3Myd3AwNXhGMGg4YXRmUFNSaWM1SEVOVk1vX1RpcmtNa3M2UV93Yld6RGhJVlRsLWxpcjZYSHlBZXNyeDVpNEV3MzFIdXVuejVHUHRP0gHKAUFVX3lxTE9fM09OLWVIb21CYjMwaVNDa292OXcwb0huazY0X1c5UkVVTjA5WktoQWlPZW9MczBhQTVDbl8yNzRBQ2FMMVNLd0k1SVFOT3FnWlN4UFhldnhadm93dDRmb0xjY0VoMDJ3aDFnNnpxVFlwSnUwa0o2X21YYVRaNjduQ2lzckp5a25hOHJvQXJjNTNLMHlPckFZYUYwSUNKYXJONU1fR2hrZGJLSUMzbzRyN2FlM2JPSTdkUUtrWnotRmV3dHJRaGItd1E?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "bcd60ced7595eb3f99e2c2c1c0f3c8d4",
       "title": "Confirman nuevos casos de influenza aviar en las regiones de Magallanes y el Maule - reporteagricola.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLUFTd3lyNE5uN1dSaFNDaXlwSU1LVEQ4cDM4R1F5Zkd6NFIyTVhrc1A5Wk5HczFCaFoxX1g5SUE3MVVWTXQwdzBiTVRQQjRsbGlZODZCNnI5T0otTnJSdnBYQkVBeE5ubk5uRS12OGtrSTVCQ3d2X3VYalBkdm5vQUJPWmo5ZnRNWTdtMDlLWFJhQ3BPeFM3bVBfN3JPRGtUTXpxZXFyMjhwNHZPbnp0WFJQNnVyeTk5SXQzajRubXE?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
+    },
+    {
+      "id": "c64f2ceb17876234a1af5282e852c308",
+      "title": "Influenza aviar y comercio exterior: claves para entender el impacto en la industria chilena - G5noticias",
+      "source": "Google News - Chile",
+      "date": "2026-04-30",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYVNMQ0R2M2ttZzRnU2dpNFQ0MWdPZXpsRFIwZzlHUDE3LUpOMkctaHg4UVNQN0tQd01OYXZpdVhlT0Njak1Dc0Z2UXhDTGFXTXlpVERhX3V0YVI2b1ZPQ1BrZXBFTFpFSkZiMVExYmt5MXJqMDRCeEJsZlozeWdGNXUzYWdqRHN5enVKRUZkX1NNaXBqdzZrSF9fNlFicUZLN3pDLTByejVwNU42WEIyY3Ezajk5a3pjMGJSNmRKb3dxa0U?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "5dfe23477cfa35a2809bc7177577d930",
+      "title": "Argentina recupera su estatus sanitario y es declarada libre de influenza aviar H5N1 - MAP Global Media",
+      "source": "Google News - Argentina",
+      "date": "2026-04-30",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSWJOeUs1aFpINmdVYzE5eDdoa05zWGFlcFQyeEl0bnd0X3RmUUVPNWdBM2FUcEJCWTlfaGFGWFc2eGFXaExwT0k3Q1B4aHMwZVBsSWMzYXJhd2JMSmM2akhpY2pJUTFSeUY1UEJHUVczQzFuQy1nSzNhY2F5bm1XeDR3ZkU3LUwzbHA3c2h2cjhjZzRsX1lYUDhSZl9wTDBLUlJqWUp2bVlLR2Q4dUlWSmV4Yk8zUVVLdTFaLVRzQ04?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-04-30 10:08 UTC"
+  "last_updated": "2026-04-30 14:02 UTC"
 }
