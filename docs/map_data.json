@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "c31cb45844b0002098411fd40ed0200c",
-      "title": "SAG CONFIRMA NUEVOS CASOS DE INFLUENZA AVIAR EN TRASPATIOS EN MAGALLANES Y MAULE Y REFUERZA LLAMADO A LA PREVENCIÓN - Radio Polar",
-      "source": "Google News - Chile",
-      "date": "2026-03-24",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQkxpMlVCMVNmNk01eHhTWTJaWjQ2ZmRjaVdFd1JySlBPMGh1VEVQZGVyVkpiXzllTnNjcmUzZ2NqM29UaVpuVkUxMFBVZVk1UVN4ZjI4YW5fNVRpQUh4TElOLUJaQkoyQ0Y4TWU5MXVsM3M4ekROLTVvN0J0N05YTFJ2RUt3SFJJWWlBTlUySmxkZWZCY2l6QkxCTU1GQ2k5cV9kLTJLaU8zZ042NGVkTGNVWmhfbXFv?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "d041acde2d6c19cc46a93d5c612f9482",
       "title": "Influenza aviar a las puertas de la Región del Biobío: Decretan alerta preventiva en la Araucanía - sabes.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLVAxQlBLWlg4dlY2SlFrSWFGYTlwTmNmbVlaOUsxT0N2R0l4OTR0TkZxbF80VWFpWHZLVmpDajJyUVYyalVzQUZoeGZOSXpkdjlVQjBtSUpQdURKdXVTdG5yZW10MVFNWkl5WGMyZVZSOFpMOTRxQmdJcV9IY0FUY1RFNzNDS05hUEhEMG1JWWUzUDAzandHWkNTQWNwN2NfRU50X0RjaU85dEszb0dTcWc0SGN0SlNWMjhVNnZTNA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "76867b94c83d34a75fb4380c776ae8fe",
+      "title": "Argentina recuperó el estatus libre de influenza aviar - LA17",
+      "source": "Google News - Argentina",
+      "date": "2026-05-01",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUVCWmVsemxiMmhlTzFJMlFBSHlPZVhiRWZrZjR0M2FVUHcxdk54WU5nai1xeEdPUFZIMkJMRkZUS2ExUnBsMi1QVHdLczJYZV8xUkItMUpaWE9sMFRpT3dOMEE5N016VFdJdEJjY1NnN1BvekZGNzJUUldoM3dKbnVRWWxONWRidzFRenEwSkZMZVpXTWlZdjRDWUJkZklSWEdvX01QcUxGVGRyNF85YkprcTU?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-01 16:59 UTC"
+  "last_updated": "2026-05-01 20:55 UTC"
 }
