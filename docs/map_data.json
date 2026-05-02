@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "aa6284c233366b6f9fceeab9cd7cce7d",
-      "title": "SAG confirma nuevos casos de influenza aviar en traspatios en Magallanes y Maule y refuerza llamado a la prevención - Mestizos Magazine",
-      "source": "Google News - Chile",
-      "date": "2026-03-24",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNaUtjR0xiYUdNWTJnNWQtbVgxd1kxbG8xR2Q3dVVpRlA5ZnVJR0RSUXFMUGxjYloyMWFLVUpLN1R5ZmV5Qm1QTTdveXltQ2JTeDFnYi13QU9hbC1tRDVQNlN2OWVPeV9BaktlYUlaNmwyVGdCZTBPeFNFTkx5eTFxNmxHSXpEMXRJeDQ3QzZGSzg3SUJzYTR5a2YweTNEcUxaS1BQbjVHWXBqNl82TFdGLUtzUUsxLTRxczZ4N24tcWU1Z000SFpsbzVnSjgyWjROQUJEZXdGakQxamZXRmo4a2hUWWdFZnEzZUtBQ3hEV09nbjBaTVNaeTNhdXM0cTRHMEgtdWdKOXJqT03SAYsCQVVfeXFMTWlLY0dMYmFHTVkyZzVkLW1YMXdZMWxvMUdkN3VVaUZQOWZ1SUdEUlFxTFBsY2JaMjFhS1VKSzdUeWZleUJtUE03b3l5bUNiU3gxZ2Itd0FPYWwtbUQ1UDZTdjllT3lfQWpLZWFJWjZsMlRnQmUwT3hTRU5MeXkxcTZsR0l6RDF0SXg0N0M2Rks4N0lCc2E0eWtmMHkzRHFMWktQUG41R1lwajZfNkxXRi1Lc1FLMS00cXM2eDduLXFlNWdNNEhabG81Z0o4Mlo0TkFCRGV3RmpEMWpmV0ZqOGtoVFlnRWZxM2VLQUN4RFdPZ24wWk1TWnkzYXVzNHE0RzBILXVnSjlyak9N?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "ddf5333b502c23b76dc663d849572c8d",
-      "title": "Investigadora UOH entrega recomendaciones a productores avícolas ante reaparición de la influenza aviar en Chile - Universidad de O'Higgins",
-      "source": "Google News - Chile",
-      "date": "2026-03-23",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUFlGSU9KMFV1SFRTUUMtdWoyTVF3amZkMm5UcHI1UXBXR0RIRlgza1JhQTFCX3hCTkJaYlJvdTdhVEF0Q1pwdjZMQUxlS2lLM1dsX2RxQldaQTZRbk1xSjZQM2p1WjNVWEpxaXYzX09rUVJpQXo3c2FJeUlYUUMzMlc1WkxrT2FXcm45bmU1NkxfS25uU0FYUzFjLUdPRUtuU2xrd2JxLTREa3RQR0pfV1I1YXlXa0U5RDFXTWFiZndPN0dXbE9IZWNnRmo?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "4199a84eaf4aba9c52ff0d86c498e33d",
       "title": "México suspende importaciones avícolas de Brasil; confirman presencia de influenza aviar en esa nación - MSN",
       "source": "Google News - Brasil",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSm1KZTVGWXNwbTZscXVKSDRUeWtBTjB0ZHlMSDZDalUyaUxjOFlneWVfZzNyc0RsTVZ2VjhZQ2R2cDZ6VzFFOXJhX0ZyRkliT20wOTZqNEJUUFZpV1JKUS1oWUJLZktjc0wtN2YybTJMbmVaUmE4bjJ4TjVWMjN0VUxxVTdZcEdsVFp4VDRuNUdvNEhvOU1RNC1PV2E0QmswajhnM1NJQngwQnV2ZmEzTDYwendEejE5dTdhUEJNQjVGcGVVZ2M0QS10OHoyS0M3SlIzSHZnWTB0Yy1p?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "0542c60bb99b0b8e01f8ed353c5302cf",
+      "title": "Brote de influenza aviar: SAG aclara suspensión de exportaciones a China y descarta aviso de destrucción de productos - MSN",
+      "source": "Google News - Chile",
+      "date": "2026-04-27",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxOTm82a3dYZzU0c1d4VXJQUW9jb1MyT3JIWnNoQ1dkTUxjYjJ4UVdfaWUwaUlGWTJGNXM5LUxVbENUeWtwaW1QWVRnUzdBbmNueEI5TFRtMzJQV2xxS1BRblpYMzdyMTc5dldzVHowSXdLQnFNc09FZmEwWWdJbGYyM0JNWURTU2M4VU9xei1GRTVhWE1GWFZWY0RKS3AwZWsxS1BEWHBLbFZtT1FQRmNJendsRGdZMS1DdGk0eFhaRkxGSFhPeEROSEV3MUtOVmZhTmNrdGF4RzYwMlVMb056NkNZTy1uRENwdE52ZjJBdGduYTNNdkxmNktyNHFRWmp5OUhPVFo1NnRoLUt0dkMyVC1VQ2g2blp5NUlib3gzcU5ndjQ5WjktNWRHbTMwYVlaSmpRa2ZvYmJHV0YybGZHZUp2ajV2SGdLaU0taVF1MVprTlRmS3k3am5GS04wQkhySEljZHlyTXpicUhQeGJGUUVVb0pJX25DX215dVVTemNLM0JIU2Z6YWRfUkQ5bVVNNnZSLV9VRUUxRE5qeUt1RGc5dU0tdjFjdjJHRjNxVXRCaGF4MnJCcHFUaFFJbV9CTEdqTnNuTzBvaFpvdXZmVWhNZHpBMGtPSGY3bFpmOFdRdkk?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "3a43641a8d1f497a7d257eb71000f08d",
+      "title": "Confirman primer caso de influenza aviar en plantel comercial en la región de La Araucanía - reporteagricola.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-16",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUG9rX0xRX0RKUG9wUm1icjM3aHVvNDBYRWN2SjdtNFZES2RPTUVBbVpabHd3VmF3LVE2anZra3k2UmV3M0hORVdYd3BhSmU2WV93U1l1cHRfOHRjWThnbk9uQjQ4ZUlJTE8wVVRpamhFXzBfVUlYN25RMVRUWjZUR080cTExSkI5eGt6aGlmNHNLWHV2NXdTLUJTZWViaHl5S2ZSb2dRd194Ni1BNVNNZHhid3JKY3hJdWNlMkNCR2NBSHdjdXhn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-02 13:17 UTC"
+  "last_updated": "2026-05-02 16:52 UTC"
 }
