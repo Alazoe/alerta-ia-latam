@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "4199a84eaf4aba9c52ff0d86c498e33d",
-      "title": "México suspende importaciones avícolas de Brasil; confirman presencia de influenza aviar en esa nación - MSN",
-      "source": "Google News - Brasil",
-      "date": "2026-03-22",
-      "country": "Brasil",
-      "lat": -14.235,
-      "lng": -51.9253,
-      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxOQkk4NU9mLVhmWldPTlZDcDN3Sk9Gc2Z4Q0JZeXprXzNSVWVkNzV5NjJ1UU83RHRFR3hNSTRnWVNJRTI5VFREaHN1V1hUQXhqeF9XYW5tRGliNWJ4dzZMVzZvbjVjZHg2aEU3T1lCd2lzbWcyQ015SzF2UmtGLVRhc2txNGlNSEZucjJ0ZUd1amRsY29NYXpWYTU3TjR0M1hHODQxNmt2czRZZ2lHTXN1TGtQNHVfMHB5VVRqWTdkRlNpVEExMnJ6aENhUklHVnZWYmNSSjNGejA4TF9DMWNqSVE3NEEyZkxxZHVWVVpzSk1fcmVZNVFBLUZadlhyUE5Bc3I4WWhtQUdoUUo0YmpMQXRpejREaXYzZ0hUWGlvYTROUzZ1NU43ZWMyRVJLR0xHejJQWGNpcVdpdTgwZmtUR3RxbU1jSkJtYkJKUERhcWlpNVBWbkI2bDZzTnF5djRTU0MwbnhCLS1IcVlzT3VxV0N5OElvNVp0RGtzT1NmdXIzUWcxa3NvdVpDTmFWcXJk?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "811127fe10385b59e224853b2b25416f",
-      "title": "SAG confirma nuevos casos de influenza aviar en traspatios en Magallanes y Maule y refuerza llamado a la prevención - SAG.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-23",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQzdIcFRHcWZHWUFTV0k4enJzWHBoWHNqbFpzQjNsWFR5Tnk2d25aVGVCNktVcF9KQ3FUNFk3SkQ1RjQ4VlJKZmc3bnk5NmdoQ3VSYU9OOHp0VzdzYTJHV0ZiRnNocDBxSDVjNXdjVVNqZnRjdVZVdFdSWmdIaWVqTUs2UGMxdVBxSTJ2VEwtSFRIX19aWjRibjVHVEdodzB3SkloSmMwT0lXZllSUGVfWDE4T0g5YkF6VUlNODd5MVU0dURiai10Z1d6c2RhYWI4R09nSzFpU2xTSkRTaEE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "3da7ed18457f0702ce764e164ff22d8a",
       "title": "Influenza aviar avanza en Chile: detectan nuevos casos en el Maule - Diario El Centro",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUG9rX0xRX0RKUG9wUm1icjM3aHVvNDBYRWN2SjdtNFZES2RPTUVBbVpabHd3VmF3LVE2anZra3k2UmV3M0hORVdYd3BhSmU2WV93U1l1cHRfOHRjWThnbk9uQjQ4ZUlJTE8wVVRpamhFXzBfVUlYN25RMVRUWjZUR080cTExSkI5eGt6aGlmNHNLWHV2NXdTLUJTZWViaHl5S2ZSb2dRd194Ni1BNVNNZHhid3JKY3hJdWNlMkNCR2NBSHdjdXhn?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "5d6406209e8bf530c411c4a20aa1844f",
+      "title": "Alerta en Los Lagos: Confirman los primeros casos de Influenza Aviar H5N1 en Chiloé - Meganoticias",
+      "source": "Google News - Chile",
+      "date": "2026-05-02",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdW5qWTNLRlA0bVVPdG5xNzVoSU0xXzRibGZHeHdJbnNwTmY5LU5CWEpMMElUREdJRjNKbEQ3TERLbW4yaE9UZDAxbW9Ca3JFbklHVlpRU3VDaF96bmdIWVVOZ29tMHY1WXpNcTRfcmVTOVVKZVFBSlpCTGpESENKeTVEVEM3MGxRaEZjM3FFNDc4Z3RiYzhWaENFRG1sZHJhWUFjNHpDeFJGWDBTQjFmdHY5c0pwb29aVU000gHAAUFVX3lxTFBmMnlfQ1BwQWVWSU83R3JSNXNmcl9iNUlvLVRTZFh2ckhEQWZ4ajN1ZjYzWVFPckoxX3hLYmJsSy1LRTFYT2F4aUJ6aWV2ZTd4UnhFekV5ckdVRVZxMGh2akIyVzkyc25GWnc1T3hNTlp3bjJBYUdJbGF6V1AwcHpFQloxWTFPZmFBQUE3Q1dnLW9IUmU1NXBXbGM3Q2hRSlh4UjgzMU1LbTBkUVFmMjdhS2FNSl83UlVsa2pQQzBLXw?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "84dd2aec4f16c907de0b4c964301ead9",
+      "title": "SAG confirma nuevo caso de influenza aviar en región del Maule y activa protocolos sanitarios para evitar su propagación - Home | SAG",
+      "source": "Google News - Chile",
+      "date": "2026-04-02",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTHVQU2l0ZVA3Yy1KVWVpczJWZ3pESW5xb2M3UzBYOTVnUkpGUkM2TUM3eVJPNVdUb2tmUk5DVi1WMjZyZHI5NS1odE5rY05zemxITC1jblV6VWZKZmNBVmZVd2ZDZ1VXQ2ZVYkJodEdGX041QmdtT3o1akpGQm1McTV2N2FTdmRTSEp4Rkl6UHhVbE9Oc3c1dDRHNXA2Nk1kUzNqQlN0Y2FyUVY4dFc0Z1huUllnbUhOWHRSTDBPUjRpZUo2MlpwYUxIN21jdFZzbFRSbHA3SkVNWkt3c3pzVjcxbFdWZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-02 20:45 UTC"
+  "last_updated": "2026-05-03 03:29 UTC"
 }
