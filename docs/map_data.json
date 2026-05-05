@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "3da7ed18457f0702ce764e164ff22d8a",
-      "title": "Influenza aviar avanza en Chile: detectan nuevos casos en el Maule - Diario El Centro",
-      "source": "Google News - Chile",
-      "date": "2026-03-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOel9Bc1hZRlhKQXYyUHVzZXBiSjFZbzkyamxTaFdISFJQdXl2MUw2MkJXV1pDWERubTlGSWc4REIySzJVZG9ab0FUbUZaOGlyYm1kR1hGTWo2UktWclRrZ0NTcXVDMVdXSjRubU9vQTRsRkpabVV6SXgxNTFzaW56VjNIbmx0LXNDVjB2YnFBUWtGOGdyNzJvTzRDVDZpdWJZSDNlS0dMNGt1RFE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "129e2cee8f9ed48ff3a056db5da780ff",
       "title": "Influenza aviar a las puertas de la Región del Biobío: Decretan alerta preventiva en la Araucanía - Sabes.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN2Z5dDMxeEFqZThwYTZaRzVmSFFVT2o3cHczZ2VoNm16RF9yZjBoVW4xV1NIZm91bDJxQ3B4UE9OalZ5ZzdZaWphWEpaNkRjTjMxUmxLdS1CVE95UjJPbGpOM0lLWW8wSHYzSkg3N1pKeWwtMGJLMTFoWk5jM3N3akNMdjN5aHY0UDRCQTNuU3pzZi16VDFTYWI1VkVwVE9rRjNDUzA2bEo2S05xeXcxOHQ2Uk5uQQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "65b755fb9963f3c07424b94f6db7ef2e",
+      "title": "Pasado el tiempo de espera, Uruguay superó la emergencia sanitaria por influenza aviar. - Todo El Campo",
+      "source": "Google News - Uruguay",
+      "date": "2026-05-05",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVzBHV2xZUGFjalVwcFBaODY5dW5kenBZQzNfRC1GRm51b3RtWkJTU0lTR0NRaXpGVjhzS0NPRzVGbS1qeks1dkdqUVQzaGhNM3lTSlpJQmJnblVKTkhTN0tpYlR4UDNncU5hOWo2MjFwUW85UGhoSkhhRVR4b0ozdmNEV0loMkRkdXh4amI4UzhrU013MTZXZmFHREpMcHpQUVJTVHZBQmY3aEZCcVRQY0QtMA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-05 06:17 UTC"
+  "last_updated": "2026-05-05 10:05 UTC"
 }
