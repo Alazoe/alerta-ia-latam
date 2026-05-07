@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "129e2cee8f9ed48ff3a056db5da780ff",
-      "title": "Influenza aviar a las puertas de la Región del Biobío: Decretan alerta preventiva en la Araucanía - Sabes.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-24",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa0JiNGNIZm5BSDJteTJodnNhdENiZDdNMTVpQUpJVjZXaDFMcEVndE1pWklzazRpSmNRZnhORnBsaUpzNlRiSklSS3B3RjlsX183dER3bk5NMUY2VWlUNUxhejFjelFhdWFkSXRGQ0oybi1FM3dTcmY4aU8tREFkcTNpb1BZX2tXOURzbG9OTnhFMnRuSUpfdWtOeS00WFlYaldaQzVhT0ZhQ1VQdzNhaVNST2tjS1B4Qk9Wa2IwZWZOcjA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "b818ca588bf71d904ae692ec499eee06",
       "title": "Influenza aviar H5N1 se expande a seis regiones en Chile y pone en alerta a criaderos - Publimicro",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVzBHV2xZUGFjalVwcFBaODY5dW5kenBZQzNfRC1GRm51b3RtWkJTU0lTR0NRaXpGVjhzS0NPRzVGbS1qeks1dkdqUVQzaGhNM3lTSlpJQmJnblVKTkhTN0tpYlR4UDNncU5hOWo2MjFwUW85UGhoSkhhRVR4b0ozdmNEV0loMkRkdXh4amI4UzhrU013MTZXZmFHREpMcHpQUVJTVHZBQmY3aEZCcVRQY0QtMA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "eebf00c848ee54ad7f7bf2c84823acfc",
+      "title": "Seminario en Ñuble abordará influenza aviar y fortalecerá la bioseguridad del sector avícola - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-05-07",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU0xrRzh3aF92c3FpUW1PMlVIaHNvUDdaeDE5RHFhTHlhb04wVVVlc1ZTVmNycUJMckdNMHdnYlRTSDJMdFFoRmlZSjI1VzBQY0R3MzJwTlZpRzhWLWk0SnI3Rzg1ak9lY2c2dV9EaHJ0RjFKUkdrUVpyUW51ZFI4ckJQSTdRMDlxcG5uS3VsUEpxUGxHdWVFeE1LSWcwVUU1dy1TT3N0OEloWEZvVV9HcWdnemQwLTZIb1huY0xTZXpvX3R0dFVjRkRFdGJTVWpS?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-07 03:26 UTC"
+  "last_updated": "2026-05-07 06:37 UTC"
 }
