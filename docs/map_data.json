@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b818ca588bf71d904ae692ec499eee06",
-      "title": "Influenza aviar H5N1 se expande a seis regiones en Chile y pone en alerta a criaderos - Publimicro",
-      "source": "Google News - Chile",
-      "date": "2026-03-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXpBZHFZSDhDSmVJVW4tOTQ4MWtOYlFDVDEwcUJVcDVNa0ExZlVPQ1N3RDZtWGZDRDFvNW9qVnZpSEJTcmVwaGE0ZjFRUWVId0hGRHdUdnlKQl9hUmxSYlAydlpkdHJfQVFPaEJtOHhiX2dKYnZKNmtWdXlmZkJES3hhdWU5WGdiaDRKcVJ0Z21FN2hHSFY4dF90ZkFtZzBxaWdvekNYbTRpeWNG?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "348edf892cd578266646246a822b0468",
       "title": "SAG confirma primer caso de influenza aviar en un traspatio de La Araucanía y refuerza medidas para detección oportuna en todo el país - SAG.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU0xrRzh3aF92c3FpUW1PMlVIaHNvUDdaeDE5RHFhTHlhb04wVVVlc1ZTVmNycUJMckdNMHdnYlRTSDJMdFFoRmlZSjI1VzBQY0R3MzJwTlZpRzhWLWk0SnI3Rzg1ak9lY2c2dV9EaHJ0RjFKUkdrUVpyUW51ZFI4ckJQSTdRMDlxcG5uS3VsUEpxUGxHdWVFeE1LSWcwVUU1dy1TT3N0OEloWEZvVV9HcWdnemQwLTZIb1huY0xTZXpvX3R0dFVjRkRFdGJTVWpS?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "9638d6dcc72f23284a79d52e868144b2",
+      "title": "Uruguay levanta emergencia sanitaria por influenza aviar - El Sitio Avicola",
+      "source": "Google News - Uruguay",
+      "date": "2026-05-07",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVU1V2JkSThvMWJjUl9CV1dhOHdnMXdTeGJyQ0E3N3hsdEJVZDA5T245YW01M2hpR1h1R3RCMXBOc1pRam5KQlcxMjVObDBwV1F2V3NsWmFhQmxxcVVMazFHaXZDTkh3QUFXc2x4aWk0UzlBN1NoSnhQMjRxbzU1SEhrUFpBbXFGeWRIM2pKTlo5eDVGeWlmN1JUdU5ZeHN5ZllyWGs0N3M?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-07 17:49 UTC"
+  "last_updated": "2026-05-07 21:06 UTC"
 }
