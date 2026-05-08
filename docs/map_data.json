@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "57a46e9835e853f330749295592c5eda",
-      "title": "Se extiende la influenza aviar en el país: confirman casos en el Maule y Magallanes - BioBioChile",
-      "source": "Google News - Chile",
-      "date": "2026-03-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWEIzRWdXUUtkdHNXN3Fuc0RtQTNUaF9MRDJWbjFsNXlmZEppRmhUWFFmZDFVY0pzQzhRTVJGYmVPT1lfRVpYUno0dDMxLXdtUWpvZF9UNE9fR3B1cER1MnJHVVBFdUx4dUVMbjlkWEJZLXdwZnVDdTJ2UFVuTGJ5OTFWeEFQNkhsaWdzeXhza1pFOXNfOVNKWXdHT0ZpU3ZpNFNLLXFDX0w5aTdSY1JXVFBGTGU2RmItTF9OWEg3blR3SEFDd3dUakxIZHZPbVlTM29jX2Z4ZTBrMjdyYUhxT0I2N1lIQy1jcXI3QXhBM2tuLTQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "2bb8cdccb343e43f63ed8245b1560d8f",
-      "title": "SAG eleva nivel de alerta zoosanitaria tras nuevo caso de influenza aviar en Argentina - SAG.cl",
-      "source": "Google News - Argentina",
-      "date": "2026-02-24",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVGJMcElfelkzRTNWTFFTMEZjUGJtTG9kZ3FlV1E1b0pLQWFGZGwyRXNib3FRcVRQTUEyLVlQVk9zY284OUJIME9zUEFyaWZKVkRlY1pMdDRkRko2cWRMMzdMRm56S0hlZjJXWmJYaWpWYTZGSTE5V3JWbXMxeWxPRl9fXzFpbGl1VVlfTnZBX1N6RDFfek5MTTctbUFvOVNhdUg1WUkzemFyXzQtX3dOR0lNU0NnRFVpdFE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "bd1c3c764523e80b0d889e251f177a27",
       "title": "Detectan brote de influenza aviar en Colombia: explican qué pasará con el consumo de huevo y pollo - Revista Semana",
       "source": "Google News - Colombia",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmNCcXNXdzYxN2U5SEN2R3IxY282TEs5ajczTmFtM1h4ZXJ6aVR3NjJ0ODdua1M0bDBzV2tQMTJrYUFRa0c0TWhpa0VKNDdhakQ4bFoxczg5c3dCcTcxU2NyYmVKdUkyNkxKLVl0Z3plMFJ6dzlCOWFQd281WnoxZWhnZGFrV2liQVhWVXkxaVN1Rk84aUx4a3BvbGpSWmRfT2RncVlsRTA3eC1ncElBaWhmSzl0LS1lRWpuV255b3NzaEZHVXfSAc4BQVVfeXFMT3lmaEU4MHVRTkFKRFRIWWpTWVpQLTR5UmVIZHVQdGIxa1ZLOG5jSVllYkhNSHdrRmVtSHNLdWtxZG1qLTBxUE13S3VWLU1wNDJESVp6UVF1YVRWYi01a0o0dndLMU1SRk5zemZGUTFHM1EzWWJCZlJxRzd1RkhUU1hwazI1X2NtVi0wLVJsaWRyNXczT3NzVDBQVlpzQ3ViaVZXTUctR1FrRXEzeDJoMlRXMlEzSjZXSkV1NTJTcVhwcVpFQlJka0RpbGJnV3c?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "31cfc95893e8b5cd11f0ebbfd9ec03bc",
+      "title": "Seminario de avicultura en Ñuble abordará desafíos de la influenza aviar - SanCarlosOnline",
+      "source": "Google News - Chile",
+      "date": "2026-05-08",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTDNsTzB6aWRzdUxVNVlSeUVxc3Iwa0xubmRpZ2lDczl1dEVLUWRGNVo3MGRIMk9USl9VaWkwcGtnb3huelNTcTZVSE84US02UXZ5V3lDSUtsbkdRZ0RkNThYWEhiWGpBczVTbmN3T2NYUTI2S2JnbTdSRjA1c0JMUkJn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "83c72cb7ddbf3ff15de48614dcab94c5",
+      "title": "Aguafiestas: A pocos días de recuperar el status sanitario, se detectó un nuevo caso de influenza aviar, aunque el Senasa aclaró que no afecta la condición de país libre - Bichos de Campo",
+      "source": "Google News - Argentina",
+      "date": "2026-05-08",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPM0pLNFV3bWxYQnlPTGhmbU9xbm1nRkZVdkdIaWhKOWxpUkw2UHkxMEZmMVlsTUhhbkZZWTVsV1hYR3lCM2ZGSmhiQWJaX2lSbUtpc2wtVlRfNnRwbDhRcE15MzB4NENsZVMtMlpLU1h4UzYxeXhBTmRKZUI1MXZXRUlpcF8wbUJmSWYza2VQa0E2VjFmTXNoTUE0aUR1Z3FESWRXNk94QXlzUjdNYlJQcEZmbWZmYXN6SUJDU2lFZlF0Q1V4RENjNXoycU5Ubmk3ekVFdmJxOG9pYVFJSEl1SlhQT3pUTC1xc0JyM3F1WkJZbWJ0SGlmelNGYllocE5jMVBVaGtrS3ZLUDZPcjJBZGhWSHVMaThPelA3RS13?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-08 09:25 UTC"
+  "last_updated": "2026-05-08 13:55 UTC"
 }
