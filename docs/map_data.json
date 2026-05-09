@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "46cd90d0464bcab367b9617cfc628642",
-      "title": "México registra el primer caso de gripe aviar H5N1 - quintafuerza.mx",
-      "source": "Google News - México",
-      "date": "2026-03-24",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNd1lONkRZWDhhbnN0aWg3NVpOVWluMFJQeFhNd3pyMTNNQ2pUUnBJekxqVk1TX3J2d2UtbFNuc05BaklwMkJFSExkTlptOFMzUm53MTBTbk5GOWVRdWgyVkQ2elJuWGlVc3F2MWFmUHZWbFVsdm16U0RsY3dyNGxUekJQSG9JZUp2NVE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "f98aa4c4539ed777048816acb2442ed9",
       "title": "ICA trabaja en vigilancia y control contra la influenza aviar - elfrente.com.co",
       "source": "Google News - Colombia",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMmVfdHpCeHVyRWp6SGt3bjVkU1hicTJfamJtNGQ5dkNPcWQ0aHNrUlktYVZyS0pTQzlWbWNhX0ZmOE5kQTkyczBnUlpfYkJPbUJUYlhoZVF5OHVMQkNTSUJHRFdndTFvUHBYelZla3hNa2NyMnVCbXBkRlJfeHFGcEwzX1FjR3hSa21ERkZ2aXBwM0dKUDg0UnlSR2FWTDJyOHhnbTRvLWl2cXBQbXc5akZidEpDRTJhQXRrbDJUZVRSNzRhdVV3eGRDeGpwVXQydWVQYkx6SVM1eWlSYzc0Q1lSWDM0WTlsemNKLXhjcGdMeWZ2al9BNnBfOVg?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "f22384e64aff9464864f5e78a1b8d49e",
+      "title": "Influenza aviar en Chile: autoridades llaman a no acercarse a aves muertas o enfermas - latribuna.cl",
+      "source": "Google News - Chile",
+      "date": "2026-05-09",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMjhNZjctZkJmR2lDQjFiem45dGJtT1E1bmJKUERMNDBVSHQxQ1Yxd3d1SFJVZ1puRC1jdHpRbFA3WUg0UThtWWFZSmNRalpmUS1aTGI4M2hhcENyQjhUQlpGaEdsd2ZaM0s0MmVuUVpaOVpaMGEwNFZ0OVNrTTJSdWsxXzJ3WXhJNllhQ0UxMmlYMDFxYUh6ZHd1V28zS1NrcG45TzZfREd3MVQ3VjNwM2pqNG1ZMGdtM2lwN3pGeXdmQlpYRnYwcmttOUIyVEZvQVgtQk9Ra9IB3wFBVV95cUxONHhKM01OYkk1TW9xVTJUUV9RUGxmZXNqM2Q1S1JWRWtRaFVQVWozTUFwWXpjdU9oTVVaUDJIQU0yU0FiZzVFLUJicVR0Q0M4NmF6YjVJLWkwcXlfNHNMVFJlYkJIVjNtTVNKSDlYSmlOQk9DbzF3UVYyTU1OTWQ2UlRYWjl0NkJUNVROQXNQR1FyOVFVMHp3ZlNnZU0wUkxtUDNQY3ZWWXVDWFJUQVZiakc3d29MY3k2UFV5RzctOE16a3BJeFBGeExVYU1uTThtWWxJMFpTUGVMRk9HYmxr?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-09 13:22 UTC"
+  "last_updated": "2026-05-09 16:58 UTC"
 }
