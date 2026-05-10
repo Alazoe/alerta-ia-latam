@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "f98aa4c4539ed777048816acb2442ed9",
-      "title": "ICA trabaja en vigilancia y control contra la influenza aviar - elfrente.com.co",
-      "source": "Google News - Colombia",
-      "date": "2026-03-11",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRVRWWXluMjlUZ3c0WlRKcWxzdFU2dUx6OW1iTHlZUzJmUDYtRzRhYzZnc1Zkb0FaZlVQYkNBcnpNX25QUlByamxfaWtnbXExWnBINlhuZVBTZ0pERFNpb2hLQ0ZjNHVPbk1Ocks2czhBalVRU3o0YVNRMUdwS0ZiYUNNeGdsS0U0Q2RRVW0yUQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "88c5de9f4ec71ea9f71273a2fa76ac9b",
       "title": "SAG confirma influenza aviar en plantel industrial y suspende exportaciones avícolas - BioBioChile",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMjhNZjctZkJmR2lDQjFiem45dGJtT1E1bmJKUERMNDBVSHQxQ1Yxd3d1SFJVZ1puRC1jdHpRbFA3WUg0UThtWWFZSmNRalpmUS1aTGI4M2hhcENyQjhUQlpGaEdsd2ZaM0s0MmVuUVpaOVpaMGEwNFZ0OVNrTTJSdWsxXzJ3WXhJNllhQ0UxMmlYMDFxYUh6ZHd1V28zS1NrcG45TzZfREd3MVQ3VjNwM2pqNG1ZMGdtM2lwN3pGeXdmQlpYRnYwcmttOUIyVEZvQVgtQk9Ra9IB3wFBVV95cUxONHhKM01OYkk1TW9xVTJUUV9RUGxmZXNqM2Q1S1JWRWtRaFVQVWozTUFwWXpjdU9oTVVaUDJIQU0yU0FiZzVFLUJicVR0Q0M4NmF6YjVJLWkwcXlfNHNMVFJlYkJIVjNtTVNKSDlYSmlOQk9DbzF3UVYyTU1OTWQ2UlRYWjl0NkJUNVROQXNQR1FyOVFVMHp3ZlNnZU0wUkxtUDNQY3ZWWXVDWFJUQVZiakc3d29MY3k2UFV5RzctOE16a3BJeFBGeExVYU1uTThtWWxJMFpTUGVMRk9HYmxr?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "107510415837e47c81842b3c0aa1120b",
+      "title": "SENASA confirmó un brote de influenza aviar H5 en Río Negro - Revista Chacra",
+      "source": "Google News - Argentina",
+      "date": "2026-05-08",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUklURHU1eE9DZG5wT1A5WTZEbS1JSU82MkcycHpfclhGd3NNeGpCSmozdmpwaDh0TDJXRndIcldqQ01xUDFJOWZRLXM0cHlhd21EbTAzbVN6N2hrWWNiaVIwQUN2SVlEYmIzNHVtWXZyODJ4bGZfd2dIVmJpTGlfOWJZWlVuc0NLUXJIdEVZdGxvOGozb1dZazNzdzlBZmtBaGFjZmxic3JDQdIBpgFBVV95cUxNTGZhX3JCV0R3amNaSVVVWTFfVVlydG4yNlRlNVQ5S0pXQm1wNjlBRFpyMzZ4eVN2a01lOXV2RUNWR1MwZjFjWVBOSlNiaDdaY0pvbXJfT0Z2MnZKYnNFODd6Z0I5QlJnQUZVQjBJel9ILVRySFRqMmZKbHBoTF9PZW5ZcG15bHlad2JXU05BclhvT0s0Ry1EcjA4VlA1S1Y1YUtKX1V3?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-05-09 20:49 UTC"
+  "last_updated": "2026-05-10 03:32 UTC"
 }
