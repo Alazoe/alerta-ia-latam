@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "83b4b117494528b1dbe4d8ef4fc2f4d3",
-      "title": "SAG suspende certificación de exportaciones avícolas tras detectar primer caso de influenza aviar en aves de postura en un plantel industrial - Diario Financiero",
-      "source": "Google News - Chile",
-      "date": "2026-03-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1NoQVlROVZyLWxQbmtLSUpzdWg4SVNod0VOVVBnYlNndURzVVR1OGRNTTZXVmdLT3JNTUVudzU0QXJLTDBNZG9uM1cySENNVElkNlJLNWNCbGtsTUdsM25qZHNzU1RvS1p2a0pGNUFLYXdGM3JnZHFVMkc0TGVRcXk0UjJFYzNkcHBNZHgzd0tjby1vUEoxdzh1VjVTTmxLZHlz?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "bfccb670032d6749a9f61d00eae481c1",
       "title": "SAG suspenderá certificación de exportaciones avícolas tras confirmar caso de influenza aviar en plantel industrial - CNN Chile",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMEtpTVB4NGpHR2xKQ24yM1NGeDQ4Y0lXMnVLYVFsNl9GbFFFa3NyWVgzODhBMkk4enBDNVRrd1Z6QU5SRmx2VDJjZWFuMnVxY2hPb0NEM24tUngtSFFEMHlQQkJSSmZ6bFhaTXdqM3RCeEUwZEtwZEtDTTdLMklHTkJkSEVaR1ZMNGUzakg0WG1LYlJTUU9fWHY0Nm9FRHNSWjRyUmluWUNWS08yM09HQkRnVU96REJLMWpRbA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "5488193e8f1be17a3a69384899936857",
+      "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la Región de Aysén - Home | SAG",
+      "source": "Google News - Chile",
+      "date": "2026-04-20",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdWViSHZaeVd4RjVXamVqYjVDcVhvS3FqdmRZZ25IdDkwRE1ZR2taazdIZ2xlMi05YUY4RTROSW9kTTVNR3llVHhBTlk3bXI0S1FzODNRZmFpTUFOVUVfV2hCdlZSM0ZJOGRFRnNObjNCek9DaFhFUEFaa2lESWtYV1gyVDd2aDVfdzNOb0tCdmFrZ3ROV1ZZZWZCTWdneTVsbHRRbWZBOXBzLUNDQ1JTUE5IMGVMaTBuOHp6dkVvYmJEd1JHblVlQ0x3UEY?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-11 11:25 UTC"
+  "last_updated": "2026-05-11 15:14 UTC"
 }
