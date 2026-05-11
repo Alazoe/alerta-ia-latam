@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d75cba6e943415554f5bdcb4cf0f9135",
-      "title": "La SE no justifica desabasto de carne de pollo y huevo, ni aumento en los precios derivados del brote de influenza aviar en Guanajuato - Gob MX",
-      "source": "Google News - México",
-      "date": "2026-02-14",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRERsNXRGeF85aE05Y0NNaHdyc2dqbm5RVm5mRk14Q2lIUHlsaFBua3pidDUyZEVvSkJiaWNOX0h3Qktkc3dJZ1ZLVVJWY2IyX3hydUJxWVRrVWZDaFcxUkxXV2MtSVBmWHFfWFFuN3owaFJob3dXZFpOemVlRHRvZEluNFpseXl1MFlYVzdnQmFBQy1CWlQ3S3F6UjY4LXRRSzZUU21iRXZyUkJ0dGlTVDkxV3luSkhCeHVLN2xoZ2JmaVEwTjFYUTd5aWVoc3c0NWpTWnZJMXo3TDFsajBNVWVPNzl4SG0yclBXekxfT05QVF9K?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "4a89cd271c24d02c40f720592b61a976",
       "title": "Chile suspende certificación de exportaciones avícolas por influenza aviar - PortalPortuario",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZDVIUjhLZ0J6ZmNhaTdQNE5OdGtDOWhjbjVxZC1fOFgzZ21lR3ZZaU9wV0E0RUVKTVZYTFZ0N0FNQ1A5LTFxaFdvdnhLZ2MxUEdXR0NERUZfZUlRZ1dJUkZRNFlUeFNzbVdjamh2bFh3Nm5kRmcwZzVacVBjV2YzRWRpa1RUVEh4RWhzeEdTdDhrWXVPZTlsX0FUOWNlMjdxTm41SUYwYzRLTHpMU1NzS3VxMjYtMkpHcjhKZw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "ca7822bcc3cb1aec0bb2b638efc687e6",
+      "title": "Insisten en reforzar la bioseguridad de las granjas para prevenir la influenza aviar - Dos Florines",
+      "source": "Google News - Argentina",
+      "date": "2026-05-11",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUDRHYy1VT3hEWkpsSkVIOXNqT1NZaEpaNnROc0ljUXp2Tm1WeGVWc3pzR0Nvcm5aTFlIS0ZsRlNkazA2WEJFX3RFaVRHUmJfWU9LUHZSSUUxVGk1ZWJmcXVlRkV6TFl0VERWMjZ5dVNmaGQzLUxKcWhwZ0ZNWmNvVVVOUHZ2Ykg5eFJaN0V3Q2JzUklNYkNwTEd3SHVpMWZHX2RueVNoWjU5bW93azlsbW53?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-11 17:56 UTC"
+  "last_updated": "2026-05-11 21:19 UTC"
 }
