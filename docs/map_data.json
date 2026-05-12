@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "12d0a9c554172c3627ed1f983d5cfa3c",
-      "title": "Colombia activa protocolos sanitarios tras brote de influenza aviar en Meta - avinews.com",
-      "source": "Google News - Colombia",
-      "date": "2026-03-10",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRjBFb18tQlY1TWNNZ0hvdEc5YkR3d2l3allnT2R2cVZOUU1TaGF4MjFYM3YwRXhhenE0QWNXZHVzai1zdXpHRXNnS3AzMnRzV0lyQVhuV0lQdFFVdnFISDdmQzh2V3ZxR1B3RnNueVNRN1JySkNXY0NRbWR2bUdLMnpkWjh2SlRmQmFsYlJRTjhoQQ?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "2e45f0cbcd3aeabaccb7f6ace7e5e204",
-      "title": "SAG suspende exportaciones avícolas tras detección de influenza aviar en plantel comercial de Talagante - reporteagricola.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-26",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZ2lYa3JhY2xVSzF6RWxSTy15NVZnc3lYdVc1a0pPVHFtNS10NWhQX1JOUEFuVzl5V1lfZlZhenZuSVFyVS1xT0F1R0dzNGlzNHJSSDVJb05iUHRQUXBYbXdFZW5rZXkzVXF5S01GaHJoc05qcXozSmM5VHA2RmU1b3RReS1aRWxzcDJhWHVUQkpZNEItckVSbVZQV2JoU2NGVmcxbnFDZXBnV0pNWGt6UmJhTURPcjBSTl9KaXNuR3ZkNGR1eXg1aVNVSFNwWHBGVFcxUDRBUTRPdk9pYUt5QlIxVEM?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "375b7b568e86cdb9b060a90ed3e1357b",
-      "title": "Influenza aviar: Senacsa y avicultores en alerta roja ante nuevo foco en Argentina - ABC Color",
-      "source": "Google News - Paraguay",
-      "date": "2026-03-03",
-      "country": "Paraguay",
-      "lat": -23.4425,
-      "lng": -58.4438,
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZm1xN0QxcXVEbkphOG9LbkZkWnZtdEZ1cGtwdGRzY2VTb1l0RndkbGZEOGM1bF9MWk0weFpSeDNVcVUxTW1fS2o0eV9GOXBCZER1TjZURVdzYTdYOVhiSGs5OVQ5dFQzZ1ltX1NzOEdCbFVCeVRpVms5SnJ1WmlsQzhKSjVSeklXZTRYQTdrdlhTODhITDN1Z29DZjlwUVlkQ1FYQzFWdENKZVFDN0VKa0NZbU1PNmNhNjJkSEdpUFBNcU3SAdcBQVVfeXFMUE1wdnZpRlFyNWRPcGN1ZFpXdC03bUdlRm5IbVpyLVVqWDV2Y3cyTXNtZDVXNV9CTTlWT0NFUVNQdjlSeFpSWWFFTElwaDhyRUttZ2VBdGZteTZWbVJ3eU11MFoyaFg1TTJNMF9tc01ORDlNYUVtZTloNy1YNHpFOW1qZFl0S01tSjZ1OVM0c19qeWdWRUY0U3c5WGJ3VTBKd21xWjdlOGVmcm1hUGVUelU2WF9JQ21TN1RpYVJ3SFNsOHlxTF9WRlpZRkRacTJ2TFZXM3NLaDg?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "1407540d4d233ed4f13edf684d288e68",
       "title": "Emergencia sanitaria por influenza aviar: refuerzan controles y medidas en todo el país - Diario La R",
       "source": "Google News - Uruguay",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONm8tRWNzakV4aDQ1N012QkRFMjZTN0FCX1BEeGV0bUpMZDVJS3hlek9OYkl4MGpQNGpiSWNRZlZ0TU9SaDN3SHQyU1JaWnF2enNtQmlLNVBjVHVVNHJuUVRCS2dRb0JCMVRCUXhoUEcxQ1dpV09GNlFDazJZUkFsUXJETFpDcXVQUF9CVVBwbTNTdmtwZGs3V3hJTXlvYmZPY2JiYzd2cnVHRmlnUTFtZGRFRGQ1ZkJF?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "c30a064458465326912b01d586555c3e",
+      "title": "Chile: la influenza aviar está afectando más a cisnes de cuello negro y otras aves de agua dulce - Mongabay Latam",
+      "source": "Google News - Chile",
+      "date": "2026-05-12",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON0Z5ZkEzUlMzaVd4blduV0pCQ0hYN25yRkR6Y0NsOUJrZDNmUTQ3NHBVQl94ZVhPaEhDbThrUHRPSm9aWlIyeXN5NVlxckRnMG5NZEFJNkZXVGJkb29ib05IMEZWSWlDUnVXS2t4TzB6bmNGdXhkc0cyeDFaUWM4dHdBVHoyWU5GVnpKa3dFQ2tGeW1mNTQ3dXplZjZ3UktrU3c?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "060290f5c03c88d4217b9c23787c4702",
+      "title": "Argentina refuerza los controles en granjas avícolas tras recuperar el estatus sanitario libre de influenza aviar - Agroempresario.com",
+      "source": "Google News - Argentina",
+      "date": "2026-05-12",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOLVQ0UHMxTmJXMG1DOUl3cVBpYjk2NDFDQ3RHZzktLV9MSUVFX044cTZSTENrRDMtOE9aUnBKTmZYUlMxZHlzcHFDWWZxdGo1OUM0azN3RUZ6VnA5QlBSS1RldFVwWnZvQnMzem9WQTdSdHBlalZ1eDV3d3dCQS1QWjh1QllmcHFranVoc1JEUXVrUVpVMTdvVG9VUTdtZndjTjI5STJBdnJwUlBTSW1rY1dkQjBJcnRkMElqSEpFc3ZoSkI3Nms5QTJiWjExb1g0cHlHcE9jUjQwSFZ6M2xPejlsTFhvblIzTVpUTWZNSFRCWDJkNG5lU1U3b0huUFg1c0E?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "befdef25dd1f0dccac67a9c52f49acb4",
+      "title": "Detectan brotes aislados de influenza aviar en Lambayeque: al menos 128 aves murieron - Exitosa Noticias",
+      "source": "Google News - Perú",
+      "date": "2026-05-12",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcU92ZFRWREpRa1VGRmxJYTJFTHhrbFNzYTk2WllySkRvNUZGTzc5WjY3aFdBM21sSkpxMU5IRXVWMXVONVBIUUJ6bWJnS2JTaHN3cHBtLS1nMzRienZkck5INWh1R1FJNF9zQUtXQUp0X2FKZ0syMFFMNVJNb0tzZTJ3VFlqRE9ZWVQ5aVVLcTBxYjVHVzVtaEphNWVGM19KMHhzcjZqUDM4VDRsUGtoUE9QVWQ4M1FDTnJmX21nbi04Y3JpMEVSa2pYMA?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-05-12 14:30 UTC"
+  "last_updated": "2026-05-12 18:01 UTC"
 }
