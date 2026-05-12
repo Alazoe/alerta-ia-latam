@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "4a89cd271c24d02c40f720592b61a976",
-      "title": "Chile suspende certificación de exportaciones avícolas por influenza aviar - PortalPortuario",
-      "source": "Google News - Chile",
-      "date": "2026-03-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNmE5N2l2eTk0azF6WFRJa3QtV2lCcWlqRHI1aTJlZHp5OTZ5amRBclRpVzdEVUk2R0xNTXdRd242OFdLUHNrYllZZ29NcnphR2lqTS1yWXhxNWFOSm9tYlJJeFRtOUF6ZlJMdzRTRGdpNVYxRHFLdXNXVEVGWWxDLXJYNTFqZmVKR2NIbURMamRKNnlRUGRqZE5qbmk3ZVd6YllhUA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "2c11854371ccfc04fe0a21deba00f188",
-      "title": "SAG autosuspende certificación de exportaciones avícolas tras primer caso de influenza aviar en plantel industrial - puranoticia.pnt.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMzZVemtna2FxQnliMmFjQ1VJQzYyOGFUbnZZajYyVnRXQnk5V1duRFFWZmJ3SkVzc3phaTQtSExtbWR6TFdRc21fX1JxR2tPdkUyc0VYTzVaWFozRDhhMjhuUWJRaTFhbUlKcE1jOWNFSU9oN281MVJEb21Bd0VUTGFraVJNMElqaEtlUXhncXhIWHhwdEF0Zjg5c2RrQnhsZHNvQTdsUXdpLTg0UWc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "8e2cb830d15f72e72a13ecc6c7223883",
-      "title": "Detección de influenza aviar en aves silvestres en la Ciudad de Buenos Aires - Argentina.gob.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-02-26",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVR6eVpOSHJ1Q0x1S3ZGSjl5NHdPbS1XX0hrSDNOZlB5WERyeHpZbmc1cFQ3Vkw4ZldOVHJPWlVLRzJmSDJhbml2dVp3QjhYTDRrS19KWV9fYVdfQ3ZubGtmbW1ocElGZzl6OGxtem96a1NoR29ENjdYZl9PeVF4cDFrVXdkNncyMGxVZ2VDT0xhejl1ckFxLWN2Q3hfNDJtQ1UzWHFvaUFWdVQ4clNLb2g0a1o?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "a4d557b4fa672e5665fed8fdffc2173e",
       "title": "SAG autosuspende certificación de exportaciones avícolas por influenza aviar - 24horas",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUDRHYy1VT3hEWkpsSkVIOXNqT1NZaEpaNnROc0ljUXp2Tm1WeGVWc3pzR0Nvcm5aTFlIS0ZsRlNkazA2WEJFX3RFaVRHUmJfWU9LUHZSSUUxVGk1ZWJmcXVlRkV6TFl0VERWMjZ5dVNmaGQzLUxKcWhwZ0ZNWmNvVVVOUHZ2Ykg5eFJaN0V3Q2JzUklNYkNwTEd3SHVpMWZHX2RueVNoWjU5bW93azlsbW53?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "de73520e5aa4a58ef898ea9bee54c412",
+      "title": "Bioseguridad: la primera barrera de prevención contra la influenza aviar en granjas comerciales - El Ojo Ameghinense",
+      "source": "Google News - Argentina",
+      "date": "2026-05-11",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ0pXQldpU0w3VXpXOHdXcDJ4WTZiMGxxWnpLSjVhZGxlakg5cklFT00wbjd1SGtueUlPelQwMDhOTFFHNXNZQTEwbkptc2hfdFl6eUVUZ3NMbXZyTzZqVy01cmsxQlNaMjQ0VlFyVHZJVjEzTVJ2eG9RLUc4NEhwTzJiUjBXTlNMSlJlZmVaaHRjVEIwU2QxeVkweXVXeU41bFhuN0lSSWFsc1VyVElMOWhPOWdJWjlaV1hOMDNUa0M?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "ace84108ca681e5c1953be34dc4ebc9f",
+      "title": "SENASA pide reforzar la bioseguridad avícola tras declarar a Argentina libre de influenza aviar - Cadena Nueve - Diario Digital",
+      "source": "Google News - Argentina",
+      "date": "2026-05-11",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb2tFb2xCeXZqRHVUYnBVWkxQRzlzaTlRYnV6RWhkV21jUXo4UHBIY2t6UWNzZld5NlFDQTV4aXZNb0tJTFdQeXZMclRwX2dZU3A2a1pxb3J1cmhvOEcwMFZ4Q1hkY2hmdTAxeGxyUU90dzhERkVYY0daVEFiZjEzQ3UxYWxfazZSRWQ0OGo2R0xKSTZoU1JFQTd5MEhtTWIwa09GcTAxNkduUlN1cFhIa0hWaGRrYWhuLUNPaDZSMjc4aVZoMHFPdXZ3ZEFuMWc2?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "10141eeab7f67d4a928f8e1e60cf5597",
+      "title": "Brasil fortalece la preparación intersectorial para la influenza aviar con el apoyo de la OPS, el Ministerio de Salud y el Banco Mundial - Pan American Health Organization (PAHO)",
+      "source": "Google News - Brasil",
+      "date": "2026-05-06",
+      "country": "Brasil",
+      "lat": -14.235,
+      "lng": -51.9253,
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRndNWWplbmdaM2VZczRvUlVPS0FPb2w4M0F1RV9hMVZENEFEVkFRS1VTck1KZjgzZG5aN1cyT05aZWYtemcwaVNLR0RESzRIV1hTbjRyUHQ2cHRUd2pjWG00WTRMWGdWSm9mOU5MZ0s5RFJ0dE11TDVMUHhuc19kUzlWbGpGTllwT0dGSWJwSlotZ3lvUXY2VFV5WHo1bDdvb1dzR2VpVjgxOEVuY0hSOXNOamFSQV9vNTNvSA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-11 21:19 UTC"
+  "last_updated": "2026-05-12 03:31 UTC"
 }
