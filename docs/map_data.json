@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "a4d557b4fa672e5665fed8fdffc2173e",
-      "title": "SAG autosuspende certificación de exportaciones avícolas por influenza aviar - 24horas",
-      "source": "Google News - Chile",
-      "date": "2026-03-26",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVWVQSGZFV3hac2RjSmh3ZEc5eW5tVTFFNmNHU1ZtRndXRFZicDRvVkYzZUlLWjJMOGpmeXl3Vmh0YXVtbXZZVDBCemVPUTdMVDBEQWp0QmRtZ0xFRWd5QUtvUWNHVWFtRmE3OF9pTllvb2J4Ym96R2xwOHVOd0xEYWUzeWZnWGVZVm9QVGo0WDUxTXVhQ01LMnhSQV9RNzhVNGNycF9IWVlkUFVLbS1PNFQ5LUtWR3k20gG4AUFVX3lxTE1VZVBIZkVXeFpzZGNKaHdkRzl5bm1VMUU2Y0dTVm1Gd1dEVmJwNG9WRjNlSUtaMkw4amZ5eXdWaHRhdW1tdllUMEJ6ZU9RN0xUMERBanRCZG1nTEVFZ3lBS29RY0dVYW1GYTc4X2lOWW9vYnhib3pHbHA4dU53TERhZTN5ZmdYZVlWb1BUajRYNTFNdWFDTUsyeFJBX1E3OFU0Y3JwX0hZWWRQVUttLU80VDktS1ZHeTY?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "ac56b7a9161eedc2b2f7a6140eca1e1e",
-      "title": "SAG autosuspende certificación de exportaciones avícolas tras primer caso de influenza aviar en plantel industrial - Puranoticia.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMzZVemtna2FxQnliMmFjQ1VJQzYyOGFUbnZZajYyVnRXQnk5V1duRFFWZmJ3SkVzc3phaTQtSExtbWR6TFdRc21fX1JxR2tPdkUyc0VYTzVaWFozRDhhMjhuUWJRaTFhbUlKcE1jOWNFSU9oN281MVJEb21Bd0VUTGFraVJNMElqaEtlUXhncXhIWHhwdEF0Zjg5c2RrQnhsZHNvQTdsUXdpLTg0UWc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "12d0a9c554172c3627ed1f983d5cfa3c",
       "title": "Colombia activa protocolos sanitarios tras brote de influenza aviar en Meta - avinews.com",
       "source": "Google News - Colombia",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRndNWWplbmdaM2VZczRvUlVPS0FPb2w4M0F1RV9hMVZENEFEVkFRS1VTck1KZjgzZG5aN1cyT05aZWYtemcwaVNLR0RESzRIV1hTbjRyUHQ2cHRUd2pjWG00WTRMWGdWSm9mOU5MZ0s5RFJ0dE11TDVMUHhuc19kUzlWbGpGTllwT0dGSWJwSlotZ3lvUXY2VFV5WHo1bDdvb1dzR2VpVjgxOEVuY0hSOXNOamFSQV9vNTNvSA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "f5c048eebf22999550510e2add52354c",
+      "title": "Detectan brotes aislados de influenza aviar en crianzas de traspatio en Lambayeque: al menos 128 aves murieron - Exitosa Noticias",
+      "source": "Google News - Perú",
+      "date": "2026-05-12",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSU5US1ZQMmdVWkxDenVxcXVwRGljTnZEY19LRGdQaDVoWHczdjRmenIxWHBEaExuUm0zYnJ5NDVZUmRMcUFRZXN1d3l5YnBkOGNuckh2amlSZGRJQngyd2xXamxwaXZYN0tMX3hjd1FDWjhGU0ktVXdxdS1XVHNVT1Jkd1hUb0lEQXkwYzhJYkdhX2ZZRmR0MGJ6UHFUUkVHck9OSnRLSmlhb0JLTm53UHNheEtqc0p6blVzZDdISUZKT09ocFJnRm8zcVh4TmFsT0JCbmhkMFlRMEdMclVkNV9JS0k?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "8111a22216b76c105bc64dba19a1537a",
+      "title": "Lambayeque: detectan brotes aislados de influenza aviar en crianzas de traspatio - Agencia Peruana de Noticias | ANDINA",
+      "source": "Google News - Perú",
+      "date": "2026-05-12",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONm8tRWNzakV4aDQ1N012QkRFMjZTN0FCX1BEeGV0bUpMZDVJS3hlek9OYkl4MGpQNGpiSWNRZlZ0TU9SaDN3SHQyU1JaWnF2enNtQmlLNVBjVHVVNHJuUVRCS2dRb0JCMVRCUXhoUEcxQ1dpV09GNlFDazJZUkFsUXJETFpDcXVQUF9CVVBwbTNTdmtwZGs3V3hJTXlvYmZPY2JiYzd2cnVHRmlnUTFtZGRFRGQ1ZkJF?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-05-12 10:36 UTC"
+  "last_updated": "2026-05-12 14:30 UTC"
 }
