@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "1407540d4d233ed4f13edf684d288e68",
-      "title": "Emergencia sanitaria por influenza aviar: refuerzan controles y medidas en todo el país - Diario La R",
-      "source": "Google News - Uruguay",
-      "date": "2026-03-26",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNajhjTnJ4OWptRUlCWWxRbWY3YkN2NXd4QktEY2UwNUtlT1hiSFFPSDE4Ukxrai1nYTdDekl4R1ZQN1BSU1k2MXdsSU1BNWZaWUdQdWlfUFlYUlJVa0Y5bE43Z2pfZHNwV3loZ2o4bV9CT0tRcHc4SVBqSmR0R3ZCeFpoQUw4MzBCNzhwMHAzY19BaUJocHdSOUJ5T2xqZWVmYjFYTmlZTFNQaW03b3dBc1h2Y1VLVEM3c0ZYYVlKNW5HdE0?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "0acb8fb4117f5e018ec22a0e6a00c82b",
       "title": "Chile gestiona reapertura exportadora tras caso de influenza aviar - logistica360chile.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcU92ZFRWREpRa1VGRmxJYTJFTHhrbFNzYTk2WllySkRvNUZGTzc5WjY3aFdBM21sSkpxMU5IRXVWMXVONVBIUUJ6bWJnS2JTaHN3cHBtLS1nMzRienZkck5INWh1R1FJNF9zQUtXQUp0X2FKZ0syMFFMNVJNb0tzZTJ3VFlqRE9ZWVQ5aVVLcTBxYjVHVzVtaEphNWVGM19KMHhzcjZqUDM4VDRsUGtoUE9QVWQ4M1FDTnJmX21nbi04Y3JpMEVSa2pYMA?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "236f8de1d02af83b3fcb639c29d85825",
+      "title": "Chile refuerza su escudo sanitario ante la influenza aviar con una respuesta intersectorial en terreno - Pan American Health Organization (PAHO)",
+      "source": "Google News - Chile",
+      "date": "2026-05-12",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHp6cDViZDV5T2xHZVZHcHZzTGZzeEFOZGZVUUhQeGVNZjV1Y2ZXeUY1UjRKTm1rNk44NnNYSG5WZkdIVTQyaGdFLTI2WE5mZjVYNjVXXzVkLVRVVTR2UXVkWmY3SE52SUNCNG5YY2d0Z0FmOTVZVDBkTkdqR3BSeU9DeHVZbzJoeHF2R0JFaVhHODl2aVVkb2dTMEZsdTdidi1hTFZISTREc29BVEwwTG9R?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-12 21:21 UTC"
+  "last_updated": "2026-05-13 03:38 UTC"
 }
