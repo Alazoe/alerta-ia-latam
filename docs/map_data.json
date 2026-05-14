@@ -2269,18 +2269,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "d2d87d6cebaca6b5ac04969e7db4d876",
-      "title": "Influenza aviar en América Latina: vigilancia permanente ante un virus que sigue circulando en la región - avinews.com",
-      "source": "Google News - Perú",
-      "date": "2026-02-13",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPckdRUFRfQlljQ0FUcEZ0MWVwUDBwXzBCY3dXdEJKU2dmamc0SHZDc3VPMlh2MXhmNjRYU0RTLUFwbXFNU3F0MFhGdktDajhlZk5NYms1X3RNLVNycTdXVnExeWc0TlZWQVJ4Y3M4a1c0a0NqcUlYNDg5TVVUd2JDa2JR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "3800d3bc0fafce897f5b3817b8149709",
       "title": "120 mil aves ponedoras serán sacrificadas tras detección del primer brote de influenza aviar en un plantel comercial de La Araucanía - Diario Financiero",
       "source": "Google News - Chile",
@@ -3601,5 +3589,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-13 21:27 UTC"
+  "last_updated": "2026-05-14 03:38 UTC"
 }
