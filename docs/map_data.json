@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "aab9b904521776758ed109949a4846f2",
-      "title": "Gobierno revela que se sacrificarán 600 mil gallinas tras pausa de exportaciones por influenza aviar - BioBioChile",
-      "source": "Google News - Chile",
-      "date": "2026-03-26",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZm9ObE9DeGhSd3dJT1lHVVNfQnlBX1dzR0xnQlRfTW1vWi15cm9qR3V6cDRLRnUyQzNXSzQ4cFAyYTQ0NGFVNWZ3NG9IWjZqUTRhOFpkTTlxRHJJTUJDX3BQVDFvbXVERWliY0Ntc0ZoeWRJa19ESDNQOVlydjRxQlFoUkgyLVR2a2ZCU01yQXlsWjlmUkRzTkduWkNqMG5KLXRBMUJIQUcxNnE5TVFEUll6NWcxd1VBTDg0bi1XbnV6TzdJZ20xdEVDVWR1RU1LMWhWZkk0SmJaWC05UjFUVmI0VnlxY3Z3MTA5Z0JCY0RwUGxRYTZRT2NHQndGMU5ad3JSb2V4WTNHckh4NkZQYQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "895f1efb28484625fabf21d808a10bce",
       "title": "El ICA activó alertas sanitarias por riesgo de influenza aviar en Antioquia - agronegocios",
       "source": "Google News - Colombia",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZzVRU094Vk96cjh1eG9CUzkya0tRSEJ6S3lLNTdGSGNQMnd6VkVuM0FLYWtUZldHRzlOZGpvd243Qmp6Qm9lM282Unp2akNWSXlYdGhZMkFCUGU5R21mV3ByTlJjdzEtM2pSNGRQSkM3a2JSLWVTU0RkSjkxRUYxa3BmcklTd3ZnRG8zUFRtR1pGRFh4MUxSLXZrZlBQVld0QkY3dTk0QjBjSTFBWGdaQXpmNXkydGxUYl9BVm52cUdqOVUzOHowZ2dyOHU0SGx3VTdoNWJmMVRZaTlp0gHcAUFVX3lxTFBnNVFTT3hWT3pyOHV4b0JTOTJrS1FIQnpLeUs1N0ZIY1Ayd3pWRW4zQUtha1RmV0dHOU5kam93bjdCanpCb2UzbzZSenZqQ1ZJeVh0aFkyQUJQZTlHbWZXcHJOUmN3MS0zalI0ZFBKQzdrYlItZVNTRGRKOTFFRjFrcGZySVN3dmdEbzNQVG1HWkZEWHgxTFItdmtmUFBWV3RCRjd1OTRCMGNJMUFYZ1pBemY1eTJ0bFRiX0FWbnZxR2o5VTM4ejBnZ3I4dTRIbHdVN2g1YmYxVFlpOWk?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "a29cd27a732597509888f10374665693",
+      "title": "Entre Ríos en alerta por brotes de Influenza Aviar en Buenos Aires, Córdoba y Uruguay - Diario El Argentino",
+      "source": "Google News - Uruguay",
+      "date": "2026-04-05",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSUZqQVZWVm5oMU11RWNjLXRsQjU2bUdRNjdKWEh6bVlCSHhUclBPNVJUaTRWSTlmTGRnVDJPbWJZbUlZSTZJV21XZjBobWFDUTRXOTQ2dDU2N3Q3NU1VZ1Z6ekU5cEdMbTV2R19kQmhwTTZaZUJRWUh3akVVRk1hSTRWQWFFdFRCeTR0Q3VhSUIyd2hoc0xpbXpiWmdDaUxlcG1LMEliWVRteENLUEdfMXNXQVNoVnVudzVkU3ZpUHc4OXJhbDVPd0kxNjLSAcQBQVVfeXFMT3hlZ2NOTDJDb2ZUcEZ1RjZFNkJZUC1meF9MZ2xfbXFvSGRGXzFmWDJORXVmdXBJelg3NU5mX2xnR25TZlBESlFiSWxDTk9uQjliNkVsX3hjNXNaeW9acFdvZVdQWWV1SVBzemFqUm13Mm5oTlJZVHBIcFZWR1hUQmFZX1RyMWEtU0IyUzVjb3R1Y25kU1F2dmxLNG9tR0ljTGdCaHBkWUk1cnFhV1RVZ2E1SmE5anhfcnlIek1pWG9jbmZlRQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-05-14 17:53 UTC"
+  "last_updated": "2026-05-14 21:12 UTC"
 }
