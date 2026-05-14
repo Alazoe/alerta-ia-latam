@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "fe4015de81444d305810a754a8bec58a",
-      "title": "SAG detecta primer caso de influenza aviar en plantel industrial y Chile suspende exportaciones - Radio Paulina",
-      "source": "Google News - Chile",
-      "date": "2026-03-26",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQLU5YbUFrU0JUQ1o4MkxaQ2NiV3BSS2hscFpPMTdXaFROS2NHUUxFaC1KZDNhblUzS0NkZTYxZzF2aERzRVo0M1FiUy02b01vWHU3QzNvTU03ZklsOTdaVDJPWE0tRlhVUzFKNElDZll2WWcwTHEtMkhUdVZqX2VNNU5xSW9MWFk2bHNBQmJ6akdEM0hTWDBNYklRcXhPV2dxVmxydGFTVkw2MnA1bXlqTUVMV3dKSkNKdEo5cXcyTGhIOVJ2cWZzaFJkb9IBywFBVV95cUxQLU5YbUFrU0JUQ1o4MkxaQ2NiV3BSS2hscFpPMTdXaFROS2NHUUxFaC1KZDNhblUzS0NkZTYxZzF2aERzRVo0M1FiUy02b01vWHU3QzNvTU03ZklsOTdaVDJPWE0tRlhVUzFKNElDZll2WWcwTHEtMkhUdVZqX2VNNU5xSW9MWFk2bHNBQmJ6akdEM0hTWDBNYklRcXhPV2dxVmxydGFTVkw2MnA1bXlqTUVMV3dKSkNKdEo5cXcyTGhIOVJ2cWZzaFJkbw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "aab9b904521776758ed109949a4846f2",
       "title": "Gobierno revela que se sacrificarán 600 mil gallinas tras pausa de exportaciones por influenza aviar - BioBioChile",
       "source": "Google News - Chile",
@@ -3587,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZm8zNjZ4dEVUc3RqNzYtQ2NESHAxSDlwWWxIb09lYlN0RFNPTnJrelU4WkNFTEJFaUw4dU9wTmtrREt4NzcxRDZGOFg5akJyVnJpSzlGbjlVVE1QdTZLaW5nNVpLakxHLVFITGwzWVI5VmFqQkJSYjA4RU01REk4ZGRWVHFZZWcyUHBSUHQwTy1TaERWMm5aNkZKd2ZMMnpiOU83NUFVTlFSbjg0eEx3NWs4UHBhMXVmTlc3bDdDRnVncGFxbW5oakVoeFE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "a3356afc5b26e9279b30ecd8d1aa6d3f",
+      "title": "CHILE EMITE ALERTA SANITARIA POR INFLUENZA AVIAR EN PERÚ (27Mep26Flc) - Fathom Journal",
+      "source": "Google News - Perú",
+      "date": "2026-05-11",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsMk9EaUE0LUhpRHh1Zk5NOG9mRTZTVkhMSFpDalRCeElIaU1KckFadGRnN3BwSUNZTXZkaWpydklLeWJiN1dKNF9QbFVlcW8zTmhaV25KOVF1MTRGMDZiejhEaW1uNmtHLVpiZWFuOFJkQ05SVFE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "504c645747e5a1678135d2505b7c502d",
+      "title": "Detectan brotes aislados de influenza aviar en Lambayeque: al menos 128 aves murieron - AP Noticias Perú",
+      "source": "Google News - Perú",
+      "date": "2026-05-12",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQZzVRU094Vk96cjh1eG9CUzkya0tRSEJ6S3lLNTdGSGNQMnd6VkVuM0FLYWtUZldHRzlOZGpvd243Qmp6Qm9lM282Unp2akNWSXlYdGhZMkFCUGU5R21mV3ByTlJjdzEtM2pSNGRQSkM3a2JSLWVTU0RkSjkxRUYxa3BmcklTd3ZnRG8zUFRtR1pGRFh4MUxSLXZrZlBQVld0QkY3dTk0QjBjSTFBWGdaQXpmNXkydGxUYl9BVm52cUdqOVUzOHowZ2dyOHU0SGx3VTdoNWJmMVRZaTlp0gHcAUFVX3lxTFBnNVFTT3hWT3pyOHV4b0JTOTJrS1FIQnpLeUs1N0ZIY1Ayd3pWRW4zQUtha1RmV0dHOU5kam93bjdCanpCb2UzbzZSenZqQ1ZJeVh0aFkyQUJQZTlHbWZXcHJOUmN3MS0zalI0ZFBKQzdrYlItZVNTRGRKOTFFRjFrcGZySVN3dmdEbzNQVG1HWkZEWHgxTFItdmtmUFBWV3RCRjd1OTRCMGNJMUFYZ1pBemY1eTJ0bFRiX0FWbnZxR2o5VTM4ejBnZ3I4dTRIbHdVN2g1YmYxVFlpOWk?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-05-14 10:20 UTC"
+  "last_updated": "2026-05-14 14:20 UTC"
 }
