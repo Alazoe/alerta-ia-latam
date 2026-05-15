@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "2c7e992fbebf72934506044cc319ac03",
-      "title": "SAG confirma caso de influenza aviar H5N1 en aves de traspatio en la región de Valparaíso - SAG.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-07",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONkRoVjA4OWlEc0FoQ3dKTDAtUmlKZW9RMTNwRkpyNTBBLXlPRlpkZ0w2Qk5QbnZWZTVKUXJ6UDlOQzBGakJ6UFRTQS16OUJldFVSZEdqZmEzU0tRWk05NUxOaUZsNlQ3YXdwZmZxTmlBQWhfbktLUEtoUE1ENG91c1NhY0JKSXVZQzB0anJBVmNEbFRlSzhLcXZ2VTIxR2VBV1hWVV9zOXB1elQ4SVo3cFE3VlEtZDc4dHdPdg?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "c8112ef7166aa5c48ed363c064580a67",
       "title": "Universidad de Talca cierra su Jardín Botánico tras detectarse influenza aviar en aves - BioBioChile",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxPajdMVXp2RFJwcUJEOVpIZjREVlFYLU1iNVJoYUprSEtlOWVhM0ExS1VZRVJFZ0dycmVZdmduSmpCZW5VYVlpVlN1djhrOEVhU0JxYjV6OEdoSWhic2ozRzF3R3R5ajlsS01wSHdBWlgwM2lMdE80TWVnQ1drU1V4b0N1YUJfQTk3cGdTMnJsRjBHZVBxdkFwZmhDQUpES21wUzVSSHhQYmUxUnNfbnFqSGtmMDVCa1RnbnVPRm93aWtvbV9KWUlDSkxZTE5zV3N1R3pUempvZFZqRFQ3azltVHRRSndCWTQxWlROQlA2UThIUGhFcHZ4YjZRQWJLdWF6b3pDMi1fc3BqZ2xnSGo5NGRiMkwxeWNsLUJsWmEwVjl2dGZ1NmJ4Zk9DVDdaNndtak1uRXh1eVVxMmtFN1VjOGRrMkI4UXdXRE4wVQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "d992990301e90db5fe1a51814823107a",
+      "title": "Laboratorio de la Universidad de Chile queda habilitado para diagnóstico de influenza aviar - reporteagricola.cl",
+      "source": "Google News - Chile",
+      "date": "2026-05-15",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSEs3ZXBEV29WQUdHcjVDRWZGd3g3dVhBYzBVYlh1UDg3c0g0VXJqMDhJVHdfUGZHcVBxZ0l6bG1XV0J6cDY5c2tPQ3RaNkpnNXdubVZVcUlaRkRVcWNzQS1hdUtHVFBVTklYNkFwX2dDZkdZNm5qbTdwOXlqdTVjVThMYjVSR3lZemhZVHFuUEpDVEtpQW5KOXcxUk5ZOG1SM0ItbV9lVTdBb1NoNmxYMl9FcDg0M2dZNWFfMUNyR3RXUXhIdzBiNzhCVE5hTzdlQ1ZSd0dUZWxUMnc0?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-15 17:40 UTC"
+  "last_updated": "2026-05-15 21:04 UTC"
 }
