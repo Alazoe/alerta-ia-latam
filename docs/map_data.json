@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "c8112ef7166aa5c48ed363c064580a67",
-      "title": "Universidad de Talca cierra su Jardín Botánico tras detectarse influenza aviar en aves - BioBioChile",
-      "source": "Google News - Chile",
-      "date": "2026-03-26",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQNF9VeTZQM0djUFRScTVITUI4TjRCMkhhRzVHUkg1WW1aQzFveWdkQ21SSE5HRlZyQUc1THpMbTBnQUJBWTBZZ214S0pydWZ4ajhWQ3ZXNE9yMFc4OXBiWWFXS2gxcS0wNEhXckhqTEVnY2lLQnQ3SHl4WlR5Q1ZMN3k2YV8xbDctbGpBX1pXMmIxSzlqWEh1eG9KRVgwUDJGODVIakdxNTFqTFh0X1RVY245NVZBTGZocGJwQ2tYVDVuVzloQkVEaUdiYjk3WVRubllRVGVlRU9LanhpcWRzQk8tVHoyTlBOSWZBdnVDYUpaYnJFVnJGVA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "415bdbbb86f7b50d174b90ae8f87afbd",
       "title": "El ICA activó alertas sanitarias por riesgo de influenza aviar en Antioquia - Agronegocios",
       "source": "Google News - Colombia",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSEs3ZXBEV29WQUdHcjVDRWZGd3g3dVhBYzBVYlh1UDg3c0g0VXJqMDhJVHdfUGZHcVBxZ0l6bG1XV0J6cDY5c2tPQ3RaNkpnNXdubVZVcUlaRkRVcWNzQS1hdUtHVFBVTklYNkFwX2dDZkdZNm5qbTdwOXlqdTVjVThMYjVSR3lZemhZVHFuUEpDVEtpQW5KOXcxUk5ZOG1SM0ItbV9lVTdBb1NoNmxYMl9FcDg0M2dZNWFfMUNyR3RXUXhIdzBiNzhCVE5hTzdlQ1ZSd0dUZWxUMnc0?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "2b099fd6006ee3f4bb8a8807e3b870c7",
+      "title": "Chile: la influenza aviar está afectando más a cisnes de cuello negro y otras aves de agua dulce - terram.cl",
+      "source": "Google News - Chile",
+      "date": "2026-05-13",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYXh4U1dqcDE3aDFmVEhxYlVPRVByUDVMOExXZE5FTV92VGtQMlMxV01VVEtTM294aTkyZHlLcU1PTjlHeU45RnZfYXl2U3Z6bGhPSnNvekJrSktPalpRclctMTZRNVgtWHAyT2FKenlLVkZmODlJbEFDakx4LVpCdm01alZ0ZDBaSkRoVFdJQm1POXYwS1RIT08xSXhsQjFrSGpHNmFDWmdlRXFjZEVXRWdzMmh0aHhsT2c?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-16 03:25 UTC"
+  "last_updated": "2026-05-16 06:23 UTC"
 }
