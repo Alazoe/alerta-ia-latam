@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "415bdbbb86f7b50d174b90ae8f87afbd",
-      "title": "El ICA activó alertas sanitarias por riesgo de influenza aviar en Antioquia - Agronegocios",
-      "source": "Google News - Colombia",
-      "date": "2026-03-26",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLTdVQ1JxbUNnT1pyUkFacGpmVWpYSzZidEVYVEtfNkF5dHlsRk1YNGhOTDFHdTAyMlVLdXRlLVFUV0JpLWJ1VERVMW5sQlJ6UXE5bTNhTW1hR2hXVVN2WVRiVUtzM2RuRTVRNktTazZsSlBfdFRtNU9rWUtUQ3Y0blFSZWgyX0taa3FwU19wcHlQLXJsVkhuaDJYZlNmb1hGcjZleV9Cakl4VUdBamJjRW9oT1hQdy1I0gG4AUFVX3lxTE5jYUxYR3JlTy11VEtIenNqMUxKd2Z6enJDSFJsV29oeW01VGtrSGY3bjhFNmlKQ040RUhvNnFBLUlNdVN2WEw2V1Q3SFp6dk9FVUVJTm9BV2lXR0wzbmhidTVJQk05alZXVkJoTXVKaVQ1RDFFVHg2NkNaRzVxSzlvQ2dONS1JUEl1cHJoSDRWMElPZHpDRlg1LWxXZXU4eXpTRThNeFhRbW5WUVpjamlXd2NZb184UlI?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "a03d62e28bbbae348331c18a2935435e",
       "title": "Confirman primer caso de influenza aviar en aves de postura: ¿Cuánto podría subir el precio del huevo? - Meganoticias",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYXh4U1dqcDE3aDFmVEhxYlVPRVByUDVMOExXZE5FTV92VGtQMlMxV01VVEtTM294aTkyZHlLcU1PTjlHeU45RnZfYXl2U3Z6bGhPSnNvekJrSktPalpRclctMTZRNVgtWHAyT2FKenlLVkZmODlJbEFDakx4LVpCdm01alZ0ZDBaSkRoVFdJQm1POXYwS1RIT08xSXhsQjFrSGpHNmFDWmdlRXFjZEVXRWdzMmh0aHhsT2c?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "fd0746556ace91a33944e9a542ffd66e",
+      "title": "Lo más leído | La tragedia de decenas de osos perezosos exportados a EE.UU., influenza aviar mata a aves en Chile, el extractivismo en un corredor de pueblos en aislamiento en Perú y más - Mongabay Latam",
+      "source": "Google News - Perú",
+      "date": "2026-05-17",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNUpkQXQ5di0ydl9Ib2dQWWYxZE5oWDBoNE92WWRPMXllVk00bkYteXFyY3M3WnJiakh2dk5LNzM5dGhEdGlKTU9PMHdxc19XTC1kNmd1VU5YQkhrb0RkTURPV3lIT3l0aF9jM1o4UmtFY0lvZzMwbHJkNkl2R2NTVE9pWXF5NU5rMWl5cjdBcjVvejhQN3JfZ3ctSzRFU0lMYnlweWs2TlpqZWZoNTcxRUxTajU5NWZfLXJ5ZkMtYXQ1dmwxdVZzTUsxdVc3OG4tbWNubjNjb1ItRkJKNEE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-17 13:25 UTC"
+  "last_updated": "2026-05-17 16:59 UTC"
 }
