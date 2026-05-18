@@ -2005,18 +2005,6 @@
       "color": "#ea580c"
     },
     {
-      "id": "9a9c4bc9af3ec148f97d7bbba2203b9c",
-      "title": "La influenza aviar avanza en la Antártida y amenaza a su fauna nativa - RFI",
-      "source": "Google News - Venezuela",
-      "date": "2026-02-17",
-      "country": "Venezuela",
-      "lat": 6.4238,
-      "lng": -66.5897,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWldwSVlDUzRER0VLV290U01TN01NTVNFTGl6Zmhud012WlQwZkhpQUpYbUFkN0Y3dzc4WFlKM19ES0ZwcEZZS3JubmsyLURxN2RNSDRfTGFVLW9XblU5eDlPejE5OHNES1R3LWhCNGt0Z1BxOUhncEtMU05DRk9WM3BKZ3ViWl9VOG5FM1JPVFQxdS1ROUo3c1FfSUVUMTBUbFFrUjk5SW1tckxjdTl5clZtMU5MREZBMEx6ZVpoYTA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "6b63a9df78038f118d8737c37ce9a981",
       "title": "SAG confirma primer caso de influenza aviar en un traspatio de La Araucanía y refuerza medidas para detección oportuna en todo el país - Home | SAG",
       "source": "Google News - Chile",
@@ -3601,5 +3589,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-17 20:55 UTC"
+  "last_updated": "2026-05-18 03:55 UTC"
 }
