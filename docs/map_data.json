@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "a03d62e28bbbae348331c18a2935435e",
-      "title": "Confirman primer caso de influenza aviar en aves de postura: ¿Cuánto podría subir el precio del huevo? - Meganoticias",
-      "source": "Google News - Chile",
-      "date": "2026-03-27",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbDJnZWNvalp0bWdzdjlPRFgzdE5jcnJIN2ZGUDJsbU03alFfdEc5V0xlbXJSVy1ja216UnJXYmJUU2NSZk1kWHQ3ZFBDUU1DcllGTk9uejlEYzB1d1dzc3Q5RVFDYjZQek5aSl9XRExLQXNHckt6eGgwSzhhRVEzVTY0ei01dDRUV3FsME1HWHBVa0FqUzlNcUpmSU1xMTRqNGQyUmhMUEV1akMz0gGyAUFVX3lxTE8wZ2lKRGFzMFJNZlM1VS0tc2RNSE1VY1YyQ3ZPaUVZWlFXaUNZNk42dE5ZdWJ1UTdoeXNEREZqdFNIaFlwOGlYLTVFVXhWMGdUdWJsTkkyVXhaRmxaUEwyLUZwNExGdHQtODVGSnNIV0VPRGl5eGFOai1KOWYyOUJtb3VwWWszN0N3YW91SXFyTWl2X0FvRllna1R0Y19YcW1UMEl6aGxTMnBCWTNmWmFsWlE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "b68929cbae37f02d5abeb43086638a4d",
       "title": "Brote de influenza aviar en planta de Talagante obliga al sacrificio de 600 mil gallinas - puranoticia.pnt.cl",
       "source": "Google News - Chile",
@@ -3587,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNUpkQXQ5di0ydl9Ib2dQWWYxZE5oWDBoNE92WWRPMXllVk00bkYteXFyY3M3WnJiakh2dk5LNzM5dGhEdGlKTU9PMHdxc19XTC1kNmd1VU5YQkhrb0RkTURPV3lIT3l0aF9jM1o4UmtFY0lvZzMwbHJkNkl2R2NTVE9pWXF5NU5rMWl5cjdBcjVvejhQN3JfZ3ctSzRFU0lMYnlweWs2TlpqZWZoNTcxRUxTajU5NWZfLXJ5ZkMtYXQ1dmwxdVZzTUsxdVc3OG4tbWNubjNjb1ItRkJKNEE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "5e2c3ba9296b279544d8fb04aa9d8f8e",
+      "title": "OPS registra 75 infecciones por gripe aviar A (H5N1) en humanos entre abril 2022 y 9 de marzo de 2026 - La Web de la Salud",
+      "source": "Google News - México",
+      "date": "2026-03-12",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmpVWXFWSFhHYXdKc1RpNnlBbWNGQUNkZHE3TkhWeUR1Vi1LTnlfckdGZmhRM3E3aGxBemdETmhtejVCY2oyZk1QYWFhdVVCRWhkYktYRTVVOEVFU1FySm1nOUZHV1E4ZXBiQzExX25BQ1BKWWR1MHdyNzZPWnc1OVpxMzIxdHBRa1kwWWczeVhYLWdUQUY3NDBOLThleFlFMHpXNnVWcGZlZ3JQcmctaVd3XzdoSG9SenpsM3QySTM3UjRLaFE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "24c9054c500491f9eee2c9a9f545b63f",
+      "title": "Más de 140 millones de aves han sido eliminadas por influenza aviar en granjas del mundo: OMSA - Noticias - Almomento",
+      "source": "Google News - México",
+      "date": "2026-05-15",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2NrNWppSFBZcmZqUDhDUVM0YTk4RGFfVUFlbUlMSGpoeEFDUzJSMWl3WXZxNVg0b29UdkR4Z3F4SlQyRFQtR3I4WjFBRTJ4MldPZjVheEJqQkU0T1lEMFNwS3hwcUI0d1FEN1N3Y2xxRnlfMmhRODlRQmMySEhrenAwX3RwS1JpRFAzaTlnYkYwa0U4YXAwUWh3ZlBQeHNDam8wVDZDUWo5UnhMeUxsSmh3THdhZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-18 08:06 UTC"
+  "last_updated": "2026-05-18 15:37 UTC"
 }
