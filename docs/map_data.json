@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b68929cbae37f02d5abeb43086638a4d",
-      "title": "Brote de influenza aviar en planta de Talagante obliga al sacrificio de 600 mil gallinas - puranoticia.pnt.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-27",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeldqWUlvS2VPZFI4ZmRKWDJlUG9iSmk2bzVpRm1rSEl3ZjFPUm1acy1hX1dnVG5fSllINXQwVWRrTTY4bk55ODI2V0NjSkk4WlVvZjA4OXg4d09Qa1NKMzhzTk15Z2FEZGxnVUJfRUVhZ2VhM0t2M2ZHNEJSdXhkaEhMRFNHREFTUGUtMkExb3o2cXl6Q2F5V0hpeGk1QUR1NFU5NzlRUmw2Z0tpYll2bQ?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "bbac515a731545accca8716a71fedeb4",
       "title": "Influenza aviar en Chile: el virus que ya cruzó la línea crítica - Diario Digital El Calbucano",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2NrNWppSFBZcmZqUDhDUVM0YTk4RGFfVUFlbUlMSGpoeEFDUzJSMWl3WXZxNVg0b29UdkR4Z3F4SlQyRFQtR3I4WjFBRTJ4MldPZjVheEJqQkU0T1lEMFNwS3hwcUI0d1FEN1N3Y2xxRnlfMmhRODlRQmMySEhrenAwX3RwS1JpRFAzaTlnYkYwa0U4YXAwUWh3ZlBQeHNDam8wVDZDUWo5UnhMeUxsSmh3THdhZw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "80f741e0452b4a249df272fcced5f96d",
+      "title": "Brote de influenza aviar: SAG aclara suspensión de exportaciones a China y descarta aviso de destrucción de productos - MSN",
+      "source": "Google News - Chile",
+      "date": "2026-05-18",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxQQUdhdkloeDlTcVlzVWVaVEFoVTJqTmtDbUI3ZHdEVWpacUpuT0M1eW92bVIxNGhQU1RpVUZzVmhNRkF1dTBGUUVKYmxVTlU4WFgtQ21XNWVEeVdxeHNld1VZTkxJMkQyQ3FfcURzRGhfNTJSZlZyMEk3OWhfVVl2TWNtT0tlNXdUaXpGcFJhTWxiOWZFSDBpdnR0NlJIUDl3RmJKTW9JTDlYT1k0NjRDOGpVQXFiaENFYmJBM3JzX0xCSnY5aDRUWWk4ekRrS2hJT1BHWUxXZWlobjFXZ1pRNDlwOGF1cWNUT01NRjhMeWFFYldybVVrdjZnenlyTUlLckhCMGdUQkUtNks2Ukp3TXY4NUc1UlNNQS1IUzdLQlJJVGdOa09OLUszMWlnXzNlVTNHMnJJdWhxVWFONW5SdEVoRjdYVUZqRGFlLXlKX0d2bDlwTnNCY2pDeUFycGhhSkwwdHFnR09LOVByNS1oUnRJU0xpNFhmWE10Y09GQVBnT0t1bVVaRGpTUmxiY1pDRS1ldnZtRW5HanhoQVdTaEpZOUNWYno2dmZNbE04VEJuYlZFQUYtcTNVZ2ZwNjZadHdTaHhUVW10OW1IVlpFdU1oTFpCS09LX2k4QXRqM0tWZHM?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-05-18 18:02 UTC"
+  "last_updated": "2026-05-18 21:14 UTC"
 }
