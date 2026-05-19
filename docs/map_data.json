@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "9d3b2ea4257e6359201cf84cf635a207",
-      "title": "SAG refuerza alerta sanitaria tras detección de influenza aviar en Argentina y Uruguay - puranoticia.pnt.cl",
-      "source": "Google News - Uruguay",
-      "date": "2026-02-25",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPckh2alVuVHp0bHBQWkZmaVdXV3BJd0h3c2ZyRUxYRS1OVWVjcXpoX1JfczhheksyWkpFZnZmSWswWm5UZkdCVl9KSDh0NDdSREplTWs1LVZvVjRaOVJwMUFSWnR6S0JMWDVBRm4yUkJjOE9WbnBfT2dlMERpY2MyLUc1Q0lvOFRoR0FFQ01CNDJyY2VaQkZRZnhBZ2N0S2RZOHU4Nw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "89ac3e224e1c13b3d448819c2d8841a1",
-      "title": "Confirman primer caso de influenza aviar en aves de postura: ¿Cuánto podría subir el precio del huevo? - meganoticias.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-27",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbDJnZWNvalp0bWdzdjlPRFgzdE5jcnJIN2ZGUDJsbU03alFfdEc5V0xlbXJSVy1ja216UnJXYmJUU2NSZk1kWHQ3ZFBDUU1DcllGTk9uejlEYzB1d1dzc3Q5RVFDYjZQek5aSl9XRExLQXNHckt6eGgwSzhhRVEzVTY0ei01dDRUV3FsME1HWHBVa0FqUzlNcUpmSU1xMTRqNGQyUmhMUEV1akMz0gGyAUFVX3lxTE8wZ2lKRGFzMFJNZlM1VS0tc2RNSE1VY1YyQ3ZPaUVZWlFXaUNZNk42dE5ZdWJ1UTdoeXNEREZqdFNIaFlwOGlYLTVFVXhWMGdUdWJsTkkyVXhaRmxaUEwyLUZwNExGdHQtODVGSnNIV0VPRGl5eGFOai1KOWYyOUJtb3VwWWszN0N3YW91SXFyTWl2X0FvRllna1R0Y19YcW1UMEl6aGxTMnBCWTNmWmFsWlE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "91c2c8ee57a0b37bb5b741642a07e0f2",
       "title": "Nuevo brote de influenza aviar en Río Negro: el SENASA activó un operativo sanitario - infobae.com",
       "source": "Google News - Argentina",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT0xVNjZvMDNzcEhtc20tMFhfcGhYMVU3US1DelU2eXVGWnBBVnRRYU1xU3ZNM3RzSnI2M2g0ZjZTTm1fbDM0SVNuTFByZ1R5TVF3ZzdlUkVFT3pjdE41S2lGdEpyREFlS1FlNHNZQUdGcUYxZGY4RVJNWTJHTFVqQ0ljcEx5cExmUTRsNUx5N0FXVGlBNng4UnR4MjZZczFLM3lDcVp0cDQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "bffbfee78b33e2f4e57cf72e5b92272a",
+      "title": "Ñuble reúne a sector público, academia y productores en torno a la influenza aviar - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-05-19",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ096SklsNUt6QkQxOGtVOWdTVldVakhPc1Z4aVA5OGJBMW5Ud0pkNU9HMDRSTGd1dy1pUnMxNFFlWnM2TVNsdXBXVGI5cEJiZnlJcWJQZVVXS1dNc1RTWnBZVUIwaS1YRVFnSDNOWWRocjJ0NkhqYlFFNi1EdW1NYl81aEV6R2ZSNlFaMWhBVmxYOGpfeUo0UkVRY2hqWEFsR1RNUlVuQ1JPZHl3UGZ4cThsRXpMQWNDSWlSenRkTXN2UQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "983bac5a2853e162f4d4514d7d393238",
+      "title": "Capacitan a productores avícolas para prevenir casos de Influenza Aviar en La Araucanía - reporteagricola.cl",
+      "source": "Google News - Chile",
+      "date": "2026-05-19",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbFptZ2JzV28yZU1oVXNkbmM3NGVuYWJHZDFVa2ktX2FYaGxCdnhQeUJ6QmlkNzdzS0hWcXpPVGVpQk1wTE5MSHR4WU5ZZFVmMGJ0NWdtU2Y1Zi1OMXM2b0x0SW96U0QxN29rbDc3UGItMkRNVk1aOC1fellYS1F2dkVDMkNPUUlGSGhVb3RPM3YtVUNuZllPOTI3TXpNMGtQVDN4eWZEZXBUX1lTOVhibWY2dW1CYm1RaWtzRWRmSzBtVTB2ZUJMVmhfQ2JnT2Ry?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-19 11:21 UTC"
+  "last_updated": "2026-05-19 15:29 UTC"
 }
