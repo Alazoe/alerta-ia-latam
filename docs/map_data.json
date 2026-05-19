@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "bbac515a731545accca8716a71fedeb4",
-      "title": "Influenza aviar en Chile: el virus que ya cruzó la línea crítica - Diario Digital El Calbucano",
-      "source": "Google News - Chile",
-      "date": "2026-03-27",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXzluN0ZNS3gxbjhPcjYtY1JSb052Nko0em5NcjN2X3oxYktwVE9NZmJRamtjRDJGci1PWVlrVUJkOTJTMWFvMl80YWlLVWlFdmh1Y0hxajF6QjFiaXBwVVhZbWJtcGxQNWZhNDUwSS1ueHlHTmhtemY0UXlJYWxuSmQ4WjJDYWRIN3dlYWhqZEw5NDJqd3NNV1dGd3AwMVpl?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "b92effa5b9640c72c0134b3225858ee5",
       "title": "Nuevo brote de influenza aviar en Río Negro: el SENASA activó un operativo sanitario - Infobae",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxQQUdhdkloeDlTcVlzVWVaVEFoVTJqTmtDbUI3ZHdEVWpacUpuT0M1eW92bVIxNGhQU1RpVUZzVmhNRkF1dTBGUUVKYmxVTlU4WFgtQ21XNWVEeVdxeHNld1VZTkxJMkQyQ3FfcURzRGhfNTJSZlZyMEk3OWhfVVl2TWNtT0tlNXdUaXpGcFJhTWxiOWZFSDBpdnR0NlJIUDl3RmJKTW9JTDlYT1k0NjRDOGpVQXFiaENFYmJBM3JzX0xCSnY5aDRUWWk4ekRrS2hJT1BHWUxXZWlobjFXZ1pRNDlwOGF1cWNUT01NRjhMeWFFYldybVVrdjZnenlyTUlLckhCMGdUQkUtNks2Ukp3TXY4NUc1UlNNQS1IUzdLQlJJVGdOa09OLUszMWlnXzNlVTNHMnJJdWhxVWFONW5SdEVoRjdYVUZqRGFlLXlKX0d2bDlwTnNCY2pDeUFycGhhSkwwdHFnR09LOVByNS1oUnRJU0xpNFhmWE10Y09GQVBnT0t1bVVaRGpTUmxiY1pDRS1ldnZtRW5HanhoQVdTaEpZOUNWYno2dmZNbE04VEJuYlZFQUYtcTNVZ2ZwNjZadHdTaHhUVW10OW1IVlpFdU1oTFpCS09LX2k4QXRqM0tWZHM?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "11beff528505d87967efd500e7360516",
+      "title": "CHILE EMITE ALERTA SANITARIA POR INFLUENZA AVIAR EN PERÚ (27Mep26Flc) - fathomjournal.org",
+      "source": "Google News - Perú",
+      "date": "2026-05-11",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsMk9EaUE0LUhpRHh1Zk5NOG9mRTZTVkhMSFpDalRCeElIaU1KckFadGRnN3BwSUNZTXZkaWpydklLeWJiN1dKNF9QbFVlcW8zTmhaV25KOVF1MTRGMDZiejhEaW1uNmtHLVpiZWFuOFJkQ05SVFE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-18 21:14 UTC"
+  "last_updated": "2026-05-19 03:49 UTC"
 }
