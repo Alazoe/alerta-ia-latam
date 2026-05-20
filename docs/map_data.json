@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "91c2c8ee57a0b37bb5b741642a07e0f2",
-      "title": "Nuevo brote de influenza aviar en Río Negro: el SENASA activó un operativo sanitario - infobae.com",
-      "source": "Google News - Argentina",
-      "date": "2026-03-13",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdGRub2VxRWlXeFNCNDhkdlhJWElKaEFQQkMyZDR2ZUstTV83LTFsWWtTTHJjZExzXy0taGlKbm9zR2QzelczTmVSWFk2ZHpmWmN0X180c2xYallfQ0s5ZzBGTzgzdFZMZWR0NUZ1YTViOXYwOFVoN2hlS0tkUWpEMEo0NHpVSlBzSlo0VFBQdjhlMVVFVmczajNwWS1ESDBHY1NCQkdzalprSUJpbnc5b0M2STIyRm8yOU16elJLaEVaMlZHZTZJ0gHiAUFVX3lxTE8wQ3hRUm1uX2pSNWlrQkk2SUVjR3Bic3ZtY0xwbjNLeF9odGNhRTRUR0ozN050alRKNnlEd0RYbUhfQUVjWHd3ODNtN0M0b3lUZ3VrMHVPUUViN0FpeUtYVjd6SGtSRGMxQzRXS0MzMEVrTVRJX2llWUNFcDJiSEdReHItd01KU2J6SmxKWXplWmltTWhpVkpUVVg2LVFGNEZVVXRONXI0SDg1bUYtbmZMZnItNzU5NWlhNVRtNEVBOENnOHBCVWJmRy1LQkNCLVdXRHRmUEtvQ3UzLThWVWhfN3c?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "ef34a41643439e39912e0f51dec6c693",
-      "title": "Detectan primer brote de influenza aviar en Colombia en 2026: ICA explica impacto en consumo de pollo y huevo - infobae.com",
-      "source": "Google News - Colombia",
-      "date": "2026-03-10",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOOXhHX1pOZnE3X0JybWY1cV85czhIbWFVZ2FYRWR6bnJBQ21zSE1uc2FoNFkwWGtsZ2lkVF8xb3FWVkNRVXoyR3ZNaUdObXNGRjY2TWt1NEYwQlFKQ0VqcloyZjVuQ1dQcHJZSzFCYU94RFdEOFU1VTRNMXVJUUlXWkM5TF9mZmM3Z0lheUUyMnhwbTdQZXctcmtYMDZYWjFfV3E1RGM3TjF3azQyVm5tX3hNdHhKVlVEY2RkcUJHYzdaWTFuOXVOMV83S1JSMzhmc1NTcUMzZHZEcWdCMkVVS2pQNjd0YUJR0gGDAkFVX3lxTFBwTHlwNVB4RGtVYkhQRS1UMVZYbHJHOXRDdGpwNnl6QjJNOXNNMXMzRkppdGdJOFFlNlV4MjZFYzlYWk9FU2lta1QzWmFDUUtzRW4ybmhwa3A1YWxxeWJleFhvUkxPVXJPNVNTcnp0YndwQ1lMcEI0OVM5WWJTUzM4dEFBbnRiU0Y2WUpySE5PUVFLV2Z5Yi04ejZQQmxScDBPTGwwUUdHamlTcFdlOC0yZzNodXpWZHl3VlpNVnFXeFlka3hRejE0czVpcnRCWXNoZWRlLW0tYXYxSTRLN2RXVmFYcjFoa2xoMTZiYnFRSS04bnVjSko0VjZtU0dSaENnakk?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "bc26861c0ccf0e320adbd6a36ba97c49",
       "title": "SAG refuerza vigilancia en Chile tras caso de influenza aviar detectado en Argentina y notificación de Uruguay - 24horas.cl",
       "source": "Google News - Uruguay",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbFptZ2JzV28yZU1oVXNkbmM3NGVuYWJHZDFVa2ktX2FYaGxCdnhQeUJ6QmlkNzdzS0hWcXpPVGVpQk1wTE5MSHR4WU5ZZFVmMGJ0NWdtU2Y1Zi1OMXM2b0x0SW96U0QxN29rbDc3UGItMkRNVk1aOC1fellYS1F2dkVDMkNPUUlGSGhVb3RPM3YtVUNuZllPOTI3TXpNMGtQVDN4eWZEZXBUX1lTOVhibWY2dW1CYm1RaWtzRWRmSzBtVTB2ZUJMVmhfQ2JnT2Ry?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "a5e8432bccfccb9c64b06745e4484a72",
+      "title": "Refuerzan medidas de bioseguridad para evitar propagación de Influenza Aviar en Región de La Araucanía - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-05-19",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPb3NSRkZWNnFBdjhMS0dtMDUwZVZtY3F5R1ZKTEhSVVp2dlhhblhRN2dneWQ0M01iSnZRaUNEOHl5eTdLYkJvcFZBTDBHQlpkN2FIVGRWeloxckRsQm1Nalh4dGpTTDMxWC0yRWM3dGh1VC13a3otMV9Vb1RNb2JCN0s0Rkt0ZS16aUJENU1mRS1fWk05VGljZ3dvaXRQOTJXRWc0NFhuclhVWmRkWkFCQThQTXQyaWhla3dRT2lfS0ZlZTVDN1JReU5CbWVnaE5pTXQyeDYwLVZBN1B6SFE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "635b974e7ef66a935d3c71af7cec5089",
+      "title": "Influenza aviar A(H5N1): ¿México en riesgo por la detección del primer caso humano? - radiosonora.com.mx",
+      "source": "Google News - México",
+      "date": "2026-05-16",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjQ0NUJQc1FESE5MbzV1UHhPY2prd015WTlXOUNXNW84RDJwNlNhZ2Z0YTFxTGJFb1FaRDBmSFZvNzI4NUZHNUxsa3VNWnFFQ3c4aTR4b3JjTzhNZ2lfLURwYno4MmNmV2tjcHUyQ0k0dmZoMkc2aWg2UzNDbG5MV1dqN21BalZCMkZFMVRRb0FEM0QtVGV1LXpvN21TTFM0TC13UzFHLTlscGJhMmM0?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-19 21:21 UTC"
+  "last_updated": "2026-05-20 03:49 UTC"
 }
