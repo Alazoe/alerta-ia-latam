@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "3969b3a4195bde329d970823b8a70023",
-      "title": "Crisis avícola: 600 mil gallinas serán sacrificadas por influenza aviar en Chile - El Dínamo",
-      "source": "Google News - Chile",
-      "date": "2026-03-28",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSG41eFgtSldneldBTkdabHNuMV9rVDdkUzBTQ1pweU5TOVVabjcwVW1mbERQLWRXTGNGUkUwTDlZNnJtVWNMbDlldF9mOWQwdDZzM1RXNF9zdnpfeXQ0RUVGNGhiV0t6ZlJXSk5odF9YOGlSZDctd3VrN0g0bHkxVHFXYnl6UTE1di1FYXJmT200RjlXVHREb21sa1doWURxWDhFMDZlWjhtNTEwaTFtUlNBbmV4YURaMTZvTg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "0f76bc998c2956bb784550f8c2a1a7ca",
       "title": "Influenza aviar en Chile: el virus que ya cruzó la línea crítica - elcalbucano.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONm8tRWNzakV4aDQ1N012QkRFMjZTN0FCX1BEeGV0bUpMZDVJS3hlek9OYkl4MGpQNGpiSWNRZlZ0TU9SaDN3SHQyU1JaWnF2enNtQmlLNVBjVHVVNHJuUVRCS2dRb0JCMVRCUXhoUEcxQ1dpV09GNlFDazJZUkFsUXJETFpDcXVQUF9CVVBwbTNTdmtwZGs3V3hJTXlvYmZPY2JiYzd2cnVHRmlnUTFtZGRFRGQ1ZkJF?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "a8440248e7196ca485e309487572c258",
+      "title": "Mantienen monitoreo y alerta preventiva por influenza aviar en Los Lagos - SoyChile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-05-20",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWZTdk0tZXM2Rms2czB6Y1JCbkwteUhkQmxHbUZjMDV0R2VrUGtEcDQxVGJhc0hkRjJUeXBsTm5kaVZadUhEN0I2dlNNNGpwZWF4ejZGU2x1dkVQZEZyWjlhRjRjX3dZNlZNVXppZ0lUQmk3TEFhbmJjRVBZcE1UUGNVODFReEM2ZXh3eXlKNU5RYjlkOUdid0dmR3ozdjA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-20 15:26 UTC"
+  "last_updated": "2026-05-20 18:20 UTC"
 }
