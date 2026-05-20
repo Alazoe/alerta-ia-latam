@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "bc26861c0ccf0e320adbd6a36ba97c49",
-      "title": "SAG refuerza vigilancia en Chile tras caso de influenza aviar detectado en Argentina y notificación de Uruguay - 24horas.cl",
-      "source": "Google News - Uruguay",
-      "date": "2026-02-25",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdWFOWURXdkFUZGFGYTlodFUzeVoxYjdxNW82VWpBeDM5dlBsODJYTUlneFlwVVZ4M1RIMWdCZWU3WlhkY25FUng1bzZjR2Q5OXJEZEJmd0tvMmk1VzN2Vm1COHVtNnoyQnRYeDVDZVRrQkJ3b3lybHE2NHFZNi1icjVrVUl5YVdEZ0pxQmZ5Nk5qWGtULUtLVjIta2VtSnJjbHFfVzFfUdIBrAFBVV95cUxOd0hEQm50QU5kSlBIR0lndG1oSEE1MEVzcVhRcE11SzVGNmVXdmtKN0M0RnNCVG83cTlZd0hGTmtpc3RpYmlYM1E5OFVGUnp1c1l6WXFtaTI4Ym1IU2FTWThCT1FaZ29wZnNnR01HR0JRLWpxSEROQm8xem5KR2dHMmhsMVhXdjltTTI1T2hjX3FUeTFrVWxidXVDMFd5dkxzeWJDenYyQl9CNl9Z?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "3969b3a4195bde329d970823b8a70023",
       "title": "Crisis avícola: 600 mil gallinas serán sacrificadas por influenza aviar en Chile - El Dínamo",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWjQ0NUJQc1FESE5MbzV1UHhPY2prd015WTlXOUNXNW84RDJwNlNhZ2Z0YTFxTGJFb1FaRDBmSFZvNzI4NUZHNUxsa3VNWnFFQ3c4aTR4b3JjTzhNZ2lfLURwYno4MmNmV2tjcHUyQ0k0dmZoMkc2aWg2UzNDbG5MV1dqN21BalZCMkZFMVRRb0FEM0QtVGV1LXpvN21TTFM0TC13UzFHLTlscGJhMmM0?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "4695721671ad55aebca9159568b4985e",
+      "title": "Lambayeque: detectan brotes aislados de influenza aviar en crianzas de traspatio - andina.pe",
+      "source": "Google News - Perú",
+      "date": "2026-05-12",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONm8tRWNzakV4aDQ1N012QkRFMjZTN0FCX1BEeGV0bUpMZDVJS3hlek9OYkl4MGpQNGpiSWNRZlZ0TU9SaDN3SHQyU1JaWnF2enNtQmlLNVBjVHVVNHJuUVRCS2dRb0JCMVRCUXhoUEcxQ1dpV09GNlFDazJZUkFsUXJETFpDcXVQUF9CVVBwbTNTdmtwZGs3V3hJTXlvYmZPY2JiYzd2cnVHRmlnUTFtZGRFRGQ1ZkJF?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-05-20 03:49 UTC"
+  "last_updated": "2026-05-20 07:47 UTC"
 }
