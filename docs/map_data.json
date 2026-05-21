@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "0f76bc998c2956bb784550f8c2a1a7ca",
-      "title": "Influenza aviar en Chile: el virus que ya cruzó la línea crítica - elcalbucano.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-27",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOXzluN0ZNS3gxbjhPcjYtY1JSb052Nko0em5NcjN2X3oxYktwVE9NZmJRamtjRDJGci1PWVlrVUJkOTJTMWFvMl80YWlLVWlFdmh1Y0hxajF6QjFiaXBwVVhZbWJtcGxQNWZhNDUwSS1ueHlHTmhtemY0UXlJYWxuSmQ4WjJDYWRIN3dlYWhqZEw5NDJqd3NNV1dGd3AwMVpl?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "1be976f0897216b7dbe3b59974c83297",
       "title": "Río Negro: Detección de un caso de influenza aviar en un predio de aves de traspatio - Argentina.gob.ar",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdnBNZkw5a205eGU4cU5NaVNMajBORlA0N3p0clM4UmpBZXVidWxOTGNyamVqVkxZTkVoVkZmV0x5QnBuSS1KSWZJQXN2cmp6QTFhZ3NYT3dPTl9wLUF1ZXlUZ3I4NFlGZFYtdXJxaTBXUkZldzNEc3duN2d2ODRIM1V1RzNieFpNSE1OMzZISjJmUGNhN1ZDZVY4QXpVVUtkczdXQk9GVFBHdnk0LW1PaGQ0RjR4eHVkWUZZNVEyNVh5M0lhbVpwQWlVWmgyajIxdnhTVnppZGF0empGN0lF?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "db4fe73ec1daf88e89925fdcc83004a0",
+      "title": "Brote de influenza aviar en Colombia: ¿Qué sucede con el consumo del pollo y huevos? - Newsroom RCN Radio",
+      "source": "Google News - Colombia",
+      "date": "2026-03-11",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb3E0SEJBczlraktTWldUTWFlTV82Y3RNX2MtYW9McVpfbFNSdHM5V2NHelFia2tNQkxfNVNtZmhZSXh4emJNZUF6Sm15bjFfcVpJQmtxdjhWYkk4a0xlVFVDbHBwTFRkenl1WE93b0E4NXZ2ZnhaLXJxcG1lOEFTOExfV0lYMk5aTVJ5OC1aejFXZFNKM0VWVlhwTG1tQkZKR1BNclpjVzNLTE1EYlI5bFFielZPb2pKcHhlZjhB?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-05-21 18:04 UTC"
+  "last_updated": "2026-05-21 21:28 UTC"
 }
