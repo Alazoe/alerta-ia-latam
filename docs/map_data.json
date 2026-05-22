@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "e5ea7e399d1fcc21d5ba0a5328ff451c",
-      "title": "La industria avícola en alerta máxima por el nuevo brote de influenza aviar en Argentina - perfil.com",
-      "source": "Google News - Argentina",
-      "date": "2026-03-20",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUmQzRmhmMFlVWnRTT2prTEhrYkJHNTNWdHlHcDdZbTA0UVo1cHFWQTZIY3Z4MHBNTURaODk5bFRicEJNd0ZtQTA4b1U3eWY2YmhWZmtqR0dacmp2ems5RGJsSnB5eGlQWXNjSk9hVmtfOGt3MG4tVl9Ic1g4bWxheWxtdkZSV1pwbWRGOVNWLUVzYmprVUdfMUpCV0hGeEl6U09fazJKMDU4d2piM2hHdzBuOXJuclRDZUowM04tS1NUVGFxcHFyaEt0UEHSAdIBQVVfeXFMUEVReVBIclpfdXdQUkMwWlFjNzJfeXE3REtMdmF2SEtYNER4NTJSOEJjbFNheEFaMVBHSWhKZVkwcGlFZFJra2lJWnBYUEdDTktNaGQ1Y0R1OWt3VlZoTjNvQWZLUnR0QlFyWVhKc2E3RlhJWGJVNk1LeG0zbTNHLVdCQXJqVjFTU1FiRjN5OWh4MlhUVW5IdXRnTnQ4YnRuRFh1TVhKY1V3aDE1Z2RZMmJWUEZaOUUxTXh1aFZmajNVdnI3OHp3UXFLYTBHYlBXNUpB?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "bcabdad582844b1eb3039c1fed0533f6",
       "title": "El ICA activó alertas sanitarias por riesgo de influenza aviar en Antioquia - agronegocios.co",
       "source": "Google News - Colombia",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON0Z5ZkEzUlMzaVd4blduV0pCQ0hYN25yRkR6Y0NsOUJrZDNmUTQ3NHBVQl94ZVhPaEhDbThrUHRPSm9aWlIyeXN5NVlxckRnMG5NZEFJNkZXVGJkb29ib05IMEZWSWlDUnVXS2t4TzB6bmNGdXhkc0cyeDFaUWM4dHdBVHoyWU5GVnpKa3dFQ2tGeW1mNTQ3dXplZjZ3UktrU3c?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "e333efab39e9693ecaca7af516ccf8b2",
+      "title": "Lo más leído | La tragedia de decenas de osos perezosos exportados a EE.UU., influenza aviar mata a aves en Chile, el extractivismo en un corredor de pueblos en aislamiento en Perú y más - Mongabay",
+      "source": "Google News - Perú",
+      "date": "2026-05-17",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNUpkQXQ5di0ydl9Ib2dQWWYxZE5oWDBoNE92WWRPMXllVk00bkYteXFyY3M3WnJiakh2dk5LNzM5dGhEdGlKTU9PMHdxc19XTC1kNmd1VU5YQkhrb0RkTURPV3lIT3l0aF9jM1o4UmtFY0lvZzMwbHJkNkl2R2NTVE9pWXF5NU5rMWl5cjdBcjVvejhQN3JfZ3ctSzRFU0lMYnlweWs2TlpqZWZoNTcxRUxTajU5NWZfLXJ5ZkMtYXQ1dmwxdVZzTUsxdVc3OG4tbWNubjNjb1ItRkJKNEE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-05-22 03:54 UTC"
+  "last_updated": "2026-05-22 07:48 UTC"
 }
