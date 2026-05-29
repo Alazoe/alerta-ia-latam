@@ -505,18 +505,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "8e44e16f53dea85593ea805a5a07cd76",
-      "title": "MGAP confirma nuevo caso de Influenza Aviar en fauna silvestre y descarta afectación en aves comerciales - gub.uy",
-      "source": "Google News - Uruguay",
-      "date": "2026-02-28",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQlpuN0xjeFZEX1NSTjYzdm5ZQy1IY1l4NlJGUGk2S2pxd19BdTUtSXIyRDlvYTcyUFM3WG51Z3VEdF9GWmEyUDQxUVFEU3dPVDFJck5fSUk4VXFOZEkybGFndzVlVkxNa2lQa1UxWU1YWFpXUmt3NDV4U0FrS3d5dTlIdW9ZRHV4NjVNWDJZRzVZQUNlZlF4NjdGQXppbWNXUE5OdmRfa3JpQ0tLTzllcGp3WUR4M1ZxQ1UyMkliMHIyeGU1dUU3LUFybFZZSnRpS2ZMeXBqZnRhUkVDcEZNeTRhd2xTQ0x5WHhyTw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "8e80deff33bd0e4bb66a97f9fc7c979c",
       "title": "Chile reactiva exportaciones avícolas tras brote de influenza aviar - reporteagricola.cl",
       "source": "Google News - Chile",
@@ -1785,18 +1773,6 @@
       "lat": -35.6751,
       "lng": -71.543,
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZFJWVUlaSVprbjlYc0R3dDU5LVdoM3Y4Z0w3N1NLNXJ0UHlTUFY4elpYNWNEOGVRcjZGWFBDUkdiOVVodnVCOE9yTURxcVRTQ1NjWUVpMEpSQXhnbnVXSm0wU3FGNy1zYzA3UFVramI0Y2h4bWdYdkR1a3NlRnFwTmFCMzlSSVdlUTZMTmN0RDhJOEdNLV9jUUlVUTltdTFlbWIyZldwZHRoM3ZiaVEwSU9VRmhFaHBIREFodHdlNmpKRFJBM2c?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "51f29779dfe7f2aae028e7b475c208e5",
-      "title": "Gripe aviar H5N1 se expande en la Antártida y científicos confirman mortalidad en fauna nativa - Proceso",
-      "source": "Google News - México",
-      "date": "2026-02-28",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOUGg0d21xdzJWWUJZV1RCYnd6Z3dkSE0xTWx3TmZ4bjB1Um03SVpmZHBlQVMwUlB2WkZ4bm1QWmUzUjBBdS15NVBFYURwU1kwQ1JFUTYzMWRSc3U5VlY3a2h4WUsxVDNib2hTZ1c1SFdWU1RiYUsxN3pLc0Z4aVFhNkpfNzhRU01yS19VaHExNDRpcnUwcTc1dGZrRDdDQmRhdjViUkZvS2FveTZhdWk2STlSWEMxbmNhTkFHM3p6WWE4d0NPRWR3dWRTYzMzczRHZm0wMWZTNWhJLXZGZHhDT3dKYkNJSld1OHhnVEFrekpsZUVRSFNXWnBHc0cybmx2VE9CRVRR0gGGAkFVX3lxTE5QaDR3bXF3MlZZQllXVEJid3pnd2RITTFNbHdOZnhuMHVSbTdJWmZkcGVBUzBSUHZaRnhubVBaZTNSMEF1LXk1UEVhRHBTWTBDUkVRNjMxZFJzdTlWVjdraHhZSzFUM2JvaFNnVzVIV1ZTVGJhSzE3ektzRnhpUWE2Sl83OFFTTXJLX1VocTE0NGlydTBxNzV0ZmtEN0NCZGF2NWJSRm9LYW95NmF1aTZJOVJYQzFuY2FOQUczenpZYTh3Q09FZHd1ZFNjMzNzNEdmbTAxZlM1aEktdkZkeENPd0piQ0lKV3U4eGdUQWt6SmxlRVFIU1dacEdzRzJubHZUT0JFVFE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -3373,5 +3349,5 @@
       "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-05-28 21:56 UTC"
+  "last_updated": "2026-05-29 03:53 UTC"
 }
