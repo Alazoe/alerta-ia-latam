@@ -37,18 +37,6 @@
       "color": "#ea580c"
     },
     {
-      "id": "c7471e663960ebd689aff892f93bd8ab",
-      "title": "Córdoba registró su primer brote de influenza aviar en aves comerciales - argentina.gob.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-03-02",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaGN5TmdJaGIwQXhQV2s1UWFwRmxYNUpzMUpOeU45b041VzVLSU1yTUVvODByU2p2N3czNVc5WW1JUzhIN2s0cDUxV2dTT2J0aF9iemNIVmNVT1A5V2tEVFBhV3k1dWtsaVJxRjI3R0lLa0xJSWhIX3o2UWk1Qk1mUU94RlF6REkwbW5OMTdXUEhobjZvd0FKWGg1UkZzSm1Dc2trSGhMTW41Slh2alE?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "5e5daa6c7dd186341a8b6c4167132f92",
       "title": "Buenos Aires: Se registró un caso de influenza aviar en aves de traspatio en Las Flores - argentina.gob.ar",
       "source": "Google News - Argentina",
@@ -429,18 +417,6 @@
       "lat": -35.6751,
       "lng": -71.543,
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3p4bHNHTS03ZmdrZkhLWlR5X1locTNCU1JWakNRZ0ppR1BKOC00NHRhckk5TDR6TlNsV1lJUWY1TjI3Z1E2ajZnVllrYTROLWVGMEZrdUZBSl9BXzVSbm1CZVlrS2FJMW8zaHpoZkhJZEt1WUgyaDJPOWJqRV9Sd25IVnhpd2tIMVluTGRtU0cxdzVlQUlrczkzeXVhZUN6SzYzV3UtV2JOT0dnS0E?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "1b0002f67f30f0f55d4277b0d1259b66",
-      "title": "Argentina: Confirman caso de influenza aviar en granja comercial y cierra nuevamente sus exportaciones - elsitioavicola.com",
-      "source": "Google News - Argentina",
-      "date": "2026-03-02",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT1VwSEdUS0c2MnVsS0RPbEZXUkhEUXFxcmZHYXAzNS1lb3lHZEVaOXBkQ2lvQzlJODMteUJBeERVOWFoeXJoWm5hT2syYmpfdUtTNlZjbmxKUHR1NzJNYlBqa3pUWkVPTkYyMUlNSkZBMXItQ3NseHJYNHFuS181M3VsYm5zQ0RLMjBQXzNETDBLbmlkWVU5WWVHVEdDRGNEd0RPR3lsdmxqZDYxY0NwSnJDZUxXTVhaX0stWWN4UFFaQnJ3RDl1MmgzNmg5NkVCaDZaNkN4Nk1kekp6WVBTNEgtUU0?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -3373,5 +3349,5 @@
       "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-05-30 21:00 UTC"
+  "last_updated": "2026-05-31 04:04 UTC"
 }
