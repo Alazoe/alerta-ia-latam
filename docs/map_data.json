@@ -3275,7 +3275,31 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNT2tsMjhhOVVrOVRSdU9HVnIwMEZON012eHhlTVZYNi1CTmhtRzB4UzJSWDJ1bm9ZbU8tSEFfeUZ4Nkt4SEhVSXJUVUhNNWFxOUN5UUY4M1VITEF1blZxX0tkVU4yeThyaXFXS1RTZ2g3VkhJcUpGMndVRGxxeUdXbmE3S1p4Q3d6eE1PRk43bjJoZkgtVGhpV1ZYemJUVkJacXJqMFN6SF96NG1qY3UxMkJIaTA3Z25seUUyM3lnYw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d8fec4fb92268e871624ab5842e65b7e",
+      "title": "Influenza aviar: la alerta sanitaria que pone en juego la producción avícola argentina - Agrolatam",
+      "source": "Google News - Argentina",
+      "date": "2026-06-01",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOUFMR0JEbTZkOVpUTVN4d0dFdFBNYWl0NERpYVpPUkU1N2RITk9EMV9UQVV5QmZwUjJ2N0UzSE8tdXlKdFBGUFF0YUh4WldCc2xtbXFGNXNqSV9xXzZFYkNUZ0RGSHEtUVEtMDU4Z1lCVnVhMU94ZXZhOFg1YnJYckZQc0s2cFJ1ZXpjMmY3OWk4T3FRTS1rS0tiNi04QQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "8564aa0bcdf565b650c710c0a61466d0",
+      "title": "Detectan brotes aislados de influenza aviar en Lambayeque: al menos 128 aves murieron - apnoticias.pe",
+      "source": "Google News - Perú",
+      "date": "2026-05-12",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMERPNmhlN2l6X3Z5ZmVLTmtza3VmamtsX3QtOVZQcWJDVm4wcVBOaHIxRUR6X2NUaEIzQnF6NHhablE5WnlTdFhCVXZxVGdwdjlwY2ljWk8ybUhucGFsa2pFOGFDT3ZPa3h5dDF4alpKd0xtbnJZdm1ELU8wODJkNjZ3cjQtcXdEeDB5eDE0WVU3blJWQmJsLVViX2pDX1pZZ1NRcWF5eEF5ZHF4ZHc4UTFnMDRzbG5tM2VqOGFxcFJXTkY3RnJGY3VjTkxvOElqc0Z4S0Rkdw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-06-01 13:38 UTC"
+  "last_updated": "2026-06-01 20:19 UTC"
 }
