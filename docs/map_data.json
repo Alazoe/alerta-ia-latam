@@ -49,18 +49,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "f7657f986b552c07a2e4878743d3a78d",
-      "title": "Mar del Plata registró un caso de influenza aviar en aves de traspatio - argentina.gob.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-03-06",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZ0NUMUR2R05DaFhRODl2c2FfUU1DNFBqbFNmMWtzWU1QQk5OcHpRODJmamhmeTZrb2ZRbjdmS2M5azJPdW1KVnd1YlQyV05YNGFvbUlBWXFIX2taNnBnczNXekQ0VXlQM2pJUGc2NDRKTGxSTmdWZzlreVNZczdwdldmNXpMNzdoZU9TX0E0d2lzR095S040R2ZZUjRLaW5fNnEyV2k5eVpLUQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "2d5f407c5cb61a333311644d471e2dc2",
       "title": "SAG suspende certificación de exportaciones avícolas tras detectar primer caso de influenza aviar en aves de postura en un plantel industrial - df.cl",
       "source": "Google News - Chile",
@@ -407,18 +395,6 @@
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUVmODA0S0tDb0N3SlBacnlpNm0zRUlUZEVURms4aURPM04tV3E1RGNQcGFNbDRCeFFIczVpNEtRWFlWTVdwbmhFLVBFdU4tMGZ4c2dxZ3BWZmZxelE4Zjd0VE9GWVhCaktpSkZvRzIweG16a29zbzQzYmgybHV2a3lpLXlUbWZrWTlDdUpwNkJNRnpBVjQzcHE4bUNpTmp5cmstZnc1SXNaTVdyV2pNN3hRSVZBaUNsYjJ5Vl9nSV9vUFdleDZuREtTdjBHUGJ4b3BtWnV6TmJrdTF3dVE?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
-    },
-    {
-      "id": "51909bb0c5ec8458cd94c4bb2bbc9651",
-      "title": "Situación actual y recomendaciones en Uruguay sobre detección de Influenza Aviar en fauna silvestre 2026 - gub.uy",
-      "source": "Google News - Uruguay",
-      "date": "2026-03-06",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVVF1QTNrdFl0d2tEeTJFWG02ZUZROEZtMW9remNGMTk4UmlEcHZxM1I3bmxyM24zTDJ0dVBYQkV2d0ptWndSZC1jcUJlOU1ITzZKb0JVdUxxZWNkQ01UVEh2dEttVm9TWENJTjJsS1haSDlaQ09zRkNlSU5iU1BFWnFwUlQ1Vk9EZU1NMWlycThONFJ0TGhmd0ZVQ01rcV9xb0dFNklhSldzVHRrdDVLWk9yVFNzTzYxYzNuQTNUVHhGSFVUTkxaYlZXcGU1VzJYMGZZ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
     },
     {
       "id": "8e80deff33bd0e4bb66a97f9fc7c979c",
@@ -3467,7 +3443,43 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3VxTThCeGZBbFdpN25BUVIxaUQ4RzJ0MzhhWW9TMXdWNUcwMXRMNmdfVEpjaUQzeDJtUExNQ1hSWjJkTzcwYTdSYlhHVTdDTkNFV1dMaEVvMUFUd0M4M0NlY0ZYZFFNdzd6T0tScWx5TlFsTTRpLTNWSzRoSFRWdmdhcHNYU3FwSHkyWVNfNTk3cTdHWmdPekVfcXdlc3RjOUNBYnhyb1BsQ0dYSVltR0F1MDdrWnUzMmZOb2VzWW05RV9aVEgtbXdDM0RXbUJFNzhVaHZnbkM1X0kydFhJ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d4ab638db8bb4e0aca6c60c3c0727f76",
+      "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la región de Arica y Parinacota - Home | SAG",
+      "source": "Google News - Chile",
+      "date": "2026-06-02",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3VxTThCeGZBbFdpN25BUVIxaUQ4RzJ0MzhhWW9TMXdWNUcwMXRMNmdfVEpjaUQzeDJtUExNQ1hSWjJkTzcwYTdSYlhHVTdDTkNFV1dMaEVvMUFUd0M4M0NlY0ZYZFFNdzd6T0tScWx5TlFsTTRpLTNWSzRoSFRWdmdhcHNYU3FwSHkyWVNfNTk3cTdHWmdPekVfcXdlc3RjOUNBYnhyb1BsQ0dYSVltR0F1MDdrWnUzMmZOb2VzWW05RV9aVEgtbXdDM0RXbUJFNzhVaHZnbkM1X0kydFhJ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "a07fd1a1b9272d4685bd1d5a6a153c09",
+      "title": "SAG confirmó primer caso de influenza aviar en la Región de Arica y Parinacota - Cooperativa.cl",
+      "source": "Google News - Chile",
+      "date": "2026-06-03",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWVhsd0FmV0VSSjlJUkgxUVZDOFg4dkxjVGtGT3NrRHJLXzBuMXl3U18yQXZxVHJ5VDJGOFdhQy1Ua0w0bmtkR2ZValVYa281bFBGOUNSVmEwMXQ4Y2cxR09pTHhDZ2hYeDRubHhKMmFReDVsVktUdThOT3oxamRBUXRGQkZoZXV1TnZEMjJWeTZyU2ZtNnZlODA2S1dEOG0tbEtRemc3b19SZG0wdlNOTXJVbUxWcVU4WHFZVEcxZDZ3eG9jOTVmQ1Y4bkdtaGxRUWNna0xZUXkwaWJoRmZ3Qw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "703cec720c4fd44d41a05a7a50228505",
+      "title": "Influenza Aviar y pérdidas millonarias: El costo de no vacunar en Argentina - avinews.com",
+      "source": "Google News - Argentina",
+      "date": "2026-03-17",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaERYWDJtbDlabi1hdmh6ZW5TaUlRUGplQ19PSUpTdFRoWXRFaUN4aXlIeHQ1blRPQlZPaVVzVGtLcVJsMVJXX1E1MnQzM3pFeDZUS2NRRldxczZvREprYlhTQTZjNXlWdlo5SERkek5kTkRtMEQ5cjU5UjQxZ1VGTzMwZjVjSldaVjRwZF8wTS1tdUp3OVRVYzJrUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-03 22:28 UTC"
+  "last_updated": "2026-06-04 04:16 UTC"
 }
