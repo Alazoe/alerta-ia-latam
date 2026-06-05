@@ -3527,7 +3527,19 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYll4ZFhoZnlJNTNOamUxZnVDaWpuTkNYcTN3Mlg3WF9HdFA1c24tYW5jWUNJbkgxb1hMYzI1MWtFTkVGVm0teFJwQkh3MHRKMU1tSkx1UDZET0NiZHRUTWRKTGNGN2l1LXdnMDNPd3FuNFFaQVVnaU1Ub2l2WlhrZ3ZLUVVjdzB5aFdMaUMzbWREeEdfdlcyc2N30gGfAUFVX3lxTFBjMEpHSHBGbVFnVTJ2d2VlaFpmNDJDTDZLZ2o4YlQ5TU5GWUNBSXhCdUdGUVk3VnczRllvdFVUYUNTa1hYbHEtVS1LbE5iS1hWYkEtTWhBSW9lWFhRWTkwMGhWazRBOHdMYXpaS2UwS2FaWlRpbUM4TWY3MmR3S2xFQ1JfZnAwaWFUOER0ZE8yUzloR3BHY0ZMTVJrY29GUQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "1e38cae8651d8a2399e0cf7cededdb77",
+      "title": "Influenza aviar: el virus H5N1 llegó al extremo norte de Chile y activan nuevas medidas de vigilancia - Agritotal",
+      "source": "Google News - Chile",
+      "date": "2026-06-04",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcVd3NngzQVNXTFVKVlNybnROQmFXcEVYSjlBa1JPN3psWkRIUS14dXk0WElMMjZtV2I3OUU2Qm5xbFFpUFF5LVFQSDhHZzFaSnlFLUVMdEpRMi1HTVR0Tjk4WW0xYWhsekRmYVNCMGZVRDFiWlJIV1diLU5qSDRPMk40d2JldzNsa09OQjJibzg3cUs2ZXBMdlBLRW1tM2QyZ2xJQ09SV2V6ZXd6bFB1Y1dfbUpxdE1DNEhEMHZ1ZXkyMUlRTi00RVcxMFQ4UzU3WF9F?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-05 14:55 UTC"
+  "last_updated": "2026-06-05 17:57 UTC"
 }
