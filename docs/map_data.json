@@ -3503,7 +3503,31 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLTdVQ1JxbUNnT1pyUkFacGpmVWpYSzZidEVYVEtfNkF5dHlsRk1YNGhOTDFHdTAyMlVLdXRlLVFUV0JpLWJ1VERVMW5sQlJ6UXE5bTNhTW1hR2hXVVN2WVRiVUtzM2RuRTVRNktTazZsSlBfdFRtNU9rWUtUQ3Y0blFSZWgyX0taa3FwU19wcHlQLXJsVkhuaDJYZlNmb1hGcjZleV9Cakl4VUdBamJjRW9oT1hQdy1I0gG4AUFVX3lxTE5jYUxYR3JlTy11VEtIenNqMUxKd2Z6enJDSFJsV29oeW01VGtrSGY3bjhFNmlKQ040RUhvNnFBLUlNdVN2WEw2V1Q3SFp6dk9FVUVJTm9BV2lXR0wzbmhidTVJQk05alZXVkJoTXVKaVQ1RDFFVHg2NkNaRzVxSzlvQ2dONS1JUEl1cHJoSDRWMElPZHpDRlg1LWxXZXU4eXpTRThNeFhRbW5WUVpjamlXd2NZb184UlI?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d7c83fff4b064f1122c4f96bc5d53749",
+      "title": "Influenza aviar H5N1 centró seminario sobre bioseguridad y preparación sanitaria - Noticias UdeC",
+      "source": "Google News - Chile",
+      "date": "2026-06-04",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeEhiVzlacFFkekxscGlXYW1yWnBwckswUVpnNWh5bDlOWWJMUHZocFN1SzlrYTJ0cnFpc0NVdUhvSHh4Q3BPWGRIaXAtLWJqWEFpMEN6YndvWTZDVDNYMmd0bFFxQTlUWW8zOGtxQ1J3RGJwWk5FSjdYZVlDREx4c1hwZ2laS3ppY0xiQk5JY3lkT1pFYzZTdkFwWHB4eGg1UDJFNFJDX1pXZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "d8daf1f9f775ffbd337d2d5b8e8b0c45",
+      "title": "Detectan brote de influenza aviar en Colombia: explican qué pasará con el consumo de huevo y pollo - Pulzo",
+      "source": "Google News - Colombia",
+      "date": "2026-03-10",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYll4ZFhoZnlJNTNOamUxZnVDaWpuTkNYcTN3Mlg3WF9HdFA1c24tYW5jWUNJbkgxb1hMYzI1MWtFTkVGVm0teFJwQkh3MHRKMU1tSkx1UDZET0NiZHRUTWRKTGNGN2l1LXdnMDNPd3FuNFFaQVVnaU1Ub2l2WlhrZ3ZLUVVjdzB5aFdMaUMzbWREeEdfdlcyc2N30gGfAUFVX3lxTFBjMEpHSHBGbVFnVTJ2d2VlaFpmNDJDTDZLZ2o4YlQ5TU5GWUNBSXhCdUdGUVk3VnczRllvdFVUYUNTa1hYbHEtVS1LbE5iS1hWYkEtTWhBSW9lWFhRWTkwMGhWazRBOHdMYXpaS2UwS2FaWlRpbUM4TWY3MmR3S2xFQ1JfZnAwaWFUOER0ZE8yUzloR3BHY0ZMTVJrY29GUQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-06-05 04:00 UTC"
+  "last_updated": "2026-06-05 11:30 UTC"
 }
