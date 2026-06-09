@@ -3503,7 +3503,31 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVi1LWU1nVUhIcWVXUjdwVm91aXlZUzFuMWJRZ2NJamJ1QkVGQ0RQeHlzbzdoUmNDN2prZ2RaTzBlSzVuODFPdm93MVhuOUpISFU5bkpfNEdSR0t5bWdZaVpZaWp5aDE0UVQ2ZnMxUkQ0RW0wUGxmdkM5T2RidlBtZHRLVmZBRTFtaFpZeU9Ud0ZZRHpTLUZLWUxOd0JpZWItWWVNM0dNUGtHYkxrSTdyblljeUc?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "0bc75231e9ac96824f47255805cd003f",
+      "title": "¿Puede la influenza aviar afectar a los humanos en Honduras? - Diario La Tribuna",
+      "source": "Google News - Honduras",
+      "date": "2026-06-09",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMjFxcUhiSU12aEFRbi0zUUJfSS02bVI4MXJzbzBNdmQ5eWJZWUtfZWZlNHhtSDhMb1dEa1A5UURHRGhQRVZHQS01MlYwWEFtWmh5OGJmRnFoRlAxXzY2aFFyblgwbFAtR3JhNkhkRDVGcDhuc21nSVU1dmg4bTlJQ1cyOWZkVm5oeXY3ODdrR2F4UEFGRDkxWHEzdw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "737c08702d9b06038ef9f10b2612f4ce",
+      "title": "SENASA fortalece medidas sanitarias tras detección de Influenza Aviar en aves silvestres - El informativo.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-09",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00akxZT0U2VW5KcmxnVV9TZEJJSmNSVkZ1M1pqNnVJOFh5VHd2dGZ5N2daNHVaeVdETnJnT1EwYVNVZHhPdWdYY0Q3cUk0Q29BTWg3QW1zWQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-06-09 11:18 UTC"
+  "last_updated": "2026-06-09 14:56 UTC"
 }
