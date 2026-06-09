@@ -3563,7 +3563,31 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQem9yMHRTZlpkVmtGMXdmck0wTGI0dUgzN1BFN0NZNzRiMXRfVFdlcVB4SUFLako3bjVjdWxjNkZTV0s5RTV0aGs1X3A3UVZXSzlLZFhVUUhIMXhhSnpob0Y2NEtDN1ExeWloMkRQN3lJWnQxWmpJX3BYNGJTejhINzJLVXNid0FqZEItZktKYkNjdlk4eVdscVBiN1JtenE3Q1B3dUNfZ3ItWmxCSzQwemVscWN6aFp0VnBnMHhxbw?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "34a8fa29fcf5565c0e4c5d38a3f2840d",
+      "title": "Honduras activa vigilancia sanitaria tras detectar gripe aviar H5N1 en aves silvestres de Lempira - Infobae",
+      "source": "Google News - Honduras",
+      "date": "2026-06-09",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOam9ieWM1aThzbkpaUVVTdTRBdGFnTDJabElzbU9BSWxKRmcySEhPeE5ZVFNLME1nQnZrcHRQLVlEanRHSWc5Nkx0VmhaRE9PbG4tY1lxN3duUnkyemZLUkdKNW5kY1ZWcU9mOEFfSFY1MFVGMklDWUJOS0VFQXBFNk5WLVpSai00ZjBUWl9XU0J1Y0w1Qi1ydW1LcnBpLWRmb1pKZmNRRkNuRnd5YktremtpcGgxMFIwMnJXbHdpZ2JnLWJ3QnZVdENrSkw4cGlVLXNGZ3BOUXRzWjMzbDNjVkVwZjVmTUhxVTluMUd6SE1EWWt30gH0AUFVX3lxTE5qb2J5YzVpOHNuSlpRVVN1NEF0YWdMMlpsSXNtT0FJbEpGZzJISE94TllUU0swTWdCdmtwdFAtWURqdEdJZzk2THRWaFpET09sbi1jWXE3d25SeTJ6ZktSR0o1bmRjVlZxT2Y4QV9IVjUwVUYySUNZQk5LRUVBcEU2TlYtWlJqLTRmMFRaX1dTQnVjTDVCLXJ1bUtycGktZGZvWkpmY1FGQ25Gd3liS2t6a2lwaDEwUjAycldsd2lnYmctYndCdlV0Q2tKTDhwaVUtc0ZncE5RdHNaMzNsM2NWRXBmNWZNSHFVOW4xR3pITURZa3c?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "c426de97c4b5d2052f002096a642dc80",
+      "title": "Senasa refuerza medidas por influenza aviar en Lempira - tnh.gob.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-09",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3pXVVNsN29HdzhkZGRvQ2w0dVRNNlBaMXRENThzY3dZb1JpWDRsclFkUF9IamhfdUtLSkFkYUZfTHZjSkg1VU0zTllOelI0MWVTeC1uWEg1SWRKWk1wOHFtMHVseWVpWHlHQ01jTXk2ZjkzeUlHd1RlN0VRSzFPQW9lTk9FN2tmcjUzM2ZnMlRKN05MQkUwQm9ta3BXNnNZU1hKYWktSVVQSkMzZVpNeDNsbmE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-09 18:08 UTC"
+  "last_updated": "2026-06-09 21:48 UTC"
 }
