@@ -3527,7 +3527,43 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00akxZT0U2VW5KcmxnVV9TZEJJSmNSVkZ1M1pqNnVJOFh5VHd2dGZ5N2daNHVaeVdETnJnT1EwYVNVZHhPdWdYY0Q3cUk0Q29BTWg3QW1zWQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "9a518bde00310c88c304d73bc532301c",
+      "title": "Honduras activa vigilancia sanitaria tras detectar gripe aviar H5N1 en aves silvestres de Lempira - Infobae",
+      "source": "Google News - Honduras",
+      "date": "2026-06-09",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMlJVbWNBamxvVXdJaFZVZjBGUFBvYzY5X2JFNDB3X1VUbHdkRnRiSlg1WUdqVjhiLW1mVmgtaEFZVUxNNW9QVS1Kalc1ejNURTFlX21UcThBMHdhUC1Ta2ZIV1BCeXhpU3ZGZTJ1UjZfel9jckhTYmo0QWw2cHBtdUlpNzgzOWN0N0xSZy1NWVc4TjMwVlJxYWxmeDk3WkVabUtFM1QtMkVyTmhDUGV1cjBGMmU2UDdGMTY3RGNyQVNITUp6a2l3RzBZcVpuR0VHUm1FM1dLT2xJUdIB9AFBVV95cUxOam9ieWM1aThzbkpaUVVTdTRBdGFnTDJabElzbU9BSWxKRmcySEhPeE5ZVFNLME1nQnZrcHRQLVlEanRHSWc5Nkx0VmhaRE9PbG4tY1lxN3duUnkyemZLUkdKNW5kY1ZWcU9mOEFfSFY1MFVGMklDWUJOS0VFQXBFNk5WLVpSai00ZjBUWl9XU0J1Y0w1Qi1ydW1LcnBpLWRmb1pKZmNRRkNuRnd5YktremtpcGgxMFIwMnJXbHdpZ2JnLWJ3QnZVdENrSkw4cGlVLXNGZ3BOUXRzWjMzbDNjVkVwZjVmTUhxVTluMUd6SE1EWWt3?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "96097b74fef047e37ad020eb4ba86784",
+      "title": "Honduras activa vigilancia sanitaria tras detectar gripe aviar H5N1 - Radio ABC Stereo",
+      "source": "Google News - Honduras",
+      "date": "2026-06-08",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdWhvQmxlOVFHLTl5UUc2dmtYbVltWmZkaVdrekdqMGFmVXlOVVBzZ2Zjendzb0NDSXJuZ2xDMkFLd1Z6NkNhUHU4VzVaTzFHSU9jdVREdTVaWmZ2bldRakEwWTJ0NVBXUzBSbGNtbTdnenduZ3Q2M3g5UnFNUnZMUDJlNlJsSllyNWstZFNxblljSWpLTUV3aUt6SzlVc3ZiMHBTWnU1d2Y?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "524917ea0b53bf7ca44eb4f00e391d8d",
+      "title": "Alerta en Honduras: estos son los síntomas de la influenza aviar H5N1 en los humanos - Diario Tiempo de Honduras",
+      "source": "Google News - Honduras",
+      "date": "2026-06-09",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQem9yMHRTZlpkVmtGMXdmck0wTGI0dUgzN1BFN0NZNzRiMXRfVFdlcVB4SUFLako3bjVjdWxjNkZTV0s5RTV0aGs1X3A3UVZXSzlLZFhVUUhIMXhhSnpob0Y2NEtDN1ExeWloMkRQN3lJWnQxWmpJX3BYNGJTejhINzJLVXNid0FqZEItZktKYkNjdlk4eVdscVBiN1JtenE3Q1B3dUNfZ3ItWmxCSzQwemVscWN6aFp0VnBnMHhxbw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-06-09 14:56 UTC"
+  "last_updated": "2026-06-09 18:08 UTC"
 }
