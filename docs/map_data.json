@@ -3575,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNEpscmlwVFFkVkx1a3JDWnI4T1VpRE5zd3FVdnVORlRpNnRRdXc4Ml9hRkN5cEJoUkhVZThHWkVjSUJFMTdSUmR5MHFUd00xSkRZc1dqR0s3dEtFaUlqWTVWWEV0ODdSTWxfUHEwcTZvOWI4dE05cnZBOVJtT241cG9BcEQxYWdnMEc4c1NoUlZIX2c0aGk2ckdKWXI?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "3d2ed93d762c8ba78255e1214d8ed061",
+      "title": "¿Qué es la influenza aviar H5N1 detectada en aves? ¿Puede contagiarse en humanos? - elheraldo.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-08",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVGRLNWF5WkJXOUVwVTNGY0liQ21xSWpWM3ZDTWJWYWVYN3c3SF9EZlRiNC05dllkdFdtdTZpSmtQWU5XRE1vY0U2cDhsZE1FM05oTlpPR0NhRGpmWHFFVDF1TzRwSFlyX2RaZkk5NUlYNE9kYnRrU1MxSElEa2VIUkZ3cTVZcHhFVHhyUlFUd2RGZ21aZ3Fya29QLXc2R0E3UVlvYnpEY0RwMXZsaGtMY09WQlRZQU1wbElMc3g3SzNET1Z4?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "5cafad3367620aebb6a5cb43f2ab7bb0",
+      "title": "Senasa confirma influenza aviar H5N1 en aves silvestres de Lempira - elheraldo.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-08",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeE1oeEt6V3l3WDlTNzBtZ3pOVUxFSVVvNjRKclVfSDg4VGhGS1JFMFNucm5lSFc5cFNBR0tzSEVoV0k4RUszTkdsY2xWQVNSTm02MlhqU0M3RVFzVmx1S3lOWUR1RUVvb25venlPLTVmUnBpX2JmRVdkdXBjSHoySnFtZ1FDTHRCZEItXzkycmZ1d0NhV21uZ1dGSUg0RU5mUG5FZ1QybmlEbEIxSjFoNWxTN24?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-06-10 03:57 UTC"
+  "last_updated": "2026-06-10 08:12 UTC"
 }
