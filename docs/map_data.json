@@ -649,18 +649,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "42c030bdb313d3f4385e43c14b3ff7f4",
-      "title": "¿Qué debemos saber sobre la alerta zoosanitaria en Chile? El virus de la influenza H5N1 de alta patogenicidad se establece en los ecosistemas locales. - uchile.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-12",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQjdZS0E3Ym80SU9CZ2FmdWV6ZEVjcVBtc3E5ZTVRZ2lwaThEZDlPak56QVNWcVFlWloyaTBZS2NpV3BlaWsyMWFkZ0gxOG9nSzA4ZVJqR3M1RWxLOHcxNDluTEhYY1NvMm1mWXdJMVdCTGNZeHozUlYxTnJ4eWx4b3pSbFhqaElsbUdjQ05zOGtNbjA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "ee72f11508cfc48b395e7dbe80634887",
       "title": "SAG confirma dos casos de influenza aviar H5N1 en aves de traspatio de la región de O’Higgins - SAG.cl",
       "source": "Google News - Chile",
@@ -2749,18 +2737,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "5e2c3ba9296b279544d8fb04aa9d8f8e",
-      "title": "OPS registra 75 infecciones por gripe aviar A (H5N1) en humanos entre abril 2022 y 9 de marzo de 2026 - La Web de la Salud",
-      "source": "Google News - México",
-      "date": "2026-03-12",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQmpVWXFWSFhHYXdKc1RpNnlBbWNGQUNkZHE3TkhWeUR1Vi1LTnlfckdGZmhRM3E3aGxBemdETmhtejVCY2oyZk1QYWFhdVVCRWhkYktYRTVVOEVFU1FySm1nOUZHV1E4ZXBiQzExX25BQ1BKWWR1MHdyNzZPWnc1OVpxMzIxdHBRa1kwWWczeVhYLWdUQUY3NDBOLThleFlFMHpXNnVWcGZlZ3JQcmctaVd3XzdoSG9SenpsM3QySTM3UjRLaFE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "24c9054c500491f9eee2c9a9f545b63f",
       "title": "Más de 140 millones de aves han sido eliminadas por influenza aviar en granjas del mundo: OMSA - Noticias - Almomento",
       "source": "Google News - México",
@@ -3587,7 +3563,19 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3pXVVNsN29HdzhkZGRvQ2w0dVRNNlBaMXRENThzY3dZb1JpWDRsclFkUF9IamhfdUtLSkFkYUZfTHZjSkg1VU0zTllOelI0MWVTeC1uWEg1SWRKWk1wOHFtMHVseWVpWHlHQ01jTXk2ZjkzeUlHd1RlN0VRSzFPQW9lTk9FN2tmcjUzM2ZnMlRKN05MQkUwQm9ta3BXNnNZU1hKYWktSVVQSkMzZVpNeDNsbmE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "0d5dd393a618a3c1144a013935b8ad69",
+      "title": "Honduras activa protocolos sanitarios ante hallazgo de Influenza Aviar H5N1 - avinews.com",
+      "source": "Google News - Honduras",
+      "date": "2026-06-09",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNEpscmlwVFFkVkx1a3JDWnI4T1VpRE5zd3FVdnVORlRpNnRRdXc4Ml9hRkN5cEJoUkhVZThHWkVjSUJFMTdSUmR5MHFUd00xSkRZc1dqR0s3dEtFaUlqWTVWWEV0ODdSTWxfUHEwcTZvOWI4dE05cnZBOVJtT241cG9BcEQxYWdnMEc4c1NoUlZIX2c0aGk2ckdKWXI?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-06-09 21:48 UTC"
+  "last_updated": "2026-06-10 03:57 UTC"
 }
