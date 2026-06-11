@@ -229,18 +229,6 @@
       "color": "#ea580c"
     },
     {
-      "id": "66bea8d45b96da54ae34d9e721e708e8",
-      "title": "Río Negro: Detección de un caso de influenza aviar en aves de traspatio - argentina.gob.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-03-13",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcTZPdzF1UnVOUDNFdE1yMnd4bjFfaVhQM3RXYlB1aEdpdGJzQUJ5RXRDYzV0eG10UDk5N3hCM1R0Zmh1NTlBMTJ2WWpwdkFLdHBxVWhvM0Z6QU9DZU5kT2ZsUE9fNGNHcVN2S0QtYXp0WHFZenB3VzQ1Q0I1TlBXYmNrRDJpRlRDV1EtMjJ5MW53LVB3WnBLb1lFX2QwRmNxaXE0RmtqLXZrNkQz?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "b7a58c2c549e58875eafe9953206263d",
       "title": "Chile suspende exportaciones avícolas tras brote de influenza aviar en El Monte - nuevopoder.cl",
       "source": "Google News - Chile",
@@ -3085,18 +3073,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "1be976f0897216b7dbe3b59974c83297",
-      "title": "Río Negro: Detección de un caso de influenza aviar en un predio de aves de traspatio - Argentina.gob.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-03-13",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZkhKVFh2UkFqNWFaT0FhOHJMXzFVV2EzaTM4dmZ5UFJiR0NCTVhncno1R3VpczZ3T05UNEpxbkZhVlBZRlJEZUhJbUFRWVlPdWpUMm5WSkNZUDNwQlVUQzFUQzdZRk9CSVpSNFdMTFpIR0JGREFWVkJpSHMyRDY2WThnblNlTDJwSWFucVI5MmEwLVZXVG01UVJ4RUhCVnZuXzNkMEdPbVoyaFJxdGQ0NmZhdkszY2RMYXVUdWNR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "477899620464215911c498384679d641",
       "title": "Influenza aviar: Entre Ríos refuerza estrategias de prevención sanitaria ante escenario actual - Argentina.gob.ar",
       "source": "Google News - Argentina",
@@ -3601,5 +3577,5 @@
       "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-06-10 22:04 UTC"
+  "last_updated": "2026-06-11 04:11 UTC"
 }
