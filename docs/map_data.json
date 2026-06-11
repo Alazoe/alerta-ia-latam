@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "484ceacfcb42b6450136d514e3812e88",
-      "title": "Río Negro: Detección de un caso de influenza aviar en un predio de aves de traspatio - argentina.gob.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-03-27",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZkhKVFh2UkFqNWFaT0FhOHJMXzFVV2EzaTM4dmZ5UFJiR0NCTVhncno1R3VpczZ3T05UNEpxbkZhVlBZRlJEZUhJbUFRWVlPdWpUMm5WSkNZUDNwQlVUQzFUQzdZRk9CSVpSNFdMTFpIR0JGREFWVkJpSHMyRDY2WThnblNlTDJwSWFucVI5MmEwLVZXVG01UVJ4RUhCVnZuXzNkMEdPbVoyaFJxdGQ0NmZhdkszY2RMYXVUdWNR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "2d5f407c5cb61a333311644d471e2dc2",
       "title": "SAG suspende certificación de exportaciones avícolas tras detectar primer caso de influenza aviar en aves de postura en un plantel industrial - df.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzdBTWtXV3p0SzBfT3hlYVpLb0I3VGtVRHJJcktISXBNbmRDMU9vWTBSaFZlNzR3QmFhZ3FZWWlnUHlhSXVHOUcwWkNaSDFweGFpaC03YUpjNURselZPa21HU1l2akM5WDh1blJZWXVuREZVYUFpWjVELVJRV2JCWHBERXlWNFVDSlVGcWlFYWFWU3B5S243OXRnZDQxbjBaQ0ctZjlpT1VmaWFIMnN6TkliNA?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "37cb07dc5f5d4d6b0c6c3e3a45e9dfbd",
+      "title": "Bolivia se declara país libre de Influenza Aviar de Alta Patogenicidad - ABI - Agencia Boliviana de Información",
+      "source": "Google News - Bolivia",
+      "date": "2026-06-11",
+      "country": "Bolivia",
+      "lat": -16.2902,
+      "lng": -63.5887,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGJuYUE2Q2JsRk5meFNHZzdGeGphS2RmWjRWajZqNXZrNHBud1AzMjRpMTk0RzRWUnYydXc5RjN5My1OZ1BoS3hESFd3LS15N2RaTWNkNmpfYUtSTFUxOE5iT0hWa0pSejEzMERQNTFHSW5QYTdPdGczUTNPVFZrdEtaR0RieE9GSmdmNjZaMk1wVlhRWC1CQ3VZTWc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-11 18:47 UTC"
+  "last_updated": "2026-06-11 22:03 UTC"
 }
