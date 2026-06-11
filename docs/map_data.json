@@ -3575,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeE1oeEt6V3l3WDlTNzBtZ3pOVUxFSVVvNjRKclVfSDg4VGhGS1JFMFNucm5lSFc5cFNBR0tzSEVoV0k4RUszTkdsY2xWQVNSTm02MlhqU0M3RVFzVmx1S3lOWUR1RUVvb25venlPLTVmUnBpX2JmRVdkdXBjSHoySnFtZ1FDTHRCZEItXzkycmZ1d0NhV21uZ1dGSUg0RU5mUG5FZ1QybmlEbEIxSjFoNWxTN24?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "0446de1a4276e317b1a1558185ad151c",
+      "title": "Detectan virus de influenza aviar H5N1 en zopilotes de Lempira - www.laprensa.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-08",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHIzLVhxWkpvMVdlWTMxR1RsRkJmcldjdXlFdWgyS0t0ajZ4Q0RjdkxKREstUU5VcndoWE9xY3IzZ3ZUbTVWR3p4R255UW9fS1NadU96MzdnZGgwU2NoeGloc2MzRGoydHlvaGtBOXlTWkxQVVp5eHBLMFd0c2RlcXlETHJadVUzcjlBVHplakJKSEk?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "6bced83383b8a7095a79d477c9fbb49e",
+      "title": "Honduras activa vigilancia sanitaria tras detectar gripe aviar H5N1 en aves silvestres de Lempira - HCH",
+      "source": "Google News - Honduras",
+      "date": "2026-06-09",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzdBTWtXV3p0SzBfT3hlYVpLb0I3VGtVRHJJcktISXBNbmRDMU9vWTBSaFZlNzR3QmFhZ3FZWWlnUHlhSXVHOUcwWkNaSDFweGFpaC03YUpjNURselZPa21HU1l2akM5WDh1blJZWXVuREZVYUFpWjVELVJRV2JCWHBERXlWNFVDSlVGcWlFYWFWU3B5S243OXRnZDQxbjBaQ0ctZjlpT1VmaWFIMnN6TkliNA?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-06-11 12:11 UTC"
+  "last_updated": "2026-06-11 18:47 UTC"
 }
