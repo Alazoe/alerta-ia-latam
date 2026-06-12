@@ -3587,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTkFwZzJQNHdTd1BLOFZmMnhvOXNxalRWN0dEbXB0Um93UWYwR09IWXlqbnFQcUphWXNYaS1lU3UzN09SeXJKUXNydVh4ckxfeTF6NGF2TGtQUWhPQ1hrMjBCUExaYi03Ul9zdGxOdXNHMGZPZGFhZVZJNWlKaHJyVWlxMGlUSTRacVZN?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "a2f33bd99818b6137b9a1e524a216e21",
+      "title": "OMSA declara a Bolivia país libre de influenza aviar y abre oportunidades de exportación - La Razón Digital Bolivia",
+      "source": "Google News - Bolivia",
+      "date": "2026-06-12",
+      "country": "Bolivia",
+      "lat": -16.2902,
+      "lng": -63.5887,
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX1g1Y002M3g3b2phQzBMcVBHNHQzdDd2a0FWVTJUNldqOXpYeWJ6M1FMZ1BZR1NnNEVVSHQ4RU9KbXVwOXBxa3Z6REplQ1NSTTdvVTVIVlR4bDcxUXpQd1MtYjVjSS1Gai1CZTNGRHU4QmxZZFRIaGhSV1pDRjRPU2xPT2MxYktWRHUxNnFoVTFSUHE2a19JbWFWcGNTSmpHZDhGVE5PYy1vbko2WXJONlRNZWRzUFdwbll5WGdXTDBHZjlNcktUX1lLYk1LWHJpa3Z6Yw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-12 15:19 UTC"
+  "last_updated": "2026-06-12 18:08 UTC"
 }
