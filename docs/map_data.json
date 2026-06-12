@@ -3575,7 +3575,19 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeW1YaFVfN1Ftc0FTYktwS18zSFpqLXZhOVNnWEVIWjgtak9YOUZIVGNZTFloeDEtQTJCSk1rVlVPcDNuUGtCR3EwNGhFMWpEbDRuVUZBWmRlU2x2Q0hncXlpZHBYb05CSFB6Q2xQYmFXMGNPMi1vcXZFaUgzbElaaGw2NUpzRFVndlhyVmIwUE1WVVFlQUIwcm9xY21yZDU3U09veVEyeVc3WXRiWDN6bjgyUmoxQUZH?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "3dcc7b22669d6b4330fbebbcca1b47fd",
+      "title": "Alerta en Honduras: estos son los síntomas de la influenza aviar H5N1 en los humanos - Diario Tiempo de Honduras",
+      "source": "Google News - Honduras",
+      "date": "2026-06-09",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTkFwZzJQNHdTd1BLOFZmMnhvOXNxalRWN0dEbXB0Um93UWYwR09IWXlqbnFQcUphWXNYaS1lU3UzN09SeXJKUXNydVh4ckxfeTF6NGF2TGtQUWhPQ1hrMjBCUExaYi03Ul9zdGxOdXNHMGZPZGFhZVZJNWlKaHJyVWlxMGlUSTRacVZN?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-06-12 04:12 UTC"
+  "last_updated": "2026-06-12 11:44 UTC"
 }
