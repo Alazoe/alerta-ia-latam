@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "a5de539c445110ba0d1d4fdc54f113ee",
-      "title": "SAG confirma un caso de influenza aviar H5N1 en aves de traspatio de la Región Metropolitana - sag.gob.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-18",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQTZ0UWdud09jMlhIYWZoeG1tRXVrQzB2bVVMM1FqcG1oSmJ5cDNtLTZaVm5VNW44bk1sa3FRT3V6SFI1aHMtamx3ZW5VdHlGLVJoc3RYZmE0aU8wa1JYUnJjYlNkT3RNeWl2Sm5udVNOSlFYY2pXZVVDZGZRUzhVRDBiRmQycU1PdVdTRDdFNUduV0RBcWx1dGFnRldVeHY1NjgzRVhWYzJ3REdCVmhrQUh5SXRRQjFlRzVyUUJSMl9FZw?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "c67077806fc0233883a55221414090b0",
-      "title": "SAG confirma primer caso de influenza aviar en un traspatio de La Araucanía y refuerza medidas para detección oportuna en todo el país - sag.gob.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-20",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOWmhTTkZUVlY2VEdQaTdUSlUtOGtUSG5IdnVpQ2FCTTdhaEp1S0RIOXdKS3hYUmtpazhqOUtBb2JZb3ZmVTU4T0l4Y2xnaVhSTzNubnR6cy0tYlM1SU9iSkN5QUtoYm9yQ3FGdm9aZEFDeEVucE9uSGpFUHFDVV9qNjhvT3pFMFRxRVNqZjEwcDdHQkZFdVFlWUNjUjVEbU01U1Q3NzB6SnFBNFhxY1lCbVN6c0F3X2dwQ3VWcXU0WUhRMy16TDFXc2l4Tkt0Rm1xUUgyUE9lal85czZLdG9pZkZDT1BJVkRBM1pyUzRlaDExX2RVVUVrc0N3?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "7c77fdbcc290c3afd85fa3e99d5fc02e",
-      "title": "Emergencia sanitaria por influenza aviar: refuerzan controles y medidas en todo el país - grupormultimedio.com",
-      "source": "Google News - Uruguay",
-      "date": "2026-03-26",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNajhjTnJ4OWptRUlCWWxRbWY3YkN2NXd4QktEY2UwNUtlT1hiSFFPSDE4Ukxrai1nYTdDekl4R1ZQN1BSU1k2MXdsSU1BNWZaWUdQdWlfUFlYUlJVa0Y5bE43Z2pfZHNwV3loZ2o4bV9CT0tRcHc4SVBqSmR0R3ZCeFpoQUw4MzBCNzhwMHAzY19BaUJocHdSOUJ5T2xqZWVmYjFYTmlZTFNQaW03b3dBc1h2Y1VLVEM3c0ZYYVlKNW5HdE0?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "64860a752045dc7c07811ce8dfcaf2e5",
       "title": "Influenza aviar en Chile: el virus que ya cruzó la línea crítica - portalredsalud.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNGpEY1RtaWlSQUotenpPaGl0OUlSYzFvZmI2VXJMOU84bXhTNUhxOHJWTms4NjFQMnU2Tkh1c3pzdzR2ZHpuSzE4MGJsaTRLUktVckM2Wm9RWnp4VEtrZTFfckRrSlFVVWVIV1EtMWpYV1NMam5RX2s0VXR6V0pXbzdjTlRIdWlpZ1d6ZGI1UHo5dWRrYy1yN2FVaG1tVHJjYXVVbHdwaUM0UW5kOTZfYUktT0drSFU?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "c234da0b4dce0d8294610e1aa8876be6",
+      "title": "autosuspende certificación de exportaciones avícolas tras confirmación de plantel comercial positivo a influenza aviar | SAG - SAG GOB",
+      "source": "Google News - Chile",
+      "date": "2026-03-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPczV3T3U2WFFuNlR4WnRnSW5XdFd1UnFyeTFGT1RjR3V3TmJfclBJbzZqMFg3SUQ5d21ZVnpER09YTTZPWDlDNDgxZlI2MzU2dzZ4LVJjeEhmN2x5ZHlvdll6TWJ1eXBTOS03VUVuX0s4QzNQMVhXTzA5b3d3aUxtSTdjNmh2MUNRaWkwM0NzTnZmQ0dXeTFxV0lZWjRWazJ5ZzAySklkbFRLNWdhSzVxZkhqdG8wUm95NDBzQTIxTXpiUHlPakF1Rkx6aVJlRWlrNE1DRGJkeEZUbnBERFU0M3FIU3NCQQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "2060cf3d86f5761402e12de8c771aa96",
+      "title": "ICA anuncia control de brote de influenza aviar en el Meta - Hoy Diario del Magdalena",
+      "source": "Google News - Colombia",
+      "date": "2026-06-11",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOejNXcHNfSUdfRU1TLURoVFVOSXpqWGhET0g4UVhSY3QxLUVkcUtWaGphZndteUdZQ3ZUTG5Ybm5YajZCRmI2TUVUcGVPN05uRV9ZUHBoeGJyd0dXVVNfWFdlRUNsMUg3LXgzM09pLVNDbHNIUHFCaWNmdmxCT0FFNWRVWHhSbzNhMmx3RFl4ZVBCNHdwWnQxRzdidUtZN1VEd3g0MUxKemZINHNqclhKbGdB?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "8826bb4ca5bbf94d41bfc7881db4b39d",
+      "title": "Bolivia se declara país libre de influenza aviar - El Diario - Bolivia",
+      "source": "Google News - Bolivia",
+      "date": "2026-06-13",
+      "country": "Bolivia",
+      "lat": -16.2902,
+      "lng": -63.5887,
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3AzVjNwal93SE9hbFI0b0ttNi1TWTVRQl9YbHl0UzIzTDd0YWwyRTY1M1pDMkNDMnZQeVFGNG1xRFdYSjdKZTJ2dllka1JCN1BENnJvQm0zdUM4Ym5UU1JQWUc1V01DcVp5cG12VFpQUnlGenFhWHVEbE1nbjhKd3dzYnRVTGtYR1VjTWdQMExaQjZVTTdB?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-13 10:31 UTC"
+  "last_updated": "2026-06-13 14:04 UTC"
 }
