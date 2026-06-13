@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "2d5f407c5cb61a333311644d471e2dc2",
-      "title": "SAG suspende certificación de exportaciones avícolas tras detectar primer caso de influenza aviar en aves de postura en un plantel industrial - df.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1NoQVlROVZyLWxQbmtLSUpzdWg4SVNod0VOVVBnYlNndURzVVR1OGRNTTZXVmdLT3JNTUVudzU0QXJLTDBNZG9uM1cySENNVElkNlJLNWNCbGtsTUdsM25qZHNzU1RvS1p2a0pGNUFLYXdGM3JnZHFVMkc0TGVRcXk0UjJFYzNkcHBNZHgzd0tjby1vUEoxdzh1VjVTTmxLZHlz?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "2159a9bcd1b50ed8306f152a18b20de4",
       "title": "Las Américas refuerzan la vigilancia frente a la influenza aviar: 15 países participan en el taller regional de ProgRESSVet en Panamá - paho.org",
       "source": "Google News - Panamá",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX1g1Y002M3g3b2phQzBMcVBHNHQzdDd2a0FWVTJUNldqOXpYeWJ6M1FMZ1BZR1NnNEVVSHQ4RU9KbXVwOXBxa3Z6REplQ1NSTTdvVTVIVlR4bDcxUXpQd1MtYjVjSS1Gai1CZTNGRHU4QmxZZFRIaGhSV1pDRjRPU2xPT2MxYktWRHUxNnFoVTFSUHE2a19JbWFWcGNTSmpHZDhGVE5PYy1vbko2WXJONlRNZWRzUFdwbll5WGdXTDBHZjlNcktUX1lLYk1LWHJpa3Z6Yw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "0944786b4576760c0afa11ed2de40537",
+      "title": "Bolivia logra certificación internacional como país libre de influenza aviar - El Deber",
+      "source": "Google News - Bolivia",
+      "date": "2026-06-13",
+      "country": "Bolivia",
+      "lat": -16.2902,
+      "lng": -63.5887,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNm9BZXhTTG5TWlFJTWFOYUJibVhmTTE3WUxaekRiVXRBZTJwRUYxM29CVUFxQnU5TTA3S1NvaWhzX3JLdk52ejFCWE5rRGtFZEJCbTdGUUdWRVY5RFUtNXhKUmdIR2FvZVNCTzFnMHA5YWhHYnE4S3dqQnpxY2R0MzVFMWszSlVWb0ZrdU5lNU5zbHQ0SUhnb3djd1NDMU1qUnZNTTNhQUYyeEVPbWJsSQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-12 21:47 UTC"
+  "last_updated": "2026-06-13 04:00 UTC"
 }
