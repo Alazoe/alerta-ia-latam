@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "2159a9bcd1b50ed8306f152a18b20de4",
-      "title": "Las Américas refuerzan la vigilancia frente a la influenza aviar: 15 países participan en el taller regional de ProgRESSVet en Panamá - paho.org",
-      "source": "Google News - Panamá",
-      "date": "2026-03-26",
-      "country": "Panamá",
-      "lat": 8.538,
-      "lng": -80.7821,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1d6ZjcyVDUwUTFwMVFndi10M1ZTQVFsQW1KbE10aXlSVlNkU01LalhQY0dVeWdEVFpvTklraEFHZUhHTUJpd0tmR2hvNVVRYVFTVUJGOTJZLWtGZ0M5S20zVmtoRXJaeWN0ZjZ5b1c4Mk5zdHVnNGpsblNtZm13WW00YXJjZnF6d2V1ZENUY3B1RDJoZGdzRnFaTVlfajIzSTFUbThaM3pXVkZHWDJyWVA2SS1IMnE4UVY0ZXdua3E?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "b49d7395cb6c942f63421c23ee0585cf",
-      "title": "SAG autosuspende certificación de exportaciones avícolas tras confirmación de plantel comercial positivo a influenza aviar - sag.gob.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNGlDeGtJS1B4QmpqREk3VGdTQl9wWGRsMnNfQWx2MWFTelZUYm5URElLZi1KUHo3MTN0dGlSUVItT2FXQ3BtZHBUWVN3LWR6QmtkNTFpNVF5dk84ck96RWNDbW1UOW4wcnA3SG5zWnE3bmVFNzB5N2JDUHB3X2dNMURvNW10dW1wTU53cjVHZ2VEMkV3YkNHRUVaVlA3SHlrTWZ3a3Nld21zVVVwUEkweVIzdlE3MnNwdTB3ekpUMW5TZ0Uzb08xTk92ZWtxTGV2TnIteVNZU242cGFFVGlkUnFMaFAzUVk?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "d7ac35472588578c25acd0a6a100ff22",
-      "title": "SAG confirma nuevos casos de influenza aviar en traspatios en Magallanes y Maule y refuerza llamado a la prevención - sag.gob.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-23",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQzdIcFRHcWZHWUFTV0k4enJzWHBoWHNqbFpzQjNsWFR5Tnk2d25aVGVCNktVcF9KQ3FUNFk3SkQ1RjQ4VlJKZmc3bnk5NmdoQ3VSYU9OOHp0VzdzYTJHV0ZiRnNocDBxSDVjNXdjVVNqZnRjdVZVdFdSWmdIaWVqTUs2UGMxdVBxSTJ2VEwtSFRIX19aWjRibjVHVEdodzB3SkloSmMwT0lXZllSUGVfWDE4T0g5YkF6VUlNODd5MVU0dURiai10Z1d6c2RhYWI4R09nSzFpU2xTSkRTaEE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "a5de539c445110ba0d1d4fdc54f113ee",
       "title": "SAG confirma un caso de influenza aviar H5N1 en aves de traspatio de la Región Metropolitana - sag.gob.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNm9BZXhTTG5TWlFJTWFOYUJibVhmTTE3WUxaekRiVXRBZTJwRUYxM29CVUFxQnU5TTA3S1NvaWhzX3JLdk52ejFCWE5rRGtFZEJCbTdGUUdWRVY5RFUtNXhKUmdIR2FvZVNCTzFnMHA5YWhHYnE4S3dqQnpxY2R0MzVFMWszSlVWb0ZrdU5lNU5zbHQ0SUhnb3djd1NDMU1qUnZNTTNhQUYyeEVPbWJsSQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "2dcdfa9d1301498c29847a20b6a1a0bd",
+      "title": "GRIPE AVIAR EN PERÚ: todo sobre esta ENFERMEDAD y qué precauciones tomar | INFLUENZA AVIAR H5N1 - apnoticias.pe",
+      "source": "Google News - Perú",
+      "date": "2026-06-11",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd0QxeUtsYkhjeHF4YV9VR2R3dmk3ZTFpRXdzZjN1aGNyaklTclNJajBwRHo1aHdMaXVnR2s4d2NiQVRNYmxROElDamtlanJIc2d1ZEFSMzZGb0puLXMwUTlaOFZaU1RPUkZJLUItRFgzTS1jcTlfeUxsRUxWVW9IeXZoSk1hOTB4Q0k3Y2V1OTFFT3htZXpOMXgzY2d4TlhPUjE0V01BMnlyQ0VPbUJoWC1pMmlhZUZUQ3YwSWpLOXZBbE0zTXZPajV0MA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "56da734a12229cbe98a1266abb62722e",
+      "title": "Influenza aviar en Perú: ¿Cómo comprar de manera segura el pavo para Navidad? | #OjoEnFamilia - apnoticias.pe",
+      "source": "Google News - Perú",
+      "date": "2026-06-11",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRWwyTFlfc0xCVG50N3UzaXhlZU5tRXV1TDZvUzBGQ2FMMDI0dFBhdk9rc2FmMGt5blVfLWF6VHhJaTB5TU1ydEUzbUgwa3VMbW11VnU5TVhPcGJ4bVZLTHBLN0JaeWlzWWtGRUpsN0VlVWx5S2RhRm1vdXhqYkowV2M0c2VRMXdQSVREc3g5U1A2MjRHTmRPbnRpSzgwZV8yVXd2Z0tGUzc0RnByemdoMDZqNGY2bTYwWXVqZERfaDdyc0FO?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "d7c6ee97511ebf5f97cbb784e4ed64b4",
+      "title": "Bolivia logra certificación internacional como país libre de influenza aviar - El Deber",
+      "source": "Google News - Bolivia",
+      "date": "2026-06-13",
+      "country": "Bolivia",
+      "lat": -16.2902,
+      "lng": -63.5887,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNGpEY1RtaWlSQUotenpPaGl0OUlSYzFvZmI2VXJMOU84bXhTNUhxOHJWTms4NjFQMnU2Tkh1c3pzdzR2ZHpuSzE4MGJsaTRLUktVckM2Wm9RWnp4VEtrZTFfckRrSlFVVWVIV1EtMWpYV1NMam5RX2s0VXR6V0pXbzdjTlRIdWlpZ1d6ZGI1UHo5dWRrYy1yN2FVaG1tVHJjYXVVbHdwaUM0UW5kOTZfYUktT0drSFU?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-13 04:00 UTC"
+  "last_updated": "2026-06-13 07:53 UTC"
 }
