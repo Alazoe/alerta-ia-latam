@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "71b94fa5887d31003df6ff113d38ad81",
-      "title": "Influenza aviar en Chile: cómo se contagia a los humanos y cuáles son los síntomas - eldinamo.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-27",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRE9oN18yRHJjLVpfby00WkZpbmNKVlhzWmxfQmFQbFdBRVdCLTVWU3Y0Ty1Ddkw2dW1DcVF3ejNMd2tua1cyZ0xfb1k0Vkc4R1pjYktUS3JveHhfVk5FZXBFa1Z6ZC1UZlp3MkRwcS1HWXpHUjlxTmxiNXIwU1p4SlhZNXJqc0R3YnJ1THRZcXJhekF4UUlIclQzRTJxSk8zMUlFM3ZNdnZvV1VxZGphenQyaDNmWjNTRTZFWWd2RWE4TERh?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "9d97b6951dc03b8ef45f6ff3a8231eb6",
-      "title": "Gobierno revela que se sacrificarán 600 mil gallinas tras pausa de exportaciones por influenza aviar - biobiochile.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-26",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZm9ObE9DeGhSd3dJT1lHVVNfQnlBX1dzR0xnQlRfTW1vWi15cm9qR3V6cDRLRnUyQzNXSzQ4cFAyYTQ0NGFVNWZ3NG9IWjZqUTRhOFpkTTlxRHJJTUJDX3BQVDFvbXVERWliY0Ntc0ZoeWRJa19ESDNQOVlydjRxQlFoUkgyLVR2a2ZCU01yQXlsWjlmUkRzTkduWkNqMG5KLXRBMUJIQUcxNnE5TVFEUll6NWcxd1VBTDg0bi1XbnV6TzdJZ20xdEVDVWR1RU1LMWhWZkk0SmJaWC05UjFUVmI0VnlxY3Z3MTA5Z0JCY0RwUGxRYTZRT2NHQndGMU5ad3JSb2V4WTNHckh4NkZQYQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "71e0fc62a58e1d50ffebb580f0dec3bb",
       "title": "Crisis avícola: 600 mil gallinas serán sacrificadas por influenza aviar en Chile - eldinamo.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSWNmU3c5bUhfakk3THdiYXFrUFkxZUZHTzdhbERpdjZ3eTBrMjFmYzMwaF9uNWl0Wkl4SEc5OG5obS1PMmdQanhHQmljOTlYTFZHUVphOC1qY09EU3JZXzZiWV9ndHlqMk90TzBTOG8tNlhwbnl4UkEtUGEyY0xTbVBNeV9PWGNNVzdEQWxST1RzdC01WmVLTVV5OGt3UQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "baa961b9b55868bc0e846d615dccbc9c",
+      "title": "Humedal de Río Cruces: Confirmada presencia de Influenza Aviar en cisne de cuello negro - conaf.cl",
+      "source": "Google News - Chile",
+      "date": "2026-04-13",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdVVoOWloMWh4THB5ekZvcmZfUVJRckdVLUpzWlZqZkt4ZzUxOVloT0VRSWtKb1Ftak1hcjVEeVpGc1NBMEs2WW5zUGZfTXN6NDBoaTJWRUpraEoxdjc4aUF4cHdpd01EYjAyRXlsS3dpQ1c0VEhPMEMtcVdjd2dPdHMzRFhIOWk0RC1EbGtkMUNDQ25hZ3l0RFFfVHQ1cDhPY2h0QlUwMDdqV0sw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "0332cc8c292e9952c01d26a14113d4f6",
+      "title": "ICA anuncia control de brote de influenza aviar en el Meta - hoy diario del magdalena",
+      "source": "Google News - Colombia",
+      "date": "2026-06-11",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOejNXcHNfSUdfRU1TLURoVFVOSXpqWGhET0g4UVhSY3QxLUVkcUtWaGphZndteUdZQ3ZUTG5Ybm5YajZCRmI2TUVUcGVPN05uRV9ZUHBoeGJyd0dXVVNfWFdlRUNsMUg3LXgzM09pLVNDbHNIUHFCaWNmdmxCT0FFNWRVWHhSbzNhMmx3RFl4ZVBCNHdwWnQxRzdidUtZN1VEd3g0MUxKemZINHNqclhKbGdB?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-06-14 04:18 UTC"
+  "last_updated": "2026-06-14 10:49 UTC"
 }
