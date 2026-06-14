@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "71e0fc62a58e1d50ffebb580f0dec3bb",
-      "title": "Crisis avícola: 600 mil gallinas serán sacrificadas por influenza aviar en Chile - eldinamo.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-28",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSG41eFgtSldneldBTkdabHNuMV9rVDdkUzBTQ1pweU5TOVVabjcwVW1mbERQLWRXTGNGUkUwTDlZNnJtVWNMbDlldF9mOWQwdDZzM1RXNF9zdnpfeXQ0RUVGNGhiV0t6ZlJXSk5odF9YOGlSZDctd3VrN0g0bHkxVHFXYnl6UTE1di1FYXJmT200RjlXVHREb21sa1doWURxWDhFMDZlWjhtNTEwaTFtUlNBbmV4YURaMTZvTg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "0e7bd4369e6b6d0ea8eb6a8ff53f44ad",
-      "title": "SAG confirma primer caso de influenza aviar en aves domésticas en La Araucanía - biobiochile.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-20",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQV2h2a29BTE1mN1Z5eFpfaEZ0NW9BT05aWlN0MnZsNy1NeEROTnBmbENDUTdmb1M2dDFtNkllNVhUd3diSjB3aC1XVmlEbVNWSVBMbkdZemtwRlluUU45aEROQlRZY3RtVVV0Rnp5VFQwVV9Oel95VUhTcThSMzhKbUpIcEZfZ2p4V1FuQ3FvcF93Y1owYk1uU1h5dXFSS1RvQXQwSkpzblNaSXl3aUotckhIVDVKUEdRdUM3dHc4YnJUaXhGYWVrOEd4QUVxZ0g1T2h5VE9qV2VkRTdfdXdEUlpPZ09qeEtLbFNtQzVwY0R0eDRwdnc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "e8feb05c255e1ed8f95825d8c647e49f",
-      "title": "Se extiende la influenza aviar en el país: confirman casos en el Maule y Magallanes - biobiochile.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWEIzRWdXUUtkdHNXN3Fuc0RtQTNUaF9MRDJWbjFsNXlmZEppRmhUWFFmZDFVY0pzQzhRTVJGYmVPT1lfRVpYUno0dDMxLXdtUWpvZF9UNE9fR3B1cER1MnJHVVBFdUx4dUVMbjlkWEJZLXdwZnVDdTJ2UFVuTGJ5OTFWeEFQNkhsaWdzeXhza1pFOXNfOVNKWXdHT0ZpU3ZpNFNLLXFDX0w5aTdSY1JXVFBGTGU2RmItTF9OWEg3blR3SEFDd3dUakxIZHZPbVlTM29jX2Z4ZTBrMjdyYUhxT0I2N1lIQy1jcXI3QXhBM2tuLTQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "d782792cabc109ccbdab02acc64b76f2",
       "title": "SAG detecta nuevo caso de influenza aviar H5N1 en aves de traspatio en Melipilla - biobiochile.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOejNXcHNfSUdfRU1TLURoVFVOSXpqWGhET0g4UVhSY3QxLUVkcUtWaGphZndteUdZQ3ZUTG5Ybm5YajZCRmI2TUVUcGVPN05uRV9ZUHBoeGJyd0dXVVNfWFdlRUNsMUg3LXgzM09pLVNDbHNIUHFCaWNmdmxCT0FFNWRVWHhSbzNhMmx3RFl4ZVBCNHdwWnQxRzdidUtZN1VEd3g0MUxKemZINHNqclhKbGdB?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "5c6769f0a610e9699e002391726179fb",
+      "title": "Influenza aviar H5N1 centró seminario sobre bioseguridad y preparación sanitaria - Universidad de Concepción",
+      "source": "Google News - Chile",
+      "date": "2026-06-04",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeEhiVzlacFFkekxscGlXYW1yWnBwckswUVpnNWh5bDlOWWJMUHZocFN1SzlrYTJ0cnFpc0NVdUhvSHh4Q3BPWGRIaXAtLWJqWEFpMEN6YndvWTZDVDNYMmd0bFFxQTlUWW8zOGtxQ1J3RGJwWk5FSjdYZVlDREx4c1hwZ2laS3ppY0xiQk5JY3lkT1pFYzZTdkFwWHB4eGg1UDJFNFJDX1pXZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "bdd86abd4ae7a9075545daf17cf04676",
+      "title": "Bolivia se declara país libre de influenza aviar de alta patogenicidad, según la OMSA - unitel.bo",
+      "source": "Google News - Bolivia",
+      "date": "2026-06-12",
+      "country": "Bolivia",
+      "lat": -16.2902,
+      "lng": -63.5887,
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSURFRmFZc3ZHbldTTS1pTVY4eGNtT0FIZU1TWVV0b05DcW5MMWk5UHd2NGdDenZCNVA3c3VkTHVNMEtYOGplYy1fYVA5ZzQ2NEJTZGZUMFlSd2tMQzNRWXhNT2M3cHZJR2c0S3hCMXB5cDBoaExXaXk5Ym52UzZBVU9sOTZaSkp0cDhIYjVPTUN2a2EyVUlJV3I0Qi1RamthbGQ2WWt0V1VsNl9CX1ZSZjZTeDJIUVNINmptTGpfbEtkbzA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "fb7009b279d8540a8407366a81a935c8",
+      "title": "Influenza aviar en la interfaz entre humanos y animales - gob.mx",
+      "source": "Google News - México",
+      "date": "2026-06-08",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSWNmU3c5bUhfakk3THdiYXFrUFkxZUZHTzdhbERpdjZ3eTBrMjFmYzMwaF9uNWl0Wkl4SEc5OG5obS1PMmdQanhHQmljOTlYTFZHUVphOC1qY09EU3JZXzZiWV9ndHlqMk90TzBTOG8tNlhwbnl4UkEtUGEyY0xTbVBNeV9PWGNNVzdEQWxST1RzdC01WmVLTVV5OGt3UQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-14 10:49 UTC"
+  "last_updated": "2026-06-14 14:08 UTC"
 }
