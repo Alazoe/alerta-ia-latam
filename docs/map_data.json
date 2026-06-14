@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "64860a752045dc7c07811ce8dfcaf2e5",
-      "title": "Influenza aviar en Chile: el virus que ya cruzó la línea crítica - portalredsalud.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-28",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORjR2d04xSzRkMWp4dktmelN0RzFXOGQxVHlXVUhCcFZ2ZUxKS0s0c0RySGRZWjF4NEh1STBwWDlNRDFPckE4dVY4Smx1bnplOU1fem51emxqVEFRSXV3aS1kOG16WVRDYVhlQkZ6bTFtOHNua3B0eFZaSUN2M2w0Z2w5SElSUFhIV2llV2tSX1FBVHZQSnRPdjZYU3M2V3JDZUZj?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "e4ddba86048395a55b14d91e39326532",
-      "title": "SAG confirma influenza aviar en plantel industrial y suspende exportaciones avícolas - biobiochile.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRWNaVnpJUWxId0J1QzExcWJVbU5TWm9BSU1CbmtCMUhYNnl2NkJHN3laX3E0ZGY2dUJJQjdLRUFMcnYyYUZJZHpxOHNxd2padk12SDFJX3FqY3dtSHh5YVYyam9XaWNSSkNLZ1FaenpGYnFFbkRtWHJpc3RTSU1Qak50Q2FpeXEwYW1TSHBwLXFwZkdTc1JxQ2N2NnRSZ2RNc0hHRVZtaFhlRW5yaVJ4Vngzc2p6dlJLcHBEdDNrdGdDMnRLZUVEZThRTkpGbV8zS2dXTnM1N1RZa0g4RXlFQTk1cFJrMzRZWWdvTGEwUXVNNnJaODFybmNMbw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "71b94fa5887d31003df6ff113d38ad81",
       "title": "Influenza aviar en Chile: cómo se contagia a los humanos y cuáles son los síntomas - eldinamo.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3AzVjNwal93SE9hbFI0b0ttNi1TWTVRQl9YbHl0UzIzTDd0YWwyRTY1M1pDMkNDMnZQeVFGNG1xRFdYSjdKZTJ2dllka1JCN1BENnJvQm0zdUM4Ym5UU1JQWUc1V01DcVp5cG12VFpQUnlGenFhWHVEbE1nbjhKd3dzYnRVTGtYR1VjTWdQMExaQjZVTTdB?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "12278d8f61ef86db431d6b57f8596ba6",
+      "title": "confirma nuevo caso de influenza aviar en región del Maule y activa protocolos sanitarios para evitar su propagación | SAG - SAG GOB",
+      "source": "Google News - Chile",
+      "date": "2026-04-02",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTHVQU2l0ZVA3Yy1KVWVpczJWZ3pESW5xb2M3UzBYOTVnUkpGUkM2TUM3eVJPNVdUb2tmUk5DVi1WMjZyZHI5NS1odE5rY05zemxITC1jblV6VWZKZmNBVmZVd2ZDZ1VXQ2ZVYkJodEdGX041QmdtT3o1akpGQm1McTV2N2FTdmRTSEp4Rkl6UHhVbE9Oc3c1dDRHNXA2Nk1kUzNqQlN0Y2FyUVY4dFc0Z1huUllnbUhOWHRSTDBPUjRpZUo2MlpwYUxIN21jdFZzbFRSbHA3SkVNWkt3c3pzVjcxbFdWZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "5206662ec5760f4736c9ed42b5a275c6",
+      "title": "Influenza aviar en la interfaz entre humanos y animales - Gob MX",
+      "source": "Google News - México",
+      "date": "2026-06-08",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSWNmU3c5bUhfakk3THdiYXFrUFkxZUZHTzdhbERpdjZ3eTBrMjFmYzMwaF9uNWl0Wkl4SEc5OG5obS1PMmdQanhHQmljOTlYTFZHUVphOC1qY09EU3JZXzZiWV9ndHlqMk90TzBTOG8tNlhwbnl4UkEtUGEyY0xTbVBNeV9PWGNNVzdEQWxST1RzdC01WmVLTVV5OGt3UQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-13 21:19 UTC"
+  "last_updated": "2026-06-14 04:18 UTC"
 }
