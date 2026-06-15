@@ -2989,18 +2989,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "703cec720c4fd44d41a05a7a50228505",
-      "title": "Influenza Aviar y pérdidas millonarias: El costo de no vacunar en Argentina - avinews.com",
-      "source": "Google News - Argentina",
-      "date": "2026-03-17",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaERYWDJtbDlabi1hdmh6ZW5TaUlRUGplQ19PSUpTdFRoWXRFaUN4aXlIeHQ1blRPQlZPaVVzVGtLcVJsMVJXX1E1MnQzM3pFeDZUS2NRRldxczZvREprYlhTQTZjNXlWdlo5SERkek5kTkRtMEQ5cjU5UjQxZ1VGTzMwZjVjSldaVjRwZF8wTS1tdUp3OVRVYzJrUQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "d2d49be2855ea8c97434c584b978e0e7",
       "title": "Chile detectó el primer caso de influenza aviar en la macrozona norte y refuerza los controles sanitarios - Revista Chacra",
       "source": "Google News - Chile",
@@ -3601,5 +3589,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-14 21:14 UTC"
+  "last_updated": "2026-06-15 04:41 UTC"
 }
