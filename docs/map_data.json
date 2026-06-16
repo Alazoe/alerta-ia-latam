@@ -3551,7 +3551,43 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHIzLVhxWkpvMVdlWTMxR1RsRkJmcldjdXlFdWgyS0t0ajZ4Q0RjdkxKREstUU5VcndoWE9xY3IzZ3ZUbTVWR3p4R255UW9fS1NadU96MzdnZGgwU2NoeGloc2MzRGoydHlvaGtBOXlTWkxQVVp5eHBLMFd0c2RlcXlETHJadVUzcjlBVHplakJKSEk?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "05600d41429c2a588c45699c3ddaa1c8",
+      "title": "Confirman primer caso de influenza aviar en Tarapacá: ¿Puede afectar a las personas? - elboyaldia.cl",
+      "source": "Google News - Chile",
+      "date": "2026-06-16",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORmZORzFOQkQ0SGFLTlpTLWpsYV9MbndMRTVRZjJmWFQzMlhUczRBUEExUzQzZERfcW10YndncHRLZ3dkUUtNZmc1akxHVTVhZVlrSkxETFp6RlpFTGRWTExSNC1FZ0pLa1BoWmlZV3AwTVdTWHdSUXd6SU9TRUh4djBpenZ4ZTlmWEtVVl9NaGNUY1JZNHNPX3VObzd6OGg5NDdnc1R6eC1RQkFKbEZKRGpkdUZ1T0RGcllz?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "6f1d671c823bc4dcd8fcfe97b605fcb6",
+      "title": "UST Temuco reunió a especialistas y autoridades en primera jornada regional sobre Influenza Aviar y vigilancia sanitaria - araucanianoticias.cl",
+      "source": "Google News - Chile",
+      "date": "2026-06-16",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaXMtSHNNN3VvTTI1S2dncmdkOUt1Y3pOYjRpc2dhYzBtdDBKVEVROG5BZHZnMk1oLU1yM2ItZ1NFR2NVdy1TbHdPYVFxRkF3RW9CUk9XUjlSRU8yWm1CZXIxYUFfamtsY3B5T0lqcTZvdERLdFg0VlpoWlh3T0ZNMnpmQ0Y5dGhIdFBhQU9XalZtUG04QnhYZm1PeXhuV0VyRG1CMzN6TzJweTEwemlnOUlCb1BwU0hmSzRzSW9BUWtCYnQxcmlQNzJEVXBpY0liV0prRDFCZW55bU11b1gyU2NtVmNCbFM5Y2FBak5Rb0t5SEl4S0Jv?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "993243e70d6c8ff296702f71bf6d65ad",
+      "title": "Confirman primer caso de influenza aviar en ave silvestre en Tarapacá - SoyChile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-06-16",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZjVWNTNLOFJxUUtVTHRiTEdnNWZhTlpLWFRhdjRHVmMwVjBpd2ZFYkw0M2Fqc0NiV2w3aUtSYXJ4VUZwNk0xRlg3VmtvQ3AxZzAwbmxRc0RaU2d4dnlNbmZfWUczVklaeFBVM2p4ZHVuYWRoZXNZZXRlWk1yaE43d3ByeGVlWW5pZHVic1E2R0FFTk0tUVpxbVBvMU5Xdw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-16 12:55 UTC"
+  "last_updated": "2026-06-16 19:38 UTC"
 }
