@@ -1,54 +1,6 @@
 {
   "alerts": [
     {
-      "id": "1e0cb036b46f3ee4ef95857e181598ee",
-      "title": "Tras foco de influenza aviar: SAG logra la reapertura de mercados de productos avícolas - t13.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-31",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWVdacnl3Z191VFpFN0dwR3J1bHdSUjg2RFVSUEN1eFRzdDFIUS1lMXNGZ1JhVmpHbTNBVUZoUHZab1pibW81clhVRGtYR3E0cHBXT2wwSjRrYjNWeHlxVzVRWXotc3lhMWZKVG1TbE5IU1hLdG5XUHlpczB0UW1LUTBvODJSQmJ1dHhfc2dlclI2U2ZrTk43Uk95VXVCRWZRcnhkblRZZVNON1V4YXFOMlZQam1NVFkxSzh3OGFSdjFFQdIBwgFBVV95cUxQWVdacnl3Z191VFpFN0dwR3J1bHdSUjg2RFVSUEN1eFRzdDFIUS1lMXNGZ1JhVmpHbTNBVUZoUHZab1pibW81clhVRGtYR3E0cHBXT2wwSjRrYjNWeHlxVzVRWXotc3lhMWZKVG1TbE5IU1hLdG5XUHlpczB0UW1LUTBvODJSQmJ1dHhfc2dlclI2U2ZrTk43Uk95VXVCRWZRcnhkblRZZVNON1V4YXFOMlZQam1NVFkxSzh3OGFSdjFFQQ?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "d6155b583779d651159d683ca9bbb2cd",
-      "title": "Exportaciones avícolas en jaque por influenza aviar en Chile - Periódico MOTIVAR",
-      "source": "Google News - Chile",
-      "date": "2026-03-31",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR3hEMVhUUkpPTlcxdGMwUXpkZ1F6N19ra2E5cV9SLS1HbVM5OXdUbWFQMlFCVE5kcnVpWlpPSnhvY3docE1YSjRQaGVaei1pLTJiN01MblpzaGVCNm5CRlhWOTJuSkNOX2JhY1ZEMEVxU19TeUVvWVlKeHN1TDNVaGFWVWUzbmNhV0ZacDFBcTZSaV9PTmliNFZZZG9DMGo1cW5r0gGoAUFVX3lxTFBxenduZWdaZk1SR2lkcEtyeWZvUWd6VVlTSVR5WHVfMG9QT2R6TmcwRnVyZXY3UVdfZGF1ZUJ2QWxvdDlqOFhodUlRaFAzX2oxM2J0YTJlZ1pwUW5CQ2R6MmFfazUwRDhpaFdSQ0F0NFIyYllZTlNRV3d3WXhFbkVlY1h0c0I4QkRjR3JfdXVZUHVMeGk3MTd5NXBDWkF6eW9tQXdIWWFpVw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "063fdf004605e7c5d8d4aa3acdae3987",
-      "title": "Tras foco de influenza aviar: SAG logra la reapertura de mercados de productos avícolas - Teletrece",
-      "source": "Google News - Chile",
-      "date": "2026-03-31",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWVdacnl3Z191VFpFN0dwR3J1bHdSUjg2RFVSUEN1eFRzdDFIUS1lMXNGZ1JhVmpHbTNBVUZoUHZab1pibW81clhVRGtYR3E0cHBXT2wwSjRrYjNWeHlxVzVRWXotc3lhMWZKVG1TbE5IU1hLdG5XUHlpczB0UW1LUTBvODJSQmJ1dHhfc2dlclI2U2ZrTk43Uk95VXVCRWZRcnhkblRZZVNON1V4YXFOMlZQam1NVFkxSzh3OGFSdjFFQdIBwgFBVV95cUxQWVdacnl3Z191VFpFN0dwR3J1bHdSUjg2RFVSUEN1eFRzdDFIUS1lMXNGZ1JhVmpHbTNBVUZoUHZab1pibW81clhVRGtYR3E0cHBXT2wwSjRrYjNWeHlxVzVRWXotc3lhMWZKVG1TbE5IU1hLdG5XUHlpczB0UW1LUTBvODJSQmJ1dHhfc2dlclI2U2ZrTk43Uk95VXVCRWZRcnhkblRZZVNON1V4YXFOMlZQam1NVFkxSzh3OGFSdjFFQQ?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "24b3bd7089e91061d0f846e6e7adcb8b",
-      "title": "SAG logra en tiempo récord la reapertura de los principales mercados de productos avícolas tras foco de influenza aviar - RadioSago",
-      "source": "Google News - Chile",
-      "date": "2026-04-01",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUVmODA0S0tDb0N3SlBacnlpNm0zRUlUZEVURms4aURPM04tV3E1RGNQcGFNbDRCeFFIczVpNEtRWFlWTVdwbmhFLVBFdU4tMGZ4c2dxZ3BWZmZxelE4Zjd0VE9GWVhCaktpSkZvRzIweG16a29zbzQzYmgybHV2a3lpLXlUbWZrWTlDdUpwNkJNRnpBVjQzcHE4bUNpTmp5cmstZnc1SXNaTVdyV2pNN3hRSVZBaUNsYjJ5Vl9nSV9vUFdleDZuREtTdjBHUGJ4b3BtWnV6TmJrdTF3dVE?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "8e80deff33bd0e4bb66a97f9fc7c979c",
       "title": "Chile reactiva exportaciones avícolas tras brote de influenza aviar - reporteagricola.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3551,55 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUWNxanU2Y2tiTXB6c2hLYTdVVklQOVFYeFlJWjg1YjVqeVA3UFdSVEVXQmNISHg2UC05OVB5S2VuV0VjVW5ZMDJvS1NyYmo5VHJwLVRqWGRfTDJCLXFsTVRyNl8zZWNVc2hybXlXX2xTazEyX1RPVTNtUmJ5cWlMelpaU01UUnZYN0lSNUUtMmtDS0xTQTRScEZKYkFJVmM1dlBpZUdiYTI?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "305d840df74db7a77a668c01321d695f",
+      "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la Región de Tarapacá - SAG GOB",
+      "source": "Google News - Chile",
+      "date": "2026-06-15",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObVhJX1NoMS1SWWtmY0N2dzVfaU5zR1NlcVcxeEJkd0c4Z1pZZlRfQ2FUU3JJMExtTWYwQllGa3h6NXdROUNPNHc0blFWWnhWa0VzcWJRcnNBdk1fa3hfc0NFVGJjV1ZtV00yQ1NqakFiSV9jN3A2Vk5yOXpubklqSGpyeEVxa0tFXzNnQVpKRDJPQWpVaVA0WkRUYWlnNFIyZTZsVmYyQXN0ODJ5OUhXTTFOY3pnV3J3cmhhLURfSVRReEFNNG9EQ3BQX250b1pL?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "a994d48078d5141f24f9a6f410c5ccf3",
+      "title": "Argentina libre de influenza aviar: Perú y Chile levantan restricciones a productos avícolas - Ruralnet",
+      "source": "Google News - Chile",
+      "date": "2026-06-17",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZk81QW93MG03eDVVc0hMUFN2QzFoYUloWGxGYlF6NDV4UXhhV1padUR3YlBEank4MU9LblFZR0NKdklhV2FvcHZxemNWblBLV1ZhRGlHMHFwYzlmX2NGLUZ2bFhOWVZobjVlS2Z5MXQybERrSTNQNDZqQ3BJdS1WeW9xbE8xdzkwdDVZN1FqSGRPN1hPN2hR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "fcd3da458ee3bc91ad976c724e9ae61e",
+      "title": "Evalúan declarar emergencia por brote de influenza aviar - Diario Tiempo de Honduras",
+      "source": "Google News - Honduras",
+      "date": "2026-06-17",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZklxYjVhcDhid2lKTkJHa0FwSklRN1d0MFZtNk5YenNCZXo1d2cwaTM5MjZaOVNtVDg0UjNrcm1OeGI4TUpjb185NkhPbUIyaHlicmlvNmJ5OEdPRldjbGcwMWVCbHItbGhpZXJmaXZZemtDUlV4UjlKUHkzWmlOUGczQTZVcE5iSVZoYlNHY3UwZw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "4d1c91c8b91aeb98305f3a9026bdde60",
+      "title": "Honduras confirma primer caso de influenza aviar H5 en aves silvestres - hch.tv",
+      "source": "Google News - Honduras",
+      "date": "2026-06-08",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTTVaRFJVWkVFb0J2cy0wU2tZMVZDeXMtekEwaG5ONDlUSXE5YzFaVTZZbDRvUUd4RWRjQ0ZFenhQVEdzdmltWEM2VXh5b0RFX2hvNnMxLXlRbFZBcUVXcUtnZE02QjVYeW1BZXVwVEh6M0k3OVI2OWNPTHMtSExDbF9xb194dzE4LWZTZXVtdw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-17 18:21 UTC"
+  "last_updated": "2026-06-17 22:01 UTC"
 }
