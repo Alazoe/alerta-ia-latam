@@ -1,66 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d782792cabc109ccbdab02acc64b76f2",
-      "title": "SAG detecta nuevo caso de influenza aviar H5N1 en aves de traspatio en Melipilla - biobiochile.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-19",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdlB4MkxlUENXUExvek5pRVZOeVVmMlNqeV9YaHY5X2NvUFJnaVFTRlBfN0Rhd2I1UWRoX1c1ZEg5S2MwdWtON2dVUVVDSkVLMVZZbFZhM196NHk2dXNoVkl2c0lMYzFydFhqQkZkT3F5NXlTbXNsNVN5Qjd5TWtOem4wdm43UUE2V2ZpN2lEQnhxWF9zQWd1djRBMk5PZ1lfa3Itc2RWT1V4R1JVcC1COGk0c0NPUzBySjIwdDl5bFFIVGpVaVZTZmNvZHh6aENQdmpReVZEcklSUWc4cnFQd05tZ1o5eU52WmdUaE1udXczM1FpN0E?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "1e935e9275f271109bd1f08b9c061820",
-      "title": "Influenza aviar en Chile: el virus que ya cruzó la línea crítica - Andes on line",
-      "source": "Google News - Chile",
-      "date": "2026-03-29",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNTl4MzVSempZUE1Mc0RST3dUYkcxbmtLMHJrbXZrWDluNjJGcXRHZXBsMTlzN2dqY2diSDF1RUV4MmdGZjEzZklacklncm93UEVNSThnTUpveG5veTVlOUZ1aU9hWDFtdGZfZ2hDSktfNEpaNzZxWk1KYTEtRGVCb1NyMU5kcWhhZHgySTNzWUNkVl9iU1UwU1NjX2xUNGZ2YWFkNHJ0X3VvS3puZ1duNzBxNA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "d6fb127d0edb5ee4c79e6d98494ee1fd",
-      "title": "Influenza aviar en Chile: el virus que ya cruzó la línea crítica - Andes on line",
-      "source": "Google News - Chile",
-      "date": "2026-03-29",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY3p4bHNHTS03ZmdrZkhLWlR5X1locTNCU1JWakNRZ0ppR1BKOC00NHRhckk5TDR6TlNsV1lJUWY1TjI3Z1E2ajZnVllrYTROLWVGMEZrdUZBSl9BXzVSbm1CZVlrS2FJMW8zaHpoZkhJZEt1WUgyaDJPOWJqRV9Sd25IVnhpd2tIMVluTGRtU0cxdzVlQUlrczkzeXVhZUN6SzYzV3UtV2JOT0dnS0E?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "ebfb1c7c9af005e87e1f9ba86cefd7ea",
-      "title": "Chile suspende exportaciones avícolas tras brote de influenza aviar en El Monte - Nuevo Poder",
-      "source": "Google News - Chile",
-      "date": "2026-03-29",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdWozYTZTU0N4V29kTF9DVjVSVTFHLTExaVBtRUN4bS14a3JNdGU2ajBBVE1wNUFlNkltUlc1blVNeHJLSU1TcTBob0pzVnRvckI3a3N6YlFSTFYyUzZDN0dXRDJlcnhEWTJsTXA0WTJOMTZWWWRCNVA1TTdWZE9jWk5Wc2xVQU1jbDNObGsxSkhzNUlpcVNObzdvVmgxRHBKWkoxWWZ5cThxUQ?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "b7a58c2c549e58875eafe9953206263d",
-      "title": "Chile suspende exportaciones avícolas tras brote de influenza aviar en El Monte - nuevopoder.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-29",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdWozYTZTU0N4V29kTF9DVjVSVTFHLTExaVBtRUN4bS14a3JNdGU2ajBBVE1wNUFlNkltUlc1blVNeHJLSU1TcTBob0pzVnRvckI3a3N6YlFSTFYyUzZDN0dXRDJlcnhEWTJsTXA0WTJOMTZWWWRCNVA1TTdWZE9jWk5Wc2xVQU1jbDNObGsxSkhzNUlpcVNObzdvVmgxRHBKWkoxWWZ5cThxUQ?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "5bdaf3bb95b036b5b068fb238fa3f9f2",
       "title": "Influenza aviar en Chile: el virus que ya cruzó la línea crítica - losandesonline.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3539,67 @@
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNUl1cDBTdzEyb0hMZW5rVDk5MnRyZE1laUlmM21obmFFWW9weTJrcEZPQ3E1TV9wekJIT2JUVlJ6a2dKN1oycGIxd1B5X0tsYnhSVDlxX1dDeHNrRDZNNnQ3MkdKUTZXZElIT2xscmR0SzFyZzdfQkloVVl1eUJuMi0zQXdIaE15dlVwMEFfdElfM0ZSX2QyOHduOVlMS3JjNFROU1FrbHZXQ0R2SHI0UjQwRllmR2hWOUdFS3VrbThwT0dPeTVYamhnNGRLVTdYNlV5VzBOMFh6TkhfU1VrUHM4a29fQlhuNzY2aW9R0gGIAkFVX3lxTFA2VndtNWJWeXZ6d2NkV1IyVWREMGkwQ1k1UW1rbFA3MzYxc0NmeUs2TGpGMENFM0xISDB2NTlBQThHY2pwOTlkeVdvOTZVaE9ud1NrOEo5YXY4WkVUVW1kaTVOTVFFWGMxWHFLaXR0dFlSZTUyclBoV2VhSDFScERmYkdLNzMwRmQ0SWxRRTA4al9xUi1pUG1HRFdBekNaT29heWtxSDFFM3lIQU1OQXJGLUNaelR4UTkxdkRtZGRXNXhsSktpNW02ck9ISExhcWs5dmdaYWlZWFFidl9ZVnJldEVvWXFhQTJCUFo2MjY1SlJsQkJ1ZnQ0aW5fMEZIblBlMTlMcWMwaQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "b15f9ce5cb1737e99c7ab85432d5bfcf",
+      "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la Región de Tarapacá - Infocomunicaciones chile",
+      "source": "Google News - Chile",
+      "date": "2026-06-16",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOeWlWd1VRTVY0Rkd3OXJsWlh0X0tYcjZzS2RUNkkzYnBHSEJhekQ3eXQ5WlJicGlGQU43YVlyYkJ3enBLQWVsUnN4UEhPemt0M0VwS0ltYVllelZkWlh4MkpXMmJXSGYwMkhlVVVKSWUwT2s2YllBVlF1R1BUSTZiMzZXZ3ZYWlVRdlZoMmtIdnA2VG01YVcxN3FBRmVLQ2VFU0JSdzRfTHMyUkhQWVV1TFlSbFZFVjVsTkRUdDNGbWk5dkowNG8zTjlIcTQ3OS1YNFAtMVFqSXdpM0o4ck5GUVZmOTRsQQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "6607c4b8fc33291e6b470f24b3cab362",
+      "title": "Senasa mantiene vigilancia en el occidente de Honduras tras detectar brote de influenza aviar en aves silvestres - Infobae",
+      "source": "Google News - Honduras",
+      "date": "2026-06-16",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQNlZ3bTViVnl2endjZFdSMlVkRDBpMENZNVFta2xQNzM2MXNDZnlLNkxqRjBDRTNMSEgwdjU5QUE4R2NqcDk5ZHlXbzk2VWhPbndTazhKOWF2OFpFVFVtZGk1Tk1RRVhjMVhxS2l0dHRZUmU1MnJQaFdlYUgxUnBEZmJHSzczMEZkNElsUUUwOGpfcVItaVBtR0RXQXpDWk9vYXlrcUgxRTN5SEFNTkFyRi1DWnpUeFE5MXZEbWRkVzV4bEpLaTVtNnJPSEhMYXFrOXZnWmFpWVhRYnZfWVZyZXRFb1lxYUEyQlBaNjI2NUpSbEJCdWZ0NGluXzBGSG5QZTE5THFjMGnSAYgCQVVfeXFMUDZWd201YlZ5dnp3Y2RXUjJVZEQwaTBDWTVRbWtsUDczNjFzQ2Z5SzZMakYwQ0UzTEhIMHY1OUFBOEdjanA5OWR5V285NlVoT253U2s4SjlhdjhaRVRVbWRpNU5NUUVYYzFYcUtpdHR0WVJlNTJyUGhXZWFIMVJwRGZiR0s3MzBGZDRJbFFFMDhqX3FSLWlQbUdEV0F6Q1pPb2F5a3FIMUUzeUhBTU5BckYtQ1p6VHhROTF2RG1kZFc1eGxKS2k1bTZyT0hITGFxazl2Z1phaVlYUWJ2X1lWcmV0RW9ZcWFBMkJQWjYyNjVKUmxCQnVmdDRpbl8wRkhuUGUxOUxxYzBp?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "64bca13ee5c19c67a2302806c41cd7c9",
+      "title": "Honduras refuerza vigilancia tras detectar brote de influenza aviar en aves silvestres - RTv Noticias Morelos",
+      "source": "Google News - Honduras",
+      "date": "2026-06-16",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnhxYmgxRURLV1h0WFZJa1ZveHBOYm9aTW5CUWh5enJMVlB5YmRoNFRqTng0eEVUcE5MUVJvMklWVVlMSXFUWE9lTmM3NXFJeHZMXzJsQVhaQjM4Sm4xRHJKTjFTSjJQYVZ1WU1TT01Nb1dTY3RZZEVJWm91bEtEd29hZ2pDd1p0NlJpTVozRXFPRC03MGx3NkNNTzNESzZjTG9pSnNOVUlVSWxRU0FIX0hwYlE5a0xX?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "d3b95378cc28471e6cbb34a38e032a9e",
+      "title": "Senasa reporta más de 320 aves muertas por influenza aviar - ElHeraldo.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-17",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUWNxanU2Y2tiTXB6c2hLYTdVVklQOVFYeFlJWjg1YjVqeVA3UFdSVEVXQmNISHg2UC05OVB5S2VuV0VjVW5ZMDJvS1NyYmo5VHJwLVRqWGRfTDJCLXFsTVRyNl8zZWNVc2hybXlXX2xTazEyX1RPVTNtUmJ5cWlMelpaU01UUnZYN0lSNUUtMmtDS0xTQTRScEZKYkFJVmM1dlBpZUdiYTI?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "e76b0538606434a71080e250256c1ce5",
+      "title": "Influenza aviar causa la muerte de 320 aves silvestres en Lempira y Copán - Diario Tiempo de Honduras",
+      "source": "Google News - Honduras",
+      "date": "2026-06-16",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT3ZqaF9TY3BOcV9MVEVMS09ZaUlGa3hiNGNFelRnZjlaVzJobTJwSGVuQmVkYnJKWGtnMW1zS2JEdEVkNHpPbjJVOUw0LTVCbnhrRWx2UWE3WFBBVVpteEtTUFktZFBCWlVlMkkxQVlJS2NfRWx1eklmY0JxVzBLb005LVJrUks5SzRDdEk3SFN5SndZcGc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-16 22:13 UTC"
+  "last_updated": "2026-06-17 04:20 UTC"
 }
