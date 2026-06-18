@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "780cf9749eac7b27bed29731f82455f7",
-      "title": "Chile reanuda exportaciones avícolas en tiempo récord tras brote de influenza aviar - Radio Magallanes",
-      "source": "Google News - Chile",
-      "date": "2026-04-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb1VLTmJxRVV0OHhtUDlzZkhnRTdveEpySDV5R1Bhdjd1a3ZtX2JyeDJoQTZSenM1cFFUSGt5VGNzTG11UXB5SFF6M0hHVVdYVDJ0UVI5RlpUOGdmTUVKOTRCbFd5TnpZbGtOeEM4eTkxSEllaUh5SDY4Z0J1aDJFOUJjX1cxTm1SdFNoRG83cHZoel9FVmkxbHd4cWxxNHlLVGcwOUxGR2FhVktzdGVSUA?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "9334fe96dcf5e278eb702ea4e030e5b6",
-      "title": "Chile retoma exportaciones avícolas a principales mercados tras brote de influenza aviar - laregionhoy.cl",
-      "source": "Google News - Chile",
-      "date": "2026-04-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZDJpS2N0MW5KWVFCcVB1NzlfM2dyeF9sT2l4cjBDUFRKWVFJVjMzQVdTU01VTV9CY3JyU0JSWWVMOHJFVEwwN044ZVFSSzl5VXZWVnQ0SDJRaTF2clc5VFlrUWJVeG9icWZXUGlaaklRQWN2bFNFQjhtdXhxZ29FZTJZZ3E3SWxxUTA4LUZtZ2V2amVhb3drVTRJZWdPclZTTjNYaklSb01wenBldXY1c1BBdmUzczhZZm1NR2xncW0?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "9eb83cde58e3735e8fed2bc91144acc9",
-      "title": "Influenza aviar en Chile: detectan el primer caso en un plantel industrial y frenan exportaciones - Infobae",
-      "source": "Google News - Chile",
-      "date": "2026-04-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQVRYVUFlQUM1UHZTWllXVm5wWGhsQlo2TzF1aWgtaDBHRk9LcV92WEhMenlxWTlwbjc0ZUFOdHotTzN1Y29hVHhuS0tKY1FtU2R0alJ5RWZjanRiTTNyVEtQOWV1Q0k5M252WnBEMzhGTDlCNURUd0xUTXRkQUJaeHlnXzZiLVlmWFQweDhrV3dfTkpDTFIycml4Z2w0N3lLV0swNkt3Ym1hRFJMc29SZDBlMjBhZ2FjSHFlNWlaN3JKSC1MZ203Z2pmRnB2SllxRWdIN2hLdlIwT3hDdWRGUdIB-wFBVV95cUxORFZsbFRUaGlvQzJVYUszbXp1VWF6Uk9wY0hmVkN3QmtWSTlnWXFseU9jZjdwUE52cktFckpSdHpIbWhCUHZSY1RWTEc1dHd5NVJiNkhJbEVULVJJYUEtUVpLY3BmNE5EaHM3V1VsZW1JQ2pUZ09DanJiWVlyUFl3YWJ3UGxicWd4cGc2Q2lIYkQ1S0l1RERkU2hwMTFpYzlRQU0xM0RRY2dJaHMtU1puQVUwaG9rQVd6My0xck1iM3FsM2RsVTBGM2xuQkkxZ3VaTzk2LTFyenpfd29TV1ppMkV2bG1CVTh6QW1pS3FON1d1TTZGRnI1Q1hrNA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "7ad4b48279138dd1b9ec126859129f94",
       "title": "Chile logra reapertura de mercados avícolas en tiempo récord tras foco de Influenza Aviar - aviNews",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS013bXpyeHkyem5XcS1iQUp4YVN0RWFrSndXbFpITE1yLUk4WHp6b0VxX3lOOGhsRlRDZlBfa3BhUzlsd19iT21xZlBicU9uU095X0F2MGJKdUNGaUZEd2FEQ1RNcDJHdkNxOVZWSVlzODF6WEVxbUt2LVdiLXJOZW4wbHFQckdBdTY2WFMxMndxbHd1c3BCaWk2bDByMTNnbnJoRTRJVU5kS0NKR0x5ZjBmU0pBemFqWWlMYlVDMldxdDUyeDQxMGlwbw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d69bc983b8121c7cee065d31ad34be1c",
+      "title": "Especialistas y autoridades estuvieron en la primera jornada regional sobre Influenza Aviar y vigilancia sanitaria en La Araucanía - araucanianoticias.cl",
+      "source": "Google News - Chile",
+      "date": "2026-06-18",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOTNoTG42a05TTnlSSEUzTnlEdHpUcUM1ZkNEQnZmYVBSNVU5OG53cjVONGkzTUZBeVJWV0g1NzN2Sk1telFscnQ2WlByOUtnY0lnX0JYMUI4WWJVX00wYjZsQXR4SDhhRk83cWZpOENMOHhsbXNrRloxYW5kZzZmbnpwRnhJZFF1NGlXUmdYVjBSVjJ5S2M2TENxMzhKN2VJTUVtQnZZeFBnV1ZLN1BkNDRBczFGUlVndEpfZHc1b2dVZEpyRTNPVHhiV1NiU0Nidjc2ckdYakNoYlotd2NmTGgzRmNPRTNnNjF0ZHh1aFRJSU0wd3A2RWMybnJ5SHEtVzJYTg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "b0662457a9c8c0c958f71dadfc9f958a",
+      "title": "Influenza aviar irrumpe en Antofagasta: detectan primer caso en ave silvestre en el sector El Huáscar - SoyChile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-06-18",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRWgxdXlzbUt1eTNfOE1QUUh5N3dPaTdKbkNsb1l0UUxib1ozdm1ZNXIzUU5LTHZtV2xXU2hWbm9hRC0zeEQyaHJLb2JYMm8tdGVGcFFwbkJMYzJhNXFHZzRVM1JWanpJWEN0djBFRTBJc3JHU0NMVEFSdlZlcm1uei1lNW4tbHE4ZWdmbHg2WWptSDZaMVE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "e15cbd19904d7a9e755e8d04156417b6",
+      "title": "Senasa analiza declarar emergencia tras muerte de 450 aves por influenza aviar - ElHeraldo.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-17",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnNyM3QyTW9YbWd2MXZJMDlQTVEwajdkZGpHclduNDRJWnRUU0NXNXZ1ZHpCa2prNkpOenI5R3EtNU51WmRYWV9WRmVZTGZMcU01TV9YSjNHeVpNWENDWUx3WGlDMDZKdGNldTJRSzVEMHM3aVNaWVNFYXF6cUhDeFpCdlVVaW1janMycXZ4WWpoTVJQaDYtUm5PcldWUGNxLUJEaXV3U0NXWjdjX0w0Wjc1Y3lEcWc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-18 18:26 UTC"
+  "last_updated": "2026-06-18 22:11 UTC"
 }
