@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "7ad4b48279138dd1b9ec126859129f94",
-      "title": "Chile logra reapertura de mercados avícolas en tiempo récord tras foco de Influenza Aviar - aviNews",
-      "source": "Google News - Chile",
-      "date": "2026-04-01",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVy1aSmxtRVdzbEpvRF9PdVJrQnljamJjMUp6SGN0dzh3TjVwRFMwTXNTUXFLbVpJbEpjNU0tLUx4QjlzUGFiREJFVUVaSG9uYTZGM0w0OHVmOXhaczNaNlJ2c3oyaDl4QW90WTlGSFNkRk1nY3F1TzVLX2xpU0czc2FXTWIwT05OendZQlA5enAxWXNlV2lfY192RjV2bmFmaG5WYTlRZXB1djRFd0hF?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "13c7936043742da65862147ef2346806",
       "title": "Salud reporta primer caso humano de influenza aviar H5N1 en México - MSN",
       "source": "Google News - México",
@@ -179,18 +167,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb3MxRGRVMEZhMm82a09qRTFvUnVMRGpGdy1vQ0ZXZmdCcjRPcERybVNsRmpsSFBLanZhS1BtbFNTNjREcXVnRWpBeVdvWjlUdHRQcmRsTFpFc3B1Ulg3eGt4R2lteng5Z0c4blFUR01LdmlzX3JJMmx6SHdBakVIRjFITHo0VndBdlAyV1l6YWJ3NlJaLThwdktrX3RZZmkxbEdlRUpaUW1Eal82eG5MQ05pOUhHZUxfdndRSW5jTXNHanlpOXln?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
-    },
-    {
-      "id": "bf0099c02f0bf6b14abd6ae9e62abf74",
-      "title": "Declaran Alerta Preventiva en La Araucanía por caso de influenza aviar detectado en Renaico - biobiochile.cl",
-      "source": "Google News - Chile",
-      "date": "2026-03-21",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOZkpmNEctSVlhSVdXY0dqMDhsRWw3VHFMSTh3cUlLeXhmZ0x3ZEk0aHVvMDFweWZkbElvdzB3dTd4a2JyNHVZWE9ZRVBBczlKakRHWW9MMElSdWJoSEk4eU11bURMcVdxRURDSlVzVDJ5S0thRDM2WnB6TGtyczlBS0NPX05tUFVPTnZIaVNpZ190M2hFV1NUTXVSeWxFR0QzaC1pOFUwbktYbkotMFo4WmxHbnlTS3F3MU5ydWJVVC1lVXhuMDI0Ql9OLTJCMFM2YUVBNWJ2QUVKdWxaRThEbFpTX29hYzFHTzZ2cER4U0k2Rk4yOU5zNlpFZ21YS0hEODF2aXBjUQ?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
     },
     {
       "id": "ea0ea82cc53845939342020c6fcc8c6e",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnNyM3QyTW9YbWd2MXZJMDlQTVEwajdkZGpHclduNDRJWnRUU0NXNXZ1ZHpCa2prNkpOenI5R3EtNU51WmRYWV9WRmVZTGZMcU01TV9YSjNHeVpNWENDWUx3WGlDMDZKdGNldTJRSzVEMHM3aVNaWVNFYXF6cUhDeFpCdlVVaW1janMycXZ4WWpoTVJQaDYtUm5PcldWUGNxLUJEaXV3U0NXWjdjX0w0Wjc1Y3lEcWc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "91bdd81966b276d4ad2d505ae843a44a",
+      "title": "Confirman primer caso de influenza aviar en Antofagasta: ¿Puede afectar a las personas? - elnortero.cl",
+      "source": "Google News - Chile",
+      "date": "2026-06-19",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcnBmaC1OY215XzFRbW1yTWMwZmJtRnZtTzJxYnQyUGRLYXBVMkpVSlpkaDdZYjNwZms3c3JDdGhLSHFYWmx2dTFzWkl4UlAzaXBiUzZPN2ZmQlVOVGhKOURLM0lLa2RGWkIzTTVWcUppQWxuZnpQYk5NTEVuYUpmNFlWQXIwTmdWOFc2R0dCOGZNUWw5QnBtYy1sY2FuVjkyQk42QjhDYzRMcXJHdTJNOVlPNE5pZm5EOS01c2NR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "dd7191a190ceda9d4bf62a83b1b50ab7",
+      "title": "Uruguay impulsa la preparación nacional frente a la influenza aviar zoonótica desde la perspectiva de Una Sola Salud - Pan American Health Organization (PAHO)",
+      "source": "Google News - Uruguay",
+      "date": "2026-06-18",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXhTR3NRRDZGR1BuTjAwTGhVbHlHQjVtQkNjV00zQnB1SzZobXUxbTFmbWt6em1MYmc2Um5pUGwzUkxyTVZjbEJrekV2ZTgwS0V1cmtUQ3E0M0oyVzZpS05HTjBNNERXS0dnM0cteWNudXN0czB0UlYxLVR1M3JIcVpGdGRVUDZWdDlPX3ppQlVZaE9HSzZUM0VWVjFnMXBlcGN3U3VSU1JwVU15UnNvUGM3X1FZaGx4YkE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-18 22:11 UTC"
+  "last_updated": "2026-06-19 04:40 UTC"
 }
