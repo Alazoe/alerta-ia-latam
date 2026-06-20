@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "ec42d5ff93f15482f80ad0a8a892d47d",
-      "title": "Influenza aviar H5N1 se expande en Chile: 18 focos y más de 700 mil aves afectadas - Publimicro",
-      "source": "Google News - Chile",
-      "date": "2026-04-04",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaUU5dXcwU3FkbncyVTRYYVgzVG8yY0JFcl9kX3h5TEtwSEdzTUlCWFItdnJpM25TRV9tVElEMnlTakY2aVJtYmJEN3dBLVBJR0ZUOVhOWmxpQi1rZTh6U3NnNE02NVNSdkluVHVSa1BwU1MzRHJaNzNnVXk4QXVROUlMWHRBQUhuT3lnb3JkZGtLMFY3cWY4Zk10alhYRFZQZENBQS15aw?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "30b827c604835921a8bb783ee700b783",
       "title": "PERÚ SUSPENDE IMPORTACIONES AVÍCOLAS DESDE CHILE POR BROTE DE INFLUENZA AVIAR - Vilas Radio",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYlI1ck1aY1FLdmdieW9OOUpBeEtHM3VsSnZIZk5yd1lsMldVcnF3Z2lIaGhnQWd2el85WGhRU3N1WlBfSU5vVVV0Rkp5OUhTbVR5SFZ0enBfWmRJUWJvMVRrcFBqVU44MVYyNDZHUTNTTFVkT2hObmJhVmtLYVJaZzBpZkZzVkI1QVdTdVZadWk?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "c3831bf6faae6054778202edc2c180f3",
+      "title": "SAG confirma primer caso de influenza aviar en ave silvestre en la Región de Antofagasta - Mestizos Magazine",
+      "source": "Google News - Chile",
+      "date": "2026-06-19",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaV9FU0Vkc2c0UjJyamZrSkkwSkJKUjRHRldEV1pHVXZSRWRvbG1YLTQxUGhyOWtVeXhUaXhQU3UyWVBqeTRIRG1RbFpuZEJpY1c4bXlwbWZhMUw3Y0U1bzZsNnJLd2RzSnd5cG1HbjlhVUJoWTlWUHN0QWtCcnRZRzdBTV9BWTBWMUVnczQ4WjN1OVM4TjZNTkI0WU9GWUdCNDBQWld0TndKbVBVejhmQk5XVzBMbGZyU0UyZm5mNEx2S1NuWGlZZHBYOXhHYUJiRTVQd01mc1J1QXBBeEstNjJpT1VHdzDSAecBQVVfeXFMT2lfRVNFZHNnNFIycmpma0pJMEpCSlI0R0ZXRFdaR1V2UkVkb2xtWC00MVBocjlrVXl4VGl4UFN1MllQank0SERtUWxabmRCaWNXOG15cG1mYTFMN2NFNW82bDZyS3dkc0p3eXBtR245YVVCaFk5VlBzdEFrQnJ0WUc3QU1fQVkwVjFFZ3M0OFozdTlTOE42TU5CNFlPRllHQjQwUFpXdE53Sm1QVXo4ZkJOV1cwTGxmclNFMmZuZjRMdktTblhpWWRwWDl4R2FCYkU1UHdNZnNSdUFwQXhLLTYyaU9VR3cw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-20 07:52 UTC"
+  "last_updated": "2026-06-20 10:33 UTC"
 }
