@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "9c7acfc023fadd07db97289c41dbe448",
-      "title": "#Chile Influenza Aviar Exportaciones - Crónica Digital",
-      "source": "Google News - Chile",
-      "date": "2026-04-03",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rQTZ1eTRvalh5MnNNdDRiQUZTNFVpUlltS0dEYkg4bHc5cW5lMFY3ZGdwOFpoWDdJODhOYmJZVWMxV183ckdsVUxRTEZkUHRPbUpKUnUzM3pBRWxIbVg5NEt0LWVOa3VYUUVxZ0t0Rm03R3Fv?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "80d0ad93673eb31a06f13e42a2785db1",
-      "title": "SAG confirma primer caso de influenza aviar altamente patógena en aves de traspatio en la región de Ñuble - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-04-04",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMVlSZW1NaGxwYlFHZzR3N1drSkZsaEFKNUtXWlVQaVRjLVItQ0sxd0E5ejlrQkc0bExnY3BuS0FpTmh2VlpEUTZjbDdOc0lZVjg1QlpyUW5EZW1WOEdxNUFUajBnOVNRYW5Rd0d4Yy1aN1BTUVVhOHBYNFNkUEZyRlVnR0JXUXBadmwxcVRDZFRZcF9INTUzMk9uNFZPb1J5dVlsX1JFQWY1Qnd6MVBmQ01LN05TQ0JpRmdBRFI5SUlCcW5YRm9RcHA2UU1la1VaTlFYbGtiU19zaVdDbS1IcXJB?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "97483e4e58d26e3c39e7a76606dc68d4",
-      "title": "Chile reanuda exportaciones avícolas en tiempo récord tras brote de influenza aviar - radiomagallanes.cl",
-      "source": "Google News - Chile",
-      "date": "2026-04-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb1VLTmJxRVV0OHhtUDlzZkhnRTdveEpySDV5R1Bhdjd1a3ZtX2JyeDJoQTZSenM1cFFUSGt5VGNzTG11UXB5SFF6M0hHVVdYVDJ0UVI5RlpUOGdmTUVKOTRCbFd5TnpZbGtOeEM4eTkxSEllaUh5SDY4Z0J1aDJFOUJjX1cxTm1SdFNoRG83cHZoel9FVmkxbHd4cWxxNHlLVGcwOUxGR2FhVktzdGVSUA?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "ec42d5ff93f15482f80ad0a8a892d47d",
       "title": "Influenza aviar H5N1 se expande en Chile: 18 focos y más de 700 mil aves afectadas - Publimicro",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQeVloNmczNW5ENHRhbHJjSFc4NGJBMEE2bUVtWmE1U2taTmdNUlI0MXlMamdSTFp4cm1MUWlUVFFsU01Bd0FoZA?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "5b7e82e33fc385ff84b722e742ff3c98",
+      "title": "UST Temuco reunió a especialistas y autoridades en primera jornada regional sobre Influenza Aviar y vigilancia sanitaria - Santo Tomás en Línea",
+      "source": "Google News - Chile",
+      "date": "2026-06-16",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOYnJwXzFSLTlFNFhBeWNaemgzVUhiWGpZWnE3Z1VnWmRxdnNYYWNZNXJhZFpPOHVZck1SVXpWVG1WSkhPVEpSU1NaR19hV0VZdUt4LUhQQUJ5UjdTU2k1d0VydzVJdjhfbm1HMnU2TW5nRHBZR0I0NmhWYkZYNzZzSXlST0c3aTN3UlV4LWRYUnJoNzZhM1RlTERzVXVLR1ltRkVKVGI3ZzFpazNpRTRPT1c0NGZjaUdidnpMYmdFZ25FS1VIUER2a2V0NDBkS3pwcFA5OEE1ZDZwY2s2VlZiQXJjSzYzaDExdkxjYmU0ZkViSXhLSlhudXNoZEhfaE1xckJMQmtMUDdLQW96RFZsRA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "204ee6845275c77a35f79f0dc57b64fa",
+      "title": "Detectan primer caso de influenza aviar H5N1 del año en el norte de Chile - elproductor.com",
+      "source": "Google News - Chile",
+      "date": "2026-06-17",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMXNRS3hYU2tOV2lVandtbVlMUjhNOFhnb2d1ODVhd25zMzNKaG1TSGx0ZHByckN5bHBMUEJTVmFnNDVWTEd2U2M5dUloUV85WU9fN19YRlYzejh5NGVoX2lUemRWai1PYkNPQWxZdnU0STJkX0RqLVBnSXhGVzJvVTE3TzRCU0pTT0ZldjVkNHZnUUV0TzVNM3RDanJIV3U4RnZWMHhiNmtFUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "6f1f6a09970ff0fc5d2d19af8b0eba81",
+      "title": "Influenza aviar mantiene en alerta a la avicultura latinoamericana durante abril de 2026 - avinews.com",
+      "source": "Google News - Perú",
+      "date": "2026-04-22",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYlI1ck1aY1FLdmdieW9OOUpBeEtHM3VsSnZIZk5yd1lsMldVcnF3Z2lIaGhnQWd2el85WGhRU3N1WlBfSU5vVVV0Rkp5OUhTbVR5SFZ0enBfWmRJUWJvMVRrcFBqVU44MVYyNDZHUTNTTFVkT2hObmJhVmtLYVJaZzBpZkZzVkI1QVdTdVZadWk?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-20 03:55 UTC"
+  "last_updated": "2026-06-20 07:52 UTC"
 }
