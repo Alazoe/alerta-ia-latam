@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "686e0c3f526b1cb91b47fc4d3c5bd8ff",
-      "title": "SAG confirma primer caso de influenza aviar altamente patógena en aves de traspatio en la región de Ñuble - SAG.cl",
-      "source": "Google News - Chile",
-      "date": "2026-04-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORENKallYSXpIT2ZoTllQV1FlMGNsZkQwWXJaekkzNHdxZXhMREgyMkFjTDFrVWNCeWw0ODczcEVHdDE0N0pCV1BoUEtfMGVFQ2FJbDZNclZoXzZJZE53ZG1Od3VrNVVjT01YOVR3em96RTc4Uy14ckwwWEtvUW1IbkNfVkZWOENHNWJkcjFKbGdrMEtqOEdwVzhYWHcyeGItYzBmeFpYcU5GYl9EbnlJTDFYRnl0V3UzVHVDWnExalliUkFTUUF4d18zQV91bl9oRHhN?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "9cb724ccb65f8a345ac0c12808d3f2df",
-      "title": "FAO activa protocolos de coordinación y respuesta ante brotes de Influenza Aviar en la región - Noticias SIN",
-      "source": "Google News - Colombia",
-      "date": "2026-04-06",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTEFIakd6Q0pjU3FYbktyb2p4c1FjSUxaV0FJdENWa01xMmwzbE1WMXRZd2dZX1RVSzVKZV9FZUdXQWMwVE5UZlRFbUhGdzVJUWhRT2xHdHJxM2ZSdEtBNXJ1Z0VLcHFwMzBIRVFsYTkzblJOZzNjc2dXd0JCMmtYUjZMVEVCV3RtWHhGejZJOUxVMW5ubWlzTTRQTUdwOGl0RFA1REJ6bHdqMHU1TzBqV2lpd01GdzNncDhNZGxWZlo4Z9IBwgFBVV95cUxPTEFIakd6Q0pjU3FYbktyb2p4c1FjSUxaV0FJdENWa01xMmwzbE1WMXRZd2dZX1RVSzVKZV9FZUdXQWMwVE5UZlRFbUhGdzVJUWhRT2xHdHJxM2ZSdEtBNXJ1Z0VLcHFwMzBIRVFsYTkzblJOZzNjc2dXd0JCMmtYUjZMVEVCV3RtWHhGejZJOUxVMW5ubWlzTTRQTUdwOGl0RFA1REJ6bHdqMHU1TzBqV2lpd01GdzNncDhNZGxWZlo4Zw?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "6ccc42f4b0b705d532915c1cbd2925b0",
       "title": "Las Américas refuerzan la vigilancia frente a la influenza aviar: 15 países participan en el taller regional de ProgRESSVet en Panamá - OPS/OMS | Organización Panamericana de la Salud - Pan American Health Organization (PAHO)",
       "source": "Google News - Panamá",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWklldzdhNl9nQ0ExVDN6TlRJSjhzdEdaRjNHcnl6MUJpamEwSlc1OHlZUE40dW5oUVB3OVNLTExCaVZOQVl4N0VhdHZMZ09xNHIzdzIzRUF1R21nNFJLRnVoYjF4eTN6a0FIQWRLdkZHV3lBUVFTX2tRSHlJYV81cUxjSldnaUNiLV9FRTNkZktnUWJwOU1LNFBxS0VLM0c0SDVmVTlLcE5ydndB?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "8e27be4402afae8aa4559eba01a30cee",
+      "title": "Avicultores refuerzan medidas sanitarias tras detección de influenza aviar en granja comercial - Infobae",
+      "source": "Google News - Honduras",
+      "date": "2026-06-22",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd1h0ZFRHMmhlcmZTNjN6NFdTNVdIaVM2ZVQ3T3R1a1hhN1RPVnppY3VVSVdvLTlWOU5tTlJCeWlTcDZfeWNmcXpCUmlaQnVHN0dLRW9icUdROGpaTVJMbjdRRlBxUG9WUUtuYXdsLV9zQ01JV0M0Nm84cDYyTThqenVXU3Z1ZE5iYmFVeGNxUFNtYmFOVkZkSGpJcWJXb2ZkM1VLblJ1MjRROFVpeFU0Vkd3U3V4di1qUTc2THRNQXdkb1B5bG5JWnRvX2YtRkdqdklJMTlIRWFZMml1RDB3SkczLVM2Njh2cjJGX0xqQW_SAfABQVVfeXFMTXdYdGRURzJoZXJmUzYzejRXUzVXSGlTNmVUN090dWtYYTdUT1Z6aWN1VUlXby05VjlObU5SQnlpU3A2X3ljZnF6QlJpWkJ1RzdHS0VvYnFHUThqWk1STG43UUZQcVBvVlFLbmF3bC1fc0NNSVdDNDZvOHA2Mk04anp1V1N2dWROYmJhVXhjcVBTbWJhTlZGZEhqSXFiV29mZDNVS25SdTI0UThVaXhVNFZHd1N1eHYtalE3Nkx0TUF3ZG9QeWxuSVp0b19mLUZHanZJSTE5SEVhWTJpdUQwd0pHMy1TNjY4dnIyRl9MakFv?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "b6ffdbe8f180cef5b9154c2f25d9064a",
+      "title": "Solo un caso de influenza aviar en granjas comerciales del país reporta Senasa - Diario Tiempo de Honduras",
+      "source": "Google News - Honduras",
+      "date": "2026-06-22",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONTBsWE5qQkVPQzFYelZSUWVZODhzVnNfOG9MVUN3Qk9GWW9LTGpSRWNpUEcwZFVLQXJ4cDdZbC0tbGkyYXdOTDVFcG51U0kydW5DczlwdGtvU3FYU3R0YW81eWdDMFRfeW0xUVRNQ3c1RVdYRHpGQkVreWYzZlBPcUlnUlh6N3J6UkFYNFJ6UQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-22 19:31 UTC"
+  "last_updated": "2026-06-22 22:04 UTC"
 }
