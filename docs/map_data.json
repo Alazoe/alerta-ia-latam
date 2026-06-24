@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "1692440c9814162a674626c2572459d2",
-      "title": "SAG confirma primer caso de influenza aviar altamente patógena en aves de traspatio en la región de Ñuble - SAG.cl",
-      "source": "Google News - Chile",
-      "date": "2026-04-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYmFjdWpsaHdPNEN4QXhjOGREV2czdUF5Rld4MTZPcHRqU1NkOHp6YmRNU3kxWHBoc2d0ZjQtRGpHcUI4VnIwNzBPX1AyYWtoazF0NGZfSTR1UnM0N3RObE9LNUJlREtMMXZUYzZuNG9UR0VmbENpb3JKUTZkbThkcFhCVFk4VU5XUkE2VHFoVEQwZHdQb0l0X09tTE8tUldDTzcwODd6b2RWWmxRazdnaHR3Ykt1STRnOWJzUFZKdjRILUF6M3RZUzIyX1VNWFBGNnc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "518997cbedf131432f739f98109f490a",
       "title": "Confirman influenza aviar en Chile y refuerzan controles en la región tras casos en Argentina - Revista Chacra",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcEF0aUJlSUJWWHlQWnpmUmVNTVdDc1Jfenh1MEFIZjZRVHFJNVRhT3lNSGYwWmQ0anRJcVNlSWdwRXFMazUtYmg4MVp6QnYzX2NVQ3dOMUJmOEhobndIWklidnFmQ3dCZENudnF1Mk8yNkJuSDhXd0dmUklsakwyOG44VmJnTFZHREdPa2x4Z1V3RnN5MXFud21nZGJnVkhqUTRLX2JDWWExSEphWi12a0hUSFpCTVpma0FsYThBYVLSAbgBQVVfeXFMUEQ5VE5XdlAya1lJRzNFbDRpZHlhSlFFTVM4dWdXamxxcFZ4VnBjNjl4QUhJTlFHTEdVNmM4SWpnVG8yYXdGNXpYYkVkSXAyMHh4aF95TTN0cDJFeWpRQndsT1NOaWcyZkpYVWJKTUcyWjV0c0tEYmwxd3VESV9aMzZtOEpuXzA2eDNKVUlpZldqQ0ZEYXJtSl9WT1pSM1c0S3ZEQmhadC13WEdwWkhmVGg5aTFjNHJUWg?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "f397f7672b975f12e25eb8780d50ba7d",
+      "title": "Más de 60 dueños de aves participan en charla sobre prevención de Influenza Aviar en Santa Bárbara - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-06-24",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcFM1ZE1acDlCQk0xLW9DZlk4b2JDcXN1Y1dPMkM5ZUZ3aGtZd1BhRWR0YUhpTnZaRUlnSVdXc0dTNkJ6N2YxREZ5aUE3TjJJeHZIZmZLTW96Rm5BZlljQkJrZDU5Q2pqbVdBNl9lVktNWHZHZUhQRFZQcFZXVTNBZDE1cmpnTlpEaGZFMG4zblhfenJTWkNzbVN5T0tvZW9rdHJrUnctUUxUbUk0QkpwelFraDduRzVmY1p3VHZHb1RLQWc3X0Rxc0luZmdoU1h5VlFndDBGVWg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-24 17:56 UTC"
+  "last_updated": "2026-06-24 21:24 UTC"
 }
