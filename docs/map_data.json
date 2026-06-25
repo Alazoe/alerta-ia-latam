@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "518997cbedf131432f739f98109f490a",
-      "title": "Confirman influenza aviar en Chile y refuerzan controles en la región tras casos en Argentina - Revista Chacra",
-      "source": "Google News - Argentina",
-      "date": "2026-04-07",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM1R1UWsxc1ZhcHdpU194ZjlQZFBaV0g5Y2Y4alJaa0ctX3NzWjdaanJUelZtWC0zTDNBYmhSdGk1eG9rdzdfa196NFRPU0VSb3hPdE10Z1g5VEV0OGlCSm5hVkZ3MUdTVkZqTWx0QWNBVEU5cklTZmVjWmNGeFFJM0paQm1JcUh3bng0OVpLeGk2cjZvbE9aeDZHNTFKd0d0TlN4WmF1UjcweEdpTktZX1hZTzJsVHB5OHdDenhXOElVVzNmY05HMjZUWm5ITDBoT1EtUjZkTdIB0wFBVV95cUxNMm5lZ0VWWmFpYnpvTXNJRUc5NjZ2dVpmRVg1ZGlodWtLTFk2N2VuakF1MDRhdlhRcW9ONE1QcFZ0OEkwRkxMQm9ldDI5aFUzRDM1RVJodkdpZnBqNXZkcDF6RnpvRVJQSURNcFlrR1VFRTRnMWVscTNKQjg4NkdPOVRxNjY4LVNOdFNPZURHQUFlVUJaQlJ1b1pUd3Z0YU5YN2RBalo0cW83VnlEMHVqYXhaX0FteDJTdDYwY25Zd20wOWZ2OHhuNUJUTjF5SGtTS2o0?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "8be1b13100c20ce79e4c54f181dc6a1b",
-      "title": "SAG confirma primer caso de influenza aviar altamente patógena en aves de traspatio en la región de Ñuble - SAG GOB",
-      "source": "Google News - Chile",
-      "date": "2026-04-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYmFjdWpsaHdPNEN4QXhjOGREV2czdUF5Rld4MTZPcHRqU1NkOHp6YmRNU3kxWHBoc2d0ZjQtRGpHcUI4VnIwNzBPX1AyYWtoazF0NGZfSTR1UnM0N3RObE9LNUJlREtMMXZUYzZuNG9UR0VmbENpb3JKUTZkbThkcFhCVFk4VU5XUkE2VHFoVEQwZHdQb0l0X09tTE8tUldDTzcwODd6b2RWWmxRazdnaHR3Ykt1STRnOWJzUFZKdjRILUF6M3RZUzIyX1VNWFBGNnc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "e5de001e0eb3339d915a434fe682aae1",
       "title": "SAG logra en tiempo récord la reapertura de los principales mercados de productos avícolas tras foco de influenza aviar - SAG GOB",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcFM1ZE1acDlCQk0xLW9DZlk4b2JDcXN1Y1dPMkM5ZUZ3aGtZd1BhRWR0YUhpTnZaRUlnSVdXc0dTNkJ6N2YxREZ5aUE3TjJJeHZIZmZLTW96Rm5BZlljQkJrZDU5Q2pqbVdBNl9lVktNWHZHZUhQRFZQcFZXVTNBZDE1cmpnTlpEaGZFMG4zblhfenJTWkNzbVN5T0tvZW9rdHJrUnctUUxUbUk0QkpwelFraDduRzVmY1p3VHZHb1RLQWc3X0Rxc0luZmdoU1h5VlFndDBGVWg?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "c7e47b722f12dba34be396a44ef94ad7",
+      "title": "Araucanía: Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - araucanianoticias.cl",
+      "source": "Google News - Chile",
+      "date": "2026-06-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcFpzcWNVbHd4QTVSQXBGVW9GTHc4Qnh4S3l2Tzhnb1hFVjNCVTdpTmZzR0ljSVJISzgyUEtadTAtalN3WTcwZXlhcTQ2dzU2ZXVhWGx1LVdrclpEaU1jNjRXNkphTlhwZnZsLVpOS3A1cW9fQUFwSllGdGJ1QTVzSTA2U3cyMlkwOTZacHN6di1HWm1oUnIwM0ozeTVPbWtmQXF1Yl9JZkZWTEczZ0hER0RndHJFMDdwcmN5TWRKTWVPZVBNVkdUOEJudTU3NVlybFVfQ213?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "b1d55b5421a8196efd7e9e1aa9791de6",
+      "title": "Honduras sacrifica 32.000 gallinas tras confirmar primer caso de influenza aviar en una granja comercial - MAP Global Media",
+      "source": "Google News - Honduras",
+      "date": "2026-06-24",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNjktUENKcVFoQTh6d2RZU2NUbGhJTkR2eXhoVFFMMU00dW4xdjZubm1KMWU5c09VLXZ2TnU2Z1JFZThEUUQxUEpzVTFZZU94dFFBbnJqYlRpTkxscS0tRmM3VDVjTEZqcjlTV1J5OEtJekNfMENhV2RUZlNTNl94dVYtTzVjbUhMbExaUDAyUFBNNjZZaER3M1RteV9ja1ZzaWhvM1BndGQ1NzNfNVJkWl9TUENLVFpJMXFaN1lNVXJRUjdFOUoxM0h5Rl9WSTJQd09fbnFQM1hBRmc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-24 21:24 UTC"
+  "last_updated": "2026-06-25 03:49 UTC"
 }
