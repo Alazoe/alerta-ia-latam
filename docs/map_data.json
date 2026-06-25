@@ -1,54 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b7ecda1a1f941640aa4195243419a6ef",
-      "title": "Influenza aviar en Chile: productores de huevos coordinan medidas con el Ministerio de Agricultura - latribuna.cl",
-      "source": "Google News - Chile",
-      "date": "2026-04-09",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMlB6MjM5Y2syMVlOY3NoSUhkRWhlcFkwWE1MZkdyX1J1c2t3QmducGF1QUo3dFVvMHR2RFNVbjJuejFMVi13UXJzSV9ROXhVdlhSVktfaDZrc0kxR0prU2NvdGpHZVhzT2Y5ekNNNDNTellGUzFKblF3Rk9Ic1ZVMTZFeXhCaXh0X2FFbnNEVGJaTXJibjB4NFcwMGh5NnEyNWduRl9FZU1QeHR1RUJ0V2ZSb0dVMGVldkZhcGhVR0FnZU9EY2JrUUhGMU1hNDZ4ZVdKOU9WcGVXcEtRWjdiQTVMX3NWUdIB7gFBVV95cUxQT2g2OWpYQlQ1WGdyYm9aaUhWTFExd2tMaVhCdldyYW5xRVVDVGliMXJ5N2xVaTBwOE5aSExRWDFvZ0EtcDByVFBsNkRCV0lBOWR1SHhuR3dyaU9MNEU0VlJfMnZmNXNiaWQ4djdGcjRkb05kWHBFMmJhNl9Nb2dHcFNlSTg0bUlfdUZpdlMxMWVBSjlxTDlVb2NlTWpzYTdSOU9LdFJvWDh2SUkzaGZEbXZOQVJlZW00cHNzUlVoa3FENzcxaTNvSUdyRy1PSWpWaXJoNjlJTXlfUVhVdGZXSlJscHR0ejN6dkpZdlpn?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "2ddddfbdaea39920f020eeacfdff848b",
-      "title": "SAG confirma influenza aviar en ganso del Jardín Botánico de Viña del Mar - ADN Radio",
-      "source": "Google News - Chile",
-      "date": "2026-04-10",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNU2FpeWhWcmNmaVhXdS1zYWd0Y3FpMmZOTlc3XzNIQkhCcmUyU1ptYmtfMllTRjNhdGxfaXBLRmlNNXZxZjZZa0pZb0hpTHhMVnpLbHFFYUlsaEg2ZHVrM2pIblhjOFVVVkRnc3EtX0VJU2wxRjVsblJkbkZLbW1tbEp6anFCeW1QVklFZGpCVXpuZWNWVS1qeVJSRlFfWDU2cFJTY2RhVkxDWnNNNFHSAcIBQVVfeXFMUF9tS3JyUV84QV9NcGR5UFJSZUhZZ0hHenNYYmF0anRrWms0U1M0ZFRTMEF4VEg3XzVFQndUUll1Yzh3V3RMSDlfUzBreG4tWjY0ZkMtdnRRTjVfYzhXd0ZYUDJpcmRmdU9acXNzd004b2ZUdndha05LRXVEY3BmakFPVUxZNnU4REZObEFKZ1F2c2EyZjdxTmZIenVLMW5CRUdQXzBUVWhXVlJYNGdpREcySjhISUY4TEI4cDFjMGNKY2c?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "bcdddaded4ede40187b4432d22db3ba9",
-      "title": "SAG refuerza vigilancia por influenza aviar en Jardín Botánico de Viña del Mar - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-04-10",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZUtFMGtEeW9FOU5xMG40dzZRWDlneEdGRDVwUWl1X0RoM1hQWDNTSmFjNnJhVXd5dE05a2ZlVWR1VVJVWG5zUnlSdXY4dGJvRjdoVTg3TGhRVm53bGROSm1ZX3VjZlpLZ3NKMEcwcFRsVFVaSnBaOFBzMnBjN2VSOFRYUTVXdHNiN0l1dmRTODZVZG9Ydl83TDROSWNleURYMkk1Yl9LVU1nbHZSQ01xY0x5cmpHUnBYQzNzakFn?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "7d8dc32f308a6cf285142d8c1f64b2fd",
-      "title": "Colombia fortalece su vigilancia frente a la Influenza aviar con participación del ICA en taller regional en Panamá - ica.gov.co",
-      "source": "Google News - Colombia",
-      "date": "2026-04-10",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNN3VpU25HcVZQcjZFb1JqM29oSEljMWg3UGw4YkVndkxVcW5YZ1BCM0piclBYdXAtem9FTzJ0ZmxOUEdGc2FLeF9YMUxlT3M3bzBWRkFFUHJOZU52cEVJYjB0MFQwRHF0QXExV2VvVHVjNXBfZmJwUWFNUlFnOWpNUkRoazI0QQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "0d8d6c7ecce5e20eed7b1e20f18cbe85",
       "title": "SAG confirma influenza aviar en ganso del Jardín Botánico de Viña del Mar - ADN Radio",
       "source": "Google News - Chile",
@@ -3599,7 +3551,55 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0NXVWNSMklnMmVuQzl1WHhQTWlTTHMwTDAydkJnSnJqZmliTUpGb2J3YXBWWV9heElVUlVJZXktR0RpN091X1o5RHlkTVJNTktFLUJua0RNVWRESW5WTTVrUERmMWw0dS10aWxaRTlnQkc0eTJFY1Y3cFFzSjQ0TkNWZFBJRldDQ0JYNTFneUdWd01laEh2WWlGaTdUTjRmRlNSWF9MQUZOWkNsbXpOcg?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "532c3d70e03f038b3bdd7334a2cc47fc",
+      "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - Paislobo Prensa",
+      "source": "Google News - Chile",
+      "date": "2026-06-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iT2lLemVFQjgwaDVoaGhMRVZFVVRXOC1UTk14SjJYWEZHeThoLU9OZnExUVVZNDVOMThhNTM4Nk9sTnpFZU1lcEt3YU1oZ3BoNzFFakdmcWtDUk53SWU5NjdJOUtXNXRKWUtuY0RlTlpPTFhxeXdEempaZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "b09bf9c8707c668ae2e276952b88741f",
+      "title": "Autoridades mantienen vigilancia en más de 500 granjas por influenza aviar - www.laprensa.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-25",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXpRUkhQTTQ2b3ljS1k4X25JbEhqUUxCcVltZGJiQ1FBMFBBdlRKYXpGVHdJS0dSRVhka0JqeEM4SEVQd0R6ODVCUDFGVVQ3cThCQkNkUGhZWnRyOHdYVDFyanJsSVU3WG9pQV9CeDlXX0NJOGVMdXpRZlpVQ0FZajBBcTFaNTh1MXVZb2N2MFhjTEl6U2RXM0l3ZlV3SUMxYmhhRk12N1lLWFJfUEZYZ1ZNSS1Ndw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "e5f1716f3780392640678863144eb08b",
+      "title": "Nuevo caso de influenza aviar en Costa Rica: Senasa aclara cuál es el riesgo - nacion.com",
+      "source": "Google News - Costa Rica",
+      "date": "2026-06-25",
+      "country": "Costa Rica",
+      "lat": 9.7489,
+      "lng": -83.7534,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQblNOMlZBX3BSZ1Y2SG5aa0dZQUkyY1c4UWw4YWRvSFRVdmFmTHVXcVZ4bGU5UVFYeWkwWDI5dW9naGJHeURUUnJqMDJsQzBCWjRoZ2RJa0RvMWhIOWVIU0hBZEY4MHdhZXJpUmktR0ZrbTZFbTJ4WVV6UVhqbnBBWWVCQzVfdlYwQ0trUjBHSXZEVUM5bmVENzlvaHJJbEEwSm5XNl9LVzVHUE01cTUxQUltakJMa2s?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "10edd848f0a295a95608f06acfa8327a",
+      "title": "Senasa detecta caso de influenza aviar en ave marina de Quepos - Teletica",
+      "source": "Google News - Costa Rica",
+      "date": "2026-06-25",
+      "country": "Costa Rica",
+      "lat": 9.7489,
+      "lng": -83.7534,
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNmpFQmNPRGpMV3RmeXphRUJzWmxFNEI0NHdjLU1paUxueTRlYUxETUJNQVBnWDFvVUl4NGNtRm9BZmRyMzBoVXZiQ1gwYU83NWlIM2FUaVFaYnc2aUZ0NVluU3RRN09JMGFZUTgteGhVNG40OV94WWk4eEVtcWpvS3pRNEk1R1JETWpkbGtsVk94QjZRZlVuOWdXZFJIVWlENWQ2UndzOGVuN3PSAasBQVVfeXFMTzZqRUJjT0RqTFd0Znl6YUVCc1psRTRCNDR3Yy1NaWlMbnk0ZWFMRE1CTUFQZ1gxb1VJeDRjbUZvQWZkcjMwaFV2YkNYMGFPNzVpSDNhVGlRWmJ3NmlGdDVZblN0UTdPSTBhWVE4LXhoVTRuNDlfeFlpOHhFbXFqb0t6UTRJNUdSRE1qZGxrbFZPeEI2UWZVbjlnV2RSSFVpRDVkNlJ3czhlbjdz?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-25 14:36 UTC"
+  "last_updated": "2026-06-25 18:11 UTC"
 }
