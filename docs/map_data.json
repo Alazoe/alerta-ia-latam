@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "e5de001e0eb3339d915a434fe682aae1",
-      "title": "SAG logra en tiempo récord la reapertura de los principales mercados de productos avícolas tras foco de influenza aviar - SAG GOB",
-      "source": "Google News - Chile",
-      "date": "2026-03-31",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUTR2OURwLUdTUDBYWE4zX1VwU0plQlRHalB5a0dOUGJ5VmR3enoteFlENjdaUFBZeUxDOURKdkVIcXZwNU5saWw2SWJkR2hKemxvbmFCVEVkbGRhS2xqMG1pLVZscF9WQTgtZ2x0ZTZ4SmFLMVhtQ283Vjh4R3R2UnJBUEVEbjBEVVVveHpNd2htYkxXc09tX1VoTlFUa3Z5QkpwNXRWR0VLV3E0UGVlWG5rY0N0andDNzNZZUktZzY4aXoxcUg4OUQ1ZTU5Mi1OLVgxSEN2SFVvRjQtRWZvOFh0c3Y?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "870d68420a803409342fea9fc0116964",
-      "title": "Confirman influenza aviar en Chile y refuerzan controles en la región - Radio Continental",
-      "source": "Google News - Chile",
-      "date": "2026-04-07",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYlNSRVd0N2ZKNnh1aE9zZDFxRm1sZ0U4bUtJTWwzY3R5OE9laFRfMXNTZDVFOFE1MlB6MDd1NWR2NVBUMng3a0NaR2dPbm9DSnlVYmFfc0RiN0FXWkhzYjRaOTlnaFpZUFlHUVNoU0w0akI0NHFPd081UEFVcmVLV25zQzhTWlRXQ1JRMWhpakxmR0d0OU1OOGs1OGxXSEtfTHFpUWtQWEFTQlNrUVRDb1ZkZnVnbmhQeGRj?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "b7ecda1a1f941640aa4195243419a6ef",
       "title": "Influenza aviar en Chile: productores de huevos coordinan medidas con el Ministerio de Agricultura - latribuna.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNjktUENKcVFoQTh6d2RZU2NUbGhJTkR2eXhoVFFMMU00dW4xdjZubm1KMWU5c09VLXZ2TnU2Z1JFZThEUUQxUEpzVTFZZU94dFFBbnJqYlRpTkxscS0tRmM3VDVjTEZqcjlTV1J5OEtJekNfMENhV2RUZlNTNl94dVYtTzVjbUhMbExaUDAyUFBNNjZZaER3M1RteV9ja1ZzaWhvM1BndGQ1NzNfNVJkWl9TUENLVFpJMXFaN1lNVXJRUjdFOUoxM0h5Rl9WSTJQd09fbnFQM1hBRmc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "64238cd8f5357b307dc89a09df7aac6d",
+      "title": "Senasa vigila más de 500 granjas por riesgo de influenza aviar - www.laprensa.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-25",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDRsWlVtV2FvTGQ0dUtGTXRpZGdXTkxWSXR6OUJtX1hpRnVlZ1pTRDl3U240SVdKTnpPYjFZUjdiYzJmNTh3ZW53YWdhbnlBeEVQQ19DeVlfRE5ZNVBEa044Q0V5Y2NnNnl3ZnZFdkxQYWtUVVRWXzhGdzdxTkxqdjgzQ3BJU2F0TlFFTHdwSzVjVVNYV0N5Vkc5b21TNGlZb2Rn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "522466354feab6b9db0361060a2bc1cf",
+      "title": "Confirman caso de influenza aviar en Costa Rica: Esto dicen las autoridades - Diario Extra",
+      "source": "Google News - Costa Rica",
+      "date": "2026-06-25",
+      "country": "Costa Rica",
+      "lat": 9.7489,
+      "lng": -83.7534,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0NXVWNSMklnMmVuQzl1WHhQTWlTTHMwTDAydkJnSnJqZmliTUpGb2J3YXBWWV9heElVUlVJZXktR0RpN091X1o5RHlkTVJNTktFLUJua0RNVWRESW5WTTVrUERmMWw0dS10aWxaRTlnQkc0eTJFY1Y3cFFzSjQ0TkNWZFBJRldDQ0JYNTFneUdWd01laEh2WWlGaTdUTjRmRlNSWF9MQUZOWkNsbXpOcg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-25 10:44 UTC"
+  "last_updated": "2026-06-25 14:36 UTC"
 }
