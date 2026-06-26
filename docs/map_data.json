@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "47a2048ade80e6c83dc758d6a066eda0",
-      "title": "Mesa Técnica de Influenza Aviar se reunió tras confirmación del primer caso en aves silvestres en Biobío - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-04-14",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUzNaMGlsTEpsdm5PVy1qdDI1Wkh4cjMwR0J1U05HZ3ZPcllicWc2X0RISTI2TmxuZ3RqVk1pYUV3cUdPYW9LZWZwLXA1eFR2aXpVdkZDVEZPVXluMUJrZmsyT3djZm5aclZNdHZRY3prREtKdVJIbWcteGdqVzZFUGhocHJib05IY2VhSkhXZmJBVVdTYmVBLXpJSW1GWVNDNjI1U2N2VVltc0tJa2xhZG1iZE5pdHhYXzdPLW5aT2VCSnJ1RTdlUk1UN20tdXk0STZoM0d3ZVF3RTJ1VTZqWg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "de10d68d78be448517e78190325be3e8",
-      "title": "Confirman primer caso de influenza aviar en Biobío y refuerzan medidas sanitarias en Arauco - latribuna.cl",
-      "source": "Google News - Chile",
-      "date": "2026-04-14",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRllIcktRNHE5dmNENDZjdFNjbWE1cW94TUJpTUZoQlpRMmJXb3g3dTI1UmlTQmZQdWJnSkc4d2M0anhYM19EMkxLTTlBUFJfZkZCMVRUbXA4Um9wQ09nZDlqQkN3TGxBVE52eUJXOFV4VlZzam5PTm5tQXZ6RDlZRVkwLWZzREk1OFZIZVI0Q1VzR0dIdTRmTzQzNWk1bkVsdlFvLVdWZWkzNlJmbVVGU292b1dJZlN5bVo0ZWlDMHY0NGxldzdCNWp1bE9tQXotNlJLT21TeFhkT0RpS0HSAeYBQVVfeXFMTks0dHZfRlQ0dXhGVWtPRDdQZVYyZnpnRkFlbXRTTEVseGUxSlRqMHQyeHlBZHViNFNPSU43eUJWNlhqRnZ6Z2hZSmw0S0dpdU0weGJ2QnBmVDlaU3NKZ0x1WTJmZTYxbEo3ZzBSNmRfR09DZUdEdk9SUllMY2xtSkRhM1BKQy1RTjdDMGFyTlk1eTh2YXZMSWVhZENwbTh5Q19Lb3hiWVhDS2JSS0pCenh6MU9abkNnZUg0RUQ3R3NBNFIyQmhIMGJMTmo0OHdWeXBPemUwUElGZEhIbE5qRzZmQ3VsLVE?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "f35b7460c9c3688e633039be2836f8c3",
-      "title": "El Servicio Agrícola y Ganadero (SAG) confirmó el diagnóstico de influenza aviar altamente patógena en un ganso asilvestrado en la laguna del Jardín Botánico de Viña del Mar. Este caso corresponde a un hallazgo, no evidenciándose la presencia de la enf - instagram.com",
-      "source": "Google News - Chile",
-      "date": "2026-04-10",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9VRG5SemVSWXotU0ttRjQzWGJwZlAxbnVpdUZ6Vmx2dHVMa3RtbTdiRjl3eDJqanZWaVY3NzI3Z1M5QkxRZmVvQlQtOWk2dUJQYUFMVFRR?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "d4d5887b66c1bf99c3f3cb8a09786793",
       "title": "SAG confirma caso de gripe aviar H5N1 en Los Ríos: fue hallado en un cisne de cuello negro - BioBioChile",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTF9aMHlodzBPN2YxbkRqamhNYXJDNFJXbks2WVpUMzMyMllVLWxPR0FGbnFGWFJINGtvSGtETk9MZ2RKWm4tQWdTeXE0NjU0VEdkWEFGN1NFWXVJMkVIeTdoSjZkSVBBMkVhMHF4YWJNbThMcVVqMW1ZR3hVbVpnamNPOG16TEdtcUM3dmln?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "6d7696a4c59abda65103f1bd64646468",
+      "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - SAG GOB",
+      "source": "Google News - Chile",
+      "date": "2026-06-24",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVnVwWjdySWVRZFJfTWpQV3ZSYzF0LUI4cXNneWJzSmdGQVJRc1dnRHd2bDJKTkw0X0VUN3JCUWlqZmItRGpsTktRa00tOUhabWFCeDJhVHE5UW1qaFUzLWpHMHN2bmNBZ2xCYmZTRXRnTnFUSkgyQkJXWUFyOHNmYUlLNlB6WndNaHNVRk9YR2MtWEVWeWhVUUFxZHd6cGNCRmxVS3dGSlNsMXpEZ3I2VFp1ZXZlLWk2UnVn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "cdcc4a1a5f0755a30b6ff16c218c9194",
+      "title": "Chile recupera estatus de país libre de influenza aviar en aves de corral tras exigencias de la OMSA - Diario De Puerto Montt",
+      "source": "Google News - Chile",
+      "date": "2026-06-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc0VjazRIU2JjbHZYZTlYakZLWGR4aVp5Tlp3Y3BfZzNVazBGUGROVFlvXzZaVlFpVXo3Q0l0c1ZJOF9ROEJYLUVkNk8tZXBISFFEMFJSSjJjUjNUcnJLSGhCd1RTN3hQaXBIWk1hWWJJWk9PYjM3ZFBKdUE4UGdxVDVTbzQzTDFOcGpUSjVvbTB0SXBJZk41VVFETGprRWFDQUwtQ1JR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "dbabef98c231a6f32c6a11e6e61648cb",
+      "title": "Extensionistas capacitados en vigilancia epidemiológica de Influenza Aviar - Gobierno de Guatemala",
+      "source": "Google News - Guatemala",
+      "date": "2026-06-26",
+      "country": "Guatemala",
+      "lat": 15.7835,
+      "lng": -90.2308,
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWJwUHZDQWxpWUZLOHVJT0lwQTBEYm03Vm81WWkwQnBzY2hfSTRmSkVXaVJYUjJYajNUMkJjTl92ZDAxZE1MSTE0UVpyMXljeWV2NG9QY3c4SlB3UVJPcmUwNHVNWkpYdlBFcnQyc1ZBWWhfWWdKS19kSTQzRzVuRHE1ZXprRE9lal9OUmZGZElpTXZFU1I5OHJXaVdRcGRjbkE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-26 14:28 UTC"
+  "last_updated": "2026-06-26 17:50 UTC"
 }
