@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "0457de87156bce4b7d1e37f0c2388f15",
-      "title": "Detectan influenza aviar en cisne de cuello negro en humedal Río Cruces - Radio Agricultura",
-      "source": "Google News - Chile",
-      "date": "2026-04-14",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMXNsVE5jMzhQRG4zUkVudjFrOXBsT3B1dThyWkV3M242UVIyVEJFaE5mdXNnYk5SLTNNRW0tQTZSTmJDa3pnMmlrNkJwOW02YS1jZUhleWdpcmVVVTdhaTBYYURaVFgzSkt1dlVFUWZCNnFBSjZpdjRlcGNRRGoyZkN0SVo1OUxtMHV4T1BtcW1HanhHOFgwWWRUTjJrUXV6U3RoU21nbWliLXhFbzFubmZicEZnZm5Ka09abTFEbw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "4aefdba7003e762659ec773aefe0b5a6",
-      "title": "Humedal de Río Cruces: Confirmada presencia de Influenza Aviar en cisne de cuello negro - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-04-14",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNWt5UjNDc1lLc0JpaWZUQTQtbkFLc25oMy1sT2k2NndsN254eVdyR1liXzJTNzk5QklJdmlPUGpYLTZoWXZWRFdISDVGOXdaai1XS2ZWNkdoemQ4Q3BiM0tXaGdReDd3blRYNjlSU1hRUWE2U2VoVFI3RElvNU5DaWN3Y2NEVnYzd0swZHB1YjI2LTlBX2U1NmwtZXMtS1NlRXZWeXJxLThVSjdhX2ZSQ19ibWlPR1VwWDFxT0p4Nnk0ZXNmbEViZg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "47a2048ade80e6c83dc758d6a066eda0",
       "title": "Mesa Técnica de Influenza Aviar se reunió tras confirmación del primer caso en aves silvestres en Biobío - Portal Agro Chile",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOay1ZUDB2cUVGZFZieUw3U0p4T0hSSVU2MnFCdHJUSDNlZy1YcS1QQnBCdW0zVVl3YVZwbWY3VjBSYl80TElzSkpBaDJGYlk2ZTJyZXlieEgzVFRlN3pxX1M1QTNvVG5rVWxKdmRFbDVYSWs5dGFRTW1rS3VLQkttZkp3b2xwQVVmdGVMZF9BN2ZTOHpqWmxhV0xpRGNjV2o3ZWdZbVd6ZzF2YlFFZmpqNXRhZ3NXU2xXcHpCME1B?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "69098ab450686176be6a241bef17ae0f",
+      "title": "Chile recupera estatus sanitario libre de influenza aviar - SanCarlosOnline",
+      "source": "Google News - Chile",
+      "date": "2026-06-26",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNjJPQVNyLWRFaldTOExOQXNYcHZ2OWl4SFpEVzF3WE54bDZHY0Z5Qm5VX25JSVNLYkNERDFod2dZdkt6Qm5ZYm8tQ2xBa3k3RjhkUW1ORHIxMzg2U3hZbVBGLV9RQ3hrX0VIelp0cVh2bkh0N0RKRGlXb1h5Um5DcFdTOW84NnpHT3c?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "98866eedd78565d389fcc08c8e899bcb",
+      "title": "Medidas de seguridad ante la influenza aviar - Vos TV",
+      "source": "Google News - Nicaragua",
+      "date": "2026-06-26",
+      "country": "Nicaragua",
+      "lat": 12.8654,
+      "lng": -85.2072,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTF9aMHlodzBPN2YxbkRqamhNYXJDNFJXbks2WVpUMzMyMllVLWxPR0FGbnFGWFJINGtvSGtETk9MZ2RKWm4tQWdTeXE0NjU0VEdkWEFGN1NFWXVJMkVIeTdoSjZkSVBBMkVhMHF4YWJNbThMcVVqMW1ZR3hVbVpnamNPOG16TEdtcUM3dmln?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-26 10:56 UTC"
+  "last_updated": "2026-06-26 14:28 UTC"
 }
