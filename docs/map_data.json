@@ -1,78 +1,6 @@
 {
   "alerts": [
     {
-      "id": "7d3894e5e02902c03ec5446beaddc83f",
-      "title": "SAG confirma caso de Influenza Aviar H5N1 en aves silvestres de la región de Los Ríos - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-04-13",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONjlEYVp4Qmh1X2t2MUhrd2c5UzdDN2dYeHc2RWhzLXU2NHA4eWxOTlZrMGd2ZVlVZm53MjAwRXFnei16MHE1OVFYcFRDR29Bb2dXQ3B2N0tpd01LM0VOZEhjcTZJcm93TFhTSFZVUThWeEVVRllRNHR3ZWVnVW1majlYTDFpVEpJbGxEYjVYZWZWcGFaUVF4MERlWnY1bVRmV0cxeTlKWW5uZGcwdFZxeGh4c0UzRlFuS01nX1FjUkcxcVJMMzdN?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "5a35379cf015da7a7204181662aeebce",
-      "title": "SAG confirma primer caso de influenza aviar altamente patógena en aves de traspatio en la región de Ñuble - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-04-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYmFjdWpsaHdPNEN4QXhjOGREV2czdUF5Rld4MTZPcHRqU1NkOHp6YmRNU3kxWHBoc2d0ZjQtRGpHcUI4VnIwNzBPX1AyYWtoazF0NGZfSTR1UnM0N3RObE9LNUJlREtMMXZUYzZuNG9UR0VmbENpb3JKUTZkbThkcFhCVFk4VU5XUkE2VHFoVEQwZHdQb0l0X09tTE8tUldDTzcwODd6b2RWWmxRazdnaHR3Ykt1STRnOWJzUFZKdjRILUF6M3RZUzIyX1VNWFBGNnc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "e57de31b3b6de88938770e29092f42a3",
-      "title": "SAG logra en tiempo récord la reapertura de los principales mercados de productos avícolas tras foco de influenza aviar - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-03-31",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUTR2OURwLUdTUDBYWE4zX1VwU0plQlRHalB5a0dOUGJ5VmR3enoteFlENjdaUFBZeUxDOURKdkVIcXZwNU5saWw2SWJkR2hKemxvbmFCVEVkbGRhS2xqMG1pLVZscF9WQTgtZ2x0ZTZ4SmFLMVhtQ283Vjh4R3R2UnJBUEVEbjBEVVVveHpNd2htYkxXc09tX1VoTlFUa3Z5QkpwNXRWR0VLV3E0UGVlWG5rY0N0andDNzNZZUktZzY4aXoxcUg4OUQ1ZTU5Mi1OLVgxSEN2SFVvRjQtRWZvOFh0c3Y?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "d066e8e970441030c1aeb71841ccc137",
-      "title": "Bío Bío: SAG confirma primer caso de influenza aviar de alta patogenicidad en aves silvestres - BioBioChile",
-      "source": "Google News - Chile",
-      "date": "2026-04-13",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNTDRtTHMyYlRJNWxocXBEYW1xdXo3Z2JFLVQ1a0pFekQtYUNSZTVjRUZubTB3SlhxZGJhbWxpYlhEdmdEZDRWWXpES3NLUmpOMGJWdlJXRnV1SDdJZmVxZ1l0akdsTGVUenpteGdxOXFRV25FQThEVDcyVzI4Vk56a2tCcGFFamxYdzVfN0tXc29uZjA5dWZOa0c5LVh1SHI0YjlwLU9BR2EycnJZRllzV1FsbzdtLXFHNXVVSDZYOXNmLW9JLW04dVRRUHM5cHVNWlg5MDZzVGVmeGc3YU9JTWVJa0Rsb3ZXSkVxVEJXdHFaUG5ROHZoVnB1QjJ3RkxKV0JR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "e74173b32b5b292a035c39fb9f480ea1",
-      "title": "Influenza aviar: SAG confirmó primer caso en aves silvestres en la Región del Biobío - Resumen.cl",
-      "source": "Google News - Chile",
-      "date": "2026-04-14",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWNUc3ZwdWt4U3d6bFUydVBOb2hyeVFNYTF0MUVkNUdJMHpZOGF5VmcyRklwaTk1dGFxUHJOTXVTNzhlU24wQlFWSWNaSFNsNE1qQkY5c3RSelhWUTJjSlM3VW1lWDJrVGFSaEQxZEhZb1FWeWNIdElRU0Jyc01keEZQSVh2RENYTFJ1ZTZicnJUZjZPRXBLVWgtWUtKM1AyeldQMXY3c2Q1dVJEaU1oTzFn?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "4218f44698cb08d7c524aebb7170ba1d",
-      "title": "Confirman primer caso de influenza aviar H5N1 en el Biobío - reporteagricola.cl",
-      "source": "Google News - Chile",
-      "date": "2026-04-14",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0JqMUJGVmFIanNFMnNlSEVCZnRlWDFlelk5Tkd5d0NReks3dllMMzRCX1N2Zjd0R1dDMEt6VktGQ2prczRjWWI4TWNKa0tJLTFDXzNDSUtrRGdac0YwU3UwVHk2QTVyd3Z5VThodFd5S0c0bDhsOVZUZmxSeThlVHQ3T3ZvY3kzb0pYUnctU0FSc2JfMnFEMC1aVDQtVm9tWmktaVVPbkY?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "0457de87156bce4b7d1e37f0c2388f15",
       "title": "Detectan influenza aviar en cisne de cuello negro en humedal Río Cruces - Radio Agricultura",
       "source": "Google News - Chile",
@@ -3599,7 +3527,79 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUVhmdDd2VWJSRnRrRWpVNDFMQm02Z2U0VkNSSlRrZEk2Rko4d2JZSDRnRWhyVjRvNFpfQXN1aUdfQk16SFBkVm8tVmp4RjZNZEdnNUl4cUxqdmtoLWNLWHAzY3I1TmFQY2FMcVpNNzFCR2FOQkxraW41dGJkcW5ELWVhQmVRQQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "895e5210cac5eb038198e86178201899",
+      "title": "Chile recupera el estatus de país libre de influenza aviar en aves de corral - De Mar a Cordillera TV",
+      "source": "Google News - Chile",
+      "date": "2026-06-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSUZJWXFjYVk1N3lrUGk5OVYzLXE4NC1HcUdadnRYRDJmM19Ya2M0LWFWUGFacUdFd0FBMGg5Vm1ibHQ3aElSTXA5NkE3M1hCLTFaNG9CNEVOOHMwSXFfNGZqdTNURVVveC1IZDl4V0pPcGFfWEZOV01TZnFLNmhHRVRvc19iNjRTbUp0QXhPak43bVUzaGlrLWJycHh3enF2NWxhVmlURHFvR1AxQXQwNm9kemF6SGR5dkE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "c46ba4d749c12aab89df7f62ecd46fb4",
+      "title": "Chile recupera estatus de país libre de influenza aviar en aves de corral tras exigencias de la OMSA - Diario Chiloé",
+      "source": "Google News - Chile",
+      "date": "2026-06-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaVhhUjFIYVZGQWltemRTTTY3S0VYc2hOQmRoYjlNOVo2TmNCUVpfT2NjNmd0TFNpdG5yVnBxY2phNlp1a0pFMkY3MVl6ZlF3aVdBWWxXQ1JncEtteDNVRkJockowSnlnLTFsYXplazdDeEg5d0ttNUZQN0pMdUFlMkZKbC11RHcxU0dyZExpVGhVWmdNWVh2X2YwYVQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "b604432dde29660b4cd3ea3b3caafd07",
+      "title": "Chile se autodeclara país libre de influenza aviar altamente patógena en aves de corral - Mestizos Magazine",
+      "source": "Google News - Chile",
+      "date": "2026-06-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZ3dsMGZVQ25ZdG5UdzBVWjEtYnR3YzVROWNJUVBURUtleHZiclpYV0Z0THBXUU9fWHFnaUVrc3RxbnZ1Rlo4dVQ1aTVuNHR1XzJQeFBsVGduYml4LXFkYkpMQ0d6bjY5ZGltZ0ZUZ1FXaEgzSmRHOTFEOHQ1X3FoZVl1bGhLYmNoMzNudUpIODIyMWJJWkhtUC1IV3p0b2F5MS01RmNiZ1FPX1Y5TTktcEVhdGwwaWF6QVRSd3hFLVR4QmpVYldtZEFFNEhlTW1PekdDMjBsbW9yOFZHTWgwWndhSE13Z9IB5gFBVV95cUxQZ3dsMGZVQ25ZdG5UdzBVWjEtYnR3YzVROWNJUVBURUtleHZiclpYV0Z0THBXUU9fWHFnaUVrc3RxbnZ1Rlo4dVQ1aTVuNHR1XzJQeFBsVGduYml4LXFkYkpMQ0d6bjY5ZGltZ0ZUZ1FXaEgzSmRHOTFEOHQ1X3FoZVl1bGhLYmNoMzNudUpIODIyMWJJWkhtUC1IV3p0b2F5MS01RmNiZ1FPX1Y5TTktcEVhdGwwaWF6QVRSd3hFLVR4QmpVYldtZEFFNEhlTW1PekdDMjBsbW9yOFZHTWgwWndhSE13Zw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "94d3b6d7472f598ac01db469653da4b7",
+      "title": "Costa Rica detecta primer caso de influenza aviar desde 2023 en ave silvestre en Quepos - El Observador CR",
+      "source": "Google News - Costa Rica",
+      "date": "2026-06-25",
+      "country": "Costa Rica",
+      "lat": 9.7489,
+      "lng": -83.7534,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNmN1QXdpQ3BoNFVsbWhmT2czVzZzcTM1M0dyY2otRUxBTlozamVvV1JnVE9wMDRVRmxSb3JpV1daWlJHaUlNdmwtUDJMRk5VTmNVTEQxTWlXbXdNMVh3emtJdC1hVWY0OHBMZHlDS2JBVXFLSVppSWNQUjFOeHZoQ1U0a09oMnBiVG9MQTEyZkU4SWczLTUyRWhBZWJVY0phYTUybDBtdGlyUlp4NDRz?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "b57ff301ea71d048ee63bdb6163a16de",
+      "title": "Autoridades confirman influenza aviar en ave marina de Manuel Antonio - CRC 891",
+      "source": "Google News - Costa Rica",
+      "date": "2026-06-25",
+      "country": "Costa Rica",
+      "lat": 9.7489,
+      "lng": -83.7534,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGNWSUNTZ25kelRrd2U1eXZIZkZXNEdHVEl5bjFjbVNXYWxwWXUxcTRobnJ5U3pqT3R2c3hvdVh0Q0VaeGlBTUM5dXZTYXM5UEZRTTcyN0tDSVhXRExZUE00b2hXVTNpM21NREJubWpFazg3Z0xzeDJZaEFtTEZRdDJhYWc1anI5cFpITFVZY2RCdTBkU29oTzRQakhZYy1ERnRr?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "e50bb3f5dbfec4b89be51889ada628a4",
+      "title": "Panamá mantiene vigilancia preventiva reforzada ante la influenza aviar - Panamá América",
+      "source": "Google News - Panamá",
+      "date": "2026-06-25",
+      "country": "Panamá",
+      "lat": 8.538,
+      "lng": -80.7821,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOay1ZUDB2cUVGZFZieUw3U0p4T0hSSVU2MnFCdHJUSDNlZy1YcS1QQnBCdW0zVVl3YVZwbWY3VjBSYl80TElzSkpBaDJGYlk2ZTJyZXlieEgzVFRlN3pxX1M1QTNvVG5rVWxKdmRFbDVYSWs5dGFRTW1rS3VLQkttZkp3b2xwQVVmdGVMZF9BN2ZTOHpqWmxhV0xpRGNjV2o3ZWdZbVd6ZzF2YlFFZmpqNXRhZ3NXU2xXcHpCME1B?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-25 21:45 UTC"
+  "last_updated": "2026-06-26 03:56 UTC"
 }
