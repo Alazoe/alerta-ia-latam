@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d4d5887b66c1bf99c3f3cb8a09786793",
-      "title": "SAG confirma caso de gripe aviar H5N1 en Los Ríos: fue hallado en un cisne de cuello negro - BioBioChile",
-      "source": "Google News - Chile",
-      "date": "2026-04-13",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbGVxR0JfLUlfS0o1TVI1T0s0RlRxZkRIWVBOeFYxcWxfR05ocFExOGNxZmpOYW5xQ3QyQUVLc2J5cGJvaHV1MU9qMm9PdlpqMG9fRXNwV3FTZkl5aEd5WnRwblBnUzE3Si1GNzBiZUljOVlaRjhlay13c2VYbzNaNXZjQ1lGeDA0dXpUTlNUaHJveWtXYUd2QmNsQnphc0tpT0xSeUxfd1p1WEZLVUd1blBXbDFJMmZubHZzRTlxU29waWY5azQ4c1RTblZUUW1vWndKMnZoa3ppSkFQMjIxUE1FdHhHaERGYkJEUlhpenNQbU5IYmZvb1lYUUp6OGM?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "488aaccd522902d46cec146669dfee49",
       "title": "Chile confirmó un nuevo caso de influenza aviar - minutodecierre.com",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWJwUHZDQWxpWUZLOHVJT0lwQTBEYm03Vm81WWkwQnBzY2hfSTRmSkVXaVJYUjJYajNUMkJjTl92ZDAxZE1MSTE0UVpyMXljeWV2NG9QY3c4SlB3UVJPcmUwNHVNWkpYdlBFcnQyc1ZBWWhfWWdKS19kSTQzRzVuRHE1ZXprRE9lal9OUmZGZElpTXZFU1I5OHJXaVdRcGRjbkE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "c3010cf2ed290978a4607a91d22e52c5",
+      "title": "Planteles de aves de corral en Los Ángeles y Negrete podrían quedar libres de cuarentena por influenza aviar - latribuna.cl",
+      "source": "Google News - Chile",
+      "date": "2026-06-26",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaWlEd2NyVkFYTEsxZWVuZ2Y4M1pKVTh2LWFaM0FjVkllbnZrTUhKS3gzZUxQYml1RlBDeGlrLTh1WC1HUFhBR1BRdXAzUlkxcjlRbWVQelZ5LUcyTW13cllRVUtjM1JFUGdxeWthVy1odl9iOC16a0t4TW9WOUVDeGdpcVZORG41b1VuS3hRLTlWYXh5blVvelE3SWFPRHZQOUNkdUo0QVhUa2N6d282STB3ZFlqUkdEY3RIVkxDeVJYZ0d1dWhoSkk3OXdWZ1NKS2tMY2EzSXFXQ0NGUFJ2ay1Tc0pLbW45ZnVGVS1aU1JLakJiVWZ4TTZyTjhBWkVaREZz0gGDAkFVX3lxTFBpaUR3Y3JWQVhMSzFlZW5nZjgzWkpVOHYtYVozQWNWSWVudmtNSEpLeDNlTFBiaXVGUEN4aWstOHVYLUdQWEFHUFF1cDNSWTFyOVFtZVB6VnktRzJNbXdyWVFVS2MzUkVQZ3F5a2FXLWh2X2I4LXprS3hNb1Y5RUN4Z2lxVk5EbjVvVW5LeFEtOVZheHluVW96UTdJYU9EdlA5Q2R1SjRBWFRrY3p3bzZJMHdkWWpSR0RjdEhWTEN5UlhnR3V1aGhKSTc5d1ZnU0pLa0xjYTNJcVdDQ0ZQUnZrLVNzSkttbjlmdUZVLVpTUktqQmJVZnhNNnJOOEFaRVpERnM?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-06-26 17:50 UTC"
+  "last_updated": "2026-06-26 21:20 UTC"
 }
