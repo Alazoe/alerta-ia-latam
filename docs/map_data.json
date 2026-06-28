@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "7123950424426bd58e6348f1ab240607",
-      "title": "Mesa Técnica de Influenza Aviar sesiona de urgencia ante brote detectado en la provincia de Arauco - latribuna.cl",
-      "source": "Google News - Chile",
-      "date": "2026-04-15",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQnRrbl91cENoMUhSV0wxaS1UVGNCLXhpWWQzVk54M2hBb0R1aW5KOURHUmNmX3VuZG82OXlhWlNlLUNXSFpRczNlb3JRMWNkSUEtbTlUM3h4S1gteUpUQ2lOS0NXOUlnS2xCZTV1Mm5LbXRJODkzM1B0YnNhd3ZyLW9JbzVCRUZxdllyRl9VY3JSVHhNSzkxVUdQbDJBSjV5eHlfc3VTa3NHNTJ2VVQ2YU82VnQ0aFZyY1VaMzRxYTZtNFZ5RGRpSFVwbFpISUloZ1pQejFxSGVqVVVGaUdmWmNJMnA4TknSAe8BQVVfeXFMTWF4MjJTbW1uSGFCUWdiWDZXOUs5YVJ1UnNUaTNOeGVxa1hfQmF5Y0VudThvNVZrLXRZQjNZU1lIMGwxZTQ4a0xPYmc5YnR5YmsyRS0zUzFsM1g5V1RBSDdSSzRReUp0dVljSGxvZVE3WFRlbjNGNzFCZXVzVXEtblNwYmJCVTNWeTU4SHAwNWdvYUFiT3NSTE1lak5LTVR2ZWZYQUUxd3dOZEVlVEgzZlNmbzBmcFpVWldkbDJpWXBjSkRndDdpcU5ycnZ1ZDQ0VVpDdnZBSURuYWM0UXN5TFkxSGZleFd1RHM0MDV6cEU?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "eeaa727add8747661e1d42466d62f85e",
       "title": "Ministerio de Agricultura llama a reforzar medidas de seguridad en gallineros ante riesgo de Influenza Aviar - araucanianoticias.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZjJYRXRHbFdoSWlOa1czNGRwUkNELXJpbWs0clRyX283OHZ4X2dSOWVvSmtTNmRIRk5xamEycTZ3amdCdFFjdjlJRFY5Z3pIa1hUWU9aSkxqa0VfZmpmLW5oNkNGN2gxQ19xdmtBcENnVndUcDRjWVRiR3pvQ2dqeThpUTZmX1B3eThLSnloTFkxcG9JaGFkQXRwMVZtemJVMGE3c1BFYy0wVTJObmc?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "61c322722330ddf6a2c54e90b7ff5849",
+      "title": "aclara situación de exportaciones de productos avícolas a la República Popular China tras brote de influenza aviar en plantel comercial | SAG - Home | SAG",
+      "source": "Google News - Chile",
+      "date": "2026-04-23",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPMmVfdHpCeHVyRWp6SGt3bjVkU1hicTJfamJtNGQ5dkNPcWQ0aHNrUlktYVZyS0pTQzlWbWNhX0ZmOE5kQTkyczBnUlpfYkJPbUJUYlhoZVF5OHVMQkNTSUJHRFdndTFvUHBYelZla3hNa2NyMnVCbXBkRlJfeHFGcEwzX1FjR3hSa21ERkZ2aXBwM0dKUDg0UnlSR2FWTDJyOHhnbTRvLWl2cXBQbXc5akZidEpDRTJhQXRrbDJUZVRSNzRhdVV3eGRDeGpwVXQydWVQYkx6SVM1eWlSYzc0Q1lSWDM0WTlsemNKLXhjcGdMeWZ2al9BNnBfOVg?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-06-28 04:02 UTC"
+  "last_updated": "2026-06-28 10:29 UTC"
 }
