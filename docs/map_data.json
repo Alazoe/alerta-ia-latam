@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "a91456b463fcb02684799568852c83aa",
-      "title": "logra en tiempo récord la reapertura de los principales mercados de productos avícolas tras foco de influenza aviar | SAG - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-03-31",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUTR2OURwLUdTUDBYWE4zX1VwU0plQlRHalB5a0dOUGJ5VmR3enoteFlENjdaUFBZeUxDOURKdkVIcXZwNU5saWw2SWJkR2hKemxvbmFCVEVkbGRhS2xqMG1pLVZscF9WQTgtZ2x0ZTZ4SmFLMVhtQ283Vjh4R3R2UnJBUEVEbjBEVVVveHpNd2htYkxXc09tX1VoTlFUa3Z5QkpwNXRWR0VLV3E0UGVlWG5rY0N0andDNzNZZUktZzY4aXoxcUg4OUQ1ZTU5Mi1OLVgxSEN2SFVvRjQtRWZvOFh0c3Y?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "0bcbe3aff5bfe229e8e34857ab74d728",
       "title": "Paraguay fortalece su preparación frente a la influenza aviar bajo el enfoque de Una Sola Salud - Pan American Health Organization (PAHO)",
       "source": "Google News - Paraguay",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdjRSSDBJWVVQZVBsemdmSkFvRnd4cHlsaTVWMzZQMFB5MFYzY2Y5UW1Xa21vVU9tMDNjM21NVERWcFN3T1ZHWlR6cWZWN0dRdnJkTlA0Yl8ta0tHSHBDdlpjb1o1S1NRaW0zbEpfY2ZVSDNxVGhyWnkzdjB3aU1YTnZ2c0ZYbk9aRDh2WXZ6X2N5ZVE0ZS1YVG04aVRiMkpvMWxibExzbHpLbG81V2s1UEVzbkh4U3pySmdjREhn?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "520d95b0b5438f8eb781a908759e8327",
+      "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - Ciencia en Chile",
+      "source": "Google News - Chile",
+      "date": "2026-06-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVVNGcmZ6TUpvRkljMC1tTGtVR0xzeHJHUFMzV1ZVcTR5Z29BZmxLWHNVa1dDSzVJNlhJdGdrSmd0c0V3Nkl1eF9oQ3gzc0ZkM3FqSHhSeHZnX1BsaHplcDg1ckhtckN5VHhsbVgwZHhTQVFmT0ltMlFvaVdpVUI0QzBGeC1WaExvajV2SFBnWk12ME16a21EQTFJV3dmQ3gwa1dSNE5sWUxOemNmQkM3Y21PNmJqM2hzWkE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-28 17:15 UTC"
+  "last_updated": "2026-06-28 21:04 UTC"
 }
