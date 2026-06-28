@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "50eaf6cca1025f133759d57c0c16f429",
-      "title": "Influenza aviar: Gobierno refuerza llamado a prevenir contagios en gallineros - portalmetropolitano.cl",
-      "source": "Google News - Chile",
-      "date": "2026-04-16",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM05KdHBRVjF0XzRiVXFwRk5XSlpFc2hGbFZnSmp5bm4xSlBKdGVGcVljRzRLSTAwcnM0T2FXWFVCUkF5djhYWEJHSXRaSDlvS1hiTUNJb09RMUx5N01Hc2p2SjF5M19QM1htR1dZeGhZRVE0SHFLVkl3YkhXQmZvYVZmMENoMmpMM3lXeV9yNFFSbDlYVHBsSXpBWjNCNnRNUF9Xb0VxMnhOMHps?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "a91456b463fcb02684799568852c83aa",
       "title": "logra en tiempo récord la reapertura de los principales mercados de productos avícolas tras foco de influenza aviar | SAG - Home | SAG",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbE9JbUlydmFTS3RUSDg1MFJoMTFqdld6TUhid1d2NUFHYk13SEhacGNUZjBsOUVOWTlYZl8yaDF5TENrV3lkeUJEeS1oNk55N0U2TTU1V1ozZEp3U1B3NERDbEhIWUViUnB2TC1weFp6QVRPbUp2ekNmTTQ3VzhYd1ZuR19aMUdVRFZXbTFCV0k3TGtBR05jVFVQR3J6dklRWVo3X3pLbDNlYmZjcHV30gG0AUFVX3lxTE1KSkVfM1l2SGd6VnlfRFg0TTdxNllkbzVTdkxRVW5EekhtTWRLUGFvd2hlb1M4SHVLb0YyQ0dTM1pFcHdreTdzT3FPZThrbWtFa25CM3JSeV9jWGV6aDBEYWVKSlNhcnZxTUJoYTJWdXNyQkRYeXprV3RUM3JSWjBNQ181VWlZcm9MM013dDhJUlVTUTJTUGExRlNPRmxwY1Z1djBxTUEydHJxeUx3UENneWdLUw?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "6fd92b2edcec917d25da603567f17c1e",
+      "title": "Chile se autodeclaró un país libre de Influenza Aviar Altamente Patógena en aves de corral - El Tipógrafo",
+      "source": "Google News - Chile",
+      "date": "2026-06-28",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdjRSSDBJWVVQZVBsemdmSkFvRnd4cHlsaTVWMzZQMFB5MFYzY2Y5UW1Xa21vVU9tMDNjM21NVERWcFN3T1ZHWlR6cWZWN0dRdnJkTlA0Yl8ta0tHSHBDdlpjb1o1S1NRaW0zbEpfY2ZVSDNxVGhyWnkzdjB3aU1YTnZ2c0ZYbk9aRDh2WXZ6X2N5ZVE0ZS1YVG04aVRiMkpvMWxibExzbHpLbG81V2s1UEVzbkh4U3pySmdjREhn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-28 13:50 UTC"
+  "last_updated": "2026-06-28 17:15 UTC"
 }
