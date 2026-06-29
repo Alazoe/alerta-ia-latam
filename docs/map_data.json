@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "0bcbe3aff5bfe229e8e34857ab74d728",
-      "title": "Paraguay fortalece su preparación frente a la influenza aviar bajo el enfoque de Una Sola Salud - Pan American Health Organization (PAHO)",
-      "source": "Google News - Paraguay",
-      "date": "2026-04-17",
-      "country": "Paraguay",
-      "lat": -23.4425,
-      "lng": -58.4438,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNzI3WU42aXd4clR3X0hTZVZJTnZZMlZqZjJiR0hLZ2hjdnc0WTd4cFdDRlJ0VUZISkNOa2FhQ2VTLVp5U0NDenBFX19aa2piMWJkR1lzREFuLUxjQm94WHR3NUFSRE9pVWZFU213Y01ZSkI3blFHMjlYeHB0WWVGeVZ6UldRYklTT2hnMlFkWUYwdFYyVklOemRwTmEtS0pSN0N2Tkx0dnY0U1BMNE9QZjRrYTIxTXdTSDUwS29TWnE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "1a062b3a11a4f66fdcd4c4889c9399df",
-      "title": "Confirman presencia de Influenza Aviar en cisne de cuello negro en humedal de Río Cruces - Cooperativa Ciencia",
-      "source": "Google News - Chile",
-      "date": "2026-04-14",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWkxTUnhlNWc0bnpsVmZQRkVNNXI3aGZKZXBrSXhuYlpkak44T0VGUzNZZ2NYUVRicFRteG84M2RRc0lzWDFjOVVRbHh2UTN0Ulh6aWpqMlVLYWdsNTF4UGk4dVFSLUNOcm5ULVdSdnJ5ZS1xQVhVTnc0UjgwMWMxdkgwaGpOQklGZDk3bzNRRGg5MXpTelpmTWVKazk4ZC0xbFJyZnJ5TTlrQUVaZ3VZSUdLa2YybDhWWVZSN2N5TnRaeVN3bGlKX0FsNVNxWTNSaFJGVGM3U3FOMDlWcFlYdllTYw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "c280ced1bbb5e8f0b5483e75b1bdb609",
-      "title": "Chile confirmó influenza aviar en una granja comercial - Agritotal",
-      "source": "Google News - Chile",
-      "date": "2026-04-17",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWp2cjE3TU8yT0hMNFMwckIxT3hrYTBNRDh4WUQyWkFycVRIcWl4bkZsV1N0cURfTnlGRS1PSDVkVnBrWXluV3pzSkNON3N1eVg4VUkzR3EzN0dRenF6MUlqUEhtQ2psVE93U1F4Y0dEM0pqY1pjd1JyX2JmZi15bEswR25iXzdSUENkVEZBc1FZTEowZHc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "e062731193a2dc006d27234f8b635eab",
       "title": "confirma nuevo caso de influenza aviar en región del Maule y activa protocolos sanitarios para evitar su propagación | SAG - Home | SAG",
       "source": "Google News - Chile",
@@ -3587,7 +3551,55 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVVNGcmZ6TUpvRkljMC1tTGtVR0xzeHJHUFMzV1ZVcTR5Z29BZmxLWHNVa1dDSzVJNlhJdGdrSmd0c0V3Nkl1eF9oQ3gzc0ZkM3FqSHhSeHZnX1BsaHplcDg1ckhtckN5VHhsbVgwZHhTQVFmT0ltMlFvaVdpVUI0QzBGeC1WaExvajV2SFBnWk12ME16a21EQTFJV3dmQ3gwa1dSNE5sWUxOemNmQkM3Y21PNmJqM2hzWkE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "582e47cef36e84654d327d595220d217",
+      "title": "Destacan levantamiento de la cuarentena por Influenza Aviar al plantel de aves más grande de La Araucanía - Temuco Televisión",
+      "source": "Google News - Chile",
+      "date": "2026-06-29",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbmVTYnNBb2dDZjJPMFpzZkFjR211SnAxdE40bGpqUURmNUZ0S3ZxZDdTeDlqM3hxZE0wSVBRSTg1cDRUd1RiYVM4QzBDU0FRajhBSHNydjhTMUp0eDVqbUQ5ZmF0MVZVQVBrbmpCNmZkaUR6cGdVVU1mQWJEYzBvYUdOY0hOdm55cWRtZ09fYkllTVZhRnlUUnFmRVB1ZFJubVZqTDN3LWZZT01DVG1PclZTWDl5bHI5OGlHWk9TbVIzTmF3M0hTeDEtekExaGVKMXBFUk5BVGFNa3p6bl8xa2dNTQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "49e49661dcf991156206cbb7865dca24",
+      "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - Maule Hoy",
+      "source": "Google News - Chile",
+      "date": "2026-06-27",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVjY2M1VlamdsOU9ZRGdLYk9GSl9PM3pmNjhlMTNrWlpteHBFYlVkT3BmZEN5QV92NDZuZzNOaTA5NmlNMnlRLVFYbHE1dHB3MXZHV0dVRXp5S2dPdGVpbTJ2ZVhpY0syZU43RTNHSmRQRmVnOGpyWUxHTjAtRDhsYUhGdms5VHdCUEthZjB6dHV6c1d1ekRPZl82VE95UTNoOWRwbjRPbmtMSEZMbFJ0Q242cksxNkpZM2Nr?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "4822e97af6841a398c689970c469fe95",
+      "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - Soy de Osorno",
+      "source": "Google News - Chile",
+      "date": "2026-06-27",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPemdfbTRSMl9uZnNSSTlRbHFQNXFNdEJRczdOaXJTVXFTcFdLazB4R2ZqOEJtZVVzYUNQcjFSc1FjVkdEQnBScjJKSnVsMkdYSkJxam9JbjlxUlpVNFdXcTJxanBDaGN4OUFlejhJWnRZam1wZkdVZm84UXoyclplNjctWDB2cGF6emYxYUJFYlFlV1lEcEFQUjdrYTJNTF84eXc3Tkhna25Bamh3LWdMZEtha2o3a3RUYzhUeG5hSQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "62e995c07b091229f0bea0735ba6707f",
+      "title": "No habrá escasez ni alzas en carne de pollo y huevos por influenza aviar: Gobierno - www.laprensa.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-29",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0IzbzVTTXY4S1Q2enhScVdtU0NFSnFXVzNzbFJRYjhtQjh5VmdwSzlEdUxWRGRNa1RTaTd0bnZWRm9mT01tNkExREJmbEhYRWgwb3VzcjZwOW9IQms1WnVFZm5GREw2c0tYQk9pb2ViNVBza1pIdnoyaFFveG9tSFpMQi1odTFtUHlpRmNrcGtSbmpOcHJydVpHQk9vUmZkMmE4?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-29 18:09 UTC"
+  "last_updated": "2026-06-29 21:27 UTC"
 }
