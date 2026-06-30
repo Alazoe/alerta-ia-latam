@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "8ea864c664224f79e0d30a250a611c37",
-      "title": "SAG informa de caso de Influenza Aviar Altamente Patógena (IAAP) en Chile Chico, región de Aysén - Infogate.cl",
-      "source": "Google News - Chile",
-      "date": "2026-04-21",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWdUVJakRjMGNHblc4WWxvajA0bkRXSE5lTDFrNzZxM09oMnhSSDd1SUFFWEFBeGhzRmE3NlZsUWtVbUE3MjdXbUhVcnpTRnQ3STZDcmxlRlZCeHJvRGdSZ2pLdy1fSF9rS1RfWEpUaDlqTnNhZ3BF?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "9370a1e6da79974645462809f037c7e0",
       "title": "Influenza aviar llega a Aysén: SAG confirma primer caso en ave silvestre - reporteagricola.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMnZxX2JDbE5PcWo3ZjhndGZ3NXhTSWJNa1pqZWNRUTA3azlGcWhsbmZHLV9BSjNnREVWUnl3aE1XWXlnb3BKQ3dxS3pTWFI1Zml3c212Y3B2VmZ4cDd6WWQzTWVTbnZKS0daejdlZGFPOEdrOGRMdWZhTnpmTkk2UzBZZjVIU0tNeFV3cmhiU0cxdHliVFl4V3g1a0ludmlN?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "b8ee8d91b14cd9d472d4dbfd63dda34e",
+      "title": "Confirman 2 casos de influenza aviar en aves de zoológico en Tuxtla Gutiérrez, Chiapas - El Heraldo de México",
+      "source": "Google News - México",
+      "date": "2026-06-30",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWFpeHFvdmNCeDZ4RGlrMUIwX1ZBd3BYampQNThVNmlkNlhzTFF5SlR6UWRjemtpWUw0ZFpRZnRncThZZ1lJUUh1QW9HYnZMVjFQSTRpVGdwRFNQaGdEempVVnlTcU91X3FaMWoydk9PdmpYXzM3bUM4NENza3owRk4tNXpyRnFpSzEzc2s4al9jX2RDM2UxWTJWR2dCclFqUlhqaVpiV0c5YlZmTkJjazJSdXJQWkYwbm9leXVibktyOVJxbVFYRmQ1dnhNbms3aExJRWY3MnlBdFdrX2c?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-30 17:57 UTC"
+  "last_updated": "2026-06-30 21:40 UTC"
 }
