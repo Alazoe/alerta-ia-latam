@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "57d66bd9f58da968e3b695faae2608f3",
-      "title": "Declaran alerta temprana preventiva en Aysén por caso de influenza aviar AH5N1 en Chile Chico - La Tercera",
-      "source": "Google News - Chile",
-      "date": "2026-04-20",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQTRvRzNrdE9RazBod2F3cFpJY0s5dHBFb002WnVOTnlHUTNiYm4yRmV0SW5UTVlLLUZ4RGh1WXplTGpGMjE5Mk9uYUVhVDc2bmEzOEhIakJDV1QwT05TUGNOTFhsSWNaRm1ycV91b0h2TTc2eHA0TDZieC1TOXkySTltSXhrRVBnMHN6TXJzOVNYa3Y5WUl5dzY4YjcxVk9JZXpPemt3cnNHMmZNWDJEcDRyVWNoSDhabFdiZDdhSGNyM0U1VFpndmkwck9kSDRBTGfSAfMBQVVfeXFMUGd0S2lKSUtrZXJyUy0zV295X1dRalo5a1d0YmhxcEktX1p1bGFILTFsbzBSWDQ0Q3l6LTZFaENjMllacW9WaDczQ0ZEZDM1eFRReGtqNWFyVF9zdEJZaTYzdmJuNEUyYWMwY3BGNnN4cmhKMlV5cjNScDFPVDBlSlkxYVVwMzB1c0Y3dURTUmtzRXJJb283MHhZNmhDeWt5SEJnV0ZqbWpBa0xIdHBBNkc0TXN0OWJfeUFvU0JabUwxZDRTUUJJc1JmZnRRcVRNeHpNbEpVSTJlbUNpY1U0bGlyb0ZCb3RuVE1IZWtiRldGeWI4?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "8ea864c664224f79e0d30a250a611c37",
       "title": "SAG informa de caso de Influenza Aviar Altamente Patógena (IAAP) en Chile Chico, región de Aysén - Infogate.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTHh2eWUwZzJlVV9reENBS0JFSGQyZ0RSWUp2UjJYWXJQdUEtQWRSOEZMY3V5WlBiaVF2eFN5MzZlSVdnOFFaeXZkNzNSRUZOelN3eF9COWpwMktDTUh3M1VERnRCVmtoOHNuWG4tN3VlWWttaGZ1aXBUeDB1QlE4bmt4YlBXUTRoZUZiNzhZM2lxb0lKUk9sWFJuRGJySzB0d2FZMTNta29FdVBGWnc?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "945800ed6ce514f8632343e5db58fd61",
+      "title": "En solo 90 días Chile logra recuperar condición de país libre de influenza aviar y puede reactivar sus exportaciones - Diario Financiero",
+      "source": "Google News - Chile",
+      "date": "2026-06-30",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMnZxX2JDbE5PcWo3ZjhndGZ3NXhTSWJNa1pqZWNRUTA3azlGcWhsbmZHLV9BSjNnREVWUnl3aE1XWXlnb3BKQ3dxS3pTWFI1Zml3c212Y3B2VmZ4cDd6WWQzTWVTbnZKS0daejdlZGFPOEdrOGRMdWZhTnpmTkk2UzBZZjVIU0tNeFV3cmhiU0cxdHliVFl4V3g1a0ludmlN?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-30 14:23 UTC"
+  "last_updated": "2026-06-30 17:57 UTC"
 }
