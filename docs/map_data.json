@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "064057ed42205445e63f60ef337bfc5b",
-      "title": "SAG confirma primer caso de influenza aviar H5N1 en la Región de Aysén - RadioSago",
-      "source": "Google News - Chile",
-      "date": "2026-04-20",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN2gzdGVQcjFyRWxaZ19yX2Fram9zTks0U1VSa0g5UTd4NFFObV9ZajN1bTRjenVnNWtLREd4MmxJX2NtYlB1OGJ2SFJxZ184bDhUT0xERy1Fa1FlYXFZNzUyd0NDUHIzQXp5d3dwTkpjN2lsOWxVYzdGYlRGQ1dWdFp1V1QtVGpmNE5ZaGg2UVl0T0I1TG5xcnNqM3E?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "ee59e32edde4b12feefd3ed568176da3",
-      "title": "Influenza aviar: la amenaza que vuelve a poner en alerta a la región - Andes on line",
-      "source": "Google News - Chile",
-      "date": "2026-04-20",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeVlFazc1Y29KR3JCOTlPQlhuQnFOX0NPMmRZNUlNVWI1UDluY0ZMOGF2NGE1ajFwWEdxZUgxdjlhWXhQRXd2b1A2SnNxcEpEZ2Fpdm5NdVlIQnlHejRXUlJUMUM4TEFaVDRtSFNja1hVcGd2RF85LTIycVdIOVBmSTNTYWVNZmNUR3R3c1Ffa1J6b1hsbnVTTG4yY3ZSS0xzZ3lfRlhoYUMxejRoMXMzaDRlNA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "57d66bd9f58da968e3b695faae2608f3",
       "title": "Declaran alerta temprana preventiva en Aysén por caso de influenza aviar AH5N1 en Chile Chico - La Tercera",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0NXVWNSMklnMmVuQzl1WHhQTWlTTHMwTDAydkJnSnJqZmliTUpGb2J3YXBWWV9heElVUlVJZXktR0RpN091X1o5RHlkTVJNTktFLUJua0RNVWRESW5WTTVrUERmMWw0dS10aWxaRTlnQkc0eTJFY1Y3cFFzSjQ0TkNWZFBJRldDQ0JYNTFneUdWd01laEh2WWlGaTdUTjRmRlNSWF9MQUZOWkNsbXpOcg?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "843dac4341b687ae926db001e2938fa2",
+      "title": "Levantan cuarentena por Influenza Aviar al plantel de aves más grande de La Araucanía - TemucoDiario.cl",
+      "source": "Google News - Chile",
+      "date": "2026-06-30",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORkFoTHg5N3FGT1FPT1QxZHZKaWtybm1CSnU4RjJOakdMakhyLTd3TGdBM0loSHBhcW5faVpIUVhLbkljRTFGYTZpT3hUaUFNdGhzcnBvS3lzZHJuVFhBc1RkS2N5S2JrWXM3UkliYk1xTjljc3c4OVc3WXh4T21oZXdKVmY3ZXZnQ0FBMDN3Q2EyX2x1QnZmVXBGRnJGVFRlb2lsSUNhVlVOVmJ3OXJsMEVhNXlvUDJCT3ZLYlBn?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "bfeaad9daeb398c1bedf90acdf9d489a",
+      "title": "Levantan cuarentena por influenza aviar al plantel de aves más grande de La Araucanía - tiempo21.cl",
+      "source": "Google News - Chile",
+      "date": "2026-06-30",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTHh2eWUwZzJlVV9reENBS0JFSGQyZ0RSWUp2UjJYWXJQdUEtQWRSOEZMY3V5WlBiaVF2eFN5MzZlSVdnOFFaeXZkNzNSRUZOelN3eF9COWpwMktDTUh3M1VERnRCVmtoOHNuWG4tN3VlWWttaGZ1aXBUeDB1QlE4bmt4YlBXUTRoZUZiNzhZM2lxb0lKUk9sWFJuRGJySzB0d2FZMTNta29FdVBGWnc?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-06-30 03:52 UTC"
+  "last_updated": "2026-06-30 07:55 UTC"
 }
