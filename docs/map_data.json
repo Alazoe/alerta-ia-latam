@@ -1,54 +1,6 @@
 {
   "alerts": [
     {
-      "id": "e062731193a2dc006d27234f8b635eab",
-      "title": "confirma nuevo caso de influenza aviar en región del Maule y activa protocolos sanitarios para evitar su propagación | SAG - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-04-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTHVQU2l0ZVA3Yy1KVWVpczJWZ3pESW5xb2M3UzBYOTVnUkpGUkM2TUM3eVJPNVdUb2tmUk5DVi1WMjZyZHI5NS1odE5rY05zemxITC1jblV6VWZKZmNBVmZVd2ZDZ1VXQ2ZVYkJodEdGX041QmdtT3o1akpGQm1McTV2N2FTdmRTSEp4Rkl6UHhVbE9Oc3c1dDRHNXA2Nk1kUzNqQlN0Y2FyUVY4dFc0Z1huUllnbUhOWHRSTDBPUjRpZUo2MlpwYUxIN21jdFZzbFRSbHA3SkVNWkt3c3pzVjcxbFdWZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "3800d3bc0fafce897f5b3817b8149709",
-      "title": "120 mil aves ponedoras serán sacrificadas tras detección del primer brote de influenza aviar en un plantel comercial de La Araucanía - Diario Financiero",
-      "source": "Google News - Chile",
-      "date": "2026-04-17",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYk90Q1BzeGpLVEhJSk9Cc0RvLUFHcUx2VHpaWk9UMXlHY3BROWFHZ3YzME1LM1JqcjdXTFVBcG5kcDZ1MEZYc3k3aDlfZkktQzhpdENDMVpZTXl6QnRYUXRqV3loU05nV2lDQjk0VnVRZXVaeWFWMEs0di13Y291UGFmV1A2eVZYaEl5Smh3RHV5ZGQtSGdOUUVYdXVWc1FjZWdrZG10NER5MWdoNmdfWG5sUEI?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "e79f4c22d5ba3f5b233b14de411fd61b",
-      "title": "Chile refuerza medidas frente a la Influenza Aviar - avinews.com",
-      "source": "Google News - Chile",
-      "date": "2026-04-20",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1acFNrWnR1N25yVktWRVB4YkZvOGNmeGRYNXY3WF9sVzFxejhiSklsalRJOUJuaEpscWV4YW9LU3otSW51Z2MzVTBMZ1dhUUdvdy0wYVZCRTZhWDBqTVFRb2ZLSTg3ZVNyQXVzcnNMTzFFMjQ1c1dhdC1FWQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "300d90ca83d7ba3d933fe11eaae1973e",
-      "title": "Influenza Aviar | SAG confirmó primer caso detectado en un caiquén en Chile Chico - Santa María – Radio y Televisión",
-      "source": "Google News - Chile",
-      "date": "2026-04-20",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaHNTNlZPUy1EVnN0YXM2dTVFSHdsUENjSVBZWEF2YzNsUHNnWm1HRWNRR0FlLTF4eVpyTUVyZVVRc2djTGJ2LVVJbHVaM0psdTlycWY2R3loR3l1cFQzMEJOamFfakdhYUVfdnpPUk5mTEFYZzhKeHNPVWlEYzNmZnJWWHN5Q0s2eTRBUm1PMXpYdTlQZ1JBSFhIUTdPVkx0OHBhQzFuSTVER1FfWGpjbjdVdVFxZmJuWlFjTFJGaw?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "064057ed42205445e63f60ef337bfc5b",
       "title": "SAG confirma primer caso de influenza aviar H5N1 en la Región de Aysén - RadioSago",
       "source": "Google News - Chile",
@@ -3599,7 +3551,55 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0IzbzVTTXY4S1Q2enhScVdtU0NFSnFXVzNzbFJRYjhtQjh5VmdwSzlEdUxWRGRNa1RTaTd0bnZWRm9mT01tNkExREJmbEhYRWgwb3VzcjZwOW9IQms1WnVFZm5GREw2c0tYQk9pb2ViNVBza1pIdnoyaFFveG9tSFpMQi1odTFtUHlpRmNrcGtSbmpOcHJydVpHQk9vUmZkMmE4?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "8454f4cf515c861424d561cefb88dbd7",
+      "title": "Levantan cuarentena por influenza aviar al plantel de aves más grande de La Araucanía - tiempo21.cl",
+      "source": "Google News - Chile",
+      "date": "2026-06-30",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVlJtenZ2OFlVQ3ZsSWJCdWFTMV9QR2phbDR2czNjVTE5VjV6cXVpNjV0ZkNPLUQyMTJHQVhMM1pILWVuQnFWa0NmS1VKcG5yODdEU2xsenlqd3ptcEdURHBMc0RkNTNNQkJ3ZkJuQnpBUUNBSFZGTWRvODJ5S0xCQUNtX0Q0R1pjbVhoSEpReGZRa2lwd1JnVGlza2VxNkdnQVk2UmYzaVZiaFNOdHBB?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "cd10188f3ed0a12bacf3561d86df41f0",
+      "title": "Uruguay se prepara para la influenza aviar con un enfoque que une salud humana, animal y ambiental - Pan American Health Organization (PAHO)",
+      "source": "Google News - Uruguay",
+      "date": "2026-06-22",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcGVaV3o2aW51Q0Z6NjZQWGZWLTRpUkFiOWI2eHJqZTliZkdpaEJWbE5lVXAxRG4wdC0wVlZvRkxYTXZpN1lEMnI1WFRhM25XYVBYQUM0clg4eTN4VmZNb0hCMUFxaEMyVjItMDJyQkw2WENUQUJPTFh6TklpSXk1LWU3WEtRdXk0anpwTko3NWdzWjhLcDBfQU1YQ1paWDY0MVlyOU8yUjNVbndYUmhrN2gzNlFScFJhblJsRVQzZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "d024cd5df3e837cbc37e0394f29389dc",
+      "title": "Honduras refuerza acciones contra la influenza aviar, para proteger producción avícola y garantiza abastecimiento de pollo y huevo - radioamerica.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-30",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNT3ZyU3M4cVI4NXlGSFJ0TmxCclc0amo1VWs2b1BzQ1kxX2E4djNsZnhpaTVDLWh1OUpRZmhlVk1TOHJEVFhxeWV0dEdmOXUzTWxWV3Vpa2lPZkZGUFJMYjlOeEZOX2ZDaWE3SDBHdFBocUtzWmRKOU02aXYyT0FlMTBWZGhsT1JRYVZDNnM5OUxMNk1vOUZtZ2pHZGY1a2NOeU0zZDdsOVdOcll1VzlCbjNCal9UeEZOUkl2ejJZcng3VEtDMUNlNFFMZXVVLU9KaTQtSy1Bd2N4TnBXZ1BVSmNEUUhsOC1XUjhN?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "c9d8a05c298b34336de3b1ce21f026b4",
+      "title": "Confirman caso de influenza aviar en Costa Rica - Diario Extra",
+      "source": "Google News - Costa Rica",
+      "date": "2026-06-25",
+      "country": "Costa Rica",
+      "lat": 9.7489,
+      "lng": -83.7534,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0NXVWNSMklnMmVuQzl1WHhQTWlTTHMwTDAydkJnSnJqZmliTUpGb2J3YXBWWV9heElVUlVJZXktR0RpN091X1o5RHlkTVJNTktFLUJua0RNVWRESW5WTTVrUERmMWw0dS10aWxaRTlnQkc0eTJFY1Y3cFFzSjQ0TkNWZFBJRldDQ0JYNTFneUdWd01laEh2WWlGaTdUTjRmRlNSWF9MQUZOWkNsbXpOcg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-29 21:27 UTC"
+  "last_updated": "2026-06-30 03:52 UTC"
 }
