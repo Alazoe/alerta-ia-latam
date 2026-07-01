@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "384a561e66d384cae39f7a43b9ff9526",
-      "title": "Alerta sanitaria en Aysén: confirman primer caso de influenza aviar en un caiquén de Chile Chico - Puranoticia.cl",
-      "source": "Google News - Chile",
-      "date": "2026-04-21",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVRsYkhTVXlVY2tfTUhMd2Y5NXZoTUFiaTBVNDFvZTFIbmlnWEk3dlN2NElDRDBVdUFZM1AxbkIybDl2MS14dzJJNy1LLXllU2JPSFRJdEhxZTdoblIyM2kwTkxZcGtmQmo3d1VxUWd2NktBdVU3NHRKVDRKZjhDY2o3R25QaUtPQkRzT203Z0NNZ05UeWVleGx3aE90ZWd6NGQxRWFLcG1wOUFf?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "e96d9aa7f28b20aea5a883d69bf94abb",
       "title": "Influenza aviar: Chile confirma un nuevo caso de H5N1 en Aysén y refuerza la vigilancia sanitaria - Agritotal",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDRsWlVtV2FvTGQ0dUtGTXRpZGdXTkxWSXR6OUJtX1hpRnVlZ1pTRDl3U240SVdKTnpPYjFZUjdiYzJmNTh3ZW53YWdhbnlBeEVQQ19DeVlfRE5ZNVBEa044Q0V5Y2NnNnl3ZnZFdkxQYWtUVVRWXzhGdzdxTkxqdjgzQ3BJU2F0TlFFTHdwSzVjVVNYV0N5Vkc5b21TNGlZb2Rn?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "50aa38a57b05e5446b9acd33bc19d464",
+      "title": "Honduras activa vigilancia sanitaria tras detectar gripe aviar H5N1 en aves silvestres de Lempira - Infobae",
+      "source": "Google News - Nicaragua",
+      "date": "2026-06-09",
+      "country": "Nicaragua",
+      "lat": 12.8654,
+      "lng": -85.2072,
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMlJVbWNBamxvVXdJaFZVZjBGUFBvYzY5X2JFNDB3X1VUbHdkRnRiSlg1WUdqVjhiLW1mVmgtaEFZVUxNNW9QVS1Kalc1ejNURTFlX21UcThBMHdhUC1Ta2ZIV1BCeXhpU3ZGZTJ1UjZfel9jckhTYmo0QWw2cHBtdUlpNzgzOWN0N0xSZy1NWVc4TjMwVlJxYWxmeDk3WkVabUtFM1QtMkVyTmhDUGV1cjBGMmU2UDdGMTY3RGNyQVNITUp6a2l3RzBZcVpuR0VHUm1FM1dLT2xJUQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-07-01 14:40 UTC"
+  "last_updated": "2026-07-01 17:58 UTC"
 }
