@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "9370a1e6da79974645462809f037c7e0",
-      "title": "Influenza aviar llega a Aysén: SAG confirma primer caso en ave silvestre - reporteagricola.cl",
-      "source": "Google News - Chile",
-      "date": "2026-04-20",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVE3YjVCZkdJMUNmajc4WkRSWnRjUkF5OEFHN1FhVzRyQWdNSjJsU1ZPdUZOXy1DeXN0VG1QeEg2WGxwbzQyVW5kNjVzcnpmTVVIeExaS0RKVVJwTi1oeXJUaVpkV0lkVDc2RFUxUnNyX2MwbGlObW9xQlVLVUJTQzVxcXlUbm9OZUpVU3NWYVdzLWdhbWtqcmg2Njd0N25QVGExdzVzYmUzZlI4eXl2RktyX1hrZ2dsTlQ1WE53SQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "b3b4c724673bfca5a6d84f2c8936ce71",
-      "title": "Confirman primer caso de influenza aviar en ave silvestre en la región de Aysén - radio45sur.cl",
-      "source": "Google News - Chile",
-      "date": "2026-04-21",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORTZpVFZRNE1TSU5LazFaQTl3Sk1lOF9Wb0VUdXdwZzE2eWE5Q0JvNHZHbEVZRWhGZ1g5cGpZalBhMXczaVlFU3dWaE40U191UHpGcTlYd1paZmJxRjY5aU5mY0JVeF9NRkptTFhIbGcwSGs2eUxIanNCT2c3NnFjWUZUblNYRG9tWEpMcHA0X1hvbnNBclo4Q2JHaUlubjMycXJlbHVlU2V1Ny1FXzc0eWhWSQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "384a561e66d384cae39f7a43b9ff9526",
       "title": "Alerta sanitaria en Aysén: confirman primer caso de influenza aviar en un caiquén de Chile Chico - Puranoticia.cl",
       "source": "Google News - Chile",
@@ -803,18 +779,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdW5qWTNLRlA0bVVPdG5xNzVoSU0xXzRibGZHeHdJbnNwTmY5LU5CWEpMMElUREdJRjNKbEQ3TERLbW4yaE9UZDAxbW9Ca3JFbklHVlpRU3VDaF96bmdIWVVOZ29tMHY1WXpNcTRfcmVTOVVKZVFBSlpCTGpESENKeTVEVEM3MGxRaEZjM3FFNDc4Z3RiYzhWaENFRG1sZHJhWUFjNHpDeFJGWDBTQjFmdHY5c0pwb29aVU000gHAAUFVX3lxTFBmMnlfQ1BwQWVWSU83R3JSNXNmcl9iNUlvLVRTZFh2ckhEQWZ4ajN1ZjYzWVFPckoxX3hLYmJsSy1LRTFYT2F4aUJ6aWV2ZTd4UnhFekV5ckdVRVZxMGh2akIyVzkyc25GWnc1T3hNTlp3bjJBYUdJbGF6V1AwcHpFQloxWTFPZmFBQUE3Q1dnLW9IUmU1NXBXbGM3Q2hRSlh4UjgzMU1LbTBkUVFmMjdhS2FNSl83UlVsa2pQQzBLXw?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
-    },
-    {
-      "id": "84dd2aec4f16c907de0b4c964301ead9",
-      "title": "SAG confirma nuevo caso de influenza aviar en región del Maule y activa protocolos sanitarios para evitar su propagación - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-04-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTHVQU2l0ZVA3Yy1KVWVpczJWZ3pESW5xb2M3UzBYOTVnUkpGUkM2TUM3eVJPNVdUb2tmUk5DVi1WMjZyZHI5NS1odE5rY05zemxITC1jblV6VWZKZmNBVmZVd2ZDZ1VXQ2ZVYkJodEdGX041QmdtT3o1akpGQm1McTV2N2FTdmRTSEp4Rkl6UHhVbE9Oc3c1dDRHNXA2Nk1kUzNqQlN0Y2FyUVY4dFc0Z1huUllnbUhOWHRSTDBPUjRpZUo2MlpwYUxIN21jdFZzbFRSbHA3SkVNWkt3c3pzVjcxbFdWZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
     },
     {
       "id": "6f316091a2018bf175d0507d53bddeef",
@@ -1669,18 +1633,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "d2548ce468ef4c432c145987446bf1ec",
-      "title": "SAG confirma nuevo caso de influenza aviar en región del Maule y activa protocolos sanitarios para evitar su propagación - SAG GOB",
-      "source": "Google News - Chile",
-      "date": "2026-04-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTHVQU2l0ZVA3Yy1KVWVpczJWZ3pESW5xb2M3UzBYOTVnUkpGUkM2TUM3eVJPNVdUb2tmUk5DVi1WMjZyZHI5NS1odE5rY05zemxITC1jblV6VWZKZmNBVmZVd2ZDZ1VXQ2ZVYkJodEdGX041QmdtT3o1akpGQm1McTV2N2FTdmRTSEp4Rkl6UHhVbE9Oc3c1dDRHNXA2Nk1kUzNqQlN0Y2FyUVY4dFc0Z1huUllnbUhOWHRSTDBPUjRpZUo2MlpwYUxIN21jdFZzbFRSbHA3SkVNWkt3c3pzVjcxbFdWZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "a1cfefa67f725985374b82714f8c9e85",
       "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la región de Arica y Parinacota - Portal Agro Chile",
       "source": "Google News - Chile",
@@ -2241,18 +2193,6 @@
       "lat": -16.2902,
       "lng": -63.5887,
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3AzVjNwal93SE9hbFI0b0ttNi1TWTVRQl9YbHl0UzIzTDd0YWwyRTY1M1pDMkNDMnZQeVFGNG1xRFdYSjdKZTJ2dllka1JCN1BENnJvQm0zdUM4Ym5UU1JQWUc1V01DcVp5cG12VFpQUnlGenFhWHVEbE1nbjhKd3dzYnRVTGtYR1VjTWdQMExaQjZVTTdB?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "12278d8f61ef86db431d6b57f8596ba6",
-      "title": "confirma nuevo caso de influenza aviar en región del Maule y activa protocolos sanitarios para evitar su propagación | SAG - SAG GOB",
-      "source": "Google News - Chile",
-      "date": "2026-04-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTHVQU2l0ZVA3Yy1KVWVpczJWZ3pESW5xb2M3UzBYOTVnUkpGUkM2TUM3eVJPNVdUb2tmUk5DVi1WMjZyZHI5NS1odE5rY05zemxITC1jblV6VWZKZmNBVmZVd2ZDZ1VXQ2ZVYkJodEdGX041QmdtT3o1akpGQm1McTV2N2FTdmRTSEp4Rkl6UHhVbE9Oc3c1dDRHNXA2Nk1kUzNqQlN0Y2FyUVY4dFc0Z1huUllnbUhOWHRSTDBPUjRpZUo2MlpwYUxIN21jdFZzbFRSbHA3SkVNWkt3c3pzVjcxbFdWZw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -3599,7 +3539,67 @@
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWFpeHFvdmNCeDZ4RGlrMUIwX1ZBd3BYampQNThVNmlkNlhzTFF5SlR6UWRjemtpWUw0ZFpRZnRncThZZ1lJUUh1QW9HYnZMVjFQSTRpVGdwRFNQaGdEempVVnlTcU91X3FaMWoydk9PdmpYXzM3bUM4NENza3owRk4tNXpyRnFpSzEzc2s4al9jX2RDM2UxWTJWR2dCclFqUlhqaVpiV0c5YlZmTkJjazJSdXJQWkYwbm9leXVibktyOVJxbVFYRmQ1dnhNbms3aExJRWY3MnlBdFdrX2c?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "b0f28ece5f53f07a5305ffaf41b87e6a",
+      "title": "Monitoreo de Influenza Aviar en México con IA y Satélite - avinews.com",
+      "source": "Google News - México",
+      "date": "2026-06-30",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Sd05wVnlySE9vX3VoU0ZsOHRaejFtQWhXNkphcjhHV0JSWnhqdFJJYWlQcUtpZFpuVnJCVE9rbXl1QVd2YnFpTFNoS2k2Q1ktRDQwdUM0MGxqejVuOVp3b3cxLVRFeWM?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "04330779216bed57306016802e50e223",
+      "title": "Detectan dos casos de influenza aviar en zoológico de Chiapas - El Universal",
+      "source": "Google News - México",
+      "date": "2026-06-30",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOGcxbWswYS1hTG54UldEWklPVVlVYmdfWDZ1U3BjUFozZ0RSVExIVEhoRmZFTHZudGlWcDVuUUxRSFRXdThZSU53cTlfOHRSOGw1bkhWY1lfWHBlTjNPLWozZU5fZmxCbkdHcWNxMXlxRWQtTk53SDI3bGg5dUN5Q3NiTzNYZFVxSHFYOXVqOVpmaTVjZl83Sy1MRjlFQTJGamtyN2pScWJKSVhtU0lMd0NCR1BGSXJWSXN1WFY0SU11SGF6N2JreUFOeDlEZzFYR3NjTExwdVBpYXZvZ3fSAd4BQVVfeXFMTThnMW1rMGEtYUxueFJXRFpJT1VZVWJnX1g2dVNwY1BaM2dEUlRMSFRIaEZmRUx2bnRpVnA1blFMUUhUV3U4WUlOd3E5Xzh0UjhsNW5IVmNZX1hwZU4zTy1qM2VOX2ZsQm5HR3FjcTF5cUVkLU5Od0gyN2xoOXVDeUNzYk8zWGRVcUhxWDl1ajlaZmk1Y2ZfN0stTEY5RUEyRmprcjdqUnFiSklYbVNJTHdDQkdQRklyVklzdVhWNElNdUhhejdia3lBTng5RGcxWEdzY0xMcHVQaWF2b2d3?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "d6d5ba6f3d49e7241bf3c78041542593",
+      "title": "Influenza aviar H7 en la reserva del ZooMAT no representa riesgo para visitantes, aseguran especialistas - Aquinoticias.mx",
+      "source": "Google News - México",
+      "date": "2026-06-30",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNmxWNWs5SzhOaFhQM05TblM0aHRnai1RdXdlWEJVMjhRVWN6bGtnRXVGS0Jmc3JfdktXTkRQT2RRYXY5WE9aVEdERFNzdlpualgtLVBIZ05WUDJxNDEzQ2JXSmtTYk9OczhJMnk2OExqVnh6SzNMdWVrUFFaeVA2VWx3eTJqbkU2SEppLWREMlVjUmJsZ1cxT2FIS1FRcFVTTE9JbFB4UjRtTENZdUJ3NDRoQnFXSlBhS2ZJNEFOa0R1VmFCQ05v?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "3b8e43a2763a6b7a5c1f77b1903bfa39",
+      "title": "No habrá escasez ni alzas en carne de pollo y huevos por influenza aviar: Gobierno - LaPrensa.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-29",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0IzbzVTTXY4S1Q2enhScVdtU0NFSnFXVzNzbFJRYjhtQjh5VmdwSzlEdUxWRGRNa1RTaTd0bnZWRm9mT01tNkExREJmbEhYRWgwb3VzcjZwOW9IQms1WnVFZm5GREw2c0tYQk9pb2ViNVBza1pIdnoyaFFveG9tSFpMQi1odTFtUHlpRmNrcGtSbmpOcHJydVpHQk9vUmZkMmE4?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "a3320fc0367a1a7f0a1f069febd1f2fc",
+      "title": "Senasa vigila más de 500 granjas por riesgo de influenza aviar - LaPrensa.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-25",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDRsWlVtV2FvTGQ0dUtGTXRpZGdXTkxWSXR6OUJtX1hpRnVlZ1pTRDl3U240SVdKTnpPYjFZUjdiYzJmNTh3ZW53YWdhbnlBeEVQQ19DeVlfRE5ZNVBEa044Q0V5Y2NnNnl3ZnZFdkxQYWtUVVRWXzhGdzdxTkxqdjgzQ3BJU2F0TlFFTHdwSzVjVVNYV0N5Vkc5b21TNGlZb2Rn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-06-30 21:40 UTC"
+  "last_updated": "2026-07-01 04:06 UTC"
 }
