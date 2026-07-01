@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "e96d9aa7f28b20aea5a883d69bf94abb",
-      "title": "Influenza aviar: Chile confirma un nuevo caso de H5N1 en Aysén y refuerza la vigilancia sanitaria - Agritotal",
-      "source": "Google News - Chile",
-      "date": "2026-04-21",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTEk4UXppYU14Z0I1WFdMQWc1VEZzcXBaNDRwN2FUZm15aWVXS19YeTQ2c1dTbldqWlBtMmZybVl2c0luU3J3UUMwYk1zTExDcjRXUzRESTFIWVQxRTlvSk1vTXV6RGxHbFIwTk0xU1hwNHl5ME01M19maG44b0JPUmFIWnlkSXlYcktmd1FZREJqbVF6RTJyMGJfeGxmNHlqaVA1dm0zdWJPT3pVNXh3YXhHbm82X3VRc3dZNVhDZlo5WHJ4TjJhU0o0UG45Zw?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "76bf696fb3fdfedf5446ffb860a9246d",
-      "title": "México refuerza vigilancia por llegada de aves migratorias como medida ante virus de influenza aviar - MSN",
-      "source": "Google News - México",
-      "date": "2026-04-20",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQcUF0dnFHZzJ0V0s1WGpxME5rc0cwX0ZMZHh2N1pXWWl1SElBbWFaZExpX0p2TXFNLTRDTHVyTHFSU29MQzYtZnhwanBNNVQ4WnN0RG5IVzNDR0ZGdjJtZnZiT3p5OTROeTNieF80TzhqLXNvQmFETVpLUWFUd29ZeUF0aWxHeUxGaHhaRGFlNXl6LTBYWkszY0N1M0FyMGdYZlJYM2RidmwzVjhNWVFjQjRwRFhqbWlXOWRpVzRLQTV4OFlCSGRWN21ydF9GeXdfQ1pGWFJWUWllcXM3dXFSSUcxVDVxWFpmQVVSaXNjdnlCZ0psNG9QcG16U2V1T3pQX29Sc1FOYmw5c0duRFd0MUtXaVlxUjZVbURHdnplUlBscGlnMElJWmZWclVUMDFncDJlWGpONzFDMkFwdlhMVWZkc3h6UlBZcV9Kd3JCME9XbF9yYk9mYWo4U1RtSGpvOXZMVXJSRlJ3TFZGODBMeXJ3cF81OUh4TmdVMlAtb3V3TFBxMWc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "6c0e407abd0b1020efb9d4a1f960a132",
       "title": "SAG identificó primer caso de influenza aviar “altamente patógena” en ave silvestre en Aysén - CNN Chile",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMlJVbWNBamxvVXdJaFZVZjBGUFBvYzY5X2JFNDB3X1VUbHdkRnRiSlg1WUdqVjhiLW1mVmgtaEFZVUxNNW9QVS1Kalc1ejNURTFlX21UcThBMHdhUC1Ta2ZIV1BCeXhpU3ZGZTJ1UjZfel9jckhTYmo0QWw2cHBtdUlpNzgzOWN0N0xSZy1NWVc4TjMwVlJxYWxmeDk3WkVabUtFM1QtMkVyTmhDUGV1cjBGMmU2UDdGMTY3RGNyQVNITUp6a2l3RzBZcVpuR0VHUm1FM1dLT2xJUQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "e14851de409c49f54f217d84f6185eb4",
+      "title": "Levantan cuarentena por Influenza Aviar al plantel de aves más grande de La Araucanía - Araucanía Diario",
+      "source": "Google News - Chile",
+      "date": "2026-06-30",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWk83NXJBSXFQYlpCSFpET2I4RUpEU3dsbmNmN0Y3V0ZtUHRoeUJZWHptY29LbDB4MDdhdWJJMlh2VVNkMXVrcEs4R1p5Y2FSWnZMVkhXenlqVUROVTVZaFpISHp6dTItdkhhT1RNeTdpMkpzbko2WHljdFNWTjV4V3FkLW5GbDhCTk5YUllnU01fV3pMempobF9PNFYxczQtVm5UZzh6b1VEeWFXLUJWUU4xQTZ4ZkZt0gG4AUFVX3lxTE1aTzc1ckFJcVBiWkJIWkRPYjhFSkRTd2xuY2Y3RjdXRm1QdGh5QllYem1jb0tsMHgwN2F1YkkyWHZVU2QxdWtwSzhHWnljYVJadkxWSFd6eWpVRE5VNVloWkhIenp1Mi12SGFPVE15N2kySnNuSjZYeWN0U1ZONXhXcWQtbkZsOEJOTlhSWWdTTV9Xekx6amhsX080VjFzNC1WblRnOHpvVUR5YVctQlZRTjFBNnhmRm0?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "f838f2a80bf20d44a8ff67a48132d1a9",
+      "title": "México fortalece la vigilancia epidemiológica frente a la influenza aviar H5N1 - avinews.com",
+      "source": "Google News - México",
+      "date": "2026-06-03",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY2dvcEJ0a0xra0p1b0EwMWhQTzdRaEdqcExHUWtSZll0MlBJVHJxVUVTb2dJS0NCdGR0TkNfNDVKc2ZNOF9iMDlhN1hZYWV4RmNVMk5LNUo0dUR6NWZGUjF6VFctY2x3WUZrUE1UNEF2X2F2ajF3YkhRNkVzYUxVU2NvQzBKM3dBM00yOTVreEFtSHUwWkNta1R4TFJQa2ZxUGVJSlNR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-01 17:58 UTC"
+  "last_updated": "2026-07-01 21:39 UTC"
 }
