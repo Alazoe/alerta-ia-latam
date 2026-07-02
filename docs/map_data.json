@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "534258d63c346400e6106262847308af",
-      "title": "SAG aclara situación de exportaciones de productos avícolas a la República Popular China tras brote de influenza aviar en plantel comercial - G5noticias",
-      "source": "Google News - Chile",
-      "date": "2026-04-23",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOdFlxeGVvSzQxSEhaVnc5SXNoVEZRRngzUzNia18xakZzZlJkakc0alRmTWFGR1FCMHVHX1pVajkteHRmclBnTi1SYlotRzVmS20xSHRTa2puNDl3M1NwQU1ndi1ZQkN0M2R4Q1BWZTFRZUhjN3gxaE12cldWdnkwcmNfRmc4dkNBZ3VpUUZLRFdiT2d6cExEOXZIbml5eWVNdmpZSDhCMkh2Q3VrSUNSeUtSNEgwSVl2WVRlenpUMW1CelVMcU5GVDRYbVZhREtIOWRUSUR5X0ZsSTQ5QmdieE5uNTNRNVZMdEFReTl1d2RPRXpwQTZhdjdnSy1tM05CWHpv?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "9a6f1d59820857962e4353633bfaece4",
-      "title": "#Chile China Exportaciones Pollo Influenza Aviar - cronicadigital.cl",
-      "source": "Google News - Chile",
-      "date": "2026-04-24",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGxfQzlLWS1Tb3B6UFRNTXhsdEZCSEFHZ1JaeFI3ZEJPYlAydnM0b3ZyYjZISjlaR19zbFRCUEFlMUVxY1VINGhWWFJ4RXdPcmlfdmJLMjl1NGRZMWFsbUNWbm1yS25pVnRvX2dNUFFPbTNFeWp3NFM0SjhSWHU5TWhLMWQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "dc1e5ced7aaa2221e00ae8b1d1b80823",
-      "title": "Influenza aviar: SAG asegura que fue Chile el que suspendió los envíos avícolas a China - Diario Financiero",
-      "source": "Google News - Chile",
-      "date": "2026-04-23",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdm9HX1o4cHpEb0djNE84aTFEaWxVd0dHUjhaM3JaS0RyMkRGZElCbGd6MmdRMUtPdEF6QWd1aEhoY0Jta1hycEF3RVp0aGtwTHpDODhmRHotRHM5M0MwaF9kRVJFeDEtazg0NEh0cG5sX2hFMHJITE1TdVcxNmZlNDU5NHl2a3h2TnhFdU04ZnRKY3EzQlQ1R2xUa0RaYXdhdXdqTVN3M2JhS0xaMk1KZkREWXpMZ3ZMVm5j?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "249265a40a2831d03a05058a9ae2d64e",
       "title": "SAG aclara exportaciones a China tras brote de influenza aviar: Chile suspendió envíos - Radio Agricultura",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmpQcEx0cWtocTRiOXJZbTFORDlONWJqRlZKb2VUdGJhV3pTeW9FdGQyYklPU19QZ3lJWURoYlludjVLenducUVNaUhDTmxBb21ZZ3dtY1ZNQllRQ0x6bk81eGR1ZkJlbVZqTTdyS2JtbG5qTllncjZobTR3THFmdXBCeWZydDVRQWtkRTI3aWlRX1dsTm5rVHBaRy1kazc3YkpoLXZB?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "fe16ce39dd9cdda1e8cba9222390f052",
+      "title": "Argentina refuerza su patrimonio sanitario avícola y recupera impulso exportador tras superar la influenza aviar - Agroempresario",
+      "source": "Google News - Argentina",
+      "date": "2026-07-02",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQa2RFZTA4ZXU2UlhjeG9kcnF0eklGdklDREFDT25keVE1b200MmF0UFhGTVY3blJyZXhyWDBGaWk3RC1naHRUTUlWZm9ma0RneGt1LXlXMDQ4N2t3dXJlN0xfV1JPcWVma09hMVNNWWsySUREMDhrNDI5bEVtcl9JVm1ZdDF1ZkJPSktpQXdKNzVsQTBUamtxRUlvV1l2N0wtV2lLN3hKZThTM1I1dEtLRjNFU2ZFcmQyUUt2d2NCX3o5aXhVQndINFhpbXBUVTYxbjRGSklhSm13dHQ0TmVsaUFaWFliV3piMWZnVHBXbFNaTTl6eWxB?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "f843dd740237181ac2ee34ffe48d2d65",
+      "title": "Bolivia abre exportación de pollo tras declararse libre de IAAP - elmundo.com.bo",
+      "source": "Google News - Bolivia",
+      "date": "2026-06-12",
+      "country": "Bolivia",
+      "lat": -16.2902,
+      "lng": -63.5887,
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTEZmUndWUTIzcHRKbGk2c3VJTy1MRGx3dFRrdFhOcWtsM3NTbVJZUzBndldjbjhZLW80SG1GZmpUOXVWQTh5WVdlaXlCYXBSNHRzNHJPRlM3QnoxdTVubTJvVDBJd3pYSVBibnFGZm9mX2xfWjdLYmdxaDdCc2M3ODZMaklqRmxENmZpeHFNTDE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "1c8805b5ec49e6e8323cea9887493f29",
+      "title": "Activan alerta en ZooMAT Chiapas por casos de influenza aviar - eltiempomx.com",
+      "source": "Google News - México",
+      "date": "2026-07-02",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDZ4YnlzdEZ2SzdXamVLZV9ib2pubzZRRVNYX20tWXBCSTlvT3FiQjdkLVF0U0VIN3FuYlhaV2VDLTlnV1pvRFFac081b2ZaSFFrcTFVRDlMUnB1endaNVdENVZtcWhNMlBNQUtDazBGVkdYSnAtRnRnMDBiWmViNzRWdUdySUhOMkJWMjhPS2lpelRLQlBuQUxDVGw3aDFyVUtjYtIBmAFBVV95cUxNazl6QkFEUE1NdVR4amZWWFBzWDNQTlk4d01CWlhQUVZRU2VzekYxR0kxWjNFSHE1d2FEVGN5Q2RQV21nMGYtZERTY0hJUXMtY1VsaHgzSXduNUpmbFpoVDBOSmtVQmx2eEt4WHd2YW9EcnJMTHJUckJxNUUzYWxrTk1iSy1Ya18xUm4yOWJjYWJtbjlmZ0pyUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-02 17:50 UTC"
+  "last_updated": "2026-07-02 21:10 UTC"
 }
