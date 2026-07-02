@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "c2d12c3109d5e4ee88bbe94de1e9c985",
-      "title": "Brote de influenza aviar: SAG aclara suspensión de exportaciones a China y descarta aviso de destrucción de productos - La Tercera",
-      "source": "Google News - Chile",
-      "date": "2026-04-23",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQd1lxbFRObFZTamM5UGVQcUZnMS1DOFQ1ckhCM1h5LWlaY2hkNl96QUF1U09QWEpLUFdDX0lNeVpFRlpqWXFzMXRfY245SHA3NHVnel9nOE5CSnMzQXhhWVVSOTJXMmctaFpDS3BXUGJkdEtDSDVUc0JSNldzQ01NaVdtQkRSUURoTDBMaF9DRWhEc2FmWTk0MThQSi1nWHpTWjFnc2NfR25YX3JnLTVIVklRRFA0V1JJYndRU0FLX3VYdnNFbVFpaGFpU0pja1U2bVptR0UtOG9vWmJ0RGNCcTdFbzVLNW50SkNueVctdV9SZ9IBkwJBVV95cUxObVM4SUpHck5PdWRDa1phYWR1NEV6RlNwSTFPaVdCYjluWUc4R0FqUWFuVDdRaGtPTmtHcjU2cDVmeEUxeGVpaHdxbUtxSkFndjJPeVNFZ0tWSFBVTklCVzI1Tm5xQkJwNkxfNUMwSVRkVEhNdU9Xd3RzUjNmc0xMNVE0SXNQNW1xX29zd21LY2RJdzFJUUxGMHZqTHpwQzI4TUQxLS00NDNuTnNjU0VuNHFmejA0Uy1MeDVtYmNJbTRmLXg1c1ZOR1o3d2tTUmsxcGRKY3RjLUlWRThCcmY4alROZUdBNkhUaUg3eVZDWjhvUUZNNU9mTUJOMDBCeUlBckNkZDc3cEJsVTdXckNGaGdwVQ?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "534258d63c346400e6106262847308af",
       "title": "SAG aclara situación de exportaciones de productos avícolas a la República Popular China tras brote de influenza aviar en plantel comercial - G5noticias",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1NnOC1paXZZOFZiZlhhWWxRcWxramJFREJwWnhZTFF1RTdZX2lmeUI3UGdRV0xHN29XZUEwZy1PUEpiMU5XNGczZTlpdW55dFd4WGd2QXRjaUpJV0F6ajBSRnZGY2FXUkV2eFlTdlJNOGwwTDhfOEJZeUZ2T3RZeER1LVREc2d2NjJTOV9uUVhlZk1mYnBBVERYeHZPa094?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d3721db882474208186f2bb04349f681",
+      "title": "Alerta en Chiapas: Detectan casos de influenza aviar en el ZooMAT - Diario De México",
+      "source": "Google News - México",
+      "date": "2026-07-02",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmpQcEx0cWtocTRiOXJZbTFORDlONWJqRlZKb2VUdGJhV3pTeW9FdGQyYklPU19QZ3lJWURoYlludjVLenducUVNaUhDTmxBb21ZZ3dtY1ZNQllRQ0x6bk81eGR1ZkJlbVZqTTdyS2JtbG5qTllncjZobTR3THFmdXBCeWZydDVRQWtkRTI3aWlRX1dsTm5rVHBaRy1kazc3YkpoLXZB?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-02 14:06 UTC"
+  "last_updated": "2026-07-02 17:50 UTC"
 }
