@@ -1,54 +1,6 @@
 {
   "alerts": [
     {
-      "id": "6c0e407abd0b1020efb9d4a1f960a132",
-      "title": "SAG identificó primer caso de influenza aviar “altamente patógena” en ave silvestre en Aysén - CNN Chile",
-      "source": "Google News - Chile",
-      "date": "2026-04-22",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZFJWVUlaSVprbjlYc0R3dDU5LVdoM3Y4Z0w3N1NLNXJ0UHlTUFY4elpYNWNEOGVRcjZGWFBDUkdiOVVodnVCOE9yTURxcVRTQ1NjWUVpMEpSQXhnbnVXSm0wU3FGNy1zYzA3UFVramI0Y2h4bWdYdkR1a3NlRnFwTmFCMzlSSVdlUTZMTmN0RDhJOEdNLV9jUUlVUTltdTFlbWIyZldwZHRoM3ZiaVEwSU9VRmhFaHBIREFodHdlNmpKRFJBM2c?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "872cadf05aa183e84548e29e37c43a1e",
-      "title": "SAG confirma caso de Influenza Aviar H5N1 en aves silvestres de la región de Los Ríos - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-04-10",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPczlaT0RDNC1vZGZ1X2dFTHlWRkJUREQtc3ZZMm5lR1VyOTVQRmJBY21PTTVMZDJLQnpwUHBoekRTME9OZ2t5UkJfeV9BcVNtLUxVWHhmTzlPc3FudzdoY19LQlRueWJockwtWGctYkx5R0Q0UjRlcGJhNHJoNGpleXFVYV9UaC1GaWlVTVVNNXdJeWcwUVp2bWpXMVJTVVJzVlZMWDRLV0RjUGtxTTR5X0UxWDY3Q28?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "ff2f5db4169b340c056ccfa34bc9439b",
-      "title": "México refuerza vigilancia por llegada de aves migratorias como medida ante virus de influenza aviar - MSN",
-      "source": "Google News - México",
-      "date": "2026-04-20",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxNeWNyVmVXX1IwblllSk01OXpPU2VOb1ZMTnNvdzAxemVuNHVUZjRueFRaQkUxbHRkUGlzUFFXN2xNN1RHMlNaVUg1am1lOWZSVzRBT1IxdmNlT2FBQTFDYmRLVmM4TDJsNDlkY2dWa3laeXZ0QnpaTXJJVGxQemN2NkpoOWw5VV9saDJVY1BHSkJ2b0R6SnBPeXpPT2NkcXo4ODlxWWNxMUwxNkthYzBmNHlhNWhFbnZnLVhLYXlvMEc4TURxOHVKTU1saEFEcU51RWZ5Y0ZZOFgtR0M0RUZBYU1wVVhabDhOTnVHcjh2TElwZUQ5WXVpaGNzZzYySk9aMHRiZHVxVWY2Y0pwQjNXMW5MREFwckdoSVRhYjN4Z2ZNZjhtUUhNa2M3Y0ZhTEplOWNhXzNjS1I3NkxBMWNhNWFtSFdzb29ud3U0NnhQVEg0eTY1ZjBCVzc5U3VKeXE1elMwZ0JpTjdteWNRamItMzFkNlZGdUloX2JPRmsyNGtuaHBM?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "706511b07a6cb57f1cb1f247285908c5",
-      "title": "Alerta sanitaria en Aysén: confirman primer caso de influenza aviar en un caiquén de Chile Chico - Puranoticia",
-      "source": "Google News - Chile",
-      "date": "2026-04-21",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVVRsYkhTVXlVY2tfTUhMd2Y5NXZoTUFiaTBVNDFvZTFIbmlnWEk3dlN2NElDRDBVdUFZM1AxbkIybDl2MS14dzJJNy1LLXllU2JPSFRJdEhxZTdoblIyM2kwTkxZcGtmQmo3d1VxUWd2NktBdVU3NHRKVDRKZjhDY2o3R25QaUtPQkRzT203Z0NNZ05UeWVleGx3aE90ZWd6NGQxRWFLcG1wOUFf?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "92704c6eb9c380c1c1d1a052526f1dbf",
       "title": "Golpe por gripe aviar: China prohíbe importación de aves de corral de Chile y productos derivados - BioBioChile",
       "source": "Google News - Chile",
@@ -3599,7 +3551,55 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY2dvcEJ0a0xra0p1b0EwMWhQTzdRaEdqcExHUWtSZll0MlBJVHJxVUVTb2dJS0NCdGR0TkNfNDVKc2ZNOF9iMDlhN1hZYWV4RmNVMk5LNUo0dUR6NWZGUjF6VFctY2x3WUZrUE1UNEF2X2F2ajF3YkhRNkVzYUxVU2NvQzBKM3dBM00yOTVreEFtSHUwWkNta1R4TFJQa2ZxUGVJSlNR?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "e17f77772accac4b773b966f8fc095d9",
+      "title": "Chile se autodeclara país libre de influenza aviar altamente patógena en aves de corral - Trade-news.cl",
+      "source": "Google News - Chile",
+      "date": "2026-06-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdU02R0NpYThBeUVEWUpHdlM2WDM0aUtfLThvYkp4dFp1UXJRRHNFd2JJeVRfTjRwOUoxSC1OUldja2hrNjZnR3BDOHg4LXZWY3ZiY1dTMjJKSkhzMkVvTW5FOGlqaDdndHhkYkVuWTFjZ1VKd1VhM19jMWhDbHlNbml4MGd4Q3NlcXQwLW9jZXhWUDh3SjhwWVg2V0Qxa040aU1IeXpPQ3RQRGp2QV9r?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "595d3674664d835bdfb61dc0c43240f1",
+      "title": "Brasil refuerza la vigilancia sanitaria para prevenir el ingreso de la influenza aviar altamente patógena - avinews.com",
+      "source": "Google News - Brasil",
+      "date": "2026-06-02",
+      "country": "Brasil",
+      "lat": -14.235,
+      "lng": -51.9253,
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaWRTZFNNNnJ1b1pFUTVWUVpOTmNReXM4VzlzeFV3alpmS250LXlhRWFEOFpQdGlnOWY0NzdySjRFd0trZWdsTjNnbzQ1NlNEQXdDeTA2ajJldUk1R182eWNNdDh1c3NRUUt4eGFjdkhHSVE0UlFkc1NpYkJoTzVBNEdKT1daOHRmRTI5bHpkTkVkNWpoai1QTFcydXZsQmpUTkc3T0N2S1pxSkE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "cd2a94fb67594687d25e26b44b1736ad",
+      "title": "Detectan dos casos de influenza aviar en zoológico de Chiapas - Noticias - Almomento",
+      "source": "Google News - México",
+      "date": "2026-07-01",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQM2YxQk40WDNxRlFxOUZSeWV5dHg4TWRCV2FNcXlFRWNtbEFXQVV5Mm5GYWloTlUtVm1mczZVR2ZOUUU2UVVfRHktUW4yNndrY2JNTHloZW92UThRUm41VnBoZFQzU1VEaVhxYU90ZS1NWXc3NDgzVVlST3dRNElNazBlTk5HQkVjQjFV?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "30916725fcdc9e4c683b64655ad5f0d4",
+      "title": "Influenza aviar en la interfaz entre humanos y animales - Gob MX",
+      "source": "Google News - México",
+      "date": "2026-06-08",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcDV3ajNDTGliaW1RcTI3X3ZBRS14YkhNTEdQTDBweDU4OU9STWFKR1B6V1ZneHp0VGJjckhzeE9BR243SkxobzhlNGtOUDNKa2FkMTBVdnNLbnktcnRDWFp2XzFnRVVtV0FseXRWcVBGdUFGa0F1MDM5VmJqZ3NxV3JNUm0zclBrM0RrT2NpQ1ZnQQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-01 21:39 UTC"
+  "last_updated": "2026-07-02 03:47 UTC"
 }
