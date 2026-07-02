@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "92704c6eb9c380c1c1d1a052526f1dbf",
-      "title": "Golpe por gripe aviar: China prohíbe importación de aves de corral de Chile y productos derivados - BioBioChile",
-      "source": "Google News - Chile",
-      "date": "2026-04-23",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOU0hZRUQ0SzdIeF85VmdYYzROTXlHS0NhNzM2U0hEcVEwYjRTNDlLZzFYVDBOMjRPSi1Pc1NFbFByNmIwU0xtOUhUcWpfOXJEU1p2WDYwNm9NWURXMWwxeWUtX0RkbGhldzRIZFJtZDJlSGxacVc0MnpxWFZPNzBEdTRRczlkV1NpUDVUMnFkSjM1cTZYMm10clhoTGNyVVVXSDJSWjZqWVhGNktOTUxoWU0zYlFDcHdBVGtTZmo4VkhhdW5sMjd6YXNJWENzWnVvM2hBYjZiUWdtN0VmaDRyWE40elpuYXVNQzFQQWtYc2lrOGxGN1NnQ25Od0NkVTJZUUlvNWhucGptSms?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "c2d12c3109d5e4ee88bbe94de1e9c985",
       "title": "Brote de influenza aviar: SAG aclara suspensión de exportaciones a China y descarta aviso de destrucción de productos - La Tercera",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcDV3ajNDTGliaW1RcTI3X3ZBRS14YkhNTEdQTDBweDU4OU9STWFKR1B6V1ZneHp0VGJjckhzeE9BR243SkxobzhlNGtOUDNKa2FkMTBVdnNLbnktcnRDWFp2XzFnRVVtV0FseXRWcVBGdUFGa0F1MDM5VmJqZ3NxV3JNUm0zclBrM0RrT2NpQ1ZnQQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "cbfe6ba30240b133b060bff40da4dbc8",
+      "title": "Alerta en Chiapas: Detectan casos de influenza aviar en el ZooMAT - Diario De México",
+      "source": "Google News - México",
+      "date": "2026-07-02",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1NnOC1paXZZOFZiZlhhWWxRcWxramJFREJwWnhZTFF1RTdZX2lmeUI3UGdRV0xHN29XZUEwZy1PUEpiMU5XNGczZTlpdW55dFd4WGd2QXRjaUpJV0F6ajBSRnZGY2FXUkV2eFlTdlJNOGwwTDhfOEJZeUZ2T3RZeER1LVREc2d2NjJTOV9uUVhlZk1mYnBBVERYeHZPa094?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-02 10:42 UTC"
+  "last_updated": "2026-07-02 14:06 UTC"
 }
