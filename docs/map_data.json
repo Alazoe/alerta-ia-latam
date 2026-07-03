@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "6e6784db97a78382bcf971245e7ad6fd",
-      "title": "Campaña de prevención y control frente a los riesgos por influenza aviar - gob.pe",
-      "source": "Google News - Perú",
-      "date": "2026-04-24",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMlA1a280NkMybUgwa2NJRVBLTVJJV3NSVVJfT1luZHF0eHhaekNWRlBLUVVmOFc3am50TzdYTW1uN3RoYlloVHNUc1ZkYzR4QXh5S2xCeFJsWDgycm82SE1oY1hKNFVPUDFCaHhnT2FVSjRZRER4ekJEbHVCY0h4Smd2Y0w5RFVyc1JlZEhtbXBsQmVTaWw1andUeXp3MklVWHhuLXVITmgzNG96MjhLdGxkdHBPR0hWOGxWYk53?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "c420d775fcece15968719713a9f1bb73",
       "title": "SAG aclara situación de exportaciones de productos avícolas a China tras brote de influenza aviar - Trade-news.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbE9JbUlydmFTS3RUSDg1MFJoMTFqdld6TUhid1d2NUFHYk13SEhacGNUZjBsOUVOWTlYZl8yaDF5TENrV3lkeUJEeS1oNk55N0U2TTU1V1ozZEp3U1B3NERDbEhIWUViUnB2TC1weFp6QVRPbUp2ekNmTTQ3VzhYd1ZuR19aMUdVRFZXbTFCV0k3TGtBR05jVFVQR3J6dklRWVo3X3pLbDNlYmZjcHV3?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "a557bd2814d26fddeffd3e9c1b354e93",
+      "title": "El ICA controla brote de influenza aviar en el municipio de Puerto Carreño, Vichada - ica.gov.co",
+      "source": "Google News - Colombia",
+      "date": "2026-07-03",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9xT3BYV1prMkpxNGpFOTNsR0NYZ05XcmZPUG55b2RTaUxyNzROQkF0Y0pvSHZfN2RFS0dEYWNyUGRjVkJIcWtVekJva2htNXFxV2VHTGJZbng1MEVOUmJZdGIySkQ4SC1CcE4tM2dpMGJLZWhyWW9YLW5iR2VrUQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-07-03 14:10 UTC"
+  "last_updated": "2026-07-03 17:27 UTC"
 }
