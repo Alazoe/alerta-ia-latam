@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "249265a40a2831d03a05058a9ae2d64e",
-      "title": "SAG aclara exportaciones a China tras brote de influenza aviar: Chile suspendió envíos - Radio Agricultura",
-      "source": "Google News - Chile",
-      "date": "2026-04-24",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOFVTRks0Rk4wY2ZZYWZTUnVhWDBGZnB5X0x1MFVpcHRoYjdOSVBNZVhNZ1RBRkJDWnRiR0dLbG9hZGxmV1cwOFpTQmlfeW4xa0g3bjdBUm03cjc3TzRjNldQYmg1RERQdGFCWWFacG1haXJZMDhpR3o1V3Yya0ttSVQyX0Yxb1J3NTBaRzJKdW9KbEV2UDh3LXNGQjJvTGdyekQ0cjFpM2lDZzJFOFpSUTB3cWpqRWlyRkZud21iMC1RdGJpb3ZGYnQ5MUhHZFlFTktRVUF6S0F2YlJrbUE?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "6a046b1bed9ac5bbcb56effd4d430328",
-      "title": "Brote de influenza aviar: SAG aclara suspensión de exportaciones a China y descarta aviso de destrucción de productos - MSN",
-      "source": "Google News - Chile",
-      "date": "2026-04-24",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQUUNIbElORUxkV0Y4c2pTWE1oUzU4MzllbXoxR2QxYUN6M3hyRGw0NzZqdUZONjVfd0pOMV8zYXJFODg3cTVQVlhGeGNNYWtIclhERGRmV1N0LTRuTXE4NHJudEZBUUdpcTNRd05OUWdWNzBkQnEzUHJ5TlVlX0RUMkFKZzhQYk9QNlJfR0lGNEs0ZnZuc1pYa3dELURCdXgzNUlMbEROaFl0NVpKWGpTVVNaVG5zdlJyd2x2b01Jd0Z6V2lOWGMteng1NGJibEhTTzdnRjVyTDlGbTUtQkFBMWpQaUxIbmlMbFhFdUlvamxwUFhsclZzaDctdURlN0dxTGIwakxFTy1HdEotNEFjM3h0VEpWci1ZR2pEd1ZoX2stSURSS2Z0ZTZIaExVVUEzRWxNbENPaDBGeWtGMDZmTG9fWGsteHdGT1hpMA?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "6e6784db97a78382bcf971245e7ad6fd",
       "title": "Campaña de prevención y control frente a los riesgos por influenza aviar - gob.pe",
       "source": "Google News - Perú",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZDZ4YnlzdEZ2SzdXamVLZV9ib2pubzZRRVNYX20tWXBCSTlvT3FiQjdkLVF0U0VIN3FuYlhaV2VDLTlnV1pvRFFac081b2ZaSFFrcTFVRDlMUnB1endaNVdENVZtcWhNMlBNQUtDazBGVkdYSnAtRnRnMDBiWmViNzRWdUdySUhOMkJWMjhPS2lpelRLQlBuQUxDVGw3aDFyVUtjYtIBmAFBVV95cUxNazl6QkFEUE1NdVR4amZWWFBzWDNQTlk4d01CWlhQUVZRU2VzekYxR0kxWjNFSHE1d2FEVGN5Q2RQV21nMGYtZERTY0hJUXMtY1VsaHgzSXduNUpmbFpoVDBOSmtVQmx2eEt4WHd2YW9EcnJMTHJUckJxNUUzYWxrTk1iSy1Ya18xUm4yOWJjYWJtbjlmZ0pyUQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "66500bd3e4e93ae4a0d7e35d95eea019",
+      "title": "Detectan virus de influenza aviar en zoológico de Chiapas - eltiempomx.com",
+      "source": "Google News - México",
+      "date": "2026-07-02",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVEFkUWx1eGlyU2NWZVpjQmdqSkNkVFR1MmtfSFRWdGJtWnljVEhCa296UHlkZF84akZxY0JCUEZ3ZTZlWXZFX3hBQ0Q4bURaVHJmeEk2cGVPdS1fRWhPdi11Q2hjNGd3QUtid1dYYUlUaC1EVmtWeVU2d2RaQ2YzSVdBVzFGSnc3RHdWMFAyLV82d0FtX212SXNDLTA3RzDSAZMBQVVfeXFMTmpwb1BDT0xoNXZGZ1BEeGVOZ0xSUkhCWjlWSHhNTmdLdVhPWks3Q05Zemx0VXJMcW1NRVRSZk1wQ3hKSXFCZFQ0eG9pd3JPUEE1YVhRVnNDZ1Z3aVpaZ2hMTjFIY2RBRUR1Q0NUOER6X1kwdGtBZlQwdnRNN0lzNzNGa09DenNKVkpaNEJPaWUxMFgw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "9d00573f4f3ccdec2c5d6401dd12fcc1",
+      "title": "Panamá refuerza vigilancia ante casos de influenza aviar detectados en Centroamérica - tvn-2.com",
+      "source": "Google News - Panamá",
+      "date": "2026-06-28",
+      "country": "Panamá",
+      "lat": 8.538,
+      "lng": -80.7821,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbE9JbUlydmFTS3RUSDg1MFJoMTFqdld6TUhid1d2NUFHYk13SEhacGNUZjBsOUVOWTlYZl8yaDF5TENrV3lkeUJEeS1oNk55N0U2TTU1V1ozZEp3U1B3NERDbEhIWUViUnB2TC1weFp6QVRPbUp2ekNmTTQ3VzhYd1ZuR19aMUdVRFZXbTFCV0k3TGtBR05jVFVQR3J6dklRWVo3X3pLbDNlYmZjcHV3?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-07-02 21:10 UTC"
+  "last_updated": "2026-07-03 03:28 UTC"
 }
