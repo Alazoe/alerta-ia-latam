@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "6ac9f2c183adcf08ce8e0a95d0af3ad9",
-      "title": "Argentina vuelve a ser país libre de influenza aviar - vetmarketportal.com.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-04-27",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU1JJVndLTXhUV01TYXZaVEtKNGJ6R0lDYURubmxaVmRVMEdHRjRwRGt4RWtmUW5xVUh4LU5BV2xsbE5qbWctU0hkSGVBRmlndnhJYUVZNHE0d3VjZWtpeGxHZkg4eG4tLXVOcjFwck4xN2ZubktBdFBLRnNQbkFrNmszNkJKazVNeWF3dEQwbTVSR3U5VlVySUNn?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "769f19707f0b0fa2d8a48dd245570791",
       "title": "Argentina recuperó el estatus por influenza aviar y reactiva negocio millonario - iProfesional",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTktnNHRmYllDWFpYMExDX1IxRG4ta1RhT3h2SnNrcm1nTTkzNzhnUkt5bnI1NFptNEJSRmNMLVk3X1BOSDNDWm5MR1lZUDVoNEVIX0FMemxaV3NNLVV2UmNmaWVYN3Zfc2RhM3I1NlFSMlhkbWlKMkFNYjhqSGttWmpudTBBb0RabVdaVVBYc3ZsR1RXd3hyMy1kcUlDUVNZMUJsbDV1QXhLQTN2WG5TY3dwSVhTdTRGSUZaRThndWl6TVMzQU02a2FIN3RqcnY2VnNXTkd5UzPSAd4BQVVfeXFMTVRCZTUySnJ0OEttdW9wUkVfQ0hIaklTRDdQU2lVSHRzNWVWcVhBdnBPNENmUFlTSE1nNHhaYTlLa3NWU0VTaVptdGs3eF9MWHF5WkprbFY5RGR0dUNwUFh5VXdLempNODF3SXA1SXZLY3RWT0tZbDlNTm9IWndabEhSTmxpb1dIZDNkbVdIZ1hvV0lMdm5BbHNRVG9mek1yNDhLbHE1V3NHbU1CWEthTkNwZE5UdkNnTlhwUmstUWJtT3VXZFpyeWt0YWFranhKdUw3SWZYczdiQjV5S0Rn?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "5cb508e652fb1b206b031d55bf7c35d1",
+      "title": "Argentina recuperó el estatus libre de influenza aviar y ya exporta a más de 75 países: cómo lo logró el SENASA - Ruralnet",
+      "source": "Google News - Argentina",
+      "date": "2026-07-04",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUzNpUlVDb180U0xsczRpQktNZ2N6cVp0RGNNUUNTaWFlaklCNXBRcnhHMFJIc25FSDQwYS02MTFaSXB5RGRfSV9Gd3VrZGNYV3dXQm9RX3pkUG05aE0yVmtwZFdfeGNNOXh0RU5aTlNHdHBNY3V6WjlFSGFzUDA1dlYxcjdaUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-04 17:08 UTC"
+  "last_updated": "2026-07-04 20:59 UTC"
 }
