@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "18159ae183eb91555bf9fe097f448756",
-      "title": "Confirman otro caso de influenza aviar H5N1 en Chile y refuerzan controles sanitarios en el sur - Revista Chacra",
-      "source": "Google News - Chile",
-      "date": "2026-04-27",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMlowZGhvWl9YSGlkVVhqeHREZGFOd0RablFJTVktYmQtcGJpVHQ3WHowdVNPMV94eE0zMU5jM2d5ZGY4bU54d0pEcll3Qm1hRzhVRHBZRUxZN0I3R3lpSUx4ZEtXMHdfaG0xeS1MTkNXWXFWdll0eVNsOFA2T19JTVFweVB1a24zeVBtS0h3TWZ3MG0zNTIybElHUi1xYl9CREtGNlBDZlJjek9zRDVtcmFvVHVKY3FFcmxhY0cxeWVCbGNpRU9YRWxtVFItZHJQRk9uQ2VZTTdCZkdQYWfSAdYBQVVfeXFMT1JwNmxic1BkbHlwdTZDaUZPYUlpRWpablVLMjBJeGN6T2t5SHRTX3pTeDY3aGc1VE1jSDZhbDVYak8tVldrUkdHNWI2Ukd0eTJBNmhiZ1BjX1lwT3JvZzEzRC1sVHFkOS11SEcwMkdTbXZMc1NXcTJpaDc3dWVOTEpQOUNlMVNiRkpuZUhSR3JqOU1xbW5GTDY2MFB5RWxLNTJKVlBuQXZuc2F4NnJrb0d4enVrMlhycU5obG9rRWxaeERDeVh1MFhwMmJpNkJvOS0xbm1zdw?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "6ac9f2c183adcf08ce8e0a95d0af3ad9",
       "title": "Argentina vuelve a ser país libre de influenza aviar - vetmarketportal.com.ar",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0NXVWNSMklnMmVuQzl1WHhQTWlTTHMwTDAydkJnSnJqZmliTUpGb2J3YXBWWV9heElVUlVJZXktR0RpN091X1o5RHlkTVJNTktFLUJua0RNVWRESW5WTTVrUERmMWw0dS10aWxaRTlnQkc0eTJFY1Y3cFFzSjQ0TkNWZFBJRldDQ0JYNTFneUdWd01laEh2WWlGaTdUTjRmRlNSWF9MQUZOWkNsbXpOcg?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "f4635a7819cd51ba3ed885c67e0d36a4",
+      "title": "SAG confirma primer caso de influenza aviar en plantel comercial de La Araucanía - Meganoticias",
+      "source": "Google News - Venezuela",
+      "date": "2026-04-17",
+      "country": "Venezuela",
+      "lat": 6.4238,
+      "lng": -66.5897,
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTktnNHRmYllDWFpYMExDX1IxRG4ta1RhT3h2SnNrcm1nTTkzNzhnUkt5bnI1NFptNEJSRmNMLVk3X1BOSDNDWm5MR1lZUDVoNEVIX0FMemxaV3NNLVV2UmNmaWVYN3Zfc2RhM3I1NlFSMlhkbWlKMkFNYjhqSGttWmpudTBBb0RabVdaVVBYc3ZsR1RXd3hyMy1kcUlDUVNZMUJsbDV1QXhLQTN2WG5TY3dwSVhTdTRGSUZaRThndWl6TVMzQU02a2FIN3RqcnY2VnNXTkd5UzPSAd4BQVVfeXFMTVRCZTUySnJ0OEttdW9wUkVfQ0hIaklTRDdQU2lVSHRzNWVWcVhBdnBPNENmUFlTSE1nNHhaYTlLa3NWU0VTaVptdGs3eF9MWHF5WkprbFY5RGR0dUNwUFh5VXdLempNODF3SXA1SXZLY3RWT0tZbDlNTm9IWndabEhSTmxpb1dIZDNkbVdIZ1hvV0lMdm5BbHNRVG9mek1yNDhLbHE1V3NHbU1CWEthTkNwZE5UdkNnTlhwUmstUWJtT3VXZFpyeWt0YWFranhKdUw3SWZYczdiQjV5S0Rn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-04 10:12 UTC"
+  "last_updated": "2026-07-04 13:37 UTC"
 }
