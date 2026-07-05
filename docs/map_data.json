@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "f98b1d402e0db3629cc6d4cff1d3af16",
-      "title": "Argentina recupera el estatus libre de influenza aviar y reabre el frente comercial - TN",
-      "source": "Google News - Argentina",
-      "date": "2026-04-27",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNGowRWozQ2djZUdET0pPQ3J5WGVUeXlTNnFSYmxZTVlGa01zbzRfQi1nSmxGOFJqLVVCeG0yS2dHbFFxZjdwTEZKUEtfV1F2aUo2MHM5SnN3YjMyelhpZ1g3OHZSM2lxM2M1Q0dKd2wwYVV0d0FpUkpfa1Ayam0tNERSVDQ0Z2F0ak12d1VUemRsSHRlWV9OZDNuVGRRY2JqZ3dPUUgzMTlCZUp2QUstblBJd0xKekFJWno2ZmJhdlZQb3VJ0gHYAUFVX3lxTE1uYjhsVi1zaFI2cm1kazBIWm1iY0JJajNlTF9uVkhURFBoVkpfM2Q3R2IxWFhsQXdfUkNFdkg5UjJfdjFxR1d6TmJ2MU5JWjF2Y0JXMlhUbXVTbnVVZ2JtTEZNQ0pyZzZ4M3JtZXUxUjh3aEpWVUpEcnhKWG1HRnN3RWczUFNFUmFrVGx1VUJadFphWEk5LXVhR2xPdXpWbDJNV05KUUZ4ZVR0TjFfWXFGeEwtbTY1WmRkN0gzdE11Ukhsc0l2T2YwTmxJSkVmbHVwNVJqVHpnVQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "f1c72aed500e63d7a274cef7c3be75d2",
       "title": "Argentina recuperó el estatus de país libre de influenza aviar - » Cholila Online",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE91MXhQRll4d09yYXZZeklFN18xMUlrS1RrTU44b1BFQjZ1TTdoNEVqd0xwV1lOZ0VpTk83b2VZT2JsSzJUVG91MnJMeGpmLTNjMm5TZjVSMnptUkRDUkwzTXpyX0RpOWMyTUtudVR6RmtVX2xC?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "bde76cda69f96844c1fd34e5a557875b",
+      "title": "Argentina refuerza su patrimonio sanitario avícola y recupera impulso exportador tras superar la influenza aviar - Agroempresario",
+      "source": "Google News - Argentina",
+      "date": "2026-07-02",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWEFDSFdJaC1VeTNpZ0R6cGZvNm9xWmZNMjV0QXZpanFsVnc2eVpwa0hJWnM1bTg3R2xlVFVJZWJlRlI2VFpEelp0SUN2cVNQbTBtWF8zci0tUms0dXRhY2pFRjZIaEIwd1RjUW1kSEdidm9ib1VLT0NNU3hWMmRZd2tuQjhFanBnZkIwN2pyYjJ4cXo5SFd3eVBVQTA0ZmlBUGp4THRHSHQ4Q3ZSWWFlVEdpMEhqNTgyX3c4ZFlXODhfNHlBVTQ2a2ZWWlFMVDBJMHdPbXNUQk5OT3pydmFGd3k5Slh3Rmx0a3NlWF80eWZSNVlKN0tBNlM1SnFnbjdCUHc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-05 13:43 UTC"
+  "last_updated": "2026-07-05 17:13 UTC"
 }
