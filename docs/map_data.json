@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "afc608c6d52deaa259b7a7b54df897bd",
-      "title": "CEPA celebra la restitución de Argentina como país libre de Influenza Aviar - Data Portuaria",
-      "source": "Google News - Argentina",
-      "date": "2026-04-27",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUFozcm1uQnhwbGJJNi1ZRFdrUHRuRnVxbDZzZ2VxWFplYUR0V0RKTkxUTUtfRXJ5RF81YkFrR2FFTnhrSVlFSElZQVlweUt6ZkhIeTVJaFJSYkEzV3lTdHMyZkM5bXM3Y1J4WnRrRks4UmlLdFFwek5SUHVGT0t6VjJvRkdJbnRpUG1PenF6X3pzeVNsZWdCQkpOaGw0QTQtTnlGd1g0YzZFNjRud2poeDBn?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "18554fa8501ac99a42db3409e95500ad",
-      "title": "Argentina restituye su estatus de país libre de influenza aviar - El Tribuno de Jujuy",
-      "source": "Google News - Argentina",
-      "date": "2026-04-28",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZGxiZzFEZjdCOVprOXBoMTg2c1UtSGxYR1IzbGpBUm01bUFOeWdrRURWUDA0SDE2d2xxb25yRl93TVBjRnRpMmFXMFVGOGpNYk5lMTZvWk9qbFVQTTZxVlNZdU1Kc3B5YVplMWozZVQ1aExWa2NBaFZtYm1MMlF5WjhwWE8tTGZmdGFxN2EzeEplWlNnVWxDbC14b2tKRzFHQlBOUkl3NjRUYW5MN1RxVnJBc2VZX0k2d1lvZjRB0gHDAUFVX3lxTE1QQ081ZjJlSDRYT0J1ZEk4UGlmb1BySF9ZNkZBcllsX3dmX196VjJvSERaUkhPeUJOZy1hOGVRU2tCeHU4SGJSOW4zdzVsekFPUkVua3V1WW9LdmZ1QmwxT0p4WHNVTmdnVm1uU3F6OTNwLXE5YldqWi1KVlBNbllKV1B2dUxOMlN2UUlpVkFVVzg5S3JHYU1WYklpRW96dUN3dzdxQWhTWGMzX1ZuZlh5N3ZPWndrSDFsOXhJd0ZDbjZVQQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "fc7545a602c262130b478b124cc2895a",
-      "title": "Argentina vuelve a posicionarse como país libre de influenza aviar - Infobae",
-      "source": "Google News - Argentina",
-      "date": "2026-04-27",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2RuSG1DMWtFRGxuRDI3b0hLaE5hYVVXMXRwRGs0bmZpam9OaHl0Q2JRZXU4ZDVmT01GaGJuTGhDMElVeUE4NFpKX2lKZjdhSmU3ckR4cGJaWDM0UTZsMUpqTFhTWUl3RlhBeGY4VXNWMUJqRmtDQWVqOHk3ZFdOUDdzUk4xTmNPczllOW81X0tLVDBVS2ZXMGUzSms4SS12YkdOZVdUclZ3TlBRa3FhUWs2Tl8xYzZ40gHTAUFVX3lxTE0yd0RlcXZkU1RiM1JpYjNrZ05PWTZiMzZwaXFrNlEzY0U5U1F3NkloSU9ya2hxWV9KZXJibWI0WktobGJHcWRoTEg2Q3hKXy1pS0d3aHAwcGFoOUJoaHcyUGtjU3BRZS1ySjgyNkVPeU5uUUJIbm5pSmhETXZGUUpDR3cyaWNmb09HWUQ1MndKY2hvTWVwOXpEQ1Q4ZERkaG5ZQXBKX3hHZ3RkcWF0cnpQU1hKOXNwcGdLNDJCR3pucGhLNVJLZmRZVjB1S3diV3FiclU?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "2982ec2d973c61ece3c0b421a770c0f6",
       "title": "Argentina se declaró libre de influenza aviar tras cerrar los últimos brotes - Diario El Norte",
       "source": "Google News - Argentina",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnFmYnFxNm1XMjlNNkVqT1FhOFd1YmZBWXd5Skl6a2NlSkwyTUxOenBLdnd1em5zckJEZGZVaXpBMnNRM2o4V2FsQ09WM3ExZkZGYWdIUXgtcU9ueGZpSUJYSnltcVIxWW01Yk9vQUhwZjgwU2p3U204enQzQWtFMmpmX2hEaVR5U2Q1Z3VXaGkycnR0UG1nUkFrUjBRQldVME40N1Y5XzRkLVdrYlNIS2FxR3g?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "ddfb76d2be10af31384ad0b61475edb7",
+      "title": "Chilehuevos aprueba fondo de hasta $1.000 millones para apoyar a productores afectados por influenza aviar - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-07-06",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWkNKTEo0dzFPYzlZQWNvYk05SVlkdEM3S2FIV0tqSjVkbDdSamhqbExzSEx2LXA0RW1pcWJIS0dhT2IyaS0zZGlEaTVZcHNVeC1SVDFCcS1DSldLbEdPaXBQZ0lPa3R6X2hrclppcE1MVGg2WExjMnRLdm0teW9sVjlsSUxxeHF6UnZuZWl5SXZWYjdfbHViUmtPd2tYTGZSbFVNbkxFS3VCTTZCa3ZlTm9pVUFxX1c2aDhMTmF6eU9vOUlWRlFFZWNXVERFX1N2OTNRb3J3WWJ6cjFnanE3bWJn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "ce7f99fae3841be6bcf8d4db042a0b38",
+      "title": "Fortalecen medidas para mantener a Guatemala libre de influenza aviar - Gobierno de Guatemala",
+      "source": "Google News - Guatemala",
+      "date": "2026-07-06",
+      "country": "Guatemala",
+      "lat": 15.7835,
+      "lng": -90.2308,
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX2k3dHk3bWZQN1RMMEd6VU9xOFBVWEVUV25ZRG1maDVGMWtwc2p2Sy13alZuWFNJVkFpekhfMHlWOWtTbjRtS2FVcnRyRnE1cHJIb2ZwTUlpU3ZjM1BjTkFaT1E0cU1CQVNOWm5HRzV0dkFkSlZTaGRwYWcwN2o0dkFPd0dnYlpoY08tYUVKRmE5anlRNWFpS2tQOA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "ca3d1bfeb481a52173e73756f9da7f4a",
+      "title": "Avicultores garantizan consumo seguro de pollo y huevo tras casos de influenza aviar - elheraldo.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-20",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZlZ5RHBKejFJb2g3a29ZWGRTYmdKOVp4SzdIR0p5NFJuRzBPOGcwVUlsTXd5WG5VY2k5NGhpVzJaSHJ3VjRxNmtNSFBSaE95OUo3ZnVfWFFYUkdFeUcxaWdtNEc3TWRNZm1VUVFQMGNtZWZlcG5HZjZoMUczZFBwNTkxRTM1ZkdwYjhIMVlyZEtsSnc0dlJwRDJLMjFUOGtKNVVSX29TMUgwdWZlRnlGTVZqek40VGtUUWtSU1lR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-06 18:12 UTC"
+  "last_updated": "2026-07-06 21:38 UTC"
 }
