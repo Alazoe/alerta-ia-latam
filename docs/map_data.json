@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "f1c72aed500e63d7a274cef7c3be75d2",
-      "title": "Argentina recuperó el estatus de país libre de influenza aviar - » Cholila Online",
-      "source": "Google News - Argentina",
-      "date": "2026-04-27",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaWMtWlpoUlJ1UEpyRTdZdmw1VFlLSllPeFFfemNGVWgxN1E4bEtNaFdTdy1DMFpfamJjSXZiZHZrQV96eTk3cEVvVnBLZ0F6ZDBTbThOR2VZSnpBVkZhUDZ5TU1OMi1kTFRiXzlZeXVsX2JveHN6V0tvMDA4cFNHVjlHZVppTDFhN1pvOFc0UUhBVGhIMmt4REhGc0JBdnNSZFE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "afc608c6d52deaa259b7a7b54df897bd",
       "title": "CEPA celebra la restitución de Argentina como país libre de Influenza Aviar - Data Portuaria",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSEphVU9oQ1I4aloyTjFuSjRGWUg1WTVMcXVodEFnS1lVb1VLTG5EaERZVmkzTjVrUTY1aE5GZTFOb2Zfbjd2OWV4YUluVVIxQ3BfSk0xeDBPbTU3N2xWcVljblBpWWQ4YzFmRUtmakV4a0t5Q3h1Z0hSR05HSzVzTDNRVmFyemVfOE1EOVdqWVJwT3kwNmx5ZG9rcmhPVmV6RkVrNHYtRlB2NUJH?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "f61207ec2f97e460704f0dca3c5b4db8",
+      "title": "Autoridades activan vigilancia tras detectar influenza aviar en Santa Bárbara - elheraldo.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-19",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnFmYnFxNm1XMjlNNkVqT1FhOFd1YmZBWXd5Skl6a2NlSkwyTUxOenBLdnd1em5zckJEZGZVaXpBMnNRM2o4V2FsQ09WM3ExZkZGYWdIUXgtcU9ueGZpSUJYSnltcVIxWW01Yk9vQUhwZjgwU2p3U204enQzQWtFMmpmX2hEaVR5U2Q1Z3VXaGkycnR0UG1nUkFrUjBRQldVME40N1Y5XzRkLVdrYlNIS2FxR3g?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-06 03:45 UTC"
+  "last_updated": "2026-07-06 08:22 UTC"
 }
