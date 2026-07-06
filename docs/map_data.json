@@ -3001,18 +3001,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "870d68420a803409342fea9fc0116964",
-      "title": "Confirman influenza aviar en Chile y refuerzan controles en la región - Radio Continental",
-      "source": "Google News - Venezuela",
-      "date": "2026-04-07",
-      "country": "Venezuela",
-      "lat": 6.4238,
-      "lng": -66.5897,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPYlNSRVd0N2ZKNnh1aE9zZDFxRm1sZ0U4bUtJTWwzY3R5OE9laFRfMXNTZDVFOFE1MlB6MDd1NWR2NVBUMng3a0NaR2dPbm9DSnlVYmFfc0RiN0FXWkhzYjRaOTlnaFpZUFlHUVNoU0w0akI0NHFPd081UEFVcmVLV25zQzhTWlRXQ1JRMWhpakxmR0d0OU1OOGs1OGxXSEtfTHFpUWtQWEFTQlNrUVRDb1ZkZnVnbmhQeGRj?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "c67ce70370434bbd87fe4b4ef47507e5",
       "title": "SENASA confirmó un brote de influenza aviar H5 en Río Negro - Radio Continental",
       "source": "Google News - Venezuela",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPWEFDSFdJaC1VeTNpZ0R6cGZvNm9xWmZNMjV0QXZpanFsVnc2eVpwa0hJWnM1bTg3R2xlVFVJZWJlRlI2VFpEelp0SUN2cVNQbTBtWF8zci0tUms0dXRhY2pFRjZIaEIwd1RjUW1kSEdidm9ib1VLT0NNU3hWMmRZd2tuQjhFanBnZkIwN2pyYjJ4cXo5SFd3eVBVQTA0ZmlBUGp4THRHSHQ4Q3ZSWWFlVEdpMEhqNTgyX3c4ZFlXODhfNHlBVTQ2a2ZWWlFMVDBJMHdPbXNUQk5OT3pydmFGd3k5Slh3Rmx0a3NlWF80eWZSNVlKN0tBNlM1SnFnbjdCUHc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "c32fc1f16e1058a04f8fc786f46c01ba",
+      "title": "Descarta Senasica afectaciones por influenza aviar en Chiapas - Gob MX",
+      "source": "Google News - México",
+      "date": "2026-07-03",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSEphVU9oQ1I4aloyTjFuSjRGWUg1WTVMcXVodEFnS1lVb1VLTG5EaERZVmkzTjVrUTY1aE5GZTFOb2Zfbjd2OWV4YUluVVIxQ3BfSk0xeDBPbTU3N2xWcVljblBpWWQ4YzFmRUtmakV4a0t5Q3h1Z0hSR05HSzVzTDNRVmFyemVfOE1EOVdqWVJwT3kwNmx5ZG9rcmhPVmV6RkVrNHYtRlB2NUJH?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-05 21:03 UTC"
+  "last_updated": "2026-07-06 03:45 UTC"
 }
