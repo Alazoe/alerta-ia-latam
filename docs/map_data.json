@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "c949cf4ae12ed78b8ed158025a842897",
-      "title": "Argentina recupera su estatus de país libre de Influenza Aviar Altamente Patógena - avinews.com",
-      "source": "Google News - Argentina",
-      "date": "2026-04-28",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNzV1RkR3TzJ1WFBrTklhVklmU1NSRy1ra1I0QzhEV2ZCSzJoZVF0Z3hNVXZnWFJEU3R0WGFiZjFMQm10cE1wazlQbWlaaDdubDlrVW9vd2RFRXNtUk9NbWhSTEloN3dUMURvSnNVMFgza1ZfRktKakFNdlpsakRIM0E3N1Q1b2MwZlVKRkVxQUtRMl9wRnlhV3hBUDhESlhIblJ5aQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "83ff4e554dfbc4669af8f25226808268",
       "title": "Argentina se declara libre de influenza aviar y busca reactivar exportaciones - Infobrisas",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNWVWRTU1clVLX09FOTlTRE5JR28zaDUtdy1IOGlnczR2QW4tcGpnYWxJOVJJbEp1NXN4SmZxYzZucUNTel9KUzNoclZKeWd0Smhza2hoZTJvZENiWWNvU3hHTmRINE5PMkZKTENGaEJzZjZxdnRNRV9uVk92dS1yZEYyS21ZQlh6RUFCakM3NWdacHdvaWRLZ3RyZVJNc0hzM1ZqWi14QQ?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
+    },
+    {
+      "id": "8b2812d9d048717d7a3439c49cc90e13",
+      "title": "Video| Alertan por pelícanos con comportamiento inusual en playas del Pacífico tras reciente caso de influenza aviar - El Observador CR",
+      "source": "Google News - Costa Rica",
+      "date": "2026-07-07",
+      "country": "Costa Rica",
+      "lat": 9.7489,
+      "lng": -83.7534,
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSjUxbDVfX3A3QTg3SzY4THF4ZkhzNGZhSXJTNDVjX2EyNXlFTVdSZnBabmxhUEZ3dFZxT2lTREVZTnlVWU43cDM3QVR6dkpyaWhWSzk1TkMySkR5YmcwaDZxU3lTRkdLS3lPUzBNVkxTWFp3RENGeTlxY3lza1ltWi02UF9adWpQb0daUE1xVVRaR0VVcnUyeUFCWGFmNTlZeFdlc3dvdmpJUElZaGhIOVFJZ2dYWnNoTWRYaW5QWHp4QnV0UllUSGo1WVRZMGVEMzk2Qg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-07 18:01 UTC"
+  "last_updated": "2026-07-07 21:26 UTC"
 }
