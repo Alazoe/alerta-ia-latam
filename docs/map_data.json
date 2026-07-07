@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "2982ec2d973c61ece3c0b421a770c0f6",
-      "title": "Argentina se declaró libre de influenza aviar tras cerrar los últimos brotes - Diario El Norte",
-      "source": "Google News - Argentina",
-      "date": "2026-04-27",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTWQtOXg4R1lQd2w1dlRFSmUyU0NqNXhISFlLbUtKanBUeWJYZi12dThaUXhzcENqdGRmT2U2dGpQNkNGUWRQNVRWYUJYdHZhWXVvQWp1T2ViZHFMZ1BjVk5Kam81aHZ5RVpobGg1T0VTVjJRLWktTm4td3NqOFV3TlNJRmhUMEVPcVNpZE83Ry1fX3BBRGp4Qk1RczFINGRZWnQtZnFiV1VmZw?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "7a97bbae436d5948a8bf1d9f08bbd330",
       "title": "Argentina notificó a la OMSA estar libre de influenza aviar para reactivar exportaciones - Sur 24 Noticias",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZlZ5RHBKejFJb2g3a29ZWGRTYmdKOVp4SzdIR0p5NFJuRzBPOGcwVUlsTXd5WG5VY2k5NGhpVzJaSHJ3VjRxNmtNSFBSaE95OUo3ZnVfWFFYUkdFeUcxaWdtNEc3TWRNZm1VUVFQMGNtZWZlcG5HZjZoMUczZFBwNTkxRTM1ZkdwYjhIMVlyZEtsSnc0dlJwRDJLMjFUOGtKNVVSX29TMUgwdWZlRnlGTVZqek40VGtUUWtSU1lR?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "2c65abc008d748b4b0601ef4f56c457f",
+      "title": "México fortalece la vigilancia epidemiológica frente a la influenza aviar H5N1 - avinews.com",
+      "source": "Google News - México",
+      "date": "2026-06-03",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTU9Ba0xSZ3BIOGh3ZmZtVkZwNjFQc0FOSDR2YmlrRTFqX0FfVG9WZmZlVDVYS2JmeXkzelFCYTRBeGppYnJYems4MjZHWm1YQndRUm9IYWpuTnJKc09Ub0JFODZOM21zSTJuX1V6NU5ydC1GTG5QTHhpbTRlTWF4VDJYbTlQZ0ZrRmRWTVEtLXBubnVtYzVhLVNWNk5OQWp4?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-07 11:09 UTC"
+  "last_updated": "2026-07-07 14:39 UTC"
 }
