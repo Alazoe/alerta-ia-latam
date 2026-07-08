@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "83ff4e554dfbc4669af8f25226808268",
-      "title": "Argentina se declara libre de influenza aviar y busca reactivar exportaciones - Infobrisas",
-      "source": "Google News - Argentina",
-      "date": "2026-04-27",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3Z3czZOMEt2QTR1aWRjUm1LV2w1RnRfYW9tYUFlaDJUREQ2UkloWmNUckZETHRzOVR4MU9oZHgwam0wUHZfVnZjczZlM2RnT1hHRnAxazdOZVRNMVk5ak5Na3NldDVlU3JodW5QeHJNa1ZuazZxcWxQSm9oanh2bk42YmVyZTk3bUwwaGUzVEpfdkEyLURnWERJSHlQZnhLUDZUUUc3RVhaUWF2c1UtTUFlUDdKVGZ0OW56VzFKNTNfR1JLaHdQeWZuQXV6UW_SAc8BQVVfeXFMTkd2d3M2TjBLdkE0dWlkY1JtS1dsNUZ0X2FvbWFBZWgyVERENlJJaFpjVHJGREx0czlUeDFPaGR4MGptMFB2X1Z2Y3M2ZTNkZ09YR0ZwMWs3TmVUTTFZOWpOTWtzZXQ1ZVNyaHVuUHhyTWtWbms2cXFsUEpvaGp4dm5ONmJlcmU5N21MMGhlM1RKX3ZBMi1EZ1hESUh5UGZ4S1A2VFFHN0VYWlFhdnNVLU1BZVA3SlRmdDluelcxSjUzX0dSS2h3UHlmbkF1elFv?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "7c8b0ecefa1840e02f8e4106eff26d4e",
       "title": "SAG confirma un nuevo caso de influenza aviar H5N1 en Chile - MSN",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSjUxbDVfX3A3QTg3SzY4THF4ZkhzNGZhSXJTNDVjX2EyNXlFTVdSZnBabmxhUEZ3dFZxT2lTREVZTnlVWU43cDM3QVR6dkpyaWhWSzk1TkMySkR5YmcwaDZxU3lTRkdLS3lPUzBNVkxTWFp3RENGeTlxY3lza1ltWi02UF9adWpQb0daUE1xVVRaR0VVcnUyeUFCWGFmNTlZeFdlc3dvdmpJUElZaGhIOVFJZ2dYWnNoTWRYaW5QWHp4QnV0UllUSGo1WVRZMGVEMzk2Qg?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "a975a0361ddf397590890c89cb9485f5",
+      "title": "Confirman dos casos de influenza aviar en el zoológico de Tuxtla Gutiérrez - Meganoticias.MX",
+      "source": "Google News - México",
+      "date": "2026-06-30",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSmZ2SUZuSzUydFVuQl9qMjdTbkdybk1YaURzR01DNW9YalM0MDlrWm5xNVdIVEdFTF8ySU52THh6MkVBckphWkZUMllhS2ZOX2ZDS1RZa1RnLWdERnlXVGNISnY2Y014WjlJMHp6V0RKMC1HRnV6eWw4T3JCRlJNQkNpZERTTlRxX0dKUGNOOGJtWTl2S0lucGg3eWdSa2pnNDIzWUczd2VrNTFrX1RHSEZWMmlaR2t6SF9tejB4ZXAzMng3cEpvOUk3cnFaNkRNLWMyWW96MUVuVXlV?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-08 06:29 UTC"
+  "last_updated": "2026-07-08 10:20 UTC"
 }
