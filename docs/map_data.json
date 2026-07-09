@@ -1105,18 +1105,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "db07c1e6ae7328497e9e3783c896857d",
-      "title": "SAG confirma caso de Influenza Aviar H5N1 en aves silvestres de la región de Los Ríos - SAG GOB",
-      "source": "Google News - Chile",
-      "date": "2026-04-10",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPczlaT0RDNC1vZGZ1X2dFTHlWRkJUREQtc3ZZMm5lR1VyOTVQRmJBY21PTTVMZDJLQnpwUHBoekRTME9OZ2t5UkJfeV9BcVNtLUxVWHhmTzlPc3FudzdoY19LQlRueWJockwtWGctYkx5R0Q0UjRlcGJhNHJoNGpleXFVYV9UaC1GaWlVTVVNNXdJeWcwUVp2bWpXMVJTVVJzVlZMWDRLV0RjUGtxTTR5X0UxWDY3Q28?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "c53921dd224eefbbba21438237e584bd",
       "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la Región de Aysén - SAG GOB",
       "source": "Google News - Chile",
@@ -3601,5 +3589,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-08 21:09 UTC"
+  "last_updated": "2026-07-09 03:30 UTC"
 }
