@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d03c56605f53a0bee2d4d70f61cdfc70",
-      "title": "Alerta por influenza aviar en Biobío: académicos UdeC explican riesgos y llaman a reforzar medidas preventivas - Noticias UdeC",
-      "source": "Google News - Chile",
-      "date": "2026-04-16",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTUxGUjFIQW9PS09vcVdHZHRGZVhIajgwNERxN0ZVR1NfSkRmbk9rNk96bWE3blVkMGlpeDhndXMwZnhlUkh5V3J2QnpVQl9YZHZKc3AzcDNlQXc5VTZWNmJBdkg1OXYzbVNUTnEwWWVkaDRoLVFoeElCT0V1ZlVQZHJ1b29JQU01UE1UZ0JSSTZndWYzYnpTcW5WS2N4ak5qSWN3TklQU0dSU2I3YmU0LU9LZVNmZEJXdl80dURFSTdEZUF3akJNQjZBelEwMVRH?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "e67ec9c294d1f4a9f4bf3d332bb1b27c",
       "title": "Argentina volvió a ser país libre de influenza aviar y busca reactivar exportaciones - Perfil",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBicmlGUTllNzNpUHJ2Y3Z6Vkp6TG94bk1vem90cFhUSWZYcDZ4UklDVmZXTGxMUHdsb21JdlZkT3ZkWkoyQm9JZWtJMnhPN1ZhX0ZDQnMtTXRDZzczQk9ZaEQzdTd6MDZIU3NORjYwcXM?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "f1b18a9a5dd341ad12992a3a175cc119",
+      "title": "El ICA entrega parte de tranquilidad por brote de influenza aviar en zona rural de Puerto Carreño, Vichada - ica.gov.co",
+      "source": "Google News - Colombia",
+      "date": "2026-07-10",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yTjVoMXh4NHFQZVRWck5wZ2p3a2NqcEV6Vm1kOHotbWV0Ujdiay1CMUEzdGdGTlRjdUc0U3dPUmswd2RMQzk4MmFLdlNHYUJoUkI4M3N1YmJmVlBkLUE1d1RXQ0lVX2VVaHlBdEctbFNpVEpsWm5tRUM3TGo4Zw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-07-10 14:31 UTC"
+  "last_updated": "2026-07-10 17:48 UTC"
 }
