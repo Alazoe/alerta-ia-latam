@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "eff45471c31b2f7d17af56c60811d42d",
-      "title": "Argentina se declara libre de influenza aviar y busca reactivar exportaciones - Infobrisas",
-      "source": "Google News - Argentina",
-      "date": "2026-04-27",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS0FfNTBEUk41dUN0dld6T29SeUMtQWRjTXZjY0x4aVBqX2JIRUlnVG91aFA3bWFVQm9Cd0VPcHlmSzkwUldFbEh4U1JaSTZ1UzhRNm92dXZIUm53UXdVVHA1d0gySGtXMDZGWTJoNlJWQjZ3OEhwaHhUV0FlWVE2U2pTWktnWEJDSGpOYWRtbF9sUXo4X1lqS3hTS2lxSmo2X0M0VWdDTERZcWRBRzNsdVRTLWhKSm5nRzNQZG93U21FdHZCMlJpQnVB0gHPAUFVX3lxTE5HdndzNk4wS3ZBNHVpZGNSbUtXbDVGdF9hb21hQWVoMlRERDZSSWhaY1RyRkRMdHM5VHgxT2hkeDBqbTBQdl9WdmNzNmUzZGdPWEdGcDFrN05lVE0xWTlqTk1rc2V0NWVTcmh1blB4ck1rVm5rNnFxbFBKb2hqeHZuTjZiZXJlOTdtTDBoZTNUSl92QTItRGdYRElIeVBmeEtQNlRRRzdFWFpRYXZzVS1NQWVQN0pUZnQ5bnpXMUo1M19HUktod1B5Zm5BdXpRbw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "d03c56605f53a0bee2d4d70f61cdfc70",
       "title": "Alerta por influenza aviar en Biobío: académicos UdeC explican riesgos y llaman a reforzar medidas preventivas - Noticias UdeC",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObVhJX1NoMS1SWWtmY0N2dzVfaU5zR1NlcVcxeEJkd0c4Z1pZZlRfQ2FUU3JJMExtTWYwQllGa3h6NXdROUNPNHc0blFWWnhWa0VzcWJRcnNBdk1fa3hfc0NFVGJjV1ZtV00yQ1NqakFiSV9jN3A2Vk5yOXpubklqSGpyeEVxa0tFXzNnQVpKRDJPQWpVaVA0WkRUYWlnNFIyZTZsVmYyQXN0ODJ5OUhXTTFOY3pnV3J3cmhhLURfSVRReEFNNG9EQ3BQX250b1pL?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "862a737a4bfeb50da3927bf45f310d85",
+      "title": "Prevengamos juntos la influenza aviar - Gobierno de Guatemala",
+      "source": "Google News - Guatemala",
+      "date": "2026-07-09",
+      "country": "Guatemala",
+      "lat": 15.7835,
+      "lng": -90.2308,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBicmlGUTllNzNpUHJ2Y3Z6Vkp6TG94bk1vem90cFhUSWZYcDZ4UklDVmZXTGxMUHdsb21JdlZkT3ZkWkoyQm9JZWtJMnhPN1ZhX0ZDQnMtTXRDZzczQk9ZaEQzdTd6MDZIU3NORjYwcXM?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-09 21:25 UTC"
+  "last_updated": "2026-07-10 03:32 UTC"
 }
