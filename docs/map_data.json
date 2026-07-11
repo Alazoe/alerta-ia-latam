@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "0f3be0ff008f0fa61faeef32e4c95d91",
-      "title": "Influenza aviar y comercio exterior: claves para entender el impacto en la industria chilena - Séptima Página Noticias",
-      "source": "Google News - Chile",
-      "date": "2026-04-28",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVkc2WGx1ZzU4TFFsNV9WaXU1MzB4Vmp6eUJZei1PZ1NOa1pIaHQtMUFlbkhhZzV4c2w3VTh4RUt1dVFsT3BlSHhLYnQ1SnFsSkFuTzR4akxRNWFYeFAzbm50V0tjVmM0cTdFRC1oaGMycmVBSDhJRkhWTUhvTk14dkdIMFpuM3ZWYXlNU2tjVXQ5MUlLU3JHUXhjUkhEdDRrN0VrdjhLRi1fTzBVZGg1MWY1WUtmcnZ6SE9ZVkZiSmw4eW5aZnRV?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "91dbb919083bfc9ce93b4827119c51d2",
       "title": "Brote de influenza aviar activa restricciones al comercio exterior y desafíos de bioseguridad para el sector avícola - Diario Chiloé",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDRsWlVtV2FvTGQ0dUtGTXRpZGdXTkxWSXR6OUJtX1hpRnVlZ1pTRDl3U240SVdKTnpPYjFZUjdiYzJmNTh3ZW53YWdhbnlBeEVQQ19DeVlfRE5ZNVBEa044Q0V5Y2NnNnl3ZnZFdkxQYWtUVVRWXzhGdzdxTkxqdjgzQ3BJU2F0TlFFTHdwSzVjVVNYV0N5Vkc5b21TNGlZb2Rn?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d09a86207306cebe9cbbd4422fc2aa45",
+      "title": "Influenza aviar, tendidos eléctricos y El Niño amenazan a aves emblemáticas en Latinoamérica - Mongabay Latam",
+      "source": "Google News - Chile",
+      "date": "2026-07-11",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXzRRY2JWOUlJejVtZ3FjOWpVTVJqb2lJRzRlR0ZrcFJqcGJOdWxScTZOUHp2UWE2alVudU9nQ1duM1hGSUM2ZHNmY0Z1dzBpNzdvQWhxZkpUb0xsRzJ1MEdBc0w3YzczRFNKU3hMLVg3VEhGd2FpSkRIZFI2dzYxa0UwR3l4Rl93bEpldzJFNnZSU2EwbERxT3FaTU1hZkQ5UGRZZ2Y5RQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-11 13:23 UTC"
+  "last_updated": "2026-07-11 16:59 UTC"
 }
