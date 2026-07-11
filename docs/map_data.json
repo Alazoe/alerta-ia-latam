@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "e71b09b3c1b3a5acdfb4e476a0864fca",
-      "title": "Argentina recupera su estatus sanitario: el país vuelve a ser libre de influenza aviar - Radio Rafaela",
-      "source": "Google News - Argentina",
-      "date": "2026-04-28",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNXzlvOTZxM3BEcXM3VTJfQU9vcjlicnJIS0QtNFFOcHpwUERycmExUnI3YzJ2Z3ZBMWI2UXRwR0xjRmJ5SlRZQzZrbW0tTUZkaTR4OEVwNFhEUDBTOGc4UmowdU9FLTQ2aC1EdXR6RHAwV2tJNkJBZHJWSFBhXzlFblVqVnJJTzNFeDk5YjVoM3phMnpZRW15RFpWTFM5R0NKUEdkR2xUUUUwTUlicUdQRUNBY19WRVp3OVhjdE9zc1Qwdw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "0f3be0ff008f0fa61faeef32e4c95d91",
       "title": "Influenza aviar y comercio exterior: claves para entender el impacto en la industria chilena - Séptima Página Noticias",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdWtzM0RlYUxHQ0c1NG5yMUlIS1FRYXZZSHcweDBxQ1pkejBna01TN3ZJZmJfcjBITUwybURTcFlLdmJBUGh5Mk91eGlpdDJDTFV5cDNqZktWemxZYnFaOHFJR2VRbHZXaF92cnlIbm5nX3pTUlJpcjg3cERQbVZqU252VUdnYU9VRTNKc3FHQXYxNXlWaGNvdENXdVNuUQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d64d6ef335cd4003f5635c6762e6a959",
+      "title": "Senasa vigila más de 500 granjas por riesgo de influenza aviar - laprensa.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-25",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDRsWlVtV2FvTGQ0dUtGTXRpZGdXTkxWSXR6OUJtX1hpRnVlZ1pTRDl3U240SVdKTnpPYjFZUjdiYzJmNTh3ZW53YWdhbnlBeEVQQ19DeVlfRE5ZNVBEa044Q0V5Y2NnNnl3ZnZFdkxQYWtUVVRWXzhGdzdxTkxqdjgzQ3BJU2F0TlFFTHdwSzVjVVNYV0N5Vkc5b21TNGlZb2Rn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-11 09:38 UTC"
+  "last_updated": "2026-07-11 13:23 UTC"
 }
