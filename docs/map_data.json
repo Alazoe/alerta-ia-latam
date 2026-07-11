@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "172196656d2bf1ef57760f30caa36236",
-      "title": "Argentina recuperó el estatus de país libre de influenza aviar altamente patógena - El Eco",
-      "source": "Google News - Argentina",
-      "date": "2026-04-28",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeFlPaXVCS3VYbkdXaTlhbTNOZWdrRFpjT0JSWE94dWFmc0s5Z2ZjRkZZR0d4QjRpcDF4ZzVQNFVWNTl6R1dvZ1ZOQlY5Ry1TaTJJVGE0NkNOMlhQQzZaUEtoNUNOdU54MzVld1U4c3JPcC1UVnNMYVBOMTlYVGpocG1YcHZaSWw0ZlZuNVBESHUySWNqaUxjUnNlbWU2RXlRUUROM2dyT3ZWaURoSHB0MnRPUVpTSXYy?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "e71b09b3c1b3a5acdfb4e476a0864fca",
       "title": "Argentina recupera su estatus sanitario: el país vuelve a ser libre de influenza aviar - Radio Rafaela",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oeXlUdkZsMnlBZTFCd1hZQk50U3pGTG11WEN5SDUtTEhBVUJTWUVMVlpaT0s3bUZyTzhMN0xPamNlSGNkeXdoTW5zTGJlSVpfZjBzQWhTd2VsN1VCbmM4SUVIQUltRHM?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "6424437a58ad1b1399cb0a19864989d6",
+      "title": "Descartan Afectaciones Por Influenza Aviar En Chiapas - lacapital.com.mx",
+      "source": "Google News - México",
+      "date": "2026-07-04",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdWtzM0RlYUxHQ0c1NG5yMUlIS1FRYXZZSHcweDBxQ1pkejBna01TN3ZJZmJfcjBITUwybURTcFlLdmJBUGh5Mk91eGlpdDJDTFV5cDNqZktWemxZYnFaOHFJR2VRbHZXaF92cnlIbm5nX3pTUlJpcjg3cERQbVZqU252VUdnYU9VRTNKc3FHQXYxNXlWaGNvdENXdVNuUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-10 21:07 UTC"
+  "last_updated": "2026-07-11 02:48 UTC"
 }
