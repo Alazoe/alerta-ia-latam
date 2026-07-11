@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "91dbb919083bfc9ce93b4827119c51d2",
-      "title": "Brote de influenza aviar activa restricciones al comercio exterior y desafíos de bioseguridad para el sector avícola - Diario Chiloé",
-      "source": "Google News - Chile",
-      "date": "2026-04-28",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSFM1eUJ1dEUtZ0ZjbWktemt0eHhCQkZIUzNSdUw5LUt0RC14T3J1S25SWXFmamdSUlg5dkIyQ3dLLTNaYWNJVjRkYkVrel9FOThvSGppVzNvLTQySkw1dUFvTHBnM3FLVGhVaEcwWnhjRUZIVkVOMTlIQ20wVEdFWm5YN2NOb2xLR3piemVJRlh2QzRNUFJlNndUN2U0amh5SVIzTEZDNVZBNWVmR0JMQlNHQjlWTTJHVmNockdjQ0I?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "7d84c8a9660a01905ddf64d937486c9c",
-      "title": "Argentina vuelve a ser país libre de influenza aviar - Sur 24 Noticias",
-      "source": "Google News - Argentina",
-      "date": "2026-04-28",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVmNUVTcxcmdsbDNSRTJtMEtqbDM1UVRwNF9FeVAya0RpazBOdVZaN203Z2J1aDBDSVZUX1N6YUY4dkdmRlp1ajZxc2E0VC1wNDhla0M0WWpaOEx6UnlsLURtRWFuTnhCMkgtX3FSQkNnLTVaVkdtTEdpMUZ5VDcyQlE4VnhzMmZhVzNfd0t0OA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "140e51d6a566e22764c008440e18dfd3",
       "title": "Buenas noticias en el sector avícola: Argentina volvió a ser declarada libre de influenza aviar - Perfil",
       "source": "Google News - Argentina",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXzRRY2JWOUlJejVtZ3FjOWpVTVJqb2lJRzRlR0ZrcFJqcGJOdWxScTZOUHp2UWE2alVudU9nQ1duM1hGSUM2ZHNmY0Z1dzBpNzdvQWhxZkpUb0xsRzJ1MEdBc0w3YzczRFNKU3hMLVg3VEhGd2FpSkRIZFI2dzYxa0UwR3l4Rl93bEpldzJFNnZSU2EwbERxT3FaTU1hZkQ5UGRZZ2Y5RQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "fc07f62ae10e51189d3aa4585b2e588e",
+      "title": "La vigilancia es clave para contener la influenza aviar altamente patógena - Andes on line",
+      "source": "Google News - Chile",
+      "date": "2026-07-11",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd2lHU1Z6YVZFd3NSWW0zdEZvSXNGaU9OQ2d1cjRaNEdjOFRIRnlHZ2pueDl4dmpjQjRFdndTazgtYkFydUtoUGZCN3hvb1VFQTZiUXFweVhPNFEwYS1hZDhzcmdUZV9IOWNDYldrZGEtZUFMeVhtbEp2SDJvcVF2d0xzS3RiTjM3OUpSY2pMQUlZVEVKM09aQXRXNlNWZEpMbF9BX2dyd0VOU04xSC1mSXoxZmNDUEZoZmF4dg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "031e18f5e7ae9f50d0a25b354ca13ff0",
+      "title": "Influenza aviar: Chilehuevos crea fondo de $1.000 millones y Biobío se acerca al fin de las cuarentenas - latribuna.cl",
+      "source": "Google News - Chile",
+      "date": "2026-07-09",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQVdEMFF0TFJ1Q0lDa3Nwdm5OV25QV19fczNWcGxjaFBZNHBJVE9xWFRXLXNOWWZ2STNndDhTOWdBYXlXNnpEOVhldGpBVmctWThVcDl1bTFJYWJNaTI3UWVjbXJzNGJnS3ZNd2Y3SlBlNjJKaDFpUGNNNmdrTDRwOE1PaWs5Uk1NOVo2aXBDU3F0bGw5WGpadDYxNFNhbXRIbE1LXzl3Wl9mTy10WEhpLXA4WTlVc3FOa0sxSVRlclVDa1Q0RU9fOFNIYXVBNGRlZGpBekZGRnZUUWRDdlF3R3VYMGgyTmZZTnNpSmktNljSAfgBQVVfeXFMTWwwSURDSW1MckdxUUc5NmN3S2NVdHVjdHhQaTE5b3lfV2VYcUktWkdlejNUN3J3Y0VSX0lFYm1iWVNMZVBMaE93WVJyVUxXMnNIV1l0bXFFYzFRWk1XZHlQRGhzUExuRFhQaWxDcDZqajNwT1hUMDFCbnloelVaWU5OX0R0bG9pbDBlZExFUm9fakF2dzdrU1N2eHlhYzNlWC1qMnI3WF9OQ2Nxal93RkZCUWwwX0MtVVk1SEIxQTFkS0FRRHpjREM2ck0tQk5Gb2YzNDBBREUwd1RqNlRWNHZnXzdTRXFiNlFUUWxPN3ZwN1ZWMXFXOVA?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-07-11 16:59 UTC"
+  "last_updated": "2026-07-11 20:51 UTC"
 }
