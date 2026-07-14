@@ -1,90 +1,6 @@
 {
   "alerts": [
     {
-      "id": "771696e9a22d4d67f624e0f51849f3ab",
-      "title": "Argentina restituye su estatus de país libre de influenza aviar - Periódico MOTIVAR",
-      "source": "Google News - Argentina",
-      "date": "2026-04-28",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaF9KNllPMDBOX0xTcTNrV0hKVVVQOE9uZTgzOGQ1Vnp2ZWlpYzVvN2tXcHpoZzNRTUVUTUxhZF9PS3BxRXB3QmZabW5nTkNyek5MQlZVNE9OMUNHS1JVMEtsUy14MW1mMlpCVzliUERCT2NvMEY2QkhsN1otbW5xVlc2VzRFak5LZUk1bWFrd2ZoVTh6ZEczatIBngFBVV95cUxQcE9mbTd1SXlJbkpOX2VpQjI0ZFVWQ3M4SlFTcFNpN0ZDMTJUMWthNm5kV0lldTEzRlBuODdTZU1jaklSQ1RMX2lFQVBCWkJfeEkxU1F6WURKUHhManhRV19uQmlzNDFpLTdqcVBfR3FLVDEyTWdoajNKb2Z5bWkweDQ3MHhYMmNRRVpvTmhaYnAwMW8zVTBQZmNWY3J6Zw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "0ecccb23b24bf2f6f6654b1d4c88520d",
-      "title": "Argentina restituyó su estatus de país libre de influenza aviar - La Pirámide",
-      "source": "Google News - Argentina",
-      "date": "2026-04-28",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcDZySUdOc0xKU0Zvc1JfRTdvSTQzSU9idjRuMUFSWVJYRmE0NTlGeXRzeDBFV2Izcm5wNGUyQkZjcGdZamZfa1duSmRTemZNSGVUME5od250enRGN1NVcEpTRVdkQjdybGJIUlRBRG5BT0xzR0VBUG91d0NTajJJaFZjNTVSdXFDQXc0ZENLbEF3c183X2NabDVxUmJZcGFmb2t5VVc5LVUxWkZhRmR4aFp3SEQweFU5a1RhY0NR0gG-AUFVX3lxTE1wNnJJR05zTEpTRm9zUl9FN29JNDNJT2J2NG4xQVJZUlhGYTQ1OUZ5dHN4MEVXYjNybnA0ZTJCRmNwZ1lqZl9rV25KZFN6Zk1IZVQwTmh3bnR6dEY3U1VwSlNFV2RCN3JsYkhSVEFEbkFPTHNHRUFQb3V3Q1NqMkloVmM1NVJ1cUNBdzRkQ0tsQXdzXzdfY1psNXFSYllwYWZva3lVVzktVTFaRmFGZHhoWndIRDB4VTlrVGFjQ1E?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "f47364a5afce8f064af0c45122cff570",
-      "title": "Especialista analiza consecuencias del brote de influenza aviar en Chile - El Tipógrafo",
-      "source": "Google News - Chile",
-      "date": "2026-04-28",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM3BaQ3hlQnNyTjlrVkcxWUdjV3p2V2VjSVo1dnBTRm5CcHMyckxHTDJWYnNyWkFSeThSN3ZLeFhIMUlZVkltc2o5RzRQNUc3VUgzYlZPWWRxZmpTRC1oX2JrMDk0eUw5Wi1HcXA5RHh5cmtrRnpXcWpxUHVBd090bnNQUGdMN3FzemdvNGYxMWgyY19OS1hkTm5MV2d4QVBTVUFxSFVn?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "6cf1020061433c3483bf78c306441fda",
-      "title": "Argentina recupera su estatus de país libre de Influenza Aviar Altamente Patógena - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-04-28",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM1ZBTnJlT2NQZXlQbE9HdFJZUm56R0tPYVhGX2YyOGFycWpyOVBJaDhiSjVfdXVwZUI2VnBDYWpXd3JCVzItcEVzVE9RZFNuaXRIdnV1M05fQ1IzLXh0dGlZWTkwLV82WUlMU0g5UFNTNU1Va3JYWHNVRXJQSkxuck5LLURENC12eThLU0xoQnBYUE1GUFAyaERDU1d3dHdtWlJJbDVQM0d4NmVoenJnVmxCT3NhR1hEcF9uRVkyLXpsUQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "b01408695a4cfe0118cfa2825b3bcc59",
-      "title": "Paraguay fortalece su preparación frente a la influenza aviar bajo el enfoque de Una Sola Salud - paho.org",
-      "source": "Google News - Paraguay",
-      "date": "2026-04-17",
-      "country": "Paraguay",
-      "lat": -23.4425,
-      "lng": -58.4438,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNzI3WU42aXd4clR3X0hTZVZJTnZZMlZqZjJiR0hLZ2hjdnc0WTd4cFdDRlJ0VUZISkNOa2FhQ2VTLVp5U0NDenBFX19aa2piMWJkR1lzREFuLUxjQm94WHR3NUFSRE9pVWZFU213Y01ZSkI3blFHMjlYeHB0WWVGeVZ6UldRYklTT2hnMlFkWUYwdFYyVklOemRwTmEtS0pSN0N2Tkx0dnY0U1BMNE9QZjRrYTIxTXdTSDUwS29TWnE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "3d3bd9d17770d3fb60f66c3b8749f7bc",
-      "title": "Brote de influenza aviar: SAG aclara suspensión de exportaciones a China y descarta aviso de destrucción de productos - MSN",
-      "source": "Google News - Chile",
-      "date": "2026-04-27",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMigARBVV95cUxQdjRGWnlMeHFCMGhXVXBBNTNzTjRIUTMxRXVZNFBKU0NCUlQweWpNRHV2bHhLelZ3QlNIWE0yNlI1d0dpR2c4XzNGS29uVzNKQ1RYcTRGZzlQSUFwQlI1aHg4VnROVkh2R1RZSzRlaEVBZE1sRExMWUI2VUtPakU3Y3h0eXpNNjBNMXVLRl9WcHl1SXJKMVQ3VTNTOEpPcDdMWlBiTkpyeHRXaUlUaTBtbDB2ZG04ZUVxMEE2V0hJazRvaTQtdE5RQ09WX2VJMGJFRUFnazBhczNIVk9aSVI0ZVF6MTMwb2tlWDdteVViY1NFdzRBRkduS1N5cWYtOG5rbV82YUhUeExMMTFsV2U3UjhwZTlrcmRPOW5WSFZfNFpLdVZJTjU5X3pZSE11V3J4U3lYWlpXcFd4eENZVnFpZEtoSzA2R05Jb2lBMW93a2lMa3c4aWpoVFdKUGVFTndxd3NZSVlmVUxoZkhZQThoN3BIclRJd1dTc0dSM1BtWkVBUEp1MHU5RVE2WUV5ejJIZlRCTkJhN1JNaC0wRnU1bHhFTnFRSENObEtRdTVyTW81anVtVVhXcFJ0RDliWWJaMmRDUnFrVHZUS040TjJUUXVCNXo4NHViLXlkSU5EZk5JanVGeTVOQy1CSU14bVotangycEpDa19LWGxxb0JDNg?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "4769c92ac072f66f8da4a493267277eb",
-      "title": "SAG confirma un nuevo caso de influenza aviar H5N1 en Chile - MSN",
-      "source": "Google News - Chile",
-      "date": "2026-04-28",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQclhMZU9EWll5MkR6SXA3QUt1UHVuN2pHQkhtRHRfbE9LNXQ4Q1VGaHBHdzg5OGNLZGlsbE9nZFA3YVk3S1FVVWpUV0hLbktsOU42WXBuS09tN1Zlak5QeDRBa0VsNXl1Zi1tTUt0eW1KWFBxYzNhQ3o2WVByaERaWDlKbndsZ2R1VVBlYy1XbElyUjZQdkhwelU2NWIzMHI5UEQ3QlktYmVVZVMwWWRqU3A3NFN5YVAzZVZNd0JiTFIzMFpuNGNuaEJLVWNmeVRocXJWRGNOdTRtTmpodjQwR25KUEdPeWxtN2F3SlB5dEpQTlFpSkRyQVkzV3JCUjF6cUtlbzhBRlkySDV1aEJPanhGZTZhZDFiSkI4VUU5TTVNcDItR3Y1TFU4SE4zUjRueDAteVNCYUdrNENmVjd1M1Z3cVQyZkRMZk55RmktSVlNU01aMUc5b2k2dEdleDdqall1aTZn?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "8fca3bfdae8631ef5c740be0c0038494",
       "title": "Argentina recupera el estatus de país libre de influenza aviar - CdeComunicacion.es",
       "source": "Google News - Argentina",
@@ -3599,7 +3515,91 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSGpRZXljbnoyUE1uLTFrUE1Td2VBMktpRnRCX0lUNjFfY0ZENmd2S1NzY1hoRVdtaWZfU0tLRWl6aW9FU0huT1NhNDZCQXpvMXRRSm43ZWs0MkIxTHZBNUx5TUI4TFN6S1owQ3ZEdkZBSXctRjR3V2xlRVZIXzNYV2hUNVAzVU5SMVNRMTVJb0JPVUlWMnNkTFdnMjNDbnk0bHNlaVVSV2VjZGhhVWxYeE1zelpWRDR2M0JmbmpvMXV2QUI4RFZr?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "84d249abd3517dfb9fc71b87f59447b6",
+      "title": "Emergencia sanitaria por influenza aviar: Senasa reporta aparición de un tipo del virus H5N1 en aves de corral y evalúa medidas - Infobae",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYWQ1UlVBQzExeWl2VVVMWHQ3ZjNzbEZ0RW1pbG5Lc0E1dlNteHNnQUd6Ti1EeXJheFJPajRTaE9VbHNpblBJcXNtS1VQUUd5c1J1NElHTVJUeGkxd09MN3Rha2psbVktc25XdjNJT21uelhTek9YeC1sUUR4M3lOTnYxRzNYOVBRU1diYXRoSjNzc3F1UkdKWWd2TUZ6U3NjWUM3Y0xQa1gzUDQtdXd2RDZJQk9XdFU4RGN0SWlUYnBCUEdkTUgyMWVmVGNVNXBFSmdReXZXaDJaSElwU3ZNZ0FrTUlIbWxuVlNyWFNhdXA2QUNzS3cyM19iONIBlgJBVV95cUxQWk1LYWF6Mk1meE5hbFAzaUh2aUNxYy1fWXgzNWl4ZWdWcGZneEQ2QnVDMVlVR1E0UDN0TEp1d0xOLTE5eVVsTHc4Si1GRW5MSUVDRlJMSGpZVldzenFYWjZKVFZnOC05OVRMYV80RHg2YVNrT2p0WGRIaFJOM2JWc1M2TEV2M29INUt5dnc3Mllib0oybHlWSE1USUNWb1hBT2lZbnVyYTVwU3lKMTN6bnlkYmxZZlhsVm13MUdCcnRFQXczU2VqTjg0VUtocnhHTEFQNzloNTJ2ZjctRGh2WDFBUm5aNVF3cHdnODBQRVlaMWJqVmI1UF9ndkM3TUF0OFplcHBrNTNwNlVlRVZpRnZTb2JyQQ?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "82597b5f9e04829c70d35336715e4c47",
+      "title": "Producción de pollo y huevos en riesgo: Senasa declara 90 días de emergencia sanitaria por influenza aviar - RPP",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZEdtUGdTMm12c3gwaHlGSHNoT2dlZHVFZUFEa3pjbHhFQXpCQzZfbzhBLU5MOFI0WTVyM0dXNm9DejNtN0toakFsMWV5Ri1sd0d1SjltcmRyWVI5SmpHQXZ2ZTlzcFFxekd1TFlLNFhoZ1hwNFlYb3BHbXRnSlAydWxSY2hINjloeUhEM25HZ3d6cllGZzdqRGJmY1lBXzN3R2M5Vm9uQ3Z3TUNueVA1Vm5Ienp6clhteFVVOXVJZ0lUQXIzend0ZHZjSm9faXpvdVVvR1pvNE5rYi1Yd2pMbkw4UkVUNUtPU0E?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "92a75874095dcc75b032d766f5a4bd4d",
+      "title": "Senasa declara EMERGENCIA SANITARIA por influenza aviar en Perú: detectan brotes en Carabayllo y Cañete - Perú 21",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObVNKQW1JZVlEYzNTTUVzbGhmaVlKNUItY2FCVXBKZ21sZlhUWnMwN1ZQVzhhZ2RkWUQzVURBbUR4UHZnVzhsRlZ0eFpMVjl1dzVvLVdnb29SREZNUXZUNTdQQWYyUU1wVllWeVlXWm9laEh6WmRQenlCSlpvSk1WUFU0X0k2ZnZlQmpfVlFlMkpkMm95?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "9112a41a1873104de180194051f33e3b",
+      "title": "Senasa declara emergencia sanitaria en todo el Perú por brote de influenza aviar - Radio RSD",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYm9rZ0M5N3pZZlhLR0hHU3pwS0p2NlJyOWNtRmVzRDUwUEx2SXFUUmFNWGVrbjNsRThCUjlRTTc2Ql9aY0lIM001Yi1TUDctUzRVY2pVX0RuSExuLXdPZUExSVp2a3daTVRKTGk0Rm5MRFFldXhyNE52dTU5MzhsWWtVOEJGZXlRTmY2QmhIcGVIRW1obEFyMEtBSVZldVNfakoxcjVROHVTWHFuTVE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "2b0e1e0ef23dd05434733d33b652cf1e",
+      "title": "Declaran emergencia sanitaria ante influenza aviar de alta patogenicidad en aves de corral - Agencia Andina",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZkdWT0p4WG56MFktR2Q1UlNKUHlmSGVqV25aVVNiRGNoajZPSEJ6WEdteHhqX3h2STF2TDJkbEM0M2czYVBUcU1DeUw2bWxtXy1rQ1lSUldGWl9VcTVjMXFfVEJreHAyVUM3ampjQk0xZ2JPWjliVWxGb0g1a05fZmx3ZmotSktiSENXbTFTaUluVWMxTDdab0ozOVpyOWk5azhJNVZlZ3MxTTJvdXNNNW5pd1RBcHA4ZEpkUEdzcng4ZlBPU05n?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "8a16c11ac9d965cb66037e751d38eeb6",
+      "title": "¡Alerta! Senasa declara emergencia sanitaria en todo el país por influenza aviar en aves de corral y dispone prohibiciones - La República",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdlJicUV2UUVNd19mRlJPZU1wMDVvcWhhUVZtY3NvcjNQbWJCMmd0NC1DblpSSHJxMTB4WjJPMHlfaDBvVTRCa01TajVIc2xEcmtyVVo4bml1OUdYTGIyNjRSN2tiSlFXSWpDZVd3aDkwR3NXMDcwcHhYSkYzdFpSZFdncTZ3a2JnQ1VKVmtsU3ZFaml0UjNwV2MwYU9zeG5RdGR4SThUNmlGbGtON0c0QmZJYWV3YUJxbk14MGdKdzR6YUJyTHd0QmYyTTRhemFNSy1CVkxtRmVLSUFrc1lUU1A4cWNzeEJCQmlwU053QkZlVDdVRTl2ZjI2QTNobmJT0gGGAkFVX3lxTFBuNnlUQVgtS0NOeGtiOWI3UTNwM0pmN3I3NU85Q1FIYndJQjUxZGRlMlBQQnF1SVZuZHlUVlpWaEtuUHBIMUMtamhjeHdSalRqYXFCb3dJWUNjX05RN19qclFNX1J3bkZOZFBCZW5TeVl1T2JBdi0wU2h0a0MzbndQZnU3cHA4S3pYMXpBR2FTRmp1U1BKakNWZXdpenFXMmxFYWVITm5rZXFoUVBkWm9uYy1Ud1c1NVY0VVhrbzNkSm1hNWtlQ1h3Wmk3NThLUzZOTGxRRmVvQldCbi1GbkJUVGdWVUpQcGkybGFQWlEzWkl2MzlaQ0E4N2RucjMxNEhTWFJLbnc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "89987ecc6b59a06bf41888023da0993c",
+      "title": "Senasa asegura que no se han reportado nuevos casos de influenza aviar en el país - ElHeraldo.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-07-13",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1lkaURjUlNRaHozNk1LMU52Ty1PQVQ1RVhvRFRGSDNzdzZhOW5vb1dLWUZBcDUxNHhwNGpJRFczVU13c281WnMtTDFNV2xNV2N2ME12QXVtTHJNNHZJNFp3aEdPT2xsVkRxME9aZWM2Y01UNndfTWVGZmZGSlAxV3VxRjBrbHFwZ2pDbjZac2xUMS1Ucm1JY0dQZ194SnhxTHg5SGRIQXZuMkF6YjFkd0ZFZzFQZW5GajkyMUhmLWQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-13 20:58 UTC"
+  "last_updated": "2026-07-14 02:39 UTC"
 }
