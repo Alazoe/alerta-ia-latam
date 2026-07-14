@@ -1,114 +1,6 @@
 {
   "alerts": [
     {
-      "id": "8fca3bfdae8631ef5c740be0c0038494",
-      "title": "Argentina recupera el estatus de país libre de influenza aviar - CdeComunicacion.es",
-      "source": "Google News - Argentina",
-      "date": "2026-04-29",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRW14d2dQVkFfa3pEZzI1eXNDVlk3TFJyZWVQd2F1SEJoYUV3Y2V2Qi1wUURnNEFlQ2ExSkJSRzlicVBiQzBfUnhVVkVNc0RGV3hYX0ZTWENiQ3BCTEVEQ1dzTG5ja1BUV2F0Rmlqbkt0Vm1uSG1mc2xKR0pCWjQ1N1FpVnZFUkNmRWZueDV5VWtQMXFnU3k1VzJhTFllWEMxZDBWaWFMWXd4b1BSRnNaNmtTR3rSAbQBQVVfeXFMT0VteHdnUFZBX2t6RGcyNXlzQ1ZZN0xScmVlUHdhdUhCaGFFd2NldkItcFFEZzRBZUNhMUpCUkc5YnFQYkMwX1J4VVZFTXNERld4WF9GU1hDYkNwQkxFRENXc0xuY2tQVFdhdEZpam5LdFZtbkhtZnNsSkdKQlo0NTdRaVZ2RVJDZkVmbng1eVVrUDFxZ1N5NVcyYUxZZVhDMWQwVmlhTFl3eG9QUkZzWjZrU0d6?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "2930253883eaffabd70037f84161df41",
-      "title": "Argentina vuelve a ser libre de influenza aviar y busca reactivar exportaciones clave - Agroempresario.com",
-      "source": "Google News - Argentina",
-      "date": "2026-04-29",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPREVIMzR2QkJZQVpuMmpmTFJZdkRnRVdrMFJoZnVsT3oxb3RYX1ZzQTZYWUFlSXoxVXl4VFRKaVRJLTJtdnVQZXY4Z0x6Y1hvTTlQSmNHTm9aUFdReHV3bFFmbmhTb3RVOU1jZUxxUi1NclJYVlJ5dG5oZ3NPMi1UWktOYW1BQUZZSDRucWhMNEVVVFl5NmUyWFF0SHJyREVqM0xZVnNWdjRCLV9BclU4ZzRNMUV0MFUzOU9OTGxabGV0XzdoM2JPT0VkTUEtbXpBVVpF?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "0839b5023a822be196287eee3c575142",
-      "title": "Argentina recuperó el estatus de país libre de influenza aviar y reactiva exportaciones avícolas - Ruralnet",
-      "source": "Google News - Argentina",
-      "date": "2026-04-29",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMUFaR0drVGNqT3Z2WTQ1NHVlZTZkUjhOVFU2VnJBQTNLVUhndGlBNjFPVUhNbFczUl9nalZOdV83X3lUdWFHaGxqRGxCcDk0MmRaX3R1cU5aZXlwUFQ3dTFMX0YwTEJBWFNwZ1d6UUlFZDNLTmpUa3EzN2daRXRFQVBvdXRWbUpiT2c?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "c64f2ceb17876234a1af5282e852c308",
-      "title": "Influenza aviar y comercio exterior: claves para entender el impacto en la industria chilena - G5noticias",
-      "source": "Google News - Chile",
-      "date": "2026-04-30",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYVNMQ0R2M2ttZzRnU2dpNFQ0MWdPZXpsRFIwZzlHUDE3LUpOMkctaHg4UVNQN0tQd01OYXZpdVhlT0Njak1Dc0Z2UXhDTGFXTXlpVERhX3V0YVI2b1ZPQ1BrZXBFTFpFSkZiMVExYmt5MXJqMDRCeEJsZlozeWdGNXUzYWdqRHN5enVKRUZkX1NNaXBqdzZrSF9fNlFicUZLN3pDLTByejVwNU42WEIyY3Ezajk5a3pjMGJSNmRKb3dxa0U?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "5dfe23477cfa35a2809bc7177577d930",
-      "title": "Argentina recupera su estatus sanitario y es declarada libre de influenza aviar H5N1 - MAP Global Media",
-      "source": "Google News - Argentina",
-      "date": "2026-04-30",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSWJOeUs1aFpINmdVYzE5eDdoa05zWGFlcFQyeEl0bnd0X3RmUUVPNWdBM2FUcEJCWTlfaGFGWFc2eGFXaExwT0k3Q1B4aHMwZVBsSWMzYXJhd2JMSmM2akhpY2pJUTFSeUY1UEJHUVczQzFuQy1nSzNhY2F5bm1XeDR3ZkU3LUwzbHA3c2h2cjhjZzRsX1lYUDhSZl9wTDBLUlJqWUp2bVlLR2Q4dUlWSmV4Yk8zUVVLdTFaLVRzQ04?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "c155a1f16b0bcca7ad5c24190c9c5c0b",
-      "title": "Brasil se protege frente a la Influenza Aviar - avinews.com",
-      "source": "Google News - Brasil",
-      "date": "2026-04-21",
-      "country": "Brasil",
-      "lat": -14.235,
-      "lng": -51.9253,
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9qSEN2cHpwYVRpQ0hRellXZ1JyVENRNFJkM3Blenc1cmRxN3NVdG5mZVc2WWVjeGpUN2RzVC1IMGJhZ1VibFNjV1lzLW1zLWRWeHhCSnZTbi1KX3JyVVJJVnJxeWc5Zw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "295faef3f577450a6d9fba38498e01ae",
-      "title": "Argentina restituyó su estatus de país libre de influenza aviar altamente patógena - el1digital.com.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-05-01",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNLVAxQlBLWlg4dlY2SlFrSWFGYTlwTmNmbVlaOUsxT0N2R0l4OTR0TkZxbF80VWFpWHZLVmpDajJyUVYyalVzQUZoeGZOSXpkdjlVQjBtSUpQdURKdXVTdG5yZW10MVFNWkl5WGMyZVZSOFpMOTRxQmdJcV9IY0FUY1RFNzNDS05hUEhEMG1JWWUzUDAzandHWkNTQWNwN2NfRU50X0RjaU85dEszb0dTcWc0SGN0SlNWMjhVNnZTNA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "76867b94c83d34a75fb4380c776ae8fe",
-      "title": "Argentina recuperó el estatus libre de influenza aviar - LA17",
-      "source": "Google News - Argentina",
-      "date": "2026-05-01",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUVCWmVsemxiMmhlTzFJMlFBSHlPZVhiRWZrZjR0M2FVUHcxdk54WU5nai1xeEdPUFZIMkJMRkZUS2ExUnBsMi1QVHdLczJYZV8xUkItMUpaWE9sMFRpT3dOMEE5N016VFdJdEJjY1NnN1BvekZGNzJUUldoM3dKbnVRWWxONWRidzFRenEwSkZMZVpXTWlZdjRDWUJkZklSWEdvX01QcUxGVGRyNF85YkprcTU?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "fa7f93ac1c245e9f85a35350344a0fc0",
-      "title": "Argentina vuelve a ser libre de influenza aviar y busca reactivar exportaciones clave - Agroempresario.com",
-      "source": "Google News - Argentina",
-      "date": "2026-04-29",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSm1KZTVGWXNwbTZscXVKSDRUeWtBTjB0ZHlMSDZDalUyaUxjOFlneWVfZzNyc0RsTVZ2VjhZQ2R2cDZ6VzFFOXJhX0ZyRkliT20wOTZqNEJUUFZpV1JKUS1oWUJLZktjc0wtN2YybTJMbmVaUmE4bjJ4TjVWMjN0VUxxVTdZcEdsVFp4VDRuNUdvNEhvOU1RNC1PV2E0QmswajhnM1NJQngwQnV2ZmEzTDYwendEejE5dTdhUEJNQjVGcGVVZ2M0QS10OHoyS0M3SlIzSHZnWTB0Yy1p?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "0542c60bb99b0b8e01f8ed353c5302cf",
       "title": "Brote de influenza aviar: SAG aclara suspensión de exportaciones a China y descarta aviso de destrucción de productos - MSN",
       "source": "Google News - Chile",
@@ -3599,7 +3491,115 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1lkaURjUlNRaHozNk1LMU52Ty1PQVQ1RVhvRFRGSDNzdzZhOW5vb1dLWUZBcDUxNHhwNGpJRFczVU13c281WnMtTDFNV2xNV2N2ME12QXVtTHJNNHZJNFp3aEdPT2xsVkRxME9aZWM2Y01UNndfTWVGZmZGSlAxV3VxRjBrbHFwZ2pDbjZac2xUMS1Ucm1JY0dQZ194SnhxTHg5SGRIQXZuMkF6YjFkd0ZFZzFQZW5GajkyMUhmLWQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "fe3b71771d707377405ce9db7564c78a",
+      "title": "Argentina refuerza su patrimonio sanitario avícola y recupera impulso exportador tras superar la influenza aviar - Agroempresario",
+      "source": "Google News - Argentina",
+      "date": "2026-07-02",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQaTI1eHdGcE5tVmVtTUhJY193YTVUVG9vUDRyT2NwU3V5bGtoNHFTSFM0bjdjUmo1UkN2WDRBMDByQ2RwRWVKS1JKOVdQSGtmTkhqT2xpemUtckVKR1RZT3BvbWtCdHlYaUZGR3U5N1RlQndxTjdxcXljTks4MHZMdFdTNG1vUS0zQ0ZUY2MxeGlJbUVaV1VTUjlZSndCd2dCLVNQNDBSa1VUb3luaG1UelJCdklHdHFGVWFXaV82NkZLcDRuc0tHODNUYTB2dEgtNTdOU0g5Y1JTWkgzVzJCODI0ZG5pUWxXTGZrMl9CZTk?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "4cb03bfda9980e75b37a242ac7e02840",
+      "title": "Emergencia sanitaria por influenza aviar: Senasa activa medidas en todo el país para evitar la propagación del virus H5N1 en granjas avícolas - Infobae",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYWQ1UlVBQzExeWl2VVVMWHQ3ZjNzbEZ0RW1pbG5Lc0E1dlNteHNnQUd6Ti1EeXJheFJPajRTaE9VbHNpblBJcXNtS1VQUUd5c1J1NElHTVJUeGkxd09MN3Rha2psbVktc25XdjNJT21uelhTek9YeC1sUUR4M3lOTnYxRzNYOVBRU1diYXRoSjNzc3F1UkdKWWd2TUZ6U3NjWUM3Y0xQa1gzUDQtdXd2RDZJQk9XdFU4RGN0SWlUYnBCUEdkTUgyMWVmVGNVNXBFSmdReXZXaDJaSElwU3ZNZ0FrTUlIbWxuVlNyWFNhdXA2QUNzS3cyM19iONIBlgJBVV95cUxQWk1LYWF6Mk1meE5hbFAzaUh2aUNxYy1fWXgzNWl4ZWdWcGZneEQ2QnVDMVlVR1E0UDN0TEp1d0xOLTE5eVVsTHc4Si1GRW5MSUVDRlJMSGpZVldzenFYWjZKVFZnOC05OVRMYV80RHg2YVNrT2p0WGRIaFJOM2JWc1M2TEV2M29INUt5dnc3Mllib0oybHlWSE1USUNWb1hBT2lZbnVyYTVwU3lKMTN6bnlkYmxZZlhsVm13MUdCcnRFQXczU2VqTjg0VUtocnhHTEFQNzloNTJ2ZjctRGh2WDFBUm5aNVF3cHdnODBQRVlaMWJqVmI1UF9ndkM3TUF0OFplcHBrNTNwNlVlRVZpRnZTb2JyQQ?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "80d089eecb2833f76c4c5369c6733fc6",
+      "title": "Influenza aviar: Senasa declara emergencia sanitaria por 90 días en todo el Perú - TVPerú",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaHp4T2otN0ltUEREeDg5NmUyMXppaXQ0VkNiYUdlYjBGaUx4UnphcjNLVzVDZFljNnVLUEJWYllWSG03OTRjY2xtN3NBNWI3eF9fWGhPd0tqenM1MkJzYXp1NWdEM3lmLXhvU0V0OEtIRUpxeXFURDZHU1phSWpQbklYc2JFVkNERkVjQ2U0OFo4V3ZkV1hSMGkyX0MtaThHZmstdVBEUjZUczdyVmo4NmRaZlpMQ2JSaktuRTFSTDR2eVE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "c96ad20a710247c00f789bd508e59510",
+      "title": "Perú refuerza la vigilancia frente a la influenza aviar tras detectarse un foco en aves de combate en Cañete - MAP Global Media",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUlnOUZDR2M2WnF0bFpXaTNLZktpckFOX3lWdG5Td19UMzAza1IyLWVtNXdSZDd6UEtCWUw1TjJxSjhraFZZMVVfdzhDcjFqRmVTYTNibE9ndFA5V2FPUXVVakVpLXlrUGV2NjRJTVJLSHVMOW5LeldlbUJrN2FzZ1pDN1RRM0xXTHVqeUlON1g3WTRrQkFsSXFIa2tjYkRYSEx4RjNhd05iaFUxRmxhNGNxX0V3N2VPMnFVRnNCeUVGckxTMHlySjMyZVlpRFVLdTQ4SlA2aWc5Z2N0bGZHTg?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "0704ab3a413055f9ac7cafa6bf0d9c58",
+      "title": "🔴🔵 #ElInformativoDeExitosa📺📺 | El Gobierno declaró en emergencia sanitaria en todo el país por un periodo de 90 días calendario a partir de la fecha ante la presencia de influenza aviar de alta patogenicidad en aves de corral. La disposición se oficializó e - facebook.com",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeXQxOG1BdEFmRzRoNlR6b0hBNzJEVm5wRENFTTNqQ0paVi1BUHJ6eHc0MnBZU3dnUWF3TUt1R2Roa0w4YWZ1VFZHMk93eDEtTmo4b190ZmpNYkk2b0pROWpaeTM3TzM2QWdmeDNxbDE2MDdPdktRT3U0dU8xQ3ROdDBQV0tibVAtYnJ5eFRTMG4xdDBaSGtkaWtuUC1rUVlxTnBsdUhSbHJxaFpGaDc0Z010Yk1KVTZFUGM2ZTNwVkJMLWtLSThoUWRCOFEyUFB1bWxWc2JBRU42Qnh6eFE2MXRiYVJlZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "82445080a06d3903d40a22539226d7df",
+      "title": "¡Alerta! Senasa declara emergencia sanitaria en todo el país por influenza aviar en aves de corral y dispone prohibiciones - La República",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbjZ5VEFYLUtDTnhrYjliN1EzcDNKZjdyNzVPOUNRSGJ3SUI1MWRkZTJQUEJxdUlWbmR5VFZaVmhLblBwSDFDLWpoY3h3UmpUamFxQm93SVlDY19OUTdfanJRTV9Sd25GTmRQQmVuU3lZdU9iQXYtMFNodGtDM253UGZ1N3BwOEt6WDF6QUdhU0ZqdVNQSmpDVmV3aXpxVzJsRWFlSE5ua2VxaFFQZFpvbmMtVHdXNTVWNFVYa28zZEptYTVrZUNYd1ppNzU4S1M2TkxsUUZlb0JXQm4tRm5CVFRnVlVKUHBpMmxhUFpRM1pJdjM5WkNBODdkbnIzMTRIU1hSS2530gGGAkFVX3lxTFBuNnlUQVgtS0NOeGtiOWI3UTNwM0pmN3I3NU85Q1FIYndJQjUxZGRlMlBQQnF1SVZuZHlUVlpWaEtuUHBIMUMtamhjeHdSalRqYXFCb3dJWUNjX05RN19qclFNX1J3bkZOZFBCZW5TeVl1T2JBdi0wU2h0a0MzbndQZnU3cHA4S3pYMXpBR2FTRmp1U1BKakNWZXdpenFXMmxFYWVITm5rZXFoUVBkWm9uYy1Ud1c1NVY0VVhrbzNkSm1hNWtlQ1h3Wmk3NThLUzZOTGxRRmVvQldCbi1GbkJUVGdWVUpQcGkybGFQWlEzWkl2MzlaQ0E4N2RucjMxNEhTWFJLbnc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "f56c3d555ab637d65df1f133c1f6e1a6",
+      "title": "Avanza Sonora para reconocimiento internacional como zona libre de influenza aviar: Célida López - El Imparcial",
+      "source": "Google News - Venezuela",
+      "date": "2026-05-01",
+      "country": "Venezuela",
+      "lat": 6.4238,
+      "lng": -66.5897,
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcXhCdzF5NzB1ZWUxZ184bmo4OHo0S2ZuOXp1aUc5bXB6UFUxOXQxSk9Qa3ZKdHJwQnFWTUZUVzJ6RHBpc3JiNGtWZHJIb0tvRHktMGZkb2VLcnlzQU81cEh2WHIxd21kM1p2U2QwVWlaV01YSjJhWExWbTZnZXl6VDdCZ1Q4UlQ1LWpjN0F3a3UxRkVHYjlLbVBseDI2VTc0Qzl3anFZa0l3bEJEMkJqalFJOGU1eXFfTGdOZU96TXJzQ0xKVWZHSHZtdGRjbVp6VjNKa2JhRHp0X19hMkg00gH6AUFVX3lxTE9HM0hXNXdRY3ZPdmhXdHUtMWYxY1FYYWZnVHVZQi16UUNzS1NPQ2ZjbjhFMnUwTko5cUdra1ctZVhPbDJlZzR3MEFaTC1YUHoySXRwbS1yWHpjQjRCTkRtQi1LZjFUN0NySDY0MlBDeUxxUTR2eWlzWGt6cThqS25xNDNCcHVmcFd6VUNPS1RrZHJfcWFITnMxSjVsZnZGMEpIcEgzV3VnWGpNTE9aZkZ5ZVRJRllseDIzX0szQldaQm9tRkRuUUxSNzViNGRMU2RyelA3NWtHcmFEOTEwaFRvbllBN1FobXhucEpHUE8wTnZkam9kSHdTemc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "ddb652a89ef55cb018c4d5e2912cf63b",
+      "title": "Reportan influenza aviar en dos aves de zoológico de Chiapas - MSN",
+      "source": "Google News - México",
+      "date": "2026-07-05",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQldoT3ZnWTRYODktc2piaXNDTFdSdG9ZbWNEXzdBVG0tNVFFU3VFeTZHUjgzdVk4UlpaMV9sdDNudTE4LXpzbkhRMkdNT1NqS1RSX3VXN1ZNOXgxQVhlOGdoV1NXQnM0VlJyMTFqT25GZUU2a2Jwai02VG9hUVVERVNBMFZQeTNIaGMyUGxQZjNmd0FicC13RHdGRHd1cWE5QWZ0WTVtNWdxOWx3V1VTd3JweGRaVkI2RUZB?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "23b7914ebd52094a42bfd05ac877d0f6",
+      "title": "Pelícanos enfermos no tienen influenza aviar: Senasa busca qué está causando las afectaciones - El Observador CR",
+      "source": "Google News - Costa Rica",
+      "date": "2026-07-14",
+      "country": "Costa Rica",
+      "lat": 9.7489,
+      "lng": -83.7534,
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRnNtczZ4YXpFRVN5dXZfdHY4Q2xFcC01VVNiT29UWG9GYWJtZ2ZKbnQyRmNmdDFJWGw4S0pvRERJdlhVOWJaa2laMDZWSG5SVXkwTldwTTFSUGsyMTVrWGZSNURFUmt6ZlI0R28tdW9rdXRlOUVUSmxhdWVSU1p1ZFJ3SXdER0k3MVktUTlaSXBjX3JHZ2pDbEJHcTdWYzNYNkI0T0RRRGVnaHZrOWVBb0ZzeWZNdw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-14 02:39 UTC"
+  "last_updated": "2026-07-14 06:11 UTC"
 }
