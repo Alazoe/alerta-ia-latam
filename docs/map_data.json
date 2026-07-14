@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "3feffb381d120ae202e34e298d5bf3e3",
-      "title": "Argentina restituye su estatus de país libre de influenza aviar altamente patógena - Argentina.gob.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-04-27",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMEtpTVB4NGpHR2xKQ24yM1NGeDQ4Y0lXMnVLYVFsNl9GbFFFa3NyWVgzODhBMkk4enBDNVRrd1Z6QU5SRmx2VDJjZWFuMnVxY2hPb0NEM24tUngtSFFEMHlQQkJSSmZ6bFhaTXdqM3RCeEUwZEtwZEtDTTdLMklHTkJkSEVaR1ZMNGUzakg0WG1LYlJTUU9fWHY0Nm9FRHNSWjRyUmluWUNWS08yM09HQkRnVU96REJLMWpRbA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "5488193e8f1be17a3a69384899936857",
       "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la Región de Aysén - Home | SAG",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1lkaURjUlNRaHozNk1LMU52Ty1PQVQ1RVhvRFRGSDNzdzZhOW5vb1dLWUZBcDUxNHhwNGpJRFczVU13c281WnMtTDFNV2xNV2N2ME12QXVtTHJNNHZJNFp3aEdPT2xsVkRxME9aZWM2Y01UNndfTWVGZmZGSlAxV3VxRjBrbHFwZ2pDbjZac2xUMS1Ucm1JY0dQZ194SnhxTHg5SGRIQXZuMkF6YjFkd0ZFZzFQZW5GajkyMUhmLWQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "db1fab3673609483d57d743a8f16ce37",
+      "title": "Senasa descarta transmisión de influenza aviar por consumo de pollo o huevos: \"No hay ningún tipo de riesgo\" - RPP",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVU83SE93cTNBanItRWxpWUV1anJsWnAxaERkNDduUk5xbXVwU3ZlbkRWanJ4dmlDaDFQLXhENmM3MWR1RVNlY1BWclhTVmMzNEQ0SnA1cnBEMzI2dm1SM29mRTNFTk5RcHlqdmZVaHk5MHlpWTd2dzZ4dXdLQXM5cmF4Vk1tQ291ZTJCV0V6eWFWY3FFZGI1cWZFOVA2WHlZWG9Qc2pHMUwySzh6Qk5Oa3R4YUJqejlVWjBMQWhhRWd2T3MwejZCXy1FSUlxQUxReHFaRFMtZ3JzazRibk1RTVR4LTZrUDcy?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-14 17:16 UTC"
+  "last_updated": "2026-07-14 21:01 UTC"
 }
