@@ -1,54 +1,6 @@
 {
   "alerts": [
     {
-      "id": "060290f5c03c88d4217b9c23787c4702",
-      "title": "Argentina refuerza los controles en granjas avícolas tras recuperar el estatus sanitario libre de influenza aviar - Agroempresario.com",
-      "source": "Google News - Argentina",
-      "date": "2026-05-12",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOLVQ0UHMxTmJXMG1DOUl3cVBpYjk2NDFDQ3RHZzktLV9MSUVFX044cTZSTENrRDMtOE9aUnBKTmZYUlMxZHlzcHFDWWZxdGo1OUM0azN3RUZ6VnA5QlBSS1RldFVwWnZvQnMzem9WQTdSdHBlalZ1eDV3d3dCQS1QWjh1QllmcHFranVoc1JEUXVrUVpVMTdvVG9VUTdtZndjTjI5STJBdnJwUlBTSW1rY1dkQjBJcnRkMElqSEpFc3ZoSkI3Nms5QTJiWjExb1g0cHlHcE9jUjQwSFZ6M2xPejlsTFhvblIzTVpUTWZNSFRCWDJkNG5lU1U3b0huUFg1c0E?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "befdef25dd1f0dccac67a9c52f49acb4",
-      "title": "Detectan brotes aislados de influenza aviar en Lambayeque: al menos 128 aves murieron - Exitosa Noticias",
-      "source": "Google News - Perú",
-      "date": "2026-05-12",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcU92ZFRWREpRa1VGRmxJYTJFTHhrbFNzYTk2WllySkRvNUZGTzc5WjY3aFdBM21sSkpxMU5IRXVWMXVONVBIUUJ6bWJnS2JTaHN3cHBtLS1nMzRienZkck5INWh1R1FJNF9zQUtXQUp0X2FKZ0syMFFMNVJNb0tzZTJ3VFlqRE9ZWVQ5aVVLcTBxYjVHVzVtaEphNWVGM19KMHhzcjZqUDM4VDRsUGtoUE9QVWQ4M1FDTnJmX21nbi04Y3JpMEVSa2pYMA?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "236f8de1d02af83b3fcb639c29d85825",
-      "title": "Chile refuerza su escudo sanitario ante la influenza aviar con una respuesta intersectorial en terreno - Pan American Health Organization (PAHO)",
-      "source": "Google News - Chile",
-      "date": "2026-05-12",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHp6cDViZDV5T2xHZVZHcHZzTGZzeEFOZGZVUUhQeGVNZjV1Y2ZXeUY1UjRKTm1rNk44NnNYSG5WZkdIVTQyaGdFLTI2WE5mZjVYNjVXXzVkLVRVVTR2UXVkWmY3SE52SUNCNG5YY2d0Z0FmOTVZVDBkTkdqR3BSeU9DeHVZbzJoeHF2R0JFaVhHODl2aVVkb2dTMEZsdTdidi1hTFZISTREc29BVEwwTG9R?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "944f9512b79852f4e30efb16ffcac43d",
-      "title": "Bioseguridad: La primera barrera de prevención contra la influenza aviar en granjas comerciales - Agrositio",
-      "source": "Google News - Argentina",
-      "date": "2026-05-13",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSHloRkVBbkJFT3FPcFdKWmdILXc4eUFiNWZNZ0N0TTd5MGFMZWtYbDVFWDc5MjVNbzFCUXpQcXhrSUx3NVd1dlpUMGtacl9PMzFWLW9NOGJ0cFZFY0dZRnVRNjlLVUJCWjZCZDZKcmpBZDYwYTRHaHJ4MlRZTUJSOE5GSVFLdXdnOHFVSGNjNFBHWXVWZFZCeWVCcVRFTkRyUE53MU5ucnN0T2Utb0liQWcxcUJCSVRmQjhKalgwbW5idjhFeHBlbWFOSU1mS0lXTmJZbHBlQzIxS2c?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "da624a0f729aa53adbbc197103586707",
       "title": "Chile: la influenza aviar está afectando más a cisnes de cuello negro y otras aves de agua dulce - Fundación Terram",
       "source": "Google News - Chile",
@@ -3599,7 +3551,55 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSkFqNnZHS1pkbjZjT1RWNWdlZjJMLWw4TklDNkpVd1J0c21JbE5KSEFfZnlCTVlabF9lMHh5MTZlbnJDZWxRN1pLZkZranJUNDB6ZTFONWJHa2g0TmRycVJ6a2FxRlZqYldCUkpxZk5ocmRWTUt1V1hFc25QdFRpRk14UDNXNm02Y0JleElsdnVweHk5bGxYV2Rlc1FaS1ptRG9iMHlDMVdPcThZaEZ6dHhIS0tRS0RYNWE0UklBSDJRd2NGbTZWazNUSEZjZ0UxRkt5bGNFeHNtUGpTRHJ0ZjdFQXZBUQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "5cd64531a2d1fa89985f7e985d62c19d",
+      "title": "Influenza aviar: síntomas, prevención y ¿es posible contagiarse por estar cerca de aves de corral o consumir pollo? - El Comercio Perú",
+      "source": "Google News - Perú",
+      "date": "2026-07-15",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa0Q0Z3VGeHFpbllhdzZXcUNOV3dwd2cxaVNPdnUzSDJwUTZPN2NHMUJiN2l5SE5aV0Y4U3pQS2VZUXlocGIxREtlYmh6LWp2YnZQRDZHYWVMSlBHR3lzMk91QWJvbFRobEpWdE1UUFpaWnh5cnRKMFZmOXdSeVFqd0hQak1uMWl2VmpjclREbDFqZHM1cGhEeW1sWFVGMVAwMFBtRVZobnFlTXUtQzNLTEVXRWxRRzNRVzE0Y2Vfd1pjUXZmOWpRajJacXczamF6UHk5UXhNS2x4VEV2b2R6VA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "24ba949c0f3a497e5de1c15474d787fe",
+      "title": "¿Por qué Perú declaró la emergencia por influenza aviar? - Agrolatam",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdUZfQVc0Q1JLd1VHYWlPMXdWMDNkMWpBbXM5aktmN0RRTnNpejAzUVdLb2JQdUhoUS1sX1BFU1VGZ0JOaC02LWFIRW1oRkFJcjZIVWF0MEpRM1g4Mmw0RjgwN3Vtc0I5blRqdnkyYUpDWTNrTWEweFVmSGFYMEV1R0ZRQmllbzZQbWFzcg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "7186595c453b069ccee9089e8d829199",
+      "title": "¡Alerta! Senasa declara emergencia sanitaria en todo el país por influenza aviar en aves de corral - La República",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdlJicUV2UUVNd19mRlJPZU1wMDVvcWhhUVZtY3NvcjNQbWJCMmd0NC1DblpSSHJxMTB4WjJPMHlfaDBvVTRCa01TajVIc2xEcmtyVVo4bml1OUdYTGIyNjRSN2tiSlFXSWpDZVd3aDkwR3NXMDcwcHhYSkYzdFpSZFdncTZ3a2JnQ1VKVmtsU3ZFaml0UjNwV2MwYU9zeG5RdGR4SThUNmlGbGtON0c0QmZJYWV3YUJxbk14MGdKdzR6YUJyTHd0QmYyTTRhemFNSy1CVkxtRmVLSUFrc1lUU1A4cWNzeEJCQmlwU053QkZlVDdVRTl2ZjI2QTNobmJT?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "4cf60e21746a2ee03d80dc85bc695c17",
+      "title": "Minsa refuerza vigilancia epidemiológica tras emergencia sanitaria por influenza aviar A(H5N1) en aves de corral - Infobae",
+      "source": "Google News - Perú",
+      "date": "2026-07-15",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMktwN0FBd3NLWlJLMTVDeGxFNmhqaDNSNzh3ckU1NFFQOE1ka0Z6V3BCMHc0dDRfcG0tb2tRd0JMcERHSHFtako4Rl83RmItX0hCbm82Wk9Hb3g0MHVUZUItaGxMdjc5SG5iV0U0UzI0ek9LdllaMFZjcV81RFVNYllHRzkyekFtS2xfa05RMS0tNHdNOW1RTkdkNEpRakpQRkluY1BnN3NwSEVLTDVuMVpSOWNnZWhaMVhRVnhuQWtqelNRNk5RTGpEUVIzMWdVRW5Ua0stMGNFTEhKaFRLQ0ZQd2t5Z9IBgAJBVV95cUxOdTVETFJvZ0s5TnFhakRxZmxoZFZmZXdNN3VMV2I4b2xLOHp6Wm10MTIwYTVfMW9PZFhNUTdNNExEN2RJczFFSHZ3Rk1ZZ3RvZjctd3lCVGdOcTVsaUJTdXk1SFIxLWtycFVKUTFTVHFXUy1lVF9JVDZTeUY3S2ZPRFpQX0FIcEpZSXdlaUFqSXliMDkxWUlxNk53SDBFb2lwQkRRYzFCTWdmVENkcTluTHZKdWdNM1V2d1VuSlRWb1lCZFFXbngyUllkOVBXZ0l5Snl2LWxjSkh0SjNDcjNwb21DUUV5dGQ0Sl83SEt5SGpnOW1nRDlBRWhwbEFVcEw5?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-15 13:46 UTC"
+  "last_updated": "2026-07-15 17:19 UTC"
 }
