@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "f5c048eebf22999550510e2add52354c",
-      "title": "Detectan brotes aislados de influenza aviar en crianzas de traspatio en Lambayeque: al menos 128 aves murieron - Exitosa Noticias",
-      "source": "Google News - Perú",
-      "date": "2026-05-12",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPSU5US1ZQMmdVWkxDenVxcXVwRGljTnZEY19LRGdQaDVoWHczdjRmenIxWHBEaExuUm0zYnJ5NDVZUmRMcUFRZXN1d3l5YnBkOGNuckh2amlSZGRJQngyd2xXamxwaXZYN0tMX3hjd1FDWjhGU0ktVXdxdS1XVHNVT1Jkd1hUb0lEQXkwYzhJYkdhX2ZZRmR0MGJ6UHFUUkVHck9OSnRLSmlhb0JLTm53UHNheEtqc0p6blVzZDdISUZKT09ocFJnRm8zcVh4TmFsT0JCbmhkMFlRMEdMclVkNV9JS0k?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "8111a22216b76c105bc64dba19a1537a",
-      "title": "Lambayeque: detectan brotes aislados de influenza aviar en crianzas de traspatio - Agencia Peruana de Noticias | ANDINA",
-      "source": "Google News - Perú",
-      "date": "2026-05-12",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONm8tRWNzakV4aDQ1N012QkRFMjZTN0FCX1BEeGV0bUpMZDVJS3hlek9OYkl4MGpQNGpiSWNRZlZ0TU9SaDN3SHQyU1JaWnF2enNtQmlLNVBjVHVVNHJuUVRCS2dRb0JCMVRCUXhoUEcxQ1dpV09GNlFDazJZUkFsUXJETFpDcXVQUF9CVVBwbTNTdmtwZGs3V3hJTXlvYmZPY2JiYzd2cnVHRmlnUTFtZGRFRGQ1ZkJF?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "c30a064458465326912b01d586555c3e",
       "title": "Chile: la influenza aviar está afectando más a cisnes de cuello negro y otras aves de agua dulce - Mongabay Latam",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMDB6UlFhRVUxRGZaTkZ4ZDZyRDF4SHp1MmptVTkwQkZaUUJsTmx6S2k4TjBxaUNaRDYwQ01DbkFkQnl0VkFzcGMxZlpHMnVnY1BiM1NtT1lqSTEyV3hMSE5IMEgydkxURUtvRm1TSXNSVDNqc0dScE0xVHh2Zi03LVEzTzJkdw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "c096c2e2a9c3c76d3e7469642e52920e",
+      "title": "Consumo seguro: lo que hay que saber sobre la Influenza Aviar - Uno Entre Rios",
+      "source": "Google News - Argentina",
+      "date": "2026-07-13",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSGQ2QnBQMmRoMVFSTHgwcjg0NjVXTDNXNzVSM1NpQldrZ2xHWUZxNmplcDUzN0s3ZEZOaWxUUFN4TUdZSkZYR09JcERFeDllLVlsaUVpdWE2SUhKRjQ5LVdZQlktQXJXd0dmbV9vM2F0MVNtLTJRQnotWDRlVHhQOWtwUGZZV2JxcTZKRU5XenlBQzRyQjBVb3lrbmdRZ3B5YmVPOWw0MmRDU0pmbkHSAbMBQVVfeXFMT2NEM1ltcXB5b3BkNEV4U1VFdi1sU1VBWnMwdnhRM0FTYTZmMGg5YVJUODlTQmF2QkVhRXlhRUFTcF9RRVhDcU9odGZESVNsYjhueXduMzJwd0dIeUxKWnk5b3ByM0dlaHpFR2tsMkNNcTFsY1ZtNklJdFNHVUY2N3E5aVFCZi1PUlV2TkI0TXpyQ2luOWdFaUJYTDRKODdkczFNMjRWd3dsNWVmMk9uLVlGaDQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "56d7e911e35c0c98b858fb4954f5a4ec",
+      "title": "Alerta por gripe aviar H5N1 en Perú: La peligrosa “fusión” con la influenza humana que podría causar una mutación viral - Infobae",
+      "source": "Google News - Perú",
+      "date": "2026-07-15",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTDhiXzlBcWVYaDc5TGpSSFctQmNzVjBTTWhwV2w5SFY0RHhPdDVnQUNMR3NXNFRtanNaeFFTZXFoOUNHNUVOS3NrVHBXbGVWQ3dvTmVfVlkwcWc2dW5xem8yM2VCNG9pUVI2QVpsRVpHX21iUkhkVENJcU92YkVNWVQtLWp1YUZBSmVKRUlvMjZpQjFhd3VpOWFscFRQOTJ0RjdPX1ZHdWFucTlYekhfLThoZE8xdHc0ZEZGckRJR19FN2hnQlktRDlPWjc0b2ZzT3paVVRwUlVpTzRZWGhTMktkNmdBSkgwd1o5LUVn?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-07-15 06:18 UTC"
+  "last_updated": "2026-07-15 10:04 UTC"
 }
