@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "c30a064458465326912b01d586555c3e",
-      "title": "Chile: la influenza aviar está afectando más a cisnes de cuello negro y otras aves de agua dulce - Mongabay Latam",
-      "source": "Google News - Chile",
-      "date": "2026-05-12",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON0Z5ZkEzUlMzaVd4blduV0pCQ0hYN25yRkR6Y0NsOUJrZDNmUTQ3NHBVQl94ZVhPaEhDbThrUHRPSm9aWlIyeXN5NVlxckRnMG5NZEFJNkZXVGJkb29ib05IMEZWSWlDUnVXS2t4TzB6bmNGdXhkc0cyeDFaUWM4dHdBVHoyWU5GVnpKa3dFQ2tGeW1mNTQ3dXplZjZ3UktrU3c?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "060290f5c03c88d4217b9c23787c4702",
       "title": "Argentina refuerza los controles en granjas avícolas tras recuperar el estatus sanitario libre de influenza aviar - Agroempresario.com",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTDhiXzlBcWVYaDc5TGpSSFctQmNzVjBTTWhwV2w5SFY0RHhPdDVnQUNMR3NXNFRtanNaeFFTZXFoOUNHNUVOS3NrVHBXbGVWQ3dvTmVfVlkwcWc2dW5xem8yM2VCNG9pUVI2QVpsRVpHX21iUkhkVENJcU92YkVNWVQtLWp1YUZBSmVKRUlvMjZpQjFhd3VpOWFscFRQOTJ0RjdPX1ZHdWFucTlYekhfLThoZE8xdHc0ZEZGckRJR19FN2hnQlktRDlPWjc0b2ZzT3paVVRwUlVpTzRZWGhTMktkNmdBSkgwd1o5LUVn?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
+    },
+    {
+      "id": "b2a58f9d0e4422211ff40af60f2f90e8",
+      "title": "🔴🔵SENASA declara 90 días de emergencia nacional por gripe aviar, tipo H5N1, en aves de corral tras hallar un caso el 6 de julio en Cañete. La medida se da con el fin de proteger a la industria y genera preocupación debido a que podría afectar el sector. # - facebook.com",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPSkFqNnZHS1pkbjZjT1RWNWdlZjJMLWw4TklDNkpVd1J0c21JbE5KSEFfZnlCTVlabF9lMHh5MTZlbnJDZWxRN1pLZkZranJUNDB6ZTFONWJHa2g0TmRycVJ6a2FxRlZqYldCUkpxZk5ocmRWTUt1V1hFc25QdFRpRk14UDNXNm02Y0JleElsdnVweHk5bGxYV2Rlc1FaS1ptRG9iMHlDMVdPcThZaEZ6dHhIS0tRS0RYNWE0UklBSDJRd2NGbTZWazNUSEZjZ0UxRkt5bGNFeHNtUGpTRHJ0ZjdFQXZBUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-15 10:04 UTC"
+  "last_updated": "2026-07-15 13:46 UTC"
 }
