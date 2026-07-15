@@ -1,90 +1,6 @@
 {
   "alerts": [
     {
-      "id": "5488193e8f1be17a3a69384899936857",
-      "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la Región de Aysén - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-04-20",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdWViSHZaeVd4RjVXamVqYjVDcVhvS3FqdmRZZ25IdDkwRE1ZR2taazdIZ2xlMi05YUY4RTROSW9kTTVNR3llVHhBTlk3bXI0S1FzODNRZmFpTUFOVUVfV2hCdlZSM0ZJOGRFRnNObjNCek9DaFhFUEFaa2lESWtYV1gyVDd2aDVfdzNOb0tCdmFrZ3ROV1ZZZWZCTWdneTVsbHRRbWZBOXBzLUNDQ1JTUE5IMGVMaTBuOHp6dkVvYmJEd1JHblVlQ0x3UEY?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "0ceca7aa55f1648365eb7cdaa11f1595",
-      "title": "Alerta por influenza aviar en Biobío: académicos UdeC explican riesgos y llaman a reforzar medidas preventivas - Universidad de Concepción",
-      "source": "Google News - Chile",
-      "date": "2026-04-16",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTUxGUjFIQW9PS09vcVdHZHRGZVhIajgwNERxN0ZVR1NfSkRmbk9rNk96bWE3blVkMGlpeDhndXMwZnhlUkh5V3J2QnpVQl9YZHZKc3AzcDNlQXc5VTZWNmJBdkg1OXYzbVNUTnEwWWVkaDRoLVFoeElCT0V1ZlVQZHJ1b29JQU01UE1UZ0JSSTZndWYzYnpTcW5WS2N4ak5qSWN3TklQU0dSU2I3YmU0LU9LZVNmZEJXdl80dURFSTdEZUF3akJNQjZBelEwMVRH?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "d2a2f350999e54890c8afdf2ad632c20",
-      "title": "Bioseguridad: La primera barrera de prevención contra la influenza aviar en granjas comerciales - Argentina.gob.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-05-11",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZDVIUjhLZ0J6ZmNhaTdQNE5OdGtDOWhjbjVxZC1fOFgzZ21lR3ZZaU9wV0E0RUVKTVZYTFZ0N0FNQ1A5LTFxaFdvdnhLZ2MxUEdXR0NERUZfZUlRZ1dJUkZRNFlUeFNzbVdjamh2bFh3Nm5kRmcwZzVacVBjV2YzRWRpa1RUVEh4RWhzeEdTdDhrWXVPZTlsX0FUOWNlMjdxTm41SUYwYzRLTHpMU1NzS3VxMjYtMkpHcjhKZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "ca7822bcc3cb1aec0bb2b638efc687e6",
-      "title": "Insisten en reforzar la bioseguridad de las granjas para prevenir la influenza aviar - Dos Florines",
-      "source": "Google News - Argentina",
-      "date": "2026-05-11",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUDRHYy1VT3hEWkpsSkVIOXNqT1NZaEpaNnROc0ljUXp2Tm1WeGVWc3pzR0Nvcm5aTFlIS0ZsRlNkazA2WEJFX3RFaVRHUmJfWU9LUHZSSUUxVGk1ZWJmcXVlRkV6TFl0VERWMjZ5dVNmaGQzLUxKcWhwZ0ZNWmNvVVVOUHZ2Ykg5eFJaN0V3Q2JzUklNYkNwTEd3SHVpMWZHX2RueVNoWjU5bW93azlsbW53?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "de73520e5aa4a58ef898ea9bee54c412",
-      "title": "Bioseguridad: la primera barrera de prevención contra la influenza aviar en granjas comerciales - El Ojo Ameghinense",
-      "source": "Google News - Argentina",
-      "date": "2026-05-11",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ0pXQldpU0w3VXpXOHdXcDJ4WTZiMGxxWnpLSjVhZGxlakg5cklFT00wbjd1SGtueUlPelQwMDhOTFFHNXNZQTEwbkptc2hfdFl6eUVUZ3NMbXZyTzZqVy01cmsxQlNaMjQ0VlFyVHZJVjEzTVJ2eG9RLUc4NEhwTzJiUjBXTlNMSlJlZmVaaHRjVEIwU2QxeVkweXVXeU41bFhuN0lSSWFsc1VyVElMOWhPOWdJWjlaV1hOMDNUa0M?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "ace84108ca681e5c1953be34dc4ebc9f",
-      "title": "SENASA pide reforzar la bioseguridad avícola tras declarar a Argentina libre de influenza aviar - Cadena Nueve - Diario Digital",
-      "source": "Google News - Argentina",
-      "date": "2026-05-11",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb2tFb2xCeXZqRHVUYnBVWkxQRzlzaTlRYnV6RWhkV21jUXo4UHBIY2t6UWNzZld5NlFDQTV4aXZNb0tJTFdQeXZMclRwX2dZU3A2a1pxb3J1cmhvOEcwMFZ4Q1hkY2hmdTAxeGxyUU90dzhERkVYY0daVEFiZjEzQ3UxYWxfazZSRWQ0OGo2R0xKSTZoU1JFQTd5MEhtTWIwa09GcTAxNkduUlN1cFhIa0hWaGRrYWhuLUNPaDZSMjc4aVZoMHFPdXZ3ZEFuMWc2?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "10141eeab7f67d4a928f8e1e60cf5597",
-      "title": "Brasil fortalece la preparación intersectorial para la influenza aviar con el apoyo de la OPS, el Ministerio de Salud y el Banco Mundial - Pan American Health Organization (PAHO)",
-      "source": "Google News - Brasil",
-      "date": "2026-05-06",
-      "country": "Brasil",
-      "lat": -14.235,
-      "lng": -51.9253,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRndNWWplbmdaM2VZczRvUlVPS0FPb2w4M0F1RV9hMVZENEFEVkFRS1VTck1KZjgzZG5aN1cyT05aZWYtemcwaVNLR0RESzRIV1hTbjRyUHQ2cHRUd2pjWG00WTRMWGdWSm9mOU5MZ0s5RFJ0dE11TDVMUHhuc19kUzlWbGpGTllwT0dGSWJwSlotZ3lvUXY2VFV5WHo1bDdvb1dzR2VpVjgxOEVuY0hSOXNOamFSQV9vNTNvSA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "f5c048eebf22999550510e2add52354c",
       "title": "Detectan brotes aislados de influenza aviar en crianzas de traspatio en Lambayeque: al menos 128 aves murieron - Exitosa Noticias",
       "source": "Google News - Perú",
@@ -3599,7 +3515,91 @@
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVU83SE93cTNBanItRWxpWUV1anJsWnAxaERkNDduUk5xbXVwU3ZlbkRWanJ4dmlDaDFQLXhENmM3MWR1RVNlY1BWclhTVmMzNEQ0SnA1cnBEMzI2dm1SM29mRTNFTk5RcHlqdmZVaHk5MHlpWTd2dzZ4dXdLQXM5cmF4Vk1tQ291ZTJCV0V6eWFWY3FFZGI1cWZFOVA2WHlZWG9Qc2pHMUwySzh6Qk5Oa3R4YUJqejlVWjBMQWhhRWd2T3MwejZCXy1FSUlxQUxReHFaRFMtZ3JzazRibk1RTVR4LTZrUDcy?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "91d62675c67f0efa800609e6b0fc1799",
+      "title": "Perú activa una emergencia sanitaria por influenza aviar y refuerza la protección del sector - Agrolatam",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejRFX2dhU3NoSFZxMHJwZEFuZjhlZkljMml3X1VoYmVhWnJDa3p1MjJTa183NEJDQ3BVYzJUaUZ3YVFYUW9jMUhOWmNSREFYQ0JPOFFWekV6bHg5TWJGbnNoUWNqbUtuMFk3aEd1T2g2QzFJUG9BcmwwaTZ5b19qMlJxM1AzN1JlelJGbkJxY0pMYTdFTms1TUt3?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "48056eafec533e84231dfcfdaa46888d",
+      "title": "Perú: Declaran emergencia sanitaria nacional por brote de Influenza Aviar H5N1 en aves de corral - avinews.com",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeEZaX0NDcHRPQl90TVUyZXB6ZEpHaURKejdydkpLNnpocEprZk4zS1BWMXlQQTBIUzNDMXZZbkRCZGtkV29DR1BYOGs5X0d6S1llbXNPZEZGR08wdVI4b2w3ME04dnNfU0tyeGw1RDhGaGZhQXh5enUwSUFjbzhKeWgwRFVNb211U2ZGdVg1a1RtMzBKdXFXUnpaRHdKclZuRWlkSFpJMkpCMENqcHVNVFpPOXpVVU0?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "333712b2e59481edaf937cc4a63d77be",
+      "title": "Perú activa emergencia sanitaria de 90 días ante brote de influenza aviar en aves de corral - Cadena 3 Argentina",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVG9aSDZieFg1a19IQ0NyVFg4d05nV0RzMkF3WVFtQUpLWndGRURqcDlENGp6TVhOMzBVc3pHbkVnSWMzd3h1a2xoVnluY0F2aC1aODNNNTc0WkNrSG8tQXl5UUdha0YxNXNwbFB0aDdvS0F0Z0RWdFpDOG9sR2RDSE16YnRSdmFTRy1PZWVseklWbVhUaDVISTd2RHcwZnpHQUhGZ1BHLVpGVXNha29HQ1lMRVBuY2RRcFJuamVYVWhIUDdMVGFlRTdOTktReFNMQ3fSAdcBQVVfeXFMTWY1YVp0Vm83ektRa3dOVm0yRWFnTGxvaGZPdWNZSDAtLVVyLXBjNTBUSTFZNU1hYnNtZ3dsZmFsdExSeFJCM2JhcTFkQnVZOS0wb1VhVGF1YjU2TnBXMnNsXzcxQnRQYnN3U1JIQWJJTDFZWHBOOG4wT0ZsRlVMSkhaQ3dKcndjcmZQNXYwQlBKWUtkUzR3bjhGNUJvVU5pcjgzc3pSbGJhZUUxVXFFRkhYbHN0T1dyZ1hKUXU5OGJNbkRXdlVuTjJLVEd5RVJjQlZ4dlhGbVU?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "0c5c6a08210e89f7adb1bcea69e7a7fe",
+      "title": "Emergencia sanitaria por influenza aviar por 90 días - El Peruano",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlN4VUN6cU10Sk94LXAwWDB2ZEI4REtRZFpkQTVhdldBN3NfSE9kcER6dEpndUppS2gwaGlCaHpxWHpaaDdqNGU0NGRzSjAxbkNjbmJVOGF5T2lnQkpBNFJYLTFJTnNlLW1uOF9WVkVjLXp5dW9Sczk3Q3paT2t3LTJOSmo2aWt4eThEMXVJM2dJUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "e9f5d4ef56d98e406af74cb83f095f46",
+      "title": "Alerta por gripe aviar H5N1 en Perú: La peligrosa “fusión” con la influenza humana que podría causar una mutación viral - Infobae",
+      "source": "Google News - Perú",
+      "date": "2026-07-15",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTDhiXzlBcWVYaDc5TGpSSFctQmNzVjBTTWhwV2w5SFY0RHhPdDVnQUNMR3NXNFRtanNaeFFTZXFoOUNHNUVOS3NrVHBXbGVWQ3dvTmVfVlkwcWc2dW5xem8yM2VCNG9pUVI2QVpsRVpHX21iUkhkVENJcU92YkVNWVQtLWp1YUZBSmVKRUlvMjZpQjFhd3VpOWFscFRQOTJ0RjdPX1ZHdWFucTlYekhfLThoZE8xdHc0ZEZGckRJR19FN2hnQlktRDlPWjc0b2ZzT3paVVRwUlVpTzRZWGhTMktkNmdBSkgwd1o5LUVn0gGIAkFVX3lxTE5BcVpFb0txMDd3eFp4YWNqcmNMMEhVWEFGMGtuYzd5WXk0dk1SYmRhLUo3THNQcktJVkNac21vWW5Eb1pPVi1GQm5od28xS1hsYWtwTnJMNUdDNENNNEx2Q1pDTlBXSXlCRVlnSjFwWWNhd1NNS1pnMmtvT0hvRVptclc1amdmdXBPRDByeU1rTURuWGF3YnZmVG96XzFzSGVleXpGcm9teF9KWVdfdFl1dGNhY0UybnoyNnIwTFNxV2RZMVJ2WkRSMGt6WV9ZR2RLakFkSnJ2M0MzcWhxd21kWXpnRllCUlhqcGc4OXlDUWlyZkJneWpvSi1PWTU2WlNjcTRVN0M0NA?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "f03a5ade65d2ab26e5078d71a47b4443",
+      "title": "Alerta por gripe aviar H5N1 en Perú: La peligrosa “fusión” con la influenza humana que podría causar una mutación viral - Infobae",
+      "source": "Google News - México",
+      "date": "2026-07-15",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOQXFaRW9LcTA3d3haeGFjanJjTDBIVVhBRjBrbmM3eVl5NHZNUmJkYS1KN0xzUHJLSVZDWnNtb1luRG9aT1YtRkJuaHdvMUtYbGFrcE5yTDVHQzRDTTRMdkNaQ05QV0l5QkVZZ0oxcFljYXdTTUtaZzJrb09Ib0VabXJXNWpnZnVwT0QwcnlNa01Eblhhd2J2ZlRvel8xc0hlZXl6RnJvbXhfSllXX3RZdXRjYWNFMm56MjZyMExTcVdkWTFSdlpEUjBrellfWUdkS2pBZEpydjNDM3FocXdtZFl6Z0ZZQlJYanBnODl5Q1FpcmZCZ3lqb0otT1k1NlpTY3E0VTdDNDTSAYgCQVVfeXFMTkFxWkVvS3EwN3d4WnhhY2pyY0wwSFVYQUYwa25jN3lZeTR2TVJiZGEtSjdMc1ByS0lWQ1pzbW9ZbkRvWk9WLUZCbmh3bzFLWGxha3BOckw1R0M0Q000THZDWkNOUFdJeUJFWWdKMXBZY2F3U01LWmcya29PSG9FWm1yVzVqZ2Z1cE9EMHJ5TWtNRG5YYXdidmZUb3pfMXNIZWV5ekZyb214X0pZV190WXV0Y2FjRTJuejI2cjBMU3FXZFkxUnZaRFIwa3pZX1lHZEtqQWRKcnYzQzNxaHF3bWRZemdGWUJSWGpwZzg5eUNRaXJmQmd5am9KLU9ZNTZaU2NxNFU3QzQ0?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "9ba39de43163f666803c692d9ff5b497",
+      "title": "PAÍS REGISTRA PRIMER CASO DE INFLUENZA AVIAR - Heredia Hoy",
+      "source": "Google News - Costa Rica",
+      "date": "2026-06-25",
+      "country": "Costa Rica",
+      "lat": 9.7489,
+      "lng": -83.7534,
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMDB6UlFhRVUxRGZaTkZ4ZDZyRDF4SHp1MmptVTkwQkZaUUJsTmx6S2k4TjBxaUNaRDYwQ01DbkFkQnl0VkFzcGMxZlpHMnVnY1BiM1NtT1lqSTEyV3hMSE5IMEgydkxURUtvRm1TSXNSVDNqc0dScE0xVHh2Zi03LVEzTzJkdw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-14 21:01 UTC"
+  "last_updated": "2026-07-15 02:37 UTC"
 }
