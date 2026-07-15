@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "da624a0f729aa53adbbc197103586707",
-      "title": "Chile: la influenza aviar está afectando más a cisnes de cuello negro y otras aves de agua dulce - Fundación Terram",
-      "source": "Google News - Chile",
-      "date": "2026-05-13",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYXh4U1dqcDE3aDFmVEhxYlVPRVByUDVMOExXZE5FTV92VGtQMlMxV01VVEtTM294aTkyZHlLcU1PTjlHeU45RnZfYXl2U3Z6bGhPSnNvekJrSktPalpRclctMTZRNVgtWHAyT2FKenlLVkZmODlJbEFDakx4LVpCdm01alZ0ZDBaSkRoVFdJQm1POXYwS1RIT08xSXhsQjFrSGpHNmFDWmdlRXFjZEVXRWdzMmh0aHhsT2c?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "4971b9e0c7d0c9fcda1ff9f166de6957",
       "title": "Argentina vuelve a ser libre de influenza aviar y busca reactivar exportaciones clave - Agroempresario.com",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMktwN0FBd3NLWlJLMTVDeGxFNmhqaDNSNzh3ckU1NFFQOE1ka0Z6V3BCMHc0dDRfcG0tb2tRd0JMcERHSHFtako4Rl83RmItX0hCbm82Wk9Hb3g0MHVUZUItaGxMdjc5SG5iV0U0UzI0ek9LdllaMFZjcV81RFVNYllHRzkyekFtS2xfa05RMS0tNHdNOW1RTkdkNEpRakpQRkluY1BnN3NwSEVLTDVuMVpSOWNnZWhaMVhRVnhuQWtqelNRNk5RTGpEUVIzMWdVRW5Ua0stMGNFTEhKaFRLQ0ZQd2t5Z9IBgAJBVV95cUxOdTVETFJvZ0s5TnFhakRxZmxoZFZmZXdNN3VMV2I4b2xLOHp6Wm10MTIwYTVfMW9PZFhNUTdNNExEN2RJczFFSHZ3Rk1ZZ3RvZjctd3lCVGdOcTVsaUJTdXk1SFIxLWtycFVKUTFTVHFXUy1lVF9JVDZTeUY3S2ZPRFpQX0FIcEpZSXdlaUFqSXliMDkxWUlxNk53SDBFb2lwQkRRYzFCTWdmVENkcTluTHZKdWdNM1V2d1VuSlRWb1lCZFFXbngyUllkOVBXZ0l5Snl2LWxjSkh0SjNDcjNwb21DUUV5dGQ0Sl83SEt5SGpnOW1nRDlBRWhwbEFVcEw5?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "7133dae40f8107084ff13866669fc64e",
+      "title": "Gripe aviar H5N1 en Perú: ¿es seguro comer pollo y huevos durante la emergencia? Senasa y Minsa responden - Infobae",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTlLWm5BUXNxT2N1TGY5ekVjYkxQU0twRUdBblhQcjRGbmVibmpYT3R4TmY0S2J5WEx1a2dPd0t3Q2RqUE1wTEhjN2dwNTlTMDhXQm1RZ3F4ZXFkdXF5dWNBSmNyT0FQYWVDYi1NRjkzazh2X0tSUDRlVDVvUlhMa0lNM2dfdzF2RDl1SU9PS3RmUGYyRW1nbE4tTWNWNDU0MkFLYUxiU3h6QW5vdlVlajEtbElUVzBfX0xKbjFEUHNybkZFa3pwaNIB4wFBVV95cUxPaG0yOGN0MEVHLTNMRFR5MUt6OE84TV92cVZhOWc3Ry1KVkI0SDJXMFkwT25GaW0yRkpVeHNYYldpT012TnkyRloycER5YjlUZnlCcHZlQXdDOHpSWV9uNjd2TWJoME9tNlNlVWk5dFRjS3BiTTNoOHBmbG9jcVBBdEpERHY3ejl1RW1VdWhpQU1tdHQzRmpTdFBTREVndWNKYndBNFcwWHZRVmZQOTBkZndCZG0zSXdjbExjNV9wMWV0TElSQ2dVM0sxUWkxZ1otc250NkhtbWZPeGNLUXVqME1Bbw?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-07-15 17:19 UTC"
+  "last_updated": "2026-07-15 21:02 UTC"
 }
