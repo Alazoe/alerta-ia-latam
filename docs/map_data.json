@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "e07791b052f7ccacb0877aab87493475",
-      "title": "Influenza aviar en alerta: industria teme nuevos brotes y endurece controles sanitarios en Chile - seranoticia.cl",
-      "source": "Google News - Chile",
-      "date": "2026-05-15",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZDBVRnRHQk1wS1lYLUlmcTJiUzNpWml0SUdqVDh0cUUtbWVJWHdIWUJPQ2w0YWF6QnVwQ2ZjMzg5TGxkWDhmZGxsb1JuR2trQ0ozOXJoZXNIWDhWQXFpZmJCamZ0aXphY0hSTGd4cGx0eU0zV2VzSXpla3VaaElJMHFWbFZGZGstU3VKVENTOUgwb3puTjh4Q216UUI1aGcwNmd5cXRfc0JMUkgxYmpHejFoUFZGSnNUbXE3RjN1enoyZHhzM2JDWTNB?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "d0dc7f45e63ff29925edf9589848c8e9",
       "title": "SAG habilita a laboratorio U. de Chile para realizar diagnóstico molecular de influenza aviar - Universidad de Chile",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3RzaE9oZ1V3U24ydXhHa0tqV3N0QXV4dmMyWkhlb3I0SHBKOEMwQjJWZWQtaldJcmQ3MnY2eG5mUDBoRW52QnBydWZzRkVMQnd4SFAzQ3lwN2piakFDYU1XNHBHczk3RUdvNzZRdUd4ckdESWRxam5LSEZPMFNlaFVabGNSTHYwNGJXbkxpaGZXRkp4elA2YjRPaTlyb1gxY0RSUXB1WDUtY1JIc0xVZC1QdkVaLVJHSXl4QnRHZlktcmdUZm50MjlFY1prVlp3SnlIc0NPREFUWG41?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "a3052791c00e19fadf68bfdf64b0949c",
+      "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la Región de Coquimbo - lavozdelnorte.cl",
+      "source": "Google News - Chile",
+      "date": "2026-07-16",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMEtCTjFuX2xybjNCNFN1R1pMdk9HaVBWR01ldFZQbUp5ajZXanY3Z1k1SUVDNmNqNHdWQlkwc0J4bkg5Z2JZSml3bUFBX2NVclU1cXFZNEVnb19iUDc3YlBMRzhWMnA4TGNrRi1iOERkTHBsTzlGNmV1Y1dhVUplQkNLLV9BVmI4QUo5VFVHN3NhemdrYzA5ZkNDd2Uyb2N4WURNYkVfMVBEOExxM2FuY1J3WnltNmd5ZXI4MWtuZXVQekZteHZsdllEOUFKVDRWdmFZODk0amk1dw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-16 13:56 UTC"
+  "last_updated": "2026-07-16 17:18 UTC"
 }
