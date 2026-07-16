@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "4971b9e0c7d0c9fcda1ff9f166de6957",
-      "title": "Argentina vuelve a ser libre de influenza aviar y busca reactivar exportaciones clave - Agroempresario.com",
-      "source": "Google News - Argentina",
-      "date": "2026-05-13",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZm8zNjZ4dEVUc3RqNzYtQ2NESHAxSDlwWWxIb09lYlN0RFNPTnJrelU4WkNFTEJFaUw4dU9wTmtrREt4NzcxRDZGOFg5akJyVnJpSzlGbjlVVE1QdTZLaW5nNVpLakxHLVFITGwzWVI5VmFqQkJSYjA4RU01REk4ZGRWVHFZZWcyUHBSUHQwTy1TaERWMm5aNkZKd2ZMMnpiOU83NUFVTlFSbjg0eEx3NWs4UHBhMXVmTlc3bDdDRnVncGFxbW5oakVoeFE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "a3356afc5b26e9279b30ecd8d1aa6d3f",
       "title": "CHILE EMITE ALERTA SANITARIA POR INFLUENZA AVIAR EN PERÚ (27Mep26Flc) - Fathom Journal",
       "source": "Google News - Perú",
@@ -2629,18 +2617,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "f4635a7819cd51ba3ed885c67e0d36a4",
-      "title": "SAG confirma primer caso de influenza aviar en plantel comercial de La Araucanía - Meganoticias",
-      "source": "Google News - Venezuela",
-      "date": "2026-04-17",
-      "country": "Venezuela",
-      "lat": 6.4238,
-      "lng": -66.5897,
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTktnNHRmYllDWFpYMExDX1IxRG4ta1RhT3h2SnNrcm1nTTkzNzhnUkt5bnI1NFptNEJSRmNMLVk3X1BOSDNDWm5MR1lZUDVoNEVIX0FMemxaV3NNLVV2UmNmaWVYN3Zfc2RhM3I1NlFSMlhkbWlKMkFNYjhqSGttWmpudTBBb0RabVdaVVBYc3ZsR1RXd3hyMy1kcUlDUVNZMUJsbDV1QXhLQTN2WG5TY3dwSVhTdTRGSUZaRThndWl6TVMzQU02a2FIN3RqcnY2VnNXTkd5UzPSAd4BQVVfeXFMTVRCZTUySnJ0OEttdW9wUkVfQ0hIaklTRDdQU2lVSHRzNWVWcVhBdnBPNENmUFlTSE1nNHhaYTlLa3NWU0VTaVptdGs3eF9MWHF5WkprbFY5RGR0dUNwUFh5VXdLempNODF3SXA1SXZLY3RWT0tZbDlNTm9IWndabEhSTmxpb1dIZDNkbVdIZ1hvV0lMdm5BbHNRVG9mek1yNDhLbHE1V3NHbU1CWEthTkNwZE5UdkNnTlhwUmstUWJtT3VXZFpyeWt0YWFranhKdUw3SWZYczdiQjV5S0Rn?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "5cb508e652fb1b206b031d55bf7c35d1",
       "title": "Argentina recuperó el estatus libre de influenza aviar y ya exporta a más de 75 países: cómo lo logró el SENASA - Ruralnet",
       "source": "Google News - Argentina",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTlLWm5BUXNxT2N1TGY5ekVjYkxQU0twRUdBblhQcjRGbmVibmpYT3R4TmY0S2J5WEx1a2dPd0t3Q2RqUE1wTEhjN2dwNTlTMDhXQm1RZ3F4ZXFkdXF5dWNBSmNyT0FQYWVDYi1NRjkzazh2X0tSUDRlVDVvUlhMa0lNM2dfdzF2RDl1SU9PS3RmUGYyRW1nbE4tTWNWNDU0MkFLYUxiU3h6QW5vdlVlajEtbElUVzBfX0xKbjFEUHNybkZFa3pwaNIB4wFBVV95cUxPaG0yOGN0MEVHLTNMRFR5MUt6OE84TV92cVZhOWc3Ry1KVkI0SDJXMFkwT25GaW0yRkpVeHNYYldpT012TnkyRloycER5YjlUZnlCcHZlQXdDOHpSWV9uNjd2TWJoME9tNlNlVWk5dFRjS3BiTTNoOHBmbG9jcVBBdEpERHY3ejl1RW1VdWhpQU1tdHQzRmpTdFBTREVndWNKYndBNFcwWHZRVmZQOTBkZndCZG0zSXdjbExjNV9wMWV0TElSQ2dVM0sxUWkxZ1otc250NkhtbWZPeGNLUXVqME1Bbw?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
+    },
+    {
+      "id": "75ad57cce674414a6c18341828821dd8",
+      "title": "Emergencia sanitaria por influenza aviar: Senasa reporta aparición de un tipo del virus H5N1 en aves de corral y evalúa medidas - Infobae",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWk1LYWF6Mk1meE5hbFAzaUh2aUNxYy1fWXgzNWl4ZWdWcGZneEQ2QnVDMVlVR1E0UDN0TEp1d0xOLTE5eVVsTHc4Si1GRW5MSUVDRlJMSGpZVldzenFYWjZKVFZnOC05OVRMYV80RHg2YVNrT2p0WGRIaFJOM2JWc1M2TEV2M29INUt5dnc3Mllib0oybHlWSE1USUNWb1hBT2lZbnVyYTVwU3lKMTN6bnlkYmxZZlhsVm13MUdCcnRFQXczU2VqTjg0VUtocnhHTEFQNzloNTJ2ZjctRGh2WDFBUm5aNVF3cHdnODBQRVlaMWJqVmI1UF9ndkM3TUF0OFplcHBrNTNwNlVlRVZpRnZTb2JyQdIBlgJBVV95cUxQWk1LYWF6Mk1meE5hbFAzaUh2aUNxYy1fWXgzNWl4ZWdWcGZneEQ2QnVDMVlVR1E0UDN0TEp1d0xOLTE5eVVsTHc4Si1GRW5MSUVDRlJMSGpZVldzenFYWjZKVFZnOC05OVRMYV80RHg2YVNrT2p0WGRIaFJOM2JWc1M2TEV2M29INUt5dnc3Mllib0oybHlWSE1USUNWb1hBT2lZbnVyYTVwU3lKMTN6bnlkYmxZZlhsVm13MUdCcnRFQXczU2VqTjg0VUtocnhHTEFQNzloNTJ2ZjctRGh2WDFBUm5aNVF3cHdnODBQRVlaMWJqVmI1UF9ndkM3TUF0OFplcHBrNTNwNlVlRVZpRnZTb2JyQQ?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "33d0527414510cbfa9f9be0bc4d6d040",
+      "title": "Bolivia se declara libre de Influenza Aviar de Alta Patogenicidad - elmundo.com.bo",
+      "source": "Google News - Bolivia",
+      "date": "2026-06-11",
+      "country": "Bolivia",
+      "lat": -16.2902,
+      "lng": -63.5887,
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT19EWXFuWEJuTnFwTWNIVUU1UDByMFhoRmpxUnFUamFwTDZob3cxRXhaRjFHT202bmRFdWRCWHVDaGxTWTdIMUNjUHdRUzVqbGx6OU9CVkNITDZVOTc1UTh4UFVOQzRGay1WVTRyZHRtN2NPTkc4cldSeWhOQnVhakZkRk56NUFETmpob3IyeTk1Tnc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-15 21:02 UTC"
+  "last_updated": "2026-07-16 02:45 UTC"
 }
