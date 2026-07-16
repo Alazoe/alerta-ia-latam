@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "8e8579e78181675f9a8ba2ae4f62c868",
-      "title": "Alertan complejo escenario por influenza aviar y refuerzan medidas de bioseguridad - latribuna.cl",
-      "source": "Google News - Chile",
-      "date": "2026-05-14",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNb28zVFk0OTNJUnRoQldud3ZnOHBfeGFwU2NKS3BGbGJoV2NpZDFCaFQ1SWRiX0hIMWM3YkM4a2ZPMm15R0NhYjFqUzFQQ0x1OTBjV0d2LWp1aEprZFFMMXhmMGJBcl9ESnNJalBGNjY2VmttRGljQTFyQkhjRXNzc0NEdjNucEJISXF1M0NPNDhoUmZBdXJYYVBuTWV5X09kSDdqdlljdXBmdXk2d01ZZW9JbWV3TmNtNVRQM1VUVDJnQm1PODNrWDdlbG11d0JyVmfSAdoBQVVfeXFMUHNrcWRfRnQzeG1GczBNV3lnblBTdE5lRzM4QUthVnhnWjRvWkp6aEhWcHRkelFEOFJsQ0ViMHUzaV9xc3ZXUGZKYmJDTVMzQTE5UnZzdG5TM3RhMThwUl9mWTRoaVNFbHdBZmlhNG14aDYtNkhhUVJVaE5GV2RQcmZwbXRHSDJtc1RBelc1OHZja0tJWTgtdUJCQk95X2diLU8xTV82XzFDMVdFc3VzZDhhcHpuRUpBS0NGRlZjU3F6enc1dUJkLXIzYUFJdkxMalRNcVRKVjRtVkE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "e07791b052f7ccacb0877aab87493475",
       "title": "Influenza aviar en alerta: industria teme nuevos brotes y endurece controles sanitarios en Chile - seranoticia.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVkFrTDZqekdzX21Lc3J3d0F4S2hXd0hFSHF2aWV5MVhNeDRPN05LYl9KU05BSXNVNmVKeFV4UlhueTZFa1dPNklTNGg3bXF2MDNkMkEzajlZNlRDeGpzZzZTR2EwMmdOOXZnXzZjd1NWeHI0NVVXaEE1djd6eGRjWjR1Z0JPVDJ3NWZFbl8tUGs5ZmY1c05YSkNQQzdqMGtwcXlXYXRpYzRKc3pZZkl2OG9QM0tmcTZJNkxJ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "83f38603dab8571871bb85048cca2777",
+      "title": "¿Subirá el precio del pollo? Esta es la “capacidad” de Perú para responder a la influenza aviar - Gestión",
+      "source": "Google News - Perú",
+      "date": "2026-07-16",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3RzaE9oZ1V3U24ydXhHa0tqV3N0QXV4dmMyWkhlb3I0SHBKOEMwQjJWZWQtaldJcmQ3MnY2eG5mUDBoRW52QnBydWZzRkVMQnd4SFAzQ3lwN2piakFDYU1XNHBHczk3RUdvNzZRdUd4ckdESWRxam5LSEZPMFNlaFVabGNSTHYwNGJXbkxpaGZXRkp4elA2YjRPaTlyb1gxY0RSUXB1WDUtY1JIc0xVZC1QdkVaLVJHSXl4QnRHZlktcmdUZm50MjlFY1prVlp3SnlIc0NPREFUWG41?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-16 10:10 UTC"
+  "last_updated": "2026-07-16 13:56 UTC"
 }
