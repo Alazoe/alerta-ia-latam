@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "a3356afc5b26e9279b30ecd8d1aa6d3f",
-      "title": "CHILE EMITE ALERTA SANITARIA POR INFLUENZA AVIAR EN PERÚ (27Mep26Flc) - Fathom Journal",
-      "source": "Google News - Perú",
-      "date": "2026-05-11",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsMk9EaUE0LUhpRHh1Zk5NOG9mRTZTVkhMSFpDalRCeElIaU1KckFadGRnN3BwSUNZTXZkaWpydklLeWJiN1dKNF9QbFVlcW8zTmhaV25KOVF1MTRGMDZiejhEaW1uNmtHLVpiZWFuOFJkQ05SVFE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "504c645747e5a1678135d2505b7c502d",
       "title": "Detectan brotes aislados de influenza aviar en Lambayeque: al menos 128 aves murieron - AP Noticias Perú",
       "source": "Google News - Perú",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT19EWXFuWEJuTnFwTWNIVUU1UDByMFhoRmpxUnFUamFwTDZob3cxRXhaRjFHT202bmRFdWRCWHVDaGxTWTdIMUNjUHdRUzVqbGx6OU9CVkNITDZVOTc1UTh4UFVOQzRGay1WVTRyZHRtN2NPTkc4cldSeWhOQnVhakZkRk56NUFETmpob3IyeTk1Tnc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "1ab6d4972ab4f101a879f2768f467d80",
+      "title": "Emergencia por influenza aviar: SAG pide evitar contacto con aves enfermas - tiempo.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-23",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ3M1Ml9oNGx4MUd2Sms4dWVaQnRfbWNqM2tGMk5JZGZGNVltME1vODdoYUZVbFdmUFp0YWlqTzhiYWtBc0hKNktfanZVY2R0T0dnS1NxaktDYkNpNzk3bFdhbUNSaFZzQWxVTzhTY3Z4b0REbzM1aHdNMV9IMVhQTmNTSGUxN1VadkN2LVdtOGplYU82LXV5Z21MeXlxSklVNXVDR0hJYw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-16 02:45 UTC"
+  "last_updated": "2026-07-16 06:20 UTC"
 }
