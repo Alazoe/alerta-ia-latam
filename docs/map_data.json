@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d0dc7f45e63ff29925edf9589848c8e9",
-      "title": "SAG habilita a laboratorio U. de Chile para realizar diagnóstico molecular de influenza aviar - Universidad de Chile",
-      "source": "Google News - Chile",
-      "date": "2026-05-15",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOVUlMRmxsYWpaLWtacnlfMVFiQU5MSlp0Mmt0bHM0ZC1MSXZfMS03Q1R6Q2N6TnNjWUR5WUFWMVdaZ1RpQUM0UmwxWUh0WkdZaER4bG00OS1RbTJ5OGFQUWNiMUx3Z3ZFcXBiWV9VTDFOTlRYbWFjcUt1NENCa25jc0tkN1h4OExiV1htZDlqWHF2RHY0WHcydkZ1WnpyXzlNNTc1MGJIdw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "99924b811a7767b1563e324cfbd035d0",
       "title": "Profesionales fortalecieron coordinación para enfrentar la influenza aviar - conaf.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMEtCTjFuX2xybjNCNFN1R1pMdk9HaVBWR01ldFZQbUp5ajZXanY3Z1k1SUVDNmNqNHdWQlkwc0J4bkg5Z2JZSml3bUFBX2NVclU1cXFZNEVnb19iUDc3YlBMRzhWMnA4TGNrRi1iOERkTHBsTzlGNmV1Y1dhVUplQkNLLV9BVmI4QUo5VFVHN3NhemdrYzA5ZkNDd2Uyb2N4WURNYkVfMVBEOExxM2FuY1J3WnltNmd5ZXI4MWtuZXVQekZteHZsdllEOUFKVDRWdmFZODk0amk1dw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "5e97c65766e6daa11daf9fc46fae6211",
+      "title": "Nueva Zelanda enfrenta amenaza de influenza aviar endémica - radiohc.cu",
+      "source": "Google News - Cuba",
+      "date": "2026-07-16",
+      "country": "Cuba",
+      "lat": 21.5218,
+      "lng": -77.7812,
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBEUWZoaVNvRkhhSTB4U05GWW5fYVNpWUJDMF83V3BvTDUyS2kzc3NxQzMzalJ6WFVsVEEyWDVPTGFJM3pFMFE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-16 17:18 UTC"
+  "last_updated": "2026-07-16 21:01 UTC"
 }
