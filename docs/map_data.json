@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "2b099fd6006ee3f4bb8a8807e3b870c7",
-      "title": "Chile: la influenza aviar está afectando más a cisnes de cuello negro y otras aves de agua dulce - terram.cl",
-      "source": "Google News - Chile",
-      "date": "2026-05-13",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYXh4U1dqcDE3aDFmVEhxYlVPRVByUDVMOExXZE5FTV92VGtQMlMxV01VVEtTM294aTkyZHlLcU1PTjlHeU45RnZfYXl2U3Z6bGhPSnNvekJrSktPalpRclctMTZRNVgtWHAyT2FKenlLVkZmODlJbEFDakx4LVpCdm01alZ0ZDBaSkRoVFdJQm1POXYwS1RIT08xSXhsQjFrSGpHNmFDWmdlRXFjZEVXRWdzMmh0aHhsT2c?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "fd0746556ace91a33944e9a542ffd66e",
       "title": "Lo más leído | La tragedia de decenas de osos perezosos exportados a EE.UU., influenza aviar mata a aves en Chile, el extractivismo en un corredor de pueblos en aislamiento en Perú y más - Mongabay Latam",
       "source": "Google News - Perú",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbFp6Y3pZajFocjNUdEV4Q3FnVnZ1eHE4SUgzNDRyNkR5QUxJc0lCZmFuWVo0cXIwV1Y1czdvWGhjc2YtYVJzX252ZkFQd1lQaHhwV2lTVHYwM1NscEN5aW8tcU9Dbjh3ejFwa0oxeFRmUmthSzhVNVpyeW1DN2JURkVTWVJkU3ZzRzMySVFpWXAySlA0c3luOEdaQVlVTmI4WUg0SEF1bkVBelZ6b0JuUU13Q25LZ0NfbFFBUGluSi10cWFPNmotU2tUY2lJWm_SAc8BQVVfeXFMUGxaemN6WWoxaHIzVHRFeENxZ1Z2dXhxOElIMzQ0cjZEeUFMSXNJQmZhbllaNHFyMFdWNXM3b1hoY3NmLWFSc19udmZBUHdZUGh4cFdpU1R2MDNTbHBDeWlvLXFPQ244d3oxcGtKMXhUZlJrYUs4VTVacnltQzdiVEZFU1lSZFN2c0czMklRaVlwMkpQNHN5bjhHWkFZVU5iOFlINEhBdW5FQXpWem9CblFNd0NuS2dDX2xRQVBpbkotdHFhTzZqLVNrVGNpSVpv?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "7d517f472f7cc48a8c81873de931d773",
+      "title": "Perú declara la emergencia sanitaria tras detectar un brote de influenza aviar en granjas de Lima - Agritotal",
+      "source": "Google News - Perú",
+      "date": "2026-07-17",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXNUSXYyMHNCTEZIajlYT2xjRVlaZXB6d2JlQ1ctRWtpZXg3LWJWYkM0emFRUnJGWHJjbjM0VDVCU1RZbnJVSWRxS0FKeXVRa0FvVU5Hb2tkZUdWVnl0dldEUVZBelozYXh6ZDQxSTlObHo0QS15S0JhVm5Ua0t2eWRKNVRrR1B2NERST2JwX1U0VFlHLW94THRvSktsaldpcVd3VDhWclVFVmtMOEZ2b0txdXJiVXpieWpnclVDb2RkZHdJTmFKMnVKWGEtcnc?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-07-17 13:42 UTC"
+  "last_updated": "2026-07-17 17:14 UTC"
 }
