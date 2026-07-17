@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d992990301e90db5fe1a51814823107a",
-      "title": "Laboratorio de la Universidad de Chile queda habilitado para diagnóstico de influenza aviar - reporteagricola.cl",
-      "source": "Google News - Chile",
-      "date": "2026-05-15",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSEs3ZXBEV29WQUdHcjVDRWZGd3g3dVhBYzBVYlh1UDg3c0g0VXJqMDhJVHdfUGZHcVBxZ0l6bG1XV0J6cDY5c2tPQ3RaNkpnNXdubVZVcUlaRkRVcWNzQS1hdUtHVFBVTklYNkFwX2dDZkdZNm5qbTdwOXlqdTVjVThMYjVSR3lZemhZVHFuUEpDVEtpQW5KOXcxUk5ZOG1SM0ItbV9lVTdBb1NoNmxYMl9FcDg0M2dZNWFfMUNyR3RXUXhIdzBiNzhCVE5hTzdlQ1ZSd0dUZWxUMnc0?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "2b099fd6006ee3f4bb8a8807e3b870c7",
       "title": "Chile: la influenza aviar está afectando más a cisnes de cuello negro y otras aves de agua dulce - terram.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeVJEVzBKNklfalhuVzQ0RGk3cTdsejBobXpEbTV5aXZZWmdqbTF4NlZmakNibVVhWXFpWnVCdlBxVkduMVhtNHRJTndBcjR0dkk0OGhGSVRybmFpdFNaTFRwTzZCV2s1VGJjS0VoMHc0d0NNV3lucnFyMmFmS0g2SGVBTnNTdHlvNlpXd3p3dkxJWW56ajBJNk43M3NOTzN4MG0xa0dR?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "7c17b671584d2f1604accabdc8e5f567",
+      "title": "Perú declara la emergencia sanitaria por influenza aviar tras detectar un brote en granjas - Revista Chacra",
+      "source": "Google News - Perú",
+      "date": "2026-07-17",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbFp6Y3pZajFocjNUdEV4Q3FnVnZ1eHE4SUgzNDRyNkR5QUxJc0lCZmFuWVo0cXIwV1Y1czdvWGhjc2YtYVJzX252ZkFQd1lQaHhwV2lTVHYwM1NscEN5aW8tcU9Dbjh3ejFwa0oxeFRmUmthSzhVNVpyeW1DN2JURkVTWVJkU3ZzRzMySVFpWXAySlA0c3luOEdaQVlVTmI4WUg0SEF1bkVBelZ6b0JuUU13Q25LZ0NfbFFBUGluSi10cWFPNmotU2tUY2lJWm_SAc8BQVVfeXFMUGxaemN6WWoxaHIzVHRFeENxZ1Z2dXhxOElIMzQ0cjZEeUFMSXNJQmZhbllaNHFyMFdWNXM3b1hoY3NmLWFSc19udmZBUHdZUGh4cFdpU1R2MDNTbHBDeWlvLXFPQ244d3oxcGtKMXhUZlJrYUs4VTVacnltQzdiVEZFU1lSZFN2c0czMklRaVlwMkpQNHN5bjhHWkFZVU5iOFlINEhBdW5FQXpWem9CblFNd0NuS2dDX2xRQVBpbkotdHFhTzZqLVNrVGNpSVpv?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-07-17 09:58 UTC"
+  "last_updated": "2026-07-17 13:42 UTC"
 }
