@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "99924b811a7767b1563e324cfbd035d0",
-      "title": "Profesionales fortalecieron coordinación para enfrentar la influenza aviar - conaf.cl",
-      "source": "Google News - Chile",
-      "date": "2026-05-15",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOakR4WmpJMHlrNTJVZ1c0bVRWV09Fbm4zSlFrTUJ0S1Bha3ktQXpMdnJEb0dXRmkxLThQRjh1MVMyWF80d29RT2YySmlvVUpxNXlsZi1UX0dWVjZQZ01XcHU0Q1dJZ0dTMl94eDVEdnR3M3VVVlJIMkZOSzlIdEFjUWY3bEtkSWhpTEF0M3ViTWpvR1kwWlFYanNFMzA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "d91c679f2e899eb4bcc10d54566c5d92",
       "title": "Brote de influenza aviar: SAG aclara suspensión de exportaciones a China y descarta aviso de destrucción de productos - MSN",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBEUWZoaVNvRkhhSTB4U05GWW5fYVNpWUJDMF83V3BvTDUyS2kzc3NxQzMzalJ6WFVsVEEyWDVPTGFJM3pFMFE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "afdef091e89164ecdfc5be9ac4bc50d3",
+      "title": "Alerta por gripe aviar H5N1 en Perú: nutricionistas recomiendan cómo manipular y consumir pollo y huevos de forma segura - Infobae",
+      "source": "Google News - Perú",
+      "date": "2026-07-17",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTEVwNW8wRHZ4Sjk1UlpfNzczb25NWVlSSS1CTmFEUFYzeDRrZmZkTlRDcVQ4SjlmTmswbXNPeFhibjJ3TVNLMjBYVGRRR1dsczZDMzAyWUcwTTVCY1pGQWY3TDViR1E5X3lJOWpmYTd6Q3NLX1hKaFh5WlJKLXZ5U2d2QWZyWlpoX0s0bWsyZHNOMXctRU1XZGNWYllySnpsY3FMU1lmVXNYZHlSS0tMY0ZFeWxFN05IOEtxUWNvYno3LUh3U3JXdEtuZUZra3pHVWJqV0FSdlh2VmFaVGozbmhwWjNmaWlGekdFRUlyckp0d9IBjAJBVV95cUxNcjh2ZEFxdVhrYUVvaTFyTFpwVFRVNjBuX3NjNjhDbDRYS3NKWUt1bnYzWC1VT0lpYUNxbUlmaV9mZUZDSTdLeHk4X1kzcF9tdXEwbjJpSWhUVXRhNkg5YWlKaXZGb3gtaXRldFNxRUYzZV96N3NRbktLX3NDMlhGYzVFdFZ5UGhzSG51MENlN3hOLVlwT1V4NHlnZDllWUxqaUFhS0hzT0RZaDhPWFI5NWtIeE1aTVBnVGE5OXFsNXU0Uk5LTEphMnFXMUMteVBIYlRZWmd0aWdkZkZKTTJRMGIyTnVvZGdvRGtwdndiV3VFUXl1Z01ZYlZhTy1RY3h6NWZnT3dYTkYyNHB5?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-07-16 21:01 UTC"
+  "last_updated": "2026-07-17 02:47 UTC"
 }
