@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "fd0746556ace91a33944e9a542ffd66e",
-      "title": "Lo más leído | La tragedia de decenas de osos perezosos exportados a EE.UU., influenza aviar mata a aves en Chile, el extractivismo en un corredor de pueblos en aislamiento en Perú y más - Mongabay Latam",
-      "source": "Google News - Perú",
-      "date": "2026-05-17",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNUpkQXQ5di0ydl9Ib2dQWWYxZE5oWDBoNE92WWRPMXllVk00bkYteXFyY3M3WnJiakh2dk5LNzM5dGhEdGlKTU9PMHdxc19XTC1kNmd1VU5YQkhrb0RkTURPV3lIT3l0aF9jM1o4UmtFY0lvZzMwbHJkNkl2R2NTVE9pWXF5NU5rMWl5cjdBcjVvejhQN3JfZ3ctSzRFU0lMYnlweWs2TlpqZWZoNTcxRUxTajU5NWZfLXJ5ZkMtYXQ1dmwxdVZzTUsxdVc3OG4tbWNubjNjb1ItRkJKNEE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "24c9054c500491f9eee2c9a9f545b63f",
       "title": "Más de 140 millones de aves han sido eliminadas por influenza aviar en granjas del mundo: OMSA - Noticias - Almomento",
       "source": "Google News - México",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXNUSXYyMHNCTEZIajlYT2xjRVlaZXB6d2JlQ1ctRWtpZXg3LWJWYkM0emFRUnJGWHJjbjM0VDVCU1RZbnJVSWRxS0FKeXVRa0FvVU5Hb2tkZUdWVnl0dldEUVZBelozYXh6ZDQxSTlObHo0QS15S0JhVm5Ua0t2eWRKNVRrR1B2NERST2JwX1U0VFlHLW94THRvSktsaldpcVd3VDhWclVFVmtMOEZ2b0txdXJiVXpieWpnclVDb2RkZHdJTmFKMnVKWGEtcnc?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "f830a96f2b71d0ffa0772d2282046663",
+      "title": "SAG confirma primer caso de influenza aviar en ave silvestre de Coquimbo - reporteagricola.cl",
+      "source": "Google News - Chile",
+      "date": "2026-07-17",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVVBMWotRG5NLWFQeVZPUkU1N2xkbTdvRU5qSWhWa2Y1RElrY1NYRVVvWHM1bHJ6eGFuMXdWYXItT2Q1RzNFazVZS3Q3T0NuUDNmRVR0Z29mVlBYRG0xZWdySWd3TDBDTHViM3plb3dXcDVoTUVfSldfdDFOd0tPdWV4RWN3VzJyRkJrSV9kVEdhdmc5M3BUaHExaHluU1FjbVdhSkpNQ3VzbFY5VzJZSDdtWmI2b0ZzVndJ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-17 17:14 UTC"
+  "last_updated": "2026-07-17 20:58 UTC"
 }
