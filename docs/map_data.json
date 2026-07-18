@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "bffbfee78b33e2f4e57cf72e5b92272a",
-      "title": "Ñuble reúne a sector público, academia y productores en torno a la influenza aviar - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-05-19",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ096SklsNUt6QkQxOGtVOWdTVldVakhPc1Z4aVA5OGJBMW5Ud0pkNU9HMDRSTGd1dy1pUnMxNFFlWnM2TVNsdXBXVGI5cEJiZnlJcWJQZVVXS1dNc1RTWnBZVUIwaS1YRVFnSDNOWWRocjJ0NkhqYlFFNi1EdW1NYl81aEV6R2ZSNlFaMWhBVmxYOGpfeUo0UkVRY2hqWEFsR1RNUlVuQ1JPZHl3UGZ4cThsRXpMQWNDSWlSenRkTXN2UQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "983bac5a2853e162f4d4514d7d393238",
       "title": "Capacitan a productores avícolas para prevenir casos de Influenza Aviar en La Araucanía - reporteagricola.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0IzbzVTTXY4S1Q2enhScVdtU0NFSnFXVzNzbFJRYjhtQjh5VmdwSzlEdUxWRGRNa1RTaTd0bnZWRm9mT01tNkExREJmbEhYRWgwb3VzcjZwOW9IQms1WnVFZm5GREw2c0tYQk9pb2ViNVBza1pIdnoyaFFveG9tSFpMQi1odTFtUHlpRmNrcGtSbmpOcHJydVpHQk9vUmZkMmE4?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "b7c4cb31c9b569c46a40a732049736aa",
+      "title": "Consumo seguro: lo que hay que saber sobre la Influenza Aviar - unoentrerios.com.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-07-17",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSGQ2QnBQMmRoMVFSTHgwcjg0NjVXTDNXNzVSM1NpQldrZ2xHWUZxNmplcDUzN0s3ZEZOaWxUUFN4TUdZSkZYR09JcERFeDllLVlsaUVpdWE2SUhKRjQ5LVdZQlktQXJXd0dmbV9vM2F0MVNtLTJRQnotWDRlVHhQOWtwUGZZV2JxcTZKRU5XenlBQzRyQjBVb3lrbmdRZ3B5YmVPOWw0MmRDU0pmbkHSAbMBQVVfeXFMT2NEM1ltcXB5b3BkNEV4U1VFdi1sU1VBWnMwdnhRM0FTYTZmMGg5YVJUODlTQmF2QkVhRXlhRUFTcF9RRVhDcU9odGZESVNsYjhueXduMzJwd0dIeUxKWnk5b3ByM0dlaHpFR2tsMkNNcTFsY1ZtNklJdFNHVUY2N3E5aVFCZi1PUlV2TkI0TXpyQ2luOWdFaUJYTDRKODdkczFNMjRWd3dsNWVmMk9uLVlGaDQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-18 13:19 UTC"
+  "last_updated": "2026-07-18 16:59 UTC"
 }
