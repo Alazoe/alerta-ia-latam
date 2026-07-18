@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "11beff528505d87967efd500e7360516",
-      "title": "CHILE EMITE ALERTA SANITARIA POR INFLUENZA AVIAR EN PERÚ (27Mep26Flc) - fathomjournal.org",
-      "source": "Google News - Perú",
-      "date": "2026-05-11",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsMk9EaUE0LUhpRHh1Zk5NOG9mRTZTVkhMSFpDalRCeElIaU1KckFadGRnN3BwSUNZTXZkaWpydklLeWJiN1dKNF9QbFVlcW8zTmhaV25KOVF1MTRGMDZiejhEaW1uNmtHLVpiZWFuOFJkQ05SVFE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "c5af2c66f3eb235e2cbf64691ebf3580",
-      "title": "Uruguay refuerza controles por foco de influenza aviar en Argentina - Diario Cambio Salto",
-      "source": "Google News - Uruguay",
-      "date": "2026-05-18",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT0xVNjZvMDNzcEhtc20tMFhfcGhYMVU3US1DelU2eXVGWnBBVnRRYU1xU3ZNM3RzSnI2M2g0ZjZTTm1fbDM0SVNuTFByZ1R5TVF3ZzdlUkVFT3pjdE41S2lGdEpyREFlS1FlNHNZQUdGcUYxZGY4RVJNWTJHTFVqQ0ljcEx5cExmUTRsNUx5N0FXVGlBNng4UnR4MjZZczFLM3lDcVp0cDQ?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "bffbfee78b33e2f4e57cf72e5b92272a",
       "title": "Ñuble reúne a sector público, academia y productores en torno a la influenza aviar - Portal Agro Chile",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0UxQm5jM3JoQ1d4T1JHTERNdjdJMFBkeXVRc2R5UFZaYTBCejBVZ2MtTzlEczAtTmI1Z2tVSVBPZG1ZNUhwbjhya2pTR0lTN1NDVnRkVkVVaWxXWVZtV0U2Y1ZGYXlabWl4SXJsYUJrem9NOE1lQTBzQUo1bWkyZi00SjJyQVhWa0V1X3ZCYzRFdWdYN3hieWk1VE9zVlMxeWljTEFfVmc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "0e7df6298fc15ccac2ed456bac631537",
+      "title": "Senasa mantiene vigilancia para controlar influenza aviar en Honduras - laprensa.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-07-17",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0UxQm5jM3JoQ1d4T1JHTERNdjdJMFBkeXVRc2R5UFZaYTBCejBVZ2MtTzlEczAtTmI1Z2tVSVBPZG1ZNUhwbjhya2pTR0lTN1NDVnRkVkVVaWxXWVZtV0U2Y1ZGYXlabWl4SXJsYUJrem9NOE1lQTBzQUo1bWkyZi00SjJyQVhWa0V1X3ZCYzRFdWdYN3hieWk1VE9zVlMxeWljTEFfVmc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "540343075a7c7fee02753a9caafc3029",
+      "title": "No habrá escasez ni alzas en carne de pollo y huevos por influenza aviar: Gobierno - laprensa.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-29",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0IzbzVTTXY4S1Q2enhScVdtU0NFSnFXVzNzbFJRYjhtQjh5VmdwSzlEdUxWRGRNa1RTaTd0bnZWRm9mT01tNkExREJmbEhYRWgwb3VzcjZwOW9IQms1WnVFZm5GREw2c0tYQk9pb2ViNVBza1pIdnoyaFFveG9tSFpMQi1odTFtUHlpRmNrcGtSbmpOcHJydVpHQk9vUmZkMmE4?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-18 02:39 UTC"
+  "last_updated": "2026-07-18 06:07 UTC"
 }
