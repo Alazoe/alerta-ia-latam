@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "24c9054c500491f9eee2c9a9f545b63f",
-      "title": "Más de 140 millones de aves han sido eliminadas por influenza aviar en granjas del mundo: OMSA - Noticias - Almomento",
-      "source": "Google News - México",
-      "date": "2026-05-15",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNa2NrNWppSFBZcmZqUDhDUVM0YTk4RGFfVUFlbUlMSGpoeEFDUzJSMWl3WXZxNVg0b29UdkR4Z3F4SlQyRFQtR3I4WjFBRTJ4MldPZjVheEJqQkU0T1lEMFNwS3hwcUI0d1FEN1N3Y2xxRnlfMmhRODlRQmMySEhrenAwX3RwS1JpRFAzaTlnYkYwa0U4YXAwUWh3ZlBQeHNDam8wVDZDUWo5UnhMeUxsSmh3THdhZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "80f741e0452b4a249df272fcced5f96d",
-      "title": "Brote de influenza aviar: SAG aclara suspensión de exportaciones a China y descarta aviso de destrucción de productos - MSN",
-      "source": "Google News - Chile",
-      "date": "2026-05-18",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxQQUdhdkloeDlTcVlzVWVaVEFoVTJqTmtDbUI3ZHdEVWpacUpuT0M1eW92bVIxNGhQU1RpVUZzVmhNRkF1dTBGUUVKYmxVTlU4WFgtQ21XNWVEeVdxeHNld1VZTkxJMkQyQ3FfcURzRGhfNTJSZlZyMEk3OWhfVVl2TWNtT0tlNXdUaXpGcFJhTWxiOWZFSDBpdnR0NlJIUDl3RmJKTW9JTDlYT1k0NjRDOGpVQXFiaENFYmJBM3JzX0xCSnY5aDRUWWk4ekRrS2hJT1BHWUxXZWlobjFXZ1pRNDlwOGF1cWNUT01NRjhMeWFFYldybVVrdjZnenlyTUlLckhCMGdUQkUtNks2Ukp3TXY4NUc1UlNNQS1IUzdLQlJJVGdOa09OLUszMWlnXzNlVTNHMnJJdWhxVWFONW5SdEVoRjdYVUZqRGFlLXlKX0d2bDlwTnNCY2pDeUFycGhhSkwwdHFnR09LOVByNS1oUnRJU0xpNFhmWE10Y09GQVBnT0t1bVVaRGpTUmxiY1pDRS1ldnZtRW5HanhoQVdTaEpZOUNWYno2dmZNbE04VEJuYlZFQUYtcTNVZ2ZwNjZadHdTaHhUVW10OW1IVlpFdU1oTFpCS09LX2k4QXRqM0tWZHM?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "11beff528505d87967efd500e7360516",
       "title": "CHILE EMITE ALERTA SANITARIA POR INFLUENZA AVIAR EN PERÚ (27Mep26Flc) - fathomjournal.org",
       "source": "Google News - Perú",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVVBMWotRG5NLWFQeVZPUkU1N2xkbTdvRU5qSWhWa2Y1RElrY1NYRVVvWHM1bHJ6eGFuMXdWYXItT2Q1RzNFazVZS3Q3T0NuUDNmRVR0Z29mVlBYRG0xZWdySWd3TDBDTHViM3plb3dXcDVoTUVfSldfdDFOd0tPdWV4RWN3VzJyRkJrSV9kVEdhdmc5M3BUaHExaHluU1FjbVdhSkpNQ3VzbFY5VzJZSDdtWmI2b0ZzVndJ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "3e27587721b72966c96bb75ef435acaf",
+      "title": "Senasa fortalece la vigilancia sanitaria para mantener bajo control la influenza aviar - ElHeraldo.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-07-17",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYWF5ckUyZ1F0Q1FGMkJ2Z3NLM0xSRjZvTTMyQVdZTGdxMEhxN1EwZ1FLT3JrZVlOT1RRUHoyZlFGSTBoUnV4NTNsaFFzdUdzN3p3Y1pHaFRvdEJhNjBydUh0TTBsb3gwNlQ1SS1wVnpoNHY3Vy1wdDlwYl9fUXAxWjlSVnU4N3JsTThBOUd6dFA0V0FVX0trYXRVQnRMVG1PSFluNkVULVFVbTBDSHAxNXJDR1NZZUdZU1JSdQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "908fdfb06d411190e07be43d0db3dbf2",
+      "title": "Senasa mantiene vigilancia para controlar influenza aviar en Honduras - www.laprensa.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-07-17",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0UxQm5jM3JoQ1d4T1JHTERNdjdJMFBkeXVRc2R5UFZaYTBCejBVZ2MtTzlEczAtTmI1Z2tVSVBPZG1ZNUhwbjhya2pTR0lTN1NDVnRkVkVVaWxXWVZtV0U2Y1ZGYXlabWl4SXJsYUJrem9NOE1lQTBzQUo1bWkyZi00SjJyQVhWa0V1X3ZCYzRFdWdYN3hieWk1VE9zVlMxeWljTEFfVmc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-17 20:58 UTC"
+  "last_updated": "2026-07-18 02:39 UTC"
 }
