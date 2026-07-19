@@ -145,18 +145,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "c53921dd224eefbbba21438237e584bd",
-      "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la Región de Aysén - SAG GOB",
-      "source": "Google News - Chile",
-      "date": "2026-04-20",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdWViSHZaeVd4RjVXamVqYjVDcVhvS3FqdmRZZ25IdDkwRE1ZR2taazdIZ2xlMi05YUY4RTROSW9kTTVNR3llVHhBTlk3bXI0S1FzODNRZmFpTUFOVUVfV2hCdlZSM0ZJOGRFRnNObjNCek9DaFhFUEFaa2lESWtYV1gyVDd2aDVfdzNOb0tCdmFrZ3ROV1ZZZWZCTWdneTVsbHRRbWZBOXBzLUNDQ1JTUE5IMGVMaTBuOHp6dkVvYmJEd1JHblVlQ0x3UEY?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "13068050ab1aafd6e80cbd10ba1341e0",
       "title": "SAG aclara situación de exportaciones de productos avícolas a la República Popular China tras brote de influenza aviar en plantel comercial - SAG GOB",
       "source": "Google News - Chile",
@@ -3601,5 +3589,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-18 20:51 UTC"
+  "last_updated": "2026-07-19 02:53 UTC"
 }
