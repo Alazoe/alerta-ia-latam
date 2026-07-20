@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "983bac5a2853e162f4d4514d7d393238",
-      "title": "Capacitan a productores avícolas para prevenir casos de Influenza Aviar en La Araucanía - reporteagricola.cl",
-      "source": "Google News - Chile",
-      "date": "2026-05-19",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbFptZ2JzV28yZU1oVXNkbmM3NGVuYWJHZDFVa2ktX2FYaGxCdnhQeUJ6QmlkNzdzS0hWcXpPVGVpQk1wTE5MSHR4WU5ZZFVmMGJ0NWdtU2Y1Zi1OMXM2b0x0SW96U0QxN29rbDc3UGItMkRNVk1aOC1fellYS1F2dkVDMkNPUUlGSGhVb3RPM3YtVUNuZllPOTI3TXpNMGtQVDN4eWZEZXBUX1lTOVhibWY2dW1CYm1RaWtzRWRmSzBtVTB2ZUJMVmhfQ2JnT2Ry?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "a5e8432bccfccb9c64b06745e4484a72",
       "title": "Refuerzan medidas de bioseguridad para evitar propagación de Influenza Aviar en Región de La Araucanía - Portal Agro Chile",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVkFrTDZqekdzX21Lc3J3d0F4S2hXd0hFSHF2aWV5MVhNeDRPN05LYl9KU05BSXNVNmVKeFV4UlhueTZFa1dPNklTNGg3bXF2MDNkMkEzajlZNlRDeGpzZzZTR2EwMmdOOXZnXzZjd1NWeHI0NVVXaEE1djd6eGRjWjR1Z0JPVDJ3NWZFbl8tUGs5ZmY1c05YSkNQQzdqMGtwcXlXYXRpYzRKc3pZZkl2OG9QM0tmcTZJNkxJ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "aac7d2c4a98ff3981f8086b4e47e8824",
+      "title": "Honduras mantiene vigente la emergencia sanitaria por influenza aviar - Infobae",
+      "source": "Google News - Honduras",
+      "date": "2026-07-19",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS3JocFVwYzlBM2k5YklxUGhLaGpDaEUxYzYzcGRTbjRILTA0ck4teUFCQm9fSVpqSFNjRFV3UkpycGhydDZJOUw2V1NXcmNfSDNpQWthS3NlQVpLc3U4bTRXWkZFS0I3d2lRM2FkTzhLRTBmekk1V0ZPcW92NjVLbXV4dmp6dy1wYkpEa1BBMzNsVWVhbVlPTDhtTDItOFJRSHZ6cUsxcTVvMlM0UWFCeGx2T0jSAc8BQVVfeXFMT1did2JaUmZvRlQ4N3pxVFdhNUpMYXRGamt1cnZvbGVVTHdLLVVYdHdfUmZsMnZOMUhFOWJPaVFBVENkeFh0WDRHZ2xtbGhpckt5dE9mSWVBSk1wM2tRak1FVVhQWkdEQVBKX0ljY1pZZHlULW5uRTNBa1dGTXV5QlZkZ3Nyb2k0d3V1MmVyUGFBMTkwcUtFYkd2ZG9PWHNqWk1JRnFvbzNmUVpHNFB4VVpkSGpCdHFzTThqdkxEc2RzVHFtM1FXdmxqamw4WGdZ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-20 03:24 UTC"
+  "last_updated": "2026-07-20 06:49 UTC"
 }
