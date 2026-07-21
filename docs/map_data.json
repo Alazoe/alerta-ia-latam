@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "a8440248e7196ca485e309487572c258",
-      "title": "Mantienen monitoreo y alerta preventiva por influenza aviar en Los Lagos - SoyChile.cl",
-      "source": "Google News - Chile",
-      "date": "2026-05-20",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObWZTdk0tZXM2Rms2czB6Y1JCbkwteUhkQmxHbUZjMDV0R2VrUGtEcDQxVGJhc0hkRjJUeXBsTm5kaVZadUhEN0I2dlNNNGpwZWF4ejZGU2x1dkVQZEZyWjlhRjRjX3dZNlZNVXppZ0lUQmk3TEFhbmJjRVBZcE1UUGNVODFReEM2ZXh3eXlKNU5RYjlkOUdid0dmR3ozdjA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "999b48588b3e8d5529c5c649538aea10",
       "title": "SAG Ñuble realiza vigilancia por influenza aviar con muestreo en aves de traspatio en zonas focalizadas - Portal Agro Chile",
       "source": "Google News - Chile",
@@ -1257,18 +1245,6 @@
       "lat": -35.6751,
       "lng": -71.543,
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMXNRS3hYU2tOV2lVandtbVlMUjhNOFhnb2d1ODVhd25zMzNKaG1TSGx0ZHByckN5bHBMUEJTVmFnNDVWTEd2U2M5dUloUV85WU9fN19YRlYzejh5NGVoX2lUemRWai1PYkNPQWxZdnU0STJkX0RqLVBnSXhGVzJvVTE3TzRCU0pTT0ZldjVkNHZnUUV0TzVNM3RDanJIV3U4RnZWMHhiNmtFUQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "6f1f6a09970ff0fc5d2d19af8b0eba81",
-      "title": "Influenza aviar mantiene en alerta a la avicultura latinoamericana durante abril de 2026 - avinews.com",
-      "source": "Google News - Perú",
-      "date": "2026-04-22",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYlI1ck1aY1FLdmdieW9OOUpBeEtHM3VsSnZIZk5yd1lsMldVcnF3Z2lIaGhnQWd2el85WGhRU3N1WlBfSU5vVVV0Rkp5OUhTbVR5SFZ0enBfWmRJUWJvMVRrcFBqVU44MVYyNDZHUTNTTFVkT2hObmJhVmtLYVJaZzBpZkZzVkI1QVdTdVZadWk?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYWF5ckUyZ1F0Q1FGMkJ2Z3NLM0xSRjZvTTMyQVdZTGdxMEhxN1EwZ1FLT3JrZVlOT1RRUHoyZlFGSTBoUnV4NTNsaFFzdUdzN3p3Y1pHaFRvdEJhNjBydUh0TTBsb3gwNlQ1SS1wVnpoNHY3Vy1wdDlwYl9fUXAxWjlSVnU4N3JsTThBOUd6dFA0V0FVX0trYXRVQnRMVG1PSFluNkVULVFVbTBDSHAxNXJDR1NZZUdZU1JSdQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "9152f31b9175e63831c45bf1b334ecd1",
+      "title": "Influenza Aviar en Colombia: ICA refuerza medidas sanitarias y mantiene bajo control el brote - avinews.com",
+      "source": "Google News - Colombia",
+      "date": "2026-07-20",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRVd3Z1d2bmpkUGNTRTNlaDlZWjlsWXFueGtUbFZXNFFuNjV3YXF0V2dsempYcWZaajRvOUhtaE1mWWJfR3JWVHJaZG5VaFl3TFFKZG5qNXV6b0xERVdwT09ibG55am1oWkRqdG83eFFsOElac3hETGM0alBmNFA3Z2xyVzZaS2h4elhLMkxfMHM?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "8f07ae2e763d24be21450c35a7cd0b69",
+      "title": "Influenza Aviar en México: Reforzan Bioseguridad por IAAP - avinews.com",
+      "source": "Google News - México",
+      "date": "2026-07-20",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zSW4wLUhKYVpXRThZaFpPXzFodHREbGVENXVJZTUtLVJ1VXRHTUJOUW1aSjRISWwtemRkQzItaGc5NXM4aVRRdWl5UVVNa3I1bngxMzM1d0pENHFyRWQ2Ty11YlZzMndrWWFr?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-20 21:13 UTC"
+  "last_updated": "2026-07-21 02:50 UTC"
 }
