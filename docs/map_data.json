@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "999b48588b3e8d5529c5c649538aea10",
-      "title": "SAG Ñuble realiza vigilancia por influenza aviar con muestreo en aves de traspatio en zonas focalizadas - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-05-20",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNdnBNZkw5a205eGU4cU5NaVNMajBORlA0N3p0clM4UmpBZXVidWxOTGNyamVqVkxZTkVoVkZmV0x5QnBuSS1KSWZJQXN2cmp6QTFhZ3NYT3dPTl9wLUF1ZXlUZ3I4NFlGZFYtdXJxaTBXUkZldzNEc3duN2d2ODRIM1V1RzNieFpNSE1OMzZISjJmUGNhN1ZDZVY4QXpVVUtkczdXQk9GVFBHdnk0LW1PaGQ0RjR4eHVkWUZZNVEyNVh5M0lhbVpwQWlVWmgyajIxdnhTVnppZGF0empGN0lF?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "0b03c17fd8858013f4fbeff151683c39",
       "title": "Chile intensifica controles por influenza aviar y activa vigilancia en más de 200 predios - Agrolatam",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zSW4wLUhKYVpXRThZaFpPXzFodHREbGVENXVJZTUtLVJ1VXRHTUJOUW1aSjRISWwtemRkQzItaGc5NXM4aVRRdWl5UVVNa3I1bngxMzM1d0pENHFyRWQ2Ty11YlZzMndrWWFr?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d265cb35a9a63e7be5c16d112c2ea148",
+      "title": "Influenza Aviar en Colombia: ICA refuerza medidas sanitarias y mantiene bajo control el brote - avinews.com",
+      "source": "Google News - Colombia",
+      "date": "2026-07-20",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaVpfY1BSWU1TUkhHQWg0bGJfNW44U3hlSWdCY0dTSUJxRTktd1lwQUpqLVltMHN0RlZudUVIQTFnNGpBVHdnVG5XeU9oZTBZYTVWWjVuWGNsX01FWlFSUHZQMDhFc1gxc3FFVWhhbkR3NnhNR291N2pXVU1XWDR6dmRNcjRsZllrR2hv?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-07-21 10:26 UTC"
+  "last_updated": "2026-07-21 13:55 UTC"
 }
