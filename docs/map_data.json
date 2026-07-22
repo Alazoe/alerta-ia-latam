@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "0b03c17fd8858013f4fbeff151683c39",
-      "title": "Chile intensifica controles por influenza aviar y activa vigilancia en más de 200 predios - Agrolatam",
-      "source": "Google News - Chile",
-      "date": "2026-05-21",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdEh3dVVoanExZmpQLTltQUJfZWZWalNKWmhVVTN4SzhFYVR4YmZ1OC1WWkhmdVQ1YTdJamk0al9Zd1REbWU3by1PYXRWMHdTMDJjU2RPRHNsVmdtSnlRT0lTRE5mN0JfeHR0b3VCTlJHTEdZSklZbWtjb1hOZ2NhN3RHV3N4dUtwLVludlk4akdjTUw1Nl9GQTFSdw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "3d3ff32ee3d3dfa427524c47e1653e66",
       "title": "Chile: la influenza aviar está afectando más a cisnes de cuello negro y otras aves de agua dulce - Mongabay",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS21kS2ctZ0VOYnp4MDFFMEpkVkc1V25NbHlxWERsajZ0QW1KNmdhOVhISVo0UFJUUS1manNwa0tkU21ZeFRyeEtMSkhlRmhmNFcxTnNsUFZuMDRaYXNzT3ZBc1lxOE5kZzMwNy1xMDQ3YlhZUGdnaVE3TzE4d0dUUXdCTTFJcnV5VEdpcGJUcGlwaEJqWDVvWWVzMlEzSV9LT25oUFhn0gGrAUFVX3lxTE5GT3c2dWU5aGhoYkpXM2R6X1VOSGE5M1g5MkQ4VHdKR1FMYXNpb1JBMWtpSnBNUldYLU9hNWdiWGZJNTE2dVlwYmNXOWNxcmdzcFRmZFZMOFRUUW5vV2hndUpDRjBXQ0YtSHdNWG4zcFlnTGtjQ2pnS05ZemVvRmx6U1JETzUwXzN4N3hoYWRFQlNIeUVqYXp0R19JbW5ZSFllSlFLaHZwLWlIbw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "10410f9d8f9f6433092e6b04994edea6",
+      "title": "Perú declara emergencia sanitaria por 90 días por casos de influenza aviar en corrales - AP News",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdzczREduVnZkZHpjUm1JSFJxSUVTNW5COFU0YmV1aTBtcFUtSEhZNzBjOFJvNEt5M05rRzFsanhFbUt2dkpsWVQ5RnFhVHpYUlMtaTNqT2RGR1YtZXgwRC1TSVdfTi0zbVJvQXVYTlRSTmNkTW1WSUZOUk1wUDVSaHdPdl9ZMjJ3ODBsS1FKS0QzbHVwMnpXWmgxNjUzSFItVXRBX0ZnanJjZ2Nlb0FRTHI1Rms4a1BQR0E?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-22 06:30 UTC"
+  "last_updated": "2026-07-22 10:26 UTC"
 }
