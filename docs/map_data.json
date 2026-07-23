@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "e333efab39e9693ecaca7af516ccf8b2",
-      "title": "Lo más leído | La tragedia de decenas de osos perezosos exportados a EE.UU., influenza aviar mata a aves en Chile, el extractivismo en un corredor de pueblos en aislamiento en Perú y más - Mongabay",
-      "source": "Google News - Perú",
-      "date": "2026-05-17",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNUpkQXQ5di0ydl9Ib2dQWWYxZE5oWDBoNE92WWRPMXllVk00bkYteXFyY3M3WnJiakh2dk5LNzM5dGhEdGlKTU9PMHdxc19XTC1kNmd1VU5YQkhrb0RkTURPV3lIT3l0aF9jM1o4UmtFY0lvZzMwbHJkNkl2R2NTVE9pWXF5NU5rMWl5cjdBcjVvejhQN3JfZ3ctSzRFU0lMYnlweWs2TlpqZWZoNTcxRUxTajU5NWZfLXJ5ZkMtYXQ1dmwxdVZzTUsxdVc3OG4tbWNubjNjb1ItRkJKNEE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "f1ce53abcb0a8cc675d21b7e9f963c10",
       "title": "Ñuble reúne a sector público, academia y productores en torno a influenza aviar en seminario UdeC - Portal Agro Chile",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd2JMRGU5Sk8tcjU5ZXBCYW95NE1oY2hWVVZ5dFBpZmZ1el9zZ0ltRE1BV0ZHWXVQOExjWWdSOFdjTlJtaWhrbjh3dktWdldUS0hpaWI5YTNKanVpdkFKNEtCcFJfUnZVTVBrRFZkX2hZQXF6Y2hLalA0ZzRybWNoWGp3VlR5amFmT2czTTRCOFZkaFNqWHlVNFN2ODFlemRwdmUxRm9xb2ktRTlnSEx5R2hnY2hrdzFjNEtkNXdUeC14QQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "f64c786c81fd091582be826d6de8d39a",
+      "title": "Bolivia se declara libre de influenza aviar de alta patogenicidad - economy.com.bo",
+      "source": "Google News - Bolivia",
+      "date": "2026-06-12",
+      "country": "Bolivia",
+      "lat": -16.2902,
+      "lng": -63.5887,
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeTY4Y3I4Z2RVRWtzNlNmOTJvbzMwUm5jSzBwYjUzZDZ5aTYtcF95b2JSdXdOTlZGSWdDazZGUnpCeUJIU2VLV0RUTDJrZVpuSzRqQzN1blpKMTdWWXNyYllURVNMRkkzVUJBWTVSOGpaeHVZQWF1M0RvcXpPZmJ2V2hzQVQyYXhNdE5PdTJYdGIxbTE1S3djN3lDdl9fTGZrNmdycjlCX1pWcUlIMTN5OHMwZDFQU2hNX2lZbWZZbE1SN1J2dnfSAcsBQVVfeXFMT3c4YnJqYzlEOXVqakgwQ3p2eVgzclBDRUhtZHVEaGpJWF84c2RCLWlHdWFobWJHeVJCdmRVUWExWkVPd29MLXVrTF9fUGtDYXI0VmJxZTNpbFBBQXZHM2I3Z0JncmJuT0xfUTNqRXhULTJWYUV2VFhKamdORkxsNDkzLXFFLWVrZnRfaDd6Z2plN0NGZ2RXLW5ZNTh2Rkt4dHNTN3pKaUNEMjVHNlJoZUNWQVBTSDVLVENqTk1faWxWbV9nV0M5MHVTZzg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-23 02:54 UTC"
+  "last_updated": "2026-07-23 06:31 UTC"
 }
