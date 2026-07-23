@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "f1ce53abcb0a8cc675d21b7e9f963c10",
-      "title": "Ñuble reúne a sector público, academia y productores en torno a influenza aviar en seminario UdeC - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-05-22",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVkJUb1MyN1FmQ1pvNXhac19KTTdjRERZM2Y4ODUwRmc5YmRPWEJZcXZNa3dtVlkwbERGeXJzOTVjQm9xTngxNHM2QWNLWGg2Y05wREw4aWdlTEM2Z3dEUmRQRTRXbGNEeE9iWjljeUdYMFpzVTJINkpuYk83R1ViTDBfMUEyXzZ3UmFaM2FpQjBZb1BZTVhKaGRna1FPWExJSWxjelZYbDdmVzJNU2ZKcFpOaUl0T1c0LV8tTmFJSDlQaVQwSzhUZFVac014M2pGYTM5V2Z3?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "53c042eeb63efb8a5a63a0074e8c6be0",
       "title": "Prevención contra la influenza aviar en granjas comerciales - Diario El 9 de Julio",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNeTY4Y3I4Z2RVRWtzNlNmOTJvbzMwUm5jSzBwYjUzZDZ5aTYtcF95b2JSdXdOTlZGSWdDazZGUnpCeUJIU2VLV0RUTDJrZVpuSzRqQzN1blpKMTdWWXNyYllURVNMRkkzVUJBWTVSOGpaeHVZQWF1M0RvcXpPZmJ2V2hzQVQyYXhNdE5PdTJYdGIxbTE1S3djN3lDdl9fTGZrNmdycjlCX1pWcUlIMTN5OHMwZDFQU2hNX2lZbWZZbE1SN1J2dnfSAcsBQVVfeXFMT3c4YnJqYzlEOXVqakgwQ3p2eVgzclBDRUhtZHVEaGpJWF84c2RCLWlHdWFobWJHeVJCdmRVUWExWkVPd29MLXVrTF9fUGtDYXI0VmJxZTNpbFBBQXZHM2I3Z0JncmJuT0xfUTNqRXhULTJWYUV2VFhKamdORkxsNDkzLXFFLWVrZnRfaDd6Z2plN0NGZ2RXLW5ZNTh2Rkt4dHNTN3pKaUNEMjVHNlJoZUNWQVBTSDVLVENqTk1faWxWbV9nV0M5MHVTZzg?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d0fb8e7156fc6a634b9da5f1d511d0cd",
+      "title": "Influenza Aviar en México: Reforzan Bioseguridad por IAAP - avinews.com",
+      "source": "Google News - México",
+      "date": "2026-07-20",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Bcy1qOHFVdDEwWTFtbDEtYkx3VlZWVzFpaERDa21JeVo0cGZJNmVJTHVIbEtsYzY0c2daNU9FblRHcnh3dFh6YTAyc0JkME9uSXBuTnlQYldEei1ZdHJYQmdpRC1yX0NkUUozNTRkYzM?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-23 17:24 UTC"
+  "last_updated": "2026-07-23 21:05 UTC"
 }
