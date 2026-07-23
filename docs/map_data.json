@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "3d3ff32ee3d3dfa427524c47e1653e66",
-      "title": "Chile: la influenza aviar está afectando más a cisnes de cuello negro y otras aves de agua dulce - Mongabay",
-      "source": "Google News - Chile",
-      "date": "2026-05-12",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxON0Z5ZkEzUlMzaVd4blduV0pCQ0hYN25yRkR6Y0NsOUJrZDNmUTQ3NHBVQl94ZVhPaEhDbThrUHRPSm9aWlIyeXN5NVlxckRnMG5NZEFJNkZXVGJkb29ib05IMEZWSWlDUnVXS2t4TzB6bmNGdXhkc0cyeDFaUWM4dHdBVHoyWU5GVnpKa3dFQ2tGeW1mNTQ3dXplZjZ3UktrU3c?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "e333efab39e9693ecaca7af516ccf8b2",
       "title": "Lo más leído | La tragedia de decenas de osos perezosos exportados a EE.UU., influenza aviar mata a aves en Chile, el extractivismo en un corredor de pueblos en aislamiento en Perú y más - Mongabay",
       "source": "Google News - Perú",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdzczREduVnZkZHpjUm1JSFJxSUVTNW5COFU0YmV1aTBtcFUtSEhZNzBjOFJvNEt5M05rRzFsanhFbUt2dkpsWVQ5RnFhVHpYUlMtaTNqT2RGR1YtZXgwRC1TSVdfTi0zbVJvQXVYTlRSTmNkTW1WSUZOUk1wUDVSaHdPdl9ZMjJ3ODBsS1FKS0QzbHVwMnpXWmgxNjUzSFItVXRBX0ZnanJjZ2Nlb0FRTHI1Rms4a1BQR0E?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "e8d73938df4be27e429a66379719235e",
+      "title": "Senasa refuerza vigilancia ante influenza aviar y monitorea más de 8.5 millones de aves - ElHeraldo.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-07-22",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd2JMRGU5Sk8tcjU5ZXBCYW95NE1oY2hWVVZ5dFBpZmZ1el9zZ0ltRE1BV0ZHWXVQOExjWWdSOFdjTlJtaWhrbjh3dktWdldUS0hpaWI5YTNKanVpdkFKNEtCcFJfUnZVTVBrRFZkX2hZQXF6Y2hLalA0ZzRybWNoWGp3VlR5amFmT2czTTRCOFZkaFNqWHlVNFN2ODFlemRwdmUxRm9xb2ktRTlnSEx5R2hnY2hrdzFjNEtkNXdUeC14QQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-22 21:10 UTC"
+  "last_updated": "2026-07-23 02:54 UTC"
 }
