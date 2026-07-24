@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "dd27ebb2c6f99f0b3f091b08ec4fe011",
-      "title": "Alertan complejo escenario por influenza aviar y refuerzan medidas de bioseguridad - latribuna.cl",
-      "source": "Google News - Chile",
-      "date": "2026-05-26",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNa0tkVUhjYWNUVDdobW54NVpnOFR1UkpfWEZPSktSdGZ5eUhTT2IzbVo2cGp1X3R5V2UweFdmMlFsTjJXUHlVMTVGM2JHMnBJUko2TDNhM2dtU2hBV0J5VnFaOHpSeUdoWkROcVl0dm5DTUpKTlN4MU1JbUVhLWF6N29vcmpvSkRiVi1nbUxmMEc4UTVtWk1sX0p5UHhoa0RVZjZ3NEZXNm8xNjFGVEFDeFgyMVYzUFJORTNXNmItNXBhWFVRYy1TTU5Nd1lLQ2UxUGfSAdoBQVVfeXFMTlhRSzFSOHlWWV9iRU1TaFZ4N0tyWVhEU0VQakhvMkdMa2N2a045X2w2NDBfQkVtaUp3MFhON3B2enpMUHNJenZrb0M5M3puVWVJZmZCUVg5ci1ObE0yVzZvY0Z5Q1NVQVFRVXlzT05pemFkZTBGejc5SUNka1AxcVNjUC1KRTlDNUZGOV91aFRiMjVPaHU1YUJXMDZRQ19FSU5wMUIwTnpVZlc0Znkwc2hCenVhSDZ1dlpYRGtlclpkbnREbWloaHo5aGk3UHU3UUc1NjY5Z25wRXc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "f300f2123f116da8da47a95132d79631",
-      "title": "Charla FAVA aborda la influenza aviar H5N1 y sus desafíos para Chile - UDLA",
-      "source": "Google News - Chile",
-      "date": "2026-05-29",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWnVmOHpELThqNFFWNW1ZeTdxeHlVUExOWXNGckh5d1hob211c1BEOF9UQnlybzREX3RfeGxmeWZQakRJRm54bzdQdVVYNGJfZFkzYlJNNlh1a0lISTdQNUdhY2VzQ3ZzMlpDMktZWlBLa3kxdEd6YkNnc1dVVDdra2laamtIV1J4VnFsRWVXV2R4T0RVSVRUSFRaV2ViazFSY1c5anUtaw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "482ac53ab3559919abea8eaba1049ca6",
       "title": "Prevención de influenza aviar: Claves sanitarias para la crianza de aves de traspatio - Argentina.gob.ar",
       "source": "Google News - Argentina",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd2JMRGU5Sk8tcjU5ZXBCYW95NE1oY2hWVVZ5dFBpZmZ1el9zZ0ltRE1BV0ZHWXVQOExjWWdSOFdjTlJtaWhrbjh3dktWdldUS0hpaWI5YTNKanVpdkFKNEtCcFJfUnZVTVBrRFZkX2hZQXF6Y2hLalA0ZzRybWNoWGp3VlR5amFmT2czTTRCOFZkaFNqWHlVNFN2ODFlemRwdmUxRm9xb2ktRTlnSEx5R2hnY2hrdzFjNEtkNXdUeC14QQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "4d35cfdd48216b5aaad86761343de1d7",
+      "title": "Avicultura chiapaneca sin afectaciones por influenza aviar - Gob MX",
+      "source": "Google News - México",
+      "date": "2026-07-08",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObkp2dkFTZDNBaUk3VUs2aXUwUXg4Z3M1M0xoc1U2OHBaM1dPLWpIa1Rmeks5U2g1dk1feWd3M25STTdrbklEMlNoQTVDTVdyQnlITDNQV3pxVkdUZW1KZ0Y5VnJPQ3pTRWZpRGtuSVpMZHUwb19qcW15QVRMVHRsTFNadE5iVDFJc0VzampKWmhieWI2TncteUNXWDI?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "2457d88fdbb51564e8873672ee3ded31",
+      "title": "MIDA refuerza vigilancia por influenza aviar en el Archipiélago de Las Perlas - Telemetro",
+      "source": "Google News - Panamá",
+      "date": "2026-07-24",
+      "country": "Panamá",
+      "lat": 8.538,
+      "lng": -80.7821,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDI5V1BSR2M2RlhuRnY0WGNPLWl6azJsY0d3ZlRDN0xQU3IwZGluTzNRRmNqckMxWHdBbGZFc1N6SlBsN1g2aU45ckNydUxpQzVuQTVqWjJRbGF4MVF4eElaeG9FY3NhNHF6QkhYTHNZa0YwcDd0T3pLY0M0cGhSbDc3ZHcydTM0N2R0b1VoTTVtY211R0FFMnNyM2pWRXp5TTYtSlItZVd0SEpPMlgwcmdnWlVzSUxF0gG4AUFVX3lxTE1wMjlXUFJHYzZGWG5GdjRYY08taXprMmxjR3dmVEM3TFBTcjBkaW5PM1FGY2pyQzFYd0FsZkVzU3pKUGw3WDZpTjlyQ3J1TGlDNW5BNWpaMlFsYXgxUXh4SVp4b0Vjc2E0cXpCSFhMc1lrRjBwN3RPektjQzRwaFJsNzdkdzJ1MzQ3ZHRvVWhNNW1jbXVHQUUyc3IzalZFenlNNi1KUi1lV3RISk8yWDByZ2daVXNJTEU?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-24 17:39 UTC"
+  "last_updated": "2026-07-24 21:05 UTC"
 }
