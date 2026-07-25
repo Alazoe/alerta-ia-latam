@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d8fec4fb92268e871624ab5842e65b7e",
-      "title": "Influenza aviar: la alerta sanitaria que pone en juego la producción avícola argentina - Agrolatam",
-      "source": "Google News - Argentina",
-      "date": "2026-06-01",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOUFMR0JEbTZkOVpUTVN4d0dFdFBNYWl0NERpYVpPUkU1N2RITk9EMV9UQVV5QmZwUjJ2N0UzSE8tdXlKdFBGUFF0YUh4WldCc2xtbXFGNXNqSV9xXzZFYkNUZ0RGSHEtUVEtMDU4Z1lCVnVhMU94ZXZhOFg1YnJYckZQc0s2cFJ1ZXpjMmY3OWk4T3FRTS1rS0tiNi04QQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "8564aa0bcdf565b650c710c0a61466d0",
       "title": "Detectan brotes aislados de influenza aviar en Lambayeque: al menos 128 aves murieron - apnoticias.pe",
       "source": "Google News - Perú",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZnNlYm8zMnBlZHhTMlAwbGVSWDBqVkFJY18wb2Vjck9GVUdBT0I1UVdJcTB1TDFmblpYX0JxbzdlekJycFdad2h2LWZNRDRHWGoyY1ZJSF9HV0xoVWhEdzBZX1hhSE9SVE9GX3ptbmp5dGgwU0dhSmlFMVU1eDd0V3Bzdm14YnQ0WDlJV0w3aEotSlpsNXFHbzEwUQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "39952343490ddff44a1f7ef3707e22e0",
+      "title": "Influenza aviar, tendidos eléctricos y El Niño amenazan a aves emblemáticas en Latinoamérica - Mongabay",
+      "source": "Google News - Argentina",
+      "date": "2026-07-11",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXzRRY2JWOUlJejVtZ3FjOWpVTVJqb2lJRzRlR0ZrcFJqcGJOdWxScTZOUHp2UWE2alVudU9nQ1duM1hGSUM2ZHNmY0Z1dzBpNzdvQWhxZkpUb0xsRzJ1MEdBc0w3YzczRFNKU3hMLVg3VEhGd2FpSkRIZFI2dzYxa0UwR3l4Rl93bEpldzJFNnZSU2EwbERxT3FaTU1hZkQ5UGRZZ2Y5RQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-25 17:00 UTC"
+  "last_updated": "2026-07-25 20:54 UTC"
 }
