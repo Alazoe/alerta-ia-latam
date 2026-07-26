@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "8564aa0bcdf565b650c710c0a61466d0",
-      "title": "Detectan brotes aislados de influenza aviar en Lambayeque: al menos 128 aves murieron - apnoticias.pe",
-      "source": "Google News - Perú",
-      "date": "2026-05-12",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMERPNmhlN2l6X3Z5ZmVLTmtza3VmamtsX3QtOVZQcWJDVm4wcVBOaHIxRUR6X2NUaEIzQnF6NHhablE5WnlTdFhCVXZxVGdwdjlwY2ljWk8ybUhucGFsa2pFOGFDT3ZPa3h5dDF4alpKd0xtbnJZdm1ELU8wODJkNjZ3cjQtcXdEeDB5eDE0WVU3blJWQmJsLVViX2pDX1pZZ1NRcWF5eEF5ZHF4ZHc4UTFnMDRzbG5tM2VqOGFxcFJXTkY3RnJGY3VjTkxvOElqc0Z4S0Rkdw?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "283503ef9fabe58f2e708b7a248d5ec8",
       "title": "Prevención de la influenza aviar: Claves sanitarias para la crianza de aves de traspatio - Argentina.gob.ar",
       "source": "Google News - Argentina",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGJuYUE2Q2JsRk5meFNHZzdGeGphS2RmWjRWajZqNXZrNHBud1AzMjRpMTk0RzRWUnYydXc5RjN5My1OZ1BoS3hESFd3LS15N2RaTWNkNmpfYUtSTFUxOE5iT0hWa0pSejEzMERQNTFHSW5QYTdPdGczUTNPVFZrdEtaR0RieE9GSmdmNjZaMk1wVlhRWC1CQ3VZTWc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "0eb3d8faa1528a3677a3cbf0945b4ce2",
+      "title": "SAG REFUERZA LLAMADO A PREVENIR LA INFLUENZA AVIAR EN AVES DE TRASPATIO DE MAGALLANES - Radio Polar",
+      "source": "Google News - Chile",
+      "date": "2026-07-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM0hPWlkyYzBlQzJYUEhqZjkxSWpCNjdxT2dlVWg4UEVvSVN5SzB4NEpMU1VYbHktUnVlLUhDYTluX2FENHN4VFJyYnJIUW56TlVSeHV4TGV5dXd3M0JiWG0xVXFSMUhIU3BRenlGRzJkc0I2c3g2Q015VjJkY0ZGVWJsS29wbG1KWk9td3oxZ2JJbzljNFp1T0U2dFFsQnc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-26 10:02 UTC"
+  "last_updated": "2026-07-26 13:26 UTC"
 }
