@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "07a674cea75d185750c0879a9c3b94af",
-      "title": "Confirman primer caso de influenza aviar en Arica y Parinacota - reporteagricola.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-03",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNel9mZ1R6N3EyUW00ZVlCa3VmdmZtcm5SNEkyWGNHcnhsTWd5bEJiSWZtZEdkOTAtWlNFUmJYZ3AyNjBoRFNmS3pGRGxMejZaZzRHa3BFdVlfQlpDQlRTY0IzQThIMWFhNE51TUxkTXJ2V1h5RjRPMnUtUGV4aWR5WmJaaV9DTzZjM0o5VDI3RjU4WnJtbURHUHpwUm5iWXBlemtQREo5dENDVmc3TnRr?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "a1cfefa67f725985374b82714f8c9e85",
       "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la región de Arica y Parinacota - Portal Agro Chile",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa0Q0Z3VGeHFpbllhdzZXcUNOV3dwd2cxaVNPdnUzSDJwUTZPN2NHMUJiN2l5SE5aV0Y4U3pQS2VZUXlocGIxREtlYmh6LWp2YnZQRDZHYWVMSlBHR3lzMk91QWJvbFRobEpWdE1UUFpaWnh5cnRKMFZmOXdSeVFqd0hQak1uMWl2VmpjclREbDFqZHM1cGhEeW1sWFVGMVAwMFBtRVZobnFlTXUtQzNLTEVXRWxRRzNRVzE0Y2Vfd1pjUXZmOWpRajJacXczamF6UHk5UXhNS2x4VEV2b2R6VA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "1ecabc57bea5d99562312965c3e9c646",
+      "title": "MIDA refuerza vigilancia por influenza aviar en el Archipiélago de Las Perlas - Telemetro",
+      "source": "Google News - Panamá",
+      "date": "2026-07-24",
+      "country": "Panamá",
+      "lat": 8.538,
+      "lng": -80.7821,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTdsdXhSSG93bVBINTgxODVXb3psVVF2YkdVZTVJNnhPVi1tdFFLZzl3YU1sS1Rxcl9NWFkzclp6WVFKbkpkaVNMMGJOSnBsUG9RazNNY0pvWFNwRlZWV3VVYWp1YWhjbE1CdUgxUDZmRE1kcGZNWkM1N29wc0tjTEg3cTZVQW45Z1M2d1JMTTd1ek42eWUxZGljY21zTV82eDJuQW93Q2hlT0wxRWFjWnY1b9IBuAFBVV95cUxNcDI5V1BSR2M2RlhuRnY0WGNPLWl6azJsY0d3ZlRDN0xQU3IwZGluTzNRRmNqckMxWHdBbGZFc1N6SlBsN1g2aU45ckNydUxpQzVuQTVqWjJRbGF4MVF4eElaeG9FY3NhNHF6QkhYTHNZa0YwcDd0T3pLY0M0cGhSbDc3ZHcydTM0N2R0b1VoTTVtY211R0FFMnNyM2pWRXp5TTYtSlItZVd0SEpPMlgwcmdnWlVzSUxF?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-26 20:59 UTC"
+  "last_updated": "2026-07-27 03:22 UTC"
 }
