@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "a1cfefa67f725985374b82714f8c9e85",
-      "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la región de Arica y Parinacota - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-06-03",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOMGptYlo2V01Hb0xxbW56YXhEdElhcU1ETzNlS19ETXpQX1hycGFUazZjdFdrMjZYVWdXd2dKTHgzNG1SVWV3Mjk4S3RoYUhLZDVlNGR6by1uY01QWlU3a2dmVTJET3ZmMDlaS0F0TjdqUE1hd0h0Q0o5dVZMTWtVZndYRjJBVUNjQWV4Uk9makpOcEVzVVQ0Tkd3bnRlZnRxTk1reGM5QU5xaTBxVkhBY2dfNW81bE5XblJtMFFhWlNiQklyY3VOWFYycmdNQjlYRzJMUlFZa2hOQlJhT3N0TnVCdWtmWGIwNHBlSE9R?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "c2b9acc664f443cc6ce4d2af8cb6d1f1",
       "title": "SAG confirmó primer caso de influenza aviar en la Región de Arica y Parinacota - Cooperativa.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTdsdXhSSG93bVBINTgxODVXb3psVVF2YkdVZTVJNnhPVi1tdFFLZzl3YU1sS1Rxcl9NWFkzclp6WVFKbkpkaVNMMGJOSnBsUG9RazNNY0pvWFNwRlZWV3VVYWp1YWhjbE1CdUgxUDZmRE1kcGZNWkM1N29wc0tjTEg3cTZVQW45Z1M2d1JMTTd1ek42eWUxZGljY21zTV82eDJuQW93Q2hlT0wxRWFjWnY1b9IBuAFBVV95cUxNcDI5V1BSR2M2RlhuRnY0WGNPLWl6azJsY0d3ZlRDN0xQU3IwZGluTzNRRmNqckMxWHdBbGZFc1N6SlBsN1g2aU45ckNydUxpQzVuQTVqWjJRbGF4MVF4eElaeG9FY3NhNHF6QkhYTHNZa0YwcDd0T3pLY0M0cGhSbDc3ZHcydTM0N2R0b1VoTTVtY211R0FFMnNyM2pWRXp5TTYtSlItZVd0SEpPMlgwcmdnWlVzSUxF?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "221f3dc62114e03531e9faef16ad679b",
+      "title": "Emergencia sanitaria por influenza aviar por 90 días - elperuano.pe",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlN4VUN6cU10Sk94LXAwWDB2ZEI4REtRZFpkQTVhdldBN3NfSE9kcER6dEpndUppS2gwaGlCaHpxWHpaaDdqNGU0NGRzSjAxbkNjbmJVOGF5T2lnQkpBNFJYLTFJTnNlLW1uOF9WVkVjLXp5dW9Sczk3Q3paT2t3LTJOSmo2aWt4eThEMXVJM2dJUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-27 03:22 UTC"
+  "last_updated": "2026-07-27 07:34 UTC"
 }
