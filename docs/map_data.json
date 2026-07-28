@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b12bcc498fde4bc050924577d0d278f0",
-      "title": "Declaran Alerta Temprana Preventiva en Arica y Parinacota por primer caso de influenza aviar - elmorrocotudo.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-03",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNl9jMl9PRlpiQkNPTW9TbjNSODVXTnF0QngtMUR1bk9oTEhYSWRreTZHOG9HWVVzRmRTTVctRndkZWFnbmRpTU5uLVZYaGRoT0NQWWxMMTRraTJ2ZVZTWE1NOWVPQkpXRmgzeTRoLUR4QXdJNUIzZkpCdUFudDc5bmU2MnBraW5JQ2JGTko1Y2EzdC1EQlktbWxKLVlUWnRqYTJtT1hfNkQ0WDRXd3NfdjFMQ0dnaGRmdk00TXFlanZBM0UwXzJnTA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "b1cc41eba261e28a4f108d4b711b27c7",
       "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la región de Arica y Parinacota - SAG GOB",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZEpmeF9SWjN5MmR3SFN6eVUxNHdrZ1dlV2JmY1loaWlPd2t0empIdW5qWENmNHVHc0VCcDlSbHJEcW9LdWg5LU9BUUM4aGdWUERKOE91ZWZicFRjMkV2TmJoSzBNdlNDOUF2bnFuMV8yT0VYLUpFX0FWNnpRNW0zeXFVMHFTYUotcXV2SkVYY09wdXNnT0ZJcUk3clRWc21ZVVozR3lZU1Z3OW5SWTV4ODBEcV82QnlhRTFGc0NVQkQ3U25BNVRhOTJQcUhOOTZjdW5JcFNB?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
+    },
+    {
+      "id": "87aca26205cea9db017a88adf3f8b4d0",
+      "title": "Gobierno inyectará L500 millones al sector agropecuario tras crisis por influenza aviar - Diario La Tribuna",
+      "source": "Google News - Honduras",
+      "date": "2026-07-28",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSmlQRHBOODM5b242NElBVmd5ZDJsaXBCNFl1MjY3NkF6UHd0bUJpS29jQ3dTeE5Lck5XWlpNMEFZTWFKOXNaby1PbFBLaGJUb1lkWExtRzB2MF8xbmU0NUw5YzZjeWxoWFBaOUZ6S2dJSzVmM0pQNm1WMnh2R3BGYVB6VWQ3NDZUamYwM0xzbktPbnVFVFEzUmpONnBSalVHbE1sa3hEXzI5X29fWXpHVURZUUJCSXlpTDVQTFU0N3dxdw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-28 10:37 UTC"
+  "last_updated": "2026-07-28 14:10 UTC"
 }
