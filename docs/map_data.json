@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "c2b9acc664f443cc6ce4d2af8cb6d1f1",
-      "title": "SAG confirmó primer caso de influenza aviar en la Región de Arica y Parinacota - Cooperativa.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-03",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWVhsd0FmV0VSSjlJUkgxUVZDOFg4dkxjVGtGT3NrRHJLXzBuMXl3U18yQXZxVHJ5VDJGOFdhQy1Ua0w0bmtkR2ZValVYa281bFBGOUNSVmEwMXQ4Y2cxR09pTHhDZ2hYeDRubHhKMmFReDVsVktUdThOT3oxamRBUXRGQkZoZXV1TnZEMjJWeTZyU2ZtNnZlODA2S1dEOG0tbEtRemc3b19SZG0wdlNOTXJVbUxWcVU4WHFZVEcxZDZ3eG9jOTVmQ1Y4bkdtaGxRUWNna0xZUXkwaWJoRmZ3Q9IBjAFBVV95cUxPaWQ5Z1BpWXppNlplUWgtbGlKY1BmWnAtWVZNQnd4MVpRTm50VjdWSXhFYUlkNHdscHVpZWdBbkZ1dklseXcxMHpjYWVxbVdmYlZCUm9INmV6b3kxSnhGd2dvS0pTSXAzMV92eUYwN3hYZDBjSXpael9yVlhsa0w0d3N0Mnl5UEt3TGU5TQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "b12bcc498fde4bc050924577d0d278f0",
       "title": "Declaran Alerta Temprana Preventiva en Arica y Parinacota por primer caso de influenza aviar - elmorrocotudo.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYlN4VUN6cU10Sk94LXAwWDB2ZEI4REtRZFpkQTVhdldBN3NfSE9kcER6dEpndUppS2gwaGlCaHpxWHpaaDdqNGU0NGRzSjAxbkNjbmJVOGF5T2lnQkpBNFJYLTFJTnNlLW1uOF9WVkVjLXp5dW9Sczk3Q3paT2t3LTJOSmo2aWt4eThEMXVJM2dJUQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "732ea68ee0b92bc84fe0b05f0e46b3d1",
+      "title": "Influenza aviar: proyecto trinacional busca mejorar la vigilancia del virus H5N1 en Sudamérica - reporteagricola.cl",
+      "source": "Google News - Chile",
+      "date": "2026-07-27",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZEpmeF9SWjN5MmR3SFN6eVUxNHdrZ1dlV2JmY1loaWlPd2t0empIdW5qWENmNHVHc0VCcDlSbHJEcW9LdWg5LU9BUUM4aGdWUERKOE91ZWZicFRjMkV2TmJoSzBNdlNDOUF2bnFuMV8yT0VYLUpFX0FWNnpRNW0zeXFVMHFTYUotcXV2SkVYY09wdXNnT0ZJcUk3clRWc21ZVVozR3lZU1Z3OW5SWTV4ODBEcV82QnlhRTFGc0NVQkQ3U25BNVRhOTJQcUhOOTZjdW5JcFNB?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-07-27 21:12 UTC"
+  "last_updated": "2026-07-28 02:40 UTC"
 }
