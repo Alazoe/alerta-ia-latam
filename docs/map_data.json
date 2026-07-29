@@ -1,54 +1,6 @@
 {
   "alerts": [
     {
-      "id": "c8620ee1bd6f3c2c42ec21a5ae760304",
-      "title": "En la región del Biobío Veterinaria UdeC realiza seminario internacional sobre influenza aviar - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-06-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV1ljQlJVV2hINk1wcFd0cHZUQ0haaU9PSzk5dnp6NTEzaTdKWEx5ZXpZbFRZekVibWV6ZWtqTWZ6dTh4Y0FLNU8xUTBJeEZ0MzEtVk90RG9TVDhfeGEyamNRSGR6aHR6aXhWcHZkU2pxTGZHdzVsQ3lPNURVZGt3UUZxU29kXzRkWkdLUFBhSDdWSkxMTjVfakJ0MXBQbFBxN3ZiOXdoblNPQUV0cmgwb1RQM28xWXowTC01RFlpSVJrc3VLLWdkaUdGNXJsLTRNNHhB?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "fdc5e6a92764332216bf4067431a8116",
-      "title": "SAG confirma primer caso silvestre de influenza aviar en la Región de Atacama - La Tercera",
-      "source": "Google News - Chile",
-      "date": "2026-06-04",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOR2lubUFaMmxIQnZLajRocFhjbVgxYzZpaEdXOHpobGN3dHhNcDdxUkZPT1I1dEU1dldWVVdQbmQ1TWl4R2NCX2NXSC1DY2x3US1wX3F3bXd1cHBtM1ZxcldCT3BjUkJ5MEw1a0RmSDB2bHdOeHlxZkNMVDNfZkk3MWVxMmpZS0xfM1FScmk1a19MQ3JzZ3VkaHB2d1hLbnliTmZaNlpfS2Y0am9VeDBDdzUyRW9NeWZwaUFrb3RR0gHfAUFVX3lxTFB6ZU1PNXBMSm5GUUt2dDhIRE1KVm9oTFkzYVhBMDRuMzk0bDgxZ3pHUmF1eHd5bXZfT0JDVDIzZUxXWWtGZmltY3JvaDFpMExuN1p5aEFaclpoZUVJelpaTFVDWTJjVkxCZ1MxdTEtSldld2xGTkdHT1c1dmtmX1RPNzU3NUkwbjhRdlVGeWU5UllKWFExNXVOUm84MFhDMFZ2QXFaOU5ZTC12QzVHbFZVVlZtVzlwSWgwb3VBa0hSbnR0TWczTUxnMGgwZFNfQTZrX1lWeWJtcF9MYkE1cG8?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "a7d4be426c1f97b2e9baac1071c6d445",
-      "title": "SAG confirmó primer caso de influenza aviar en la Región de Arica y Parinacota - Cooperativa",
-      "source": "Google News - Chile",
-      "date": "2026-06-03",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWVhsd0FmV0VSSjlJUkgxUVZDOFg4dkxjVGtGT3NrRHJLXzBuMXl3U18yQXZxVHJ5VDJGOFdhQy1Ua0w0bmtkR2ZValVYa281bFBGOUNSVmEwMXQ4Y2cxR09pTHhDZ2hYeDRubHhKMmFReDVsVktUdThOT3oxamRBUXRGQkZoZXV1TnZEMjJWeTZyU2ZtNnZlODA2S1dEOG0tbEtRemc3b19SZG0wdlNOTXJVbUxWcVU4WHFZVEcxZDZ3eG9jOTVmQ1Y4bkdtaGxRUWNna0xZUXkwaWJoRmZ3Q9IBjAFBVV95cUxPaWQ5Z1BpWXppNlplUWgtbGlKY1BmWnAtWVZNQnd4MVpRTm50VjdWSXhFYUlkNHdscHVpZWdBbkZ1dklseXcxMHpjYWVxbVdmYlZCUm9INmV6b3kxSnhGd2dvS0pTSXAzMV92eUYwN3hYZDBjSXpael9yVlhsa0w0d3N0Mnl5UEt3TGU5TQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "d7c83fff4b064f1122c4f96bc5d53749",
-      "title": "Influenza aviar H5N1 centró seminario sobre bioseguridad y preparación sanitaria - Noticias UdeC",
-      "source": "Google News - Chile",
-      "date": "2026-06-04",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeEhiVzlacFFkekxscGlXYW1yWnBwckswUVpnNWh5bDlOWWJMUHZocFN1SzlrYTJ0cnFpc0NVdUhvSHh4Q3BPWGRIaXAtLWJqWEFpMEN6YndvWTZDVDNYMmd0bFFxQTlUWW8zOGtxQ1J3RGJwWk5FSjdYZVlDREx4c1hwZ2laS3ppY0xiQk5JY3lkT1pFYzZTdkFwWHB4eGg1UDJFNFJDX1pXZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "1e38cae8651d8a2399e0cf7cededdb77",
       "title": "Influenza aviar: el virus H5N1 llegó al extremo norte de Chile y activan nuevas medidas de vigilancia - Agritotal",
       "source": "Google News - Chile",
@@ -3599,7 +3551,55 @@
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX1g1Y002M3g3b2phQzBMcVBHNHQzdDd2a0FWVTJUNldqOXpYeWJ6M1FMZ1BZR1NnNEVVSHQ4RU9KbXVwOXBxa3Z6REplQ1NSTTdvVTVIVlR4bDcxUXpQd1MtYjVjSS1Gai1CZTNGRHU4QmxZZFRIaGhSV1pDRjRPU2xPT2MxYktWRHUxNnFoVTFSUHE2a19JbWFWcGNTSmpHZDhGVE5PYy1vbko2WXJONlRNZWRzUFdwbll5WGdXTDBHZjlNcktUX1lLYk1LWHJpa3Z6Yw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "b6e48aa561ad7ce556512607a74f5f70",
+      "title": "Levantan cuarentenas por influenza aviar en aves de traspatio en Negrete y Los Ángeles - soychile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-07-28",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdzVjVkM4dU1XZGUzSC1NeDl1c01VWi1VMHhHUFl0NUc0SGZnVUFoRDJSc3U4SXhHck5LUVJuOVUyT1RNb21GanBFbXg5Wk04dnZpWnVaT292UmtMalBqWm9Zclh6THZHeWtJY3Bpd25DNUs0b2pQUkotWEZsWUFCNXdhYjhFTmJtLU9TUy1BMmE1T3NyTzJXUXFNVExBYXBFeDBSZjRYd2NidnRtZW9n?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "b39fc92fb04dc49279d04554abe547cb",
+      "title": "Europa reconoció a Argentina como país libre de influenza aviar - Periódico MOTIVAR",
+      "source": "Google News - Argentina",
+      "date": "2026-07-29",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUEZ6bFQ0cDJVSWpvRk5Hall5b0dBd1ZxUjZYdGJRR1hVcjluN21tbkl4dFVpRlNxVEpTMTJibHY3bXhlWm1KM1YtNDlEeUI1empucUdhRzdLcUdpbm9jalY3QnE2RWs2RWZLeDRkXzFlLW55anZTN2pRaHZBR21pQnhiLWh4aVNRckcwOERJQTEzUDdEZEpMQ0JYR2xOYmptR1haSGl2LTBwaTNvb0HSAbMBQVVfeXFMUEdMakN1bHAzVHZpT0VZcFNwa3lrU0szQ25idzRvdnpWSzZqOEdlemE0VkpZY3JfdmF6dDJhbFU3dkU2UnFtc3FYbjlxQjdxSEJmY19WWDJRYnBnYTlYV3J2a1dYcDE0WFhGaDlDZTdkaE80S1R4b1JKTlk5TGFLblhiandySzJmc1d4SExPWTM5NkJFOV9IVHp1R3h4Y2tudHZ0VmF2ajJXalY5bkJ4SlI4NTQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "3d4fb834262bbe851799359aafcfd273",
+      "title": "Honduras vuelve al mercado avícola internacional tras superar brote de influenza aviar - Infobae",
+      "source": "Google News - Honduras",
+      "date": "2026-07-29",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUJzXzBUd0RrVTlOMHk4aVg4UFZ4NGhZMlRHT3Q0SnQzSTd2Zi1tZ3pERDFub2ZDeUROMkFzcUZ2VS1mT3FEYURSUy1vRUhKSFFCYTlNcDc1aExCdUF0cXB0ZXJGSEtIdUw3cEwxckRWNDAxQVFkRUJGQS1oejV0QmdKWE1CRFJjckR3REZwX0U5eFBrTm9WcWJlcUZlYzN3MkNsQzNoOXhCbElKbVVEZjlFQWplMzlxaGk3VmM5amVhVzllTGt4SndjMNIB5gFBVV95cUxQazJ1VW9ITkdaMjBXM0dCem9pSFhaQjBjRlhROW9TeG1tYUNQM2VBN1AxMkJkTlJlWEpTdndVSC1DeVZaaHBEQTNwNS1kZnFpYmk3LU9HUUZSLURKajJvWXFHLWtWYnY4VlMwNm82TVgxejV3dWp2Y200VUF3OEdRbDNsRnBabDdqVGV5S25qMzBtSFlpeEgzR045LWtubGdtcmhrZm9EN1Rwa3RFWHBLal85VVB5cWhlUEUwTkJGWEpNR1BlS3pfRi0yUE95QVdNdzhqN0c1a2tHT0I0aThxeUhuOGc3dw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "9df3b7836aae4b181489811e66b55ae2",
+      "title": "Honduras reactiva las exportaciones avícolas tras controlar la influenza aviar - elheraldo.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-07-29",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTGlhTE5xekdXMWlmVk5DdDA1REotN1JoTWFaZmJJYml0WmpVLUNpdmxBcTVFTUdVNGhseGhtVTZUX1pWWHRFZVA4Y2JEeEk5VGwzX1RVYy1EWDJzTEhGSVFjeFd0T1Y0MGlMTEtqSW8yTjdUV3RIXy1fMXNILXM1bEF0WFpYbHZCcW51b3pZRlE1MnV1SlphemlKRms4ZUdJbFVsSDVHREprSUptbVdlQmFsdlktUUk?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-29 17:16 UTC"
+  "last_updated": "2026-07-29 20:57 UTC"
 }
