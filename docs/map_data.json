@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "66fea9a2f8490fe0007bb66ecc94cf1f",
-      "title": "SAG detecta primer caso de influenza aviar en ave silvestre de Arica y Parinacota - SoyChile.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-04",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQkRaMGR6MVJkb3BxNjlnSGdtdGxpTTFKVHVrakxMUEE0anNDaEJaVjAtczgzOHdzdndnRS1TaWVrV1lNYlA5dGF0U1JBcXFDbjVaUjBHUXZNeWVIOGVLRE51UUZVNGUxV2dhWFJFMTZGdDNiUjEtWVdJX0xwZVlTZHJlek00eVBGTVRKaTNMdw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "c8620ee1bd6f3c2c42ec21a5ae760304",
       "title": "En la región del Biobío Veterinaria UdeC realiza seminario internacional sobre influenza aviar - Portal Agro Chile",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMEhfX0JnQWtuc3BOZHVHYldkeUNVN0p0dDFDUVhsMElhRWFvdW42V09RYTdwYUIyN0FsbTJJck1TSGhxYi0yd3V4ZjA2dXpjZU95YXVmLXpZS2dNalJLR2Z4THB4UmVMNWNEMjl2OXI1YUNLaEItQ2VkbDExcFJpTWNnMFlQcFJEVG9hSWVWVzg4ZjFSSmRpR3M2bDJnZ0dvTXJjSWlXaTBmcHYxdV8zbmF5ZUtoU0h2STF5c3VXTFc2NGx1dTRKR2VKZnA0TXJWYzF3OWNjUGNIU00wNnRBZEpFWmZRZVE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "7fe9b3268dc35ebd126695034cf2fb85",
+      "title": "OMSA declara a Bolivia país libre de influenza aviar y abre oportunidades de exportación - larazon.bo",
+      "source": "Google News - Bolivia",
+      "date": "2026-06-12",
+      "country": "Bolivia",
+      "lat": -16.2902,
+      "lng": -63.5887,
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQX1g1Y002M3g3b2phQzBMcVBHNHQzdDd2a0FWVTJUNldqOXpYeWJ6M1FMZ1BZR1NnNEVVSHQ4RU9KbXVwOXBxa3Z6REplQ1NSTTdvVTVIVlR4bDcxUXpQd1MtYjVjSS1Gai1CZTNGRHU4QmxZZFRIaGhSV1pDRjRPU2xPT2MxYktWRHUxNnFoVTFSUHE2a19JbWFWcGNTSmpHZDhGVE5PYy1vbko2WXJONlRNZWRzUFdwbll5WGdXTDBHZjlNcktUX1lLYk1LWHJpa3Z6Yw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-29 14:13 UTC"
+  "last_updated": "2026-07-29 17:16 UTC"
 }
