@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d2d49be2855ea8c97434c584b978e0e7",
-      "title": "Chile detectó el primer caso de influenza aviar en la macrozona norte y refuerza los controles sanitarios - Revista Chacra",
-      "source": "Google News - Chile",
-      "date": "2026-06-04",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPb2NCLWhYSEhtZkVoU0dEb3hvLVhOdFhjNHlQa1JrcnJWMkdFUzFtUXU4cHlLTGtxdFNIQkRnd0FWZ0doQ0w0R3ZIcHFIaEgwOWFEQVJadENuRDl1M01fcmhqQ0FJZkVyQllUN0dZSGt3MmVRXzRxNGhrWEF6ZkFQUkdLRGtWRWFyZnFEaEVPVGtkOGxXemtWNVU5bmdLX1FYbms2V0p0OWgtOHdRVDVDU3lKb0lGc3BIbGdPR2NlMUlKczZVcjZRamxSemNNaE5qWkdVQXlkdl9Ba2JnMWppTmpzWU42UGVLVHlV0gHjAUFVX3lxTE1zZmd1b3puWXQ3eTFVa2JnenFMSmJMaHRNZkZoU0R6alBPZDcwUVE2VDMtaGhhQlhtbjc1cHRXMUg1OFlGU1BldFM1VEhuZmRGSDUwRE1KUGxZYjdxNUpiZ3g5UzU5c19TNk5FNXFuT0JoTHlZRWl5enRXME4yOFQzRDNGZkNLTVNpWnJmR1EzSjdfMkFLNE4zMFJMM0lmQUtRY1pndkFmZUt5ajRnUjFrcXRtU1NGaWJnZVFSNkZjNWd0TWdXNzdDODNYdGFDVHZIWG9walNJYnJyYmV2ZktwVEJN?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "66fea9a2f8490fe0007bb66ecc94cf1f",
       "title": "SAG detecta primer caso de influenza aviar en ave silvestre de Arica y Parinacota - SoyChile.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdzVjVkM4dU1XZGUzSC1NeDl1c01VWi1VMHhHUFl0NUc0SGZnVUFoRDJSc3U4SXhHck5LUVJuOVUyT1RNb21GanBFbXg5Wk04dnZpWnVaT292UmtMalBqWm9Zclh6THZHeWtJY3Bpd25DNUs0b2pQUkotWEZsWUFCNXdhYjhFTmJtLU9TUy1BMmE1T3NyTzJXUXFNVExBYXBFeDBSZjRYd2NidnRtZW9n?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "ce911c45f05974d51fdeae7c3fc20469",
+      "title": "Argentina recuperó el estatus sanitario libre de influenza aviar y vuelve a exportar carne aviar a la Unión Europea - ReconquistaHOY",
+      "source": "Google News - Argentina",
+      "date": "2026-07-29",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMEhfX0JnQWtuc3BOZHVHYldkeUNVN0p0dDFDUVhsMElhRWFvdW42V09RYTdwYUIyN0FsbTJJck1TSGhxYi0yd3V4ZjA2dXpjZU95YXVmLXpZS2dNalJLR2Z4THB4UmVMNWNEMjl2OXI1YUNLaEItQ2VkbDExcFJpTWNnMFlQcFJEVG9hSWVWVzg4ZjFSSmRpR3M2bDJnZ0dvTXJjSWlXaTBmcHYxdV8zbmF5ZUtoU0h2STF5c3VXTFc2NGx1dTRKR2VKZnA0TXJWYzF3OWNjUGNIU00wNnRBZEpFWmZRZVE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-29 10:40 UTC"
+  "last_updated": "2026-07-29 14:13 UTC"
 }
