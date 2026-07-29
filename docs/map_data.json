@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d4ab638db8bb4e0aca6c60c3c0727f76",
-      "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la región de Arica y Parinacota - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-06-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZ3VxTThCeGZBbFdpN25BUVIxaUQ4RzJ0MzhhWW9TMXdWNUcwMXRMNmdfVEpjaUQzeDJtUExNQ1hSWjJkTzcwYTdSYlhHVTdDTkNFV1dMaEVvMUFUd0M4M0NlY0ZYZFFNdzd6T0tScWx5TlFsTTRpLTNWSzRoSFRWdmdhcHNYU3FwSHkyWVNfNTk3cTdHWmdPekVfcXdlc3RjOUNBYnhyb1BsQ0dYSVltR0F1MDdrWnUzMmZOb2VzWW05RV9aVEgtbXdDM0RXbUJFNzhVaHZnbkM1X0kydFhJ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "a07fd1a1b9272d4685bd1d5a6a153c09",
-      "title": "SAG confirmó primer caso de influenza aviar en la Región de Arica y Parinacota - Cooperativa.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-03",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWVhsd0FmV0VSSjlJUkgxUVZDOFg4dkxjVGtGT3NrRHJLXzBuMXl3U18yQXZxVHJ5VDJGOFdhQy1Ua0w0bmtkR2ZValVYa281bFBGOUNSVmEwMXQ4Y2cxR09pTHhDZ2hYeDRubHhKMmFReDVsVktUdThOT3oxamRBUXRGQkZoZXV1TnZEMjJWeTZyU2ZtNnZlODA2S1dEOG0tbEtRemc3b19SZG0wdlNOTXJVbUxWcVU4WHFZVEcxZDZ3eG9jOTVmQ1Y4bkdtaGxRUWNna0xZUXkwaWJoRmZ3Qw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "d2d49be2855ea8c97434c584b978e0e7",
       "title": "Chile detectó el primer caso de influenza aviar en la macrozona norte y refuerza los controles sanitarios - Revista Chacra",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZk55eEN6WHFnNGRYUmU3U3hDUElMc0dLTU05ZWNmY2VfWEdlV1o4QU9xeVVNdGNoUzJReVhnMTlkNzBBNFY5NU1OY2pENE9fdmdZQVRPMlBQMGVOcERsNk9FWmwwZlZXTjI3QmVTSFAtOWFuMl9kRThiVjZiMWw0UEJxb1FQc2duS0VSSklaR0s0Vkg0RUJYSHZhZlE4VnFhbnhHTmU3WlpnX1JNaVppVFVCTFI2dERsX3NoZFVRSG4zVDhNdlJVNGNOY0dlWEpZUExpVkx4c0lGR1dONVBCa1V1SHJfMjJEcnZNV3VpV2RVUnBXQXpBYUpXalJMNDVQb3ZSRDVhbThIOWtn?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "f5fbaca2864aff7e027291ec8820a9e4",
+      "title": "SAG Biobío levanta cuarentenas por influenza aviar en aves de traspatio en Negrete y Los Ángeles - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-07-28",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRktlQXdPbnpJbjJ6aVZoVlNmdkJsb1k0YW5DWjdhM2NBU3FXekpVUm5fNjZ0cEtLZ2tqRUtmT3ZSYnRfYnJ6RGZwdmRvM2lIaGN0SHlPQzZ4ZzVhZDVKRGdMS2tCM1dTU2pXLVRyamVRYXJlOGswY2FfalJMejN6Z2Q3NzIydFI4bG1xOGc5Z09pc3dveHhBU3VrZk5HaUlQM2lnU1dwQkJfSHVvSGc1QV9aZ3B2cXRjcEJBN1o5NzNwd1Z1T3pxS2E3Mm9fa1FSLVBCMW5R?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "c6065e0fbc07711c74a3f06a29370e42",
+      "title": "Levantan cuarentenas por influenza aviar en aves de traspatio en Negrete y Los Ángeles - SoyChile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-07-28",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdzVjVkM4dU1XZGUzSC1NeDl1c01VWi1VMHhHUFl0NUc0SGZnVUFoRDJSc3U4SXhHck5LUVJuOVUyT1RNb21GanBFbXg5Wk04dnZpWnVaT292UmtMalBqWm9Zclh6THZHeWtJY3Bpd25DNUs0b2pQUkotWEZsWUFCNXdhYjhFTmJtLU9TUy1BMmE1T3NyTzJXUXFNVExBYXBFeDBSZjRYd2NidnRtZW9n?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-07-28 21:09 UTC"
+  "last_updated": "2026-07-29 02:47 UTC"
 }
