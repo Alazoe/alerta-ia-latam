@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "5cafad3367620aebb6a5cb43f2ab7bb0",
-      "title": "Senasa confirma influenza aviar H5N1 en aves silvestres de Lempira - elheraldo.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-08",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeE1oeEt6V3l3WDlTNzBtZ3pOVUxFSVVvNjRKclVfSDg4VGhGS1JFMFNucm5lSFc5cFNBR0tzSEVoV0k4RUszTkdsY2xWQVNSTm02MlhqU0M3RVFzVmx1S3lOWUR1RUVvb25venlPLTVmUnBpX2JmRVdkdXBjSHoySnFtZ1FDTHRCZEItXzkycmZ1d0NhV21uZ1dGSUg0RU5mUG5FZ1QybmlEbEIxSjFoNWxTN24?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "0446de1a4276e317b1a1558185ad151c",
-      "title": "Detectan virus de influenza aviar H5N1 en zopilotes de Lempira - www.laprensa.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-08",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMHIzLVhxWkpvMVdlWTMxR1RsRkJmcldjdXlFdWgyS0t0ajZ4Q0RjdkxKREstUU5VcndoWE9xY3IzZ3ZUbTVWR3p4R255UW9fS1NadU96MzdnZGgwU2NoeGloc2MzRGoydHlvaGtBOXlTWkxQVVp5eHBLMFd0c2RlcXlETHJadVUzcjlBVHplakJKSEk?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "6bced83383b8a7095a79d477c9fbb49e",
       "title": "Honduras activa vigilancia sanitaria tras detectar gripe aviar H5N1 en aves silvestres de Lempira - HCH",
       "source": "Google News - Honduras",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNmN1QXdpQ3BoNFVsbWhmT2czVzZzcTM1M0dyY2otRUxBTlozamVvV1JnVE9wMDRVRmxSb3JpV1daWlJHaUlNdmwtUDJMRk5VTmNVTEQxTWlXbXdNMVh3emtJdC1hVWY0OHBMZHlDS2JBVXFLSVppSWNQUjFOeHZoQ1U0a09oMnBiVG9MQTEyZkU4SWczLTUyRWhBZWJVY0phYTUybDBtdGlyUlp4NDRz?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "9799df9854c9829c1c4f1fd6ff6c502a",
+      "title": "Bolivia logra certificación internacional como país libre de influenza aviar - eldeber.com.bo",
+      "source": "Google News - Bolivia",
+      "date": "2026-06-12",
+      "country": "Bolivia",
+      "lat": -16.2902,
+      "lng": -63.5887,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNm9BZXhTTG5TWlFJTWFOYUJibVhmTTE3WUxaekRiVXRBZTJwRUYxM29CVUFxQnU5TTA3S1NvaWhzX3JLdk52ejFCWE5rRGtFZEJCbTdGUUdWRVY5RFUtNXhKUmdIR2FvZVNCTzFnMHA5YWhHYnE4S3dqQnpxY2R0MzVFMWszSlVWb0ZrdU5lNU5zbHQ0SUhnb3djd1NDMU1qUnZNTTNhQUYyeEVPbWJsSQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "fc6e3d95791685628f7289719f4f834b",
+      "title": "Se levanta la emergencia sanitaria por influenza aviar tras más de 50 días sin nuevos focos - gub.uy",
+      "source": "Google News - Uruguay",
+      "date": "2026-05-04",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdVRHbk5OX1Fwazdpa3AzMi1IaEpZUEVWdTA5T2tRR2pfWHVaeUlQMmVGellaRzdLYmtOME9iczRQZ3VaWWEtREF6YmNqR2ZTaEpRaFh0QktQQzdaczJ3WVZhU0dhc0syclhyTjJHM3BCVmh3ZHN3MVFXY0VMY0lwVVpzUmJFNHJzY2Q2X0ZiekVmeENKZHpyTkJwS2kwV0paRWE0dWNJM0JVUEN2aUtlQzVYeElVQkVMOUhKa2c3dUs5TzJHQWtISzdXM3JCWVdQbVpvdncteW1lMDR4OTlCVl9WUnVQSmFuaE01M1p3?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-07-30 10:26 UTC"
+  "last_updated": "2026-07-30 14:06 UTC"
 }
