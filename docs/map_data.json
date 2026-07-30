@@ -1,66 +1,6 @@
 {
   "alerts": [
     {
-      "id": "56da734a12229cbe98a1266abb62722e",
-      "title": "Influenza aviar en Perú: ¿Cómo comprar de manera segura el pavo para Navidad? | #OjoEnFamilia - apnoticias.pe",
-      "source": "Google News - Perú",
-      "date": "2026-06-11",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRWwyTFlfc0xCVG50N3UzaXhlZU5tRXV1TDZvUzBGQ2FMMDI0dFBhdk9rc2FmMGt5blVfLWF6VHhJaTB5TU1ydEUzbUgwa3VMbW11VnU5TVhPcGJ4bVZLTHBLN0JaeWlzWWtGRUpsN0VlVWx5S2RhRm1vdXhqYkowV2M0c2VRMXdQSVREc3g5U1A2MjRHTmRPbnRpSzgwZV8yVXd2Z0tGUzc0RnByemdoMDZqNGY2bTYwWXVqZERfaDdyc0FO?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "d7c6ee97511ebf5f97cbb784e4ed64b4",
-      "title": "Bolivia logra certificación internacional como país libre de influenza aviar - El Deber",
-      "source": "Google News - Bolivia",
-      "date": "2026-06-13",
-      "country": "Bolivia",
-      "lat": -16.2902,
-      "lng": -63.5887,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNGpEY1RtaWlSQUotenpPaGl0OUlSYzFvZmI2VXJMOU84bXhTNUhxOHJWTms4NjFQMnU2Tkh1c3pzdzR2ZHpuSzE4MGJsaTRLUktVckM2Wm9RWnp4VEtrZTFfckRrSlFVVWVIV1EtMWpYV1NMam5RX2s0VXR6V0pXbzdjTlRIdWlpZ1d6ZGI1UHo5dWRrYy1yN2FVaG1tVHJjYXVVbHdwaUM0UW5kOTZfYUktT0drSFU?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "2060cf3d86f5761402e12de8c771aa96",
-      "title": "ICA anuncia control de brote de influenza aviar en el Meta - Hoy Diario del Magdalena",
-      "source": "Google News - Colombia",
-      "date": "2026-06-11",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOejNXcHNfSUdfRU1TLURoVFVOSXpqWGhET0g4UVhSY3QxLUVkcUtWaGphZndteUdZQ3ZUTG5Ybm5YajZCRmI2TUVUcGVPN05uRV9ZUHBoeGJyd0dXVVNfWFdlRUNsMUg3LXgzM09pLVNDbHNIUHFCaWNmdmxCT0FFNWRVWHhSbzNhMmx3RFl4ZVBCNHdwWnQxRzdidUtZN1VEd3g0MUxKemZINHNqclhKbGdB?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "8826bb4ca5bbf94d41bfc7881db4b39d",
-      "title": "Bolivia se declara país libre de influenza aviar - El Diario - Bolivia",
-      "source": "Google News - Bolivia",
-      "date": "2026-06-13",
-      "country": "Bolivia",
-      "lat": -16.2902,
-      "lng": -63.5887,
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOT3AzVjNwal93SE9hbFI0b0ttNi1TWTVRQl9YbHl0UzIzTDd0YWwyRTY1M1pDMkNDMnZQeVFGNG1xRFdYSjdKZTJ2dllka1JCN1BENnJvQm0zdUM4Ym5UU1JQWUc1V01DcVp5cG12VFpQUnlGenFhWHVEbE1nbjhKd3dzYnRVTGtYR1VjTWdQMExaQjZVTTdB?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "5206662ec5760f4736c9ed42b5a275c6",
-      "title": "Influenza aviar en la interfaz entre humanos y animales - Gob MX",
-      "source": "Google News - México",
-      "date": "2026-06-08",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSWNmU3c5bUhfakk3THdiYXFrUFkxZUZHTzdhbERpdjZ3eTBrMjFmYzMwaF9uNWl0Wkl4SEc5OG5obS1PMmdQanhHQmljOTlYTFZHUVphOC1qY09EU3JZXzZiWV9ndHlqMk90TzBTOG8tNlhwbnl4UkEtUGEyY0xTbVBNeV9PWGNNVzdEQWxST1RzdC01WmVLTVV5OGt3UQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "0332cc8c292e9952c01d26a14113d4f6",
       "title": "ICA anuncia control de brote de influenza aviar en el Meta - hoy diario del magdalena",
       "source": "Google News - Colombia",
@@ -3599,7 +3539,67 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTGlhTE5xekdXMWlmVk5DdDA1REotN1JoTWFaZmJJYml0WmpVLUNpdmxBcTVFTUdVNGhseGhtVTZUX1pWWHRFZVA4Y2JEeEk5VGwzX1RVYy1EWDJzTEhGSVFjeFd0T1Y0MGlMTEtqSW8yTjdUV3RIXy1fMXNILXM1bEF0WFpYbHZCcW51b3pZRlE1MnV1SlphemlKRms4ZUdJbFVsSDVHREprSUptbVdlQmFsdlktUUk?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "c7f83f370fe579ec5d6e0dfc7d243ef5",
+      "title": "Mantienen Alerta Temprana Preventiva en la Región de Los Lagos por influenza aviar - SoyChile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-07-30",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjF3UEEzanh5NnFIajU4SkRUTFBZNXFWMlN2X2NIb2I2eTNkYmwtZ0RPNVN3OWRKOUVOREt4TzRCdjk3bDdlUGJrODRzcXQ0RU5xeTV3cW9tRVVBd252WFZLUXNhQVVlUzVBUXphVUZ6RGNqMDE1SVBPWGhsUkhWZ0paX2dRcTRrV2lWUEdiUkFYOGZxT1UzaGV4THd5S2llb2hEZWtva3hUMTVrWlJWell3?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "cf54dc5d24e991390d3b524a8b566d52",
+      "title": "Chile refuerza su escudo sanitario ante la influenza aviar con una respuesta intersectorial en terreno - paho.org",
+      "source": "Google News - Chile",
+      "date": "2026-05-12",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHp6cDViZDV5T2xHZVZHcHZzTGZzeEFOZGZVUUhQeGVNZjV1Y2ZXeUY1UjRKTm1rNk44NnNYSG5WZkdIVTQyaGdFLTI2WE5mZjVYNjVXXzVkLVRVVTR2UXVkWmY3SE52SUNCNG5YY2d0Z0FmOTVZVDBkTkdqR3BSeU9DeHVZbzJoeHF2R0JFaVhHODl2aVVkb2dTMEZsdTdidi1hTFZISTREc29BVEwwTG9R?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "3e6ef318a8514afd004d994bfd8f5e76",
+      "title": "Brasil fortalece la preparación intersectorial para la influenza aviar con el apoyo de la OPS, el Ministerio de Salud y el Banco Mundial - paho.org",
+      "source": "Google News - Brasil",
+      "date": "2026-05-05",
+      "country": "Brasil",
+      "lat": -14.235,
+      "lng": -51.9253,
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRndNWWplbmdaM2VZczRvUlVPS0FPb2w4M0F1RV9hMVZENEFEVkFRS1VTck1KZjgzZG5aN1cyT05aZWYtemcwaVNLR0RESzRIV1hTbjRyUHQ2cHRUd2pjWG00WTRMWGdWSm9mOU5MZ0s5RFJ0dE11TDVMUHhuc19kUzlWbGpGTllwT0dGSWJwSlotZ3lvUXY2VFV5WHo1bDdvb1dzR2VpVjgxOEVuY0hSOXNOamFSQV9vNTNvSA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "c0edff06d5d729db73eb22f29c078dd3",
+      "title": "Uruguay impulsa la preparación nacional frente a la influenza aviar zoonótica desde la perspectiva de Una Sola Salud - paho.org",
+      "source": "Google News - Uruguay",
+      "date": "2026-06-18",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXhTR3NRRDZGR1BuTjAwTGhVbHlHQjVtQkNjV00zQnB1SzZobXUxbTFmbWt6em1MYmc2Um5pUGwzUkxyTVZjbEJrekV2ZTgwS0V1cmtUQ3E0M0oyVzZpS05HTjBNNERXS0dnM0cteWNudXN0czB0UlYxLVR1M3JIcVpGdGRVUDZWdDlPX3ppQlVZaE9HSzZUM0VWVjFnMXBlcGN3U3VSU1JwVU15UnNvUGM3X1FZaGx4YkE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "bd255a18dd7c5d80ac97b7faad04f70e",
+      "title": "Uruguay se prepara para la influenza aviar con un enfoque que une salud humana, animal y ambiental - paho.org",
+      "source": "Google News - Uruguay",
+      "date": "2026-06-22",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcGVaV3o2aW51Q0Z6NjZQWGZWLTRpUkFiOWI2eHJqZTliZkdpaEJWbE5lVXAxRG4wdC0wVlZvRkxYTXZpN1lEMnI1WFRhM25XYVBYQUM0clg4eTN4VmZNb0hCMUFxaEMyVjItMDJyQkw2WENUQUJPTFh6TklpSXk1LWU3WEtRdXk0anpwTko3NWdzWjhLcDBfQU1YQ1paWDY0MVlyOU8yUjNVbndYUmhrN2gzNlFScFJhblJsRVQzZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-30 17:36 UTC"
+  "last_updated": "2026-07-30 21:11 UTC"
 }
