@@ -1,54 +1,6 @@
 {
   "alerts": [
     {
-      "id": "1e38cae8651d8a2399e0cf7cededdb77",
-      "title": "Influenza aviar: el virus H5N1 llegó al extremo norte de Chile y activan nuevas medidas de vigilancia - Agritotal",
-      "source": "Google News - Chile",
-      "date": "2026-06-04",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcVd3NngzQVNXTFVKVlNybnROQmFXcEVYSjlBa1JPN3psWkRIUS14dXk0WElMMjZtV2I3OUU2Qm5xbFFpUFF5LVFQSDhHZzFaSnlFLUVMdEpRMi1HTVR0Tjk4WW0xYWhsekRmYVNCMGZVRDFiWlJIV1diLU5qSDRPMk40d2JldzNsa09OQjJibzg3cUs2ZXBMdlBLRW1tM2QyZ2xJQ09SV2V6ZXd6bFB1Y1dfbUpxdE1DNEhEMHZ1ZXkyMUlRTi00RVcxMFQ4UzU3WF9F?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "5185cbe6d6c0f3abb23572d42d2d56ab",
-      "title": "SAG confirma primer caso de influenza aviar en ave silvestre de la región de Atacama - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-06-04",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWmlBQVR3b0pmOUJSak91bjZBUndZcnpzR00tb1pVQlFGR1BPWEtLelJTRkdZclE0SFpMQTBDUGRxNS1QN1d4UjdVT2QxcWJHWTlDOWhsZ1lISFpTV2xpOE9Zems1RjFPLWJLZVo0dTl3V2xHRWNuUFFLWG44MjNQRGFGRFBhTW43c2RZbWlwYnpUOVBaZk5wOW9qcTJkM3o2c0ZULXNRU2hNel9jajdhVzNNUEFfXzkyMTVURGs3MVdNYWIzRGc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "1c3445409fde98d734ee8189fc32a260",
-      "title": "Columna de opinión | Experta UdeC destaca la red de interacciones ecológicas que mantendría la persistencia de la influenza aviar a nivel medioambiental - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-06-06",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPc1psdWVyZVN0RHNBQTZMOWFlV25oQ3VOU3diN0ViNHpQMTA5dms0UHRkSzVUY0I5ZlM3RkRVYUxPSk1MdkRBbmFud19TM0dXOXNQWFRaTmJvYjgxYTgxZXFuQ2QxSG1tNHU4NzF2dzNZNTRiNEtMTUlxaWhlM1ZrNHZZcjJyWWwzZTVfbkVZdnFxWHFXcVVsb0JXaEtOWTlKVjlacVk5MWpVVlMxS0U2MGJsSk9Bc3BZbUppSTg3MUhmcXJEb0xLUVRtU0p0cGFxdng4UEZoYXg2Q0c3MFk5eWU1UUhtUFJhYmo5TEd5V2ZYTERMWUlUQ3lKNWVBX3prY29ndlA2TTZibFZHRnF5aXV6NUpBWjhVb29PdlNR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "266a71f1fd214ddf7c48b6c68a06faf6",
-      "title": "Conaf reabrió la Reserva Nacional El Yali tras cierre preventivo por la amenaza de la influenza aviar - SoyChile.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-06",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcHZKcFQzYlNEcXN1cFhDb3hrVzdLV0IyYURBMFNrS2FHQzJ2ZGpRUDloQjFoN2JCeUVhUHpkQXhad3k3MTJuT2w2STNKNWZTWHV1c3NGWHBTN1haN2FkbkJhV0ZJNmRUV082TVY4Z0lEWnRaVXhIa1p5Z3lMaXdscW0wLVM1OTAyblpicmJaWjJCc2JxYW1aRUVEcEg3T2Z1SmtoenJqUQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "9a1c9e40a2e9dcd1f29114dd542debc2",
       "title": "¿Qué es la influenza aviar H5N1 detectada en aves? ¿Puede contagiarse en humanos? - ElHeraldo.hn",
       "source": "Google News - Honduras",
@@ -2509,18 +2461,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "f56c3d555ab637d65df1f133c1f6e1a6",
-      "title": "Avanza Sonora para reconocimiento internacional como zona libre de influenza aviar: Célida López - El Imparcial",
-      "source": "Google News - Venezuela",
-      "date": "2026-05-01",
-      "country": "Venezuela",
-      "lat": 6.4238,
-      "lng": -66.5897,
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcXhCdzF5NzB1ZWUxZ184bmo4OHo0S2ZuOXp1aUc5bXB6UFUxOXQxSk9Qa3ZKdHJwQnFWTUZUVzJ6RHBpc3JiNGtWZHJIb0tvRHktMGZkb2VLcnlzQU81cEh2WHIxd21kM1p2U2QwVWlaV01YSjJhWExWbTZnZXl6VDdCZ1Q4UlQ1LWpjN0F3a3UxRkVHYjlLbVBseDI2VTc0Qzl3anFZa0l3bEJEMkJqalFJOGU1eXFfTGdOZU96TXJzQ0xKVWZHSHZtdGRjbVp6VjNKa2JhRHp0X19hMkg00gH6AUFVX3lxTE9HM0hXNXdRY3ZPdmhXdHUtMWYxY1FYYWZnVHVZQi16UUNzS1NPQ2ZjbjhFMnUwTko5cUdra1ctZVhPbDJlZzR3MEFaTC1YUHoySXRwbS1yWHpjQjRCTkRtQi1LZjFUN0NySDY0MlBDeUxxUTR2eWlzWGt6cThqS25xNDNCcHVmcFd6VUNPS1RrZHJfcWFITnMxSjVsZnZGMEpIcEgzV3VnWGpNTE9aZkZ5ZVRJRllseDIzX0szQldaQm9tRkRuUUxSNzViNGRMU2RyelA3NWtHcmFEOTEwaFRvbllBN1FobXhucEpHUE8wTnZkam9kSHdTemc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "ddb652a89ef55cb018c4d5e2912cf63b",
       "title": "Reportan influenza aviar en dos aves de zoológico de Chiapas - MSN",
       "source": "Google News - México",
@@ -3599,7 +3539,67 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTGlhTE5xekdXMWlmVk5DdDA1REotN1JoTWFaZmJJYml0WmpVLUNpdmxBcTVFTUdVNGhseGhtVTZUX1pWWHRFZVA4Y2JEeEk5VGwzX1RVYy1EWDJzTEhGSVFjeFd0T1Y0MGlMTEtqSW8yTjdUV3RIXy1fMXNILXM1bEF0WFpYbHZCcW51b3pZRlE1MnV1SlphemlKRms4ZUdJbFVsSDVHREprSUptbVdlQmFsdlktUUk?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d8db15ee6acd82c6a3f847dc749e5858",
+      "title": "Honduras reactiva exportaciones avícolas tras controlar la influenza aviar - Canal 6 Honduras",
+      "source": "Google News - Honduras",
+      "date": "2026-07-29",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaFBhWnFsMmFtQkc0elJzb01JV2FVV19TSFUybzVYcGhTWnJRYkRieGZTWExtTno5UzVvcFAtM1RKVjdZRHdDT0RBVzBhY3dOVGw3cm9YR0VFRFMycWVxOGpYeXZUVnhsMF80S1ppTjNfQWIxcERmVTZwek9UWk9uaXhUNUx1QzlDM1o5d3ZGUXhuV0U4SFlSZVdRd1VVRUQ5X1ZjdWwtVUlHNmc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "38ccb74a31df712759b855bed54a6e29",
+      "title": "Honduras controla influenza aviar y reactiva exportaciones avícolas - Televisión Nacional de Honduras",
+      "source": "Google News - Honduras",
+      "date": "2026-07-29",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ0dUa0JPQXpkNm1GS3RwZC1oYUZ2cEhydlVPcUQ3ZUU3ZE10M3c4TUZhMlFHdDZ6QjhIUGY0U2lDNmdRZVJlYnhIOEc4cmRVaEMyMXc1cUNJNlJHalhhXzdiSXJXb1VoOS1Cc2ctZWt1TTFNQWpMVmtyUFU0dEtkQWdJenNaeWU5SHNrQjk2SGtZY1RRaWJ5M2pkTTQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "898abd99c461590740798d8983aef916",
+      "title": "Honduras retoma exportaciones avícolas tras contener brote de influenza aviar - Canal 6 Honduras",
+      "source": "Google News - Honduras",
+      "date": "2026-07-29",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQME14b3pGbXFFMURyREdoN2tXcTdOMVo4TzR4X0MxWjJKZHVPMmJxQVNUdXRyR09QUGw3aEF0MTBWOEN5dE83NDY2U1g1WWZGVllGZFNPZ3ZfTHlRSlI3Y1ZJdXFPYVg4MjZUVzgxZWplSnEwTVVKWXpma0htYWxIUHdrV3EzblZWWVhXQ3lvcWFjWmtrLXhoWUhpQnJrMGFaZ3pDdDFTR19jMlBvWm1n?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "23a135361d5a246e6f34cc275b0d49f8",
+      "title": "Confirman caso de influenza aviar en Costa Rica: Esto dicen las autoridades - diarioextra.com",
+      "source": "Google News - Costa Rica",
+      "date": "2026-06-25",
+      "country": "Costa Rica",
+      "lat": 9.7489,
+      "lng": -83.7534,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0NXVWNSMklnMmVuQzl1WHhQTWlTTHMwTDAydkJnSnJqZmliTUpGb2J3YXBWWV9heElVUlVJZXktR0RpN091X1o5RHlkTVJNTktFLUJua0RNVWRESW5WTTVrUERmMWw0dS10aWxaRTlnQkc0eTJFY1Y3cFFzSjQ0TkNWZFBJRldDQ0JYNTFneUdWd01laEh2WWlGaTdUTjRmRlNSWF9MQUZOWkNsbXpOcg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "81aff346820955abd8e0a0269fb25610",
+      "title": "PAÍS REGISTRA PRIMER CASO DE INFLUENZA AVIAR - herediahoy.com",
+      "source": "Google News - Costa Rica",
+      "date": "2026-06-25",
+      "country": "Costa Rica",
+      "lat": 9.7489,
+      "lng": -83.7534,
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUVhmdDd2VWJSRnRrRWpVNDFMQm02Z2U0VkNSSlRrZEk2Rko4d2JZSDRnRWhyVjRvNFpfQXN1aUdfQk16SFBkVm8tVmp4RjZNZEdnNUl4cUxqdmtoLWNLWHAzY3I1TmFQY2FMcVpNNzFCR2FOQkxraW41dGJkcW5ELWVhQmVRQQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-29 20:57 UTC"
+  "last_updated": "2026-07-30 02:32 UTC"
 }
