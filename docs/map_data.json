@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "f648ea75cb4eedd70eb547dffa09d71b",
-      "title": "Confirman primer caso de influenza aviar en ave silvestre en Tarapacá - SoyChile.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-16",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZHNmeDJWSUJlZjhPcG53emhfOU5GSTF0cmF2MVN0YXc3R3YxaFAtWFFRQzZMdXVpSGxOTENsRkRBNWxDa3hUeXZ3NnpzQ1dVWXk5VkJ5aHJ3cjNfMnR4WHhhV19jRm5pbXZMUFdzdUVQT0hocEp3bXZxUVBKTXRDRlBJMlVZa0d6LS1BLW1fcEoyNHBqaTFsYkwwc1J2TlZHWUE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "d470c49ab71f83dfd9a6050ee8b5761a",
       "title": "Perú y Chile volvieron a abrir sus mercados para el pollo argentino tras el levantamiento de la influenza aviar - Ruralnet",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQME5ZNV93X2tMYVF6QWQ3YmhmVkVuN0NmX25UY1EtNVdCN004LW1HSWVhX3Q4RDk0Z1lfUlZLSEJyQUljWVo5LVJySWJxZXFfMERQMzZWcTh4a003WkhNWlI2NFpyYXVfZGZkMENXNnVvb2w3TkVqNkE1RjVaOUFEblVqZFNEa25BcUlKT2FvV1l4Z2owblN6N0UxUEZxS0ZCSGw4Z0dzYXBKNFRHMFV5QXJZaXFoS3U0d3dBZWp6elNXekxjamFZLXB3X2VOQ1M5bHZkOFFSck5tQ2pjQkp0TVpsenRGMHVwR0E?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d9d76114a66250f72739c67ea23c3ba7",
+      "title": "Mantienen Alerta Temprana Preventiva en la Región de Los Lagos por influenza aviar - SoyChile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-07-30",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkR3Q0tGNUJUelZvM080U21yRUdCcGxsQTk5ZVBseXJIdnNMYmlVSHVEZ3hWNEZxUEEtcFFYa0QyTmU2dXBhVi1QU2JHaEIwWWd3cVZsTzEyenpkb0J2SkhZalh0LTVVOWUxTENFOWxNRnA1VllNN2RGblFFeGlDbXpab1l0UGs1V2g1S00zTXFYMllmaWI2WUZ0ZVlyeFp4MGVTYV9YWUc4QnNXTmc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-07-31 17:39 UTC"
+  "last_updated": "2026-07-31 21:06 UTC"
 }
