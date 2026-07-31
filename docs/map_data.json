@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "305d840df74db7a77a668c01321d695f",
-      "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la Región de Tarapacá - SAG GOB",
-      "source": "Google News - Chile",
-      "date": "2026-06-15",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObVhJX1NoMS1SWWtmY0N2dzVfaU5zR1NlcVcxeEJkd0c4Z1pZZlRfQ2FUU3JJMExtTWYwQllGa3h6NXdROUNPNHc0blFWWnhWa0VzcWJRcnNBdk1fa3hfc0NFVGJjV1ZtV00yQ1NqakFiSV9jN3A2Vk5yOXpubklqSGpyeEVxa0tFXzNnQVpKRDJPQWpVaVA0WkRUYWlnNFIyZTZsVmYyQXN0ODJ5OUhXTTFOY3pnV3J3cmhhLURfSVRReEFNNG9EQ3BQX250b1pL?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "a994d48078d5141f24f9a6f410c5ccf3",
-      "title": "Argentina libre de influenza aviar: Perú y Chile levantan restricciones a productos avícolas - Ruralnet",
-      "source": "Google News - Chile",
-      "date": "2026-06-17",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZk81QW93MG03eDVVc0hMUFN2QzFoYUloWGxGYlF6NDV4UXhhV1padUR3YlBEank4MU9LblFZR0NKdklhV2FvcHZxemNWblBLV1ZhRGlHMHFwYzlmX2NGLUZ2bFhOWVZobjVlS2Z5MXQybERrSTNQNDZqQ3BJdS1WeW9xbE8xdzkwdDVZN1FqSGRPN1hPN2hR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "fcd3da458ee3bc91ad976c724e9ae61e",
-      "title": "Evalúan declarar emergencia por brote de influenza aviar - Diario Tiempo de Honduras",
-      "source": "Google News - Honduras",
-      "date": "2026-06-17",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZklxYjVhcDhid2lKTkJHa0FwSklRN1d0MFZtNk5YenNCZXo1d2cwaTM5MjZaOVNtVDg0UjNrcm1OeGI4TUpjb185NkhPbUIyaHlicmlvNmJ5OEdPRldjbGcwMWVCbHItbGhpZXJmaXZZemtDUlV4UjlKUHkzWmlOUGczQTZVcE5iSVZoYlNHY3UwZw?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "4d1c91c8b91aeb98305f3a9026bdde60",
       "title": "Honduras confirma primer caso de influenza aviar H5 en aves silvestres - hch.tv",
       "source": "Google News - Honduras",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTdsdXhSSG93bVBINTgxODVXb3psVVF2YkdVZTVJNnhPVi1tdFFLZzl3YU1sS1Rxcl9NWFkzclp6WVFKbkpkaVNMMGJOSnBsUG9RazNNY0pvWFNwRlZWV3VVYWp1YWhjbE1CdUgxUDZmRE1kcGZNWkM1N29wc0tjTEg3cTZVQW45Z1M2d1JMTTd1ek42eWUxZGljY21zTV82eDJuQW93Q2hlT0wxRWFjWnY1b9IBuAFBVV95cUxNcDI5V1BSR2M2RlhuRnY0WGNPLWl6azJsY0d3ZlRDN0xQU3IwZGluTzNRRmNqckMxWHdBbGZFc1N6SlBsN1g2aU45ckNydUxpQzVuQTVqWjJRbGF4MVF4eElaeG9FY3NhNHF6QkhYTHNZa0YwcDd0T3pLY0M0cGhSbDc3ZHcydTM0N2R0b1VoTTVtY211R0FFMnNyM2pWRXp5TTYtSlItZVd0SEpPMlgwcmdnWlVzSUxF?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "050db2f65746bc9797e3af9cb52d3394",
+      "title": "Mantienen Alerta Temprana Preventiva en la Región de Los Lagos por influenza aviar - soychile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-07-30",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU3BEd1BDZ05wZ0lxWGVCSnFaQW5zcGp2bDFqek1hem5WZllrRVEyYnc1MVdqellnUmp4T20tVXBaN0RSQVItRGJtNzNQQW5EU2dUdkh0ZjM3bDlQSEtEMFB2SXhpUnBhQ2JOTlNnVm84WThfZEQtVk91YUV6T0E1SVFsak5yVG1LZ25UcGNqV29qY1NVTkNWYjBWS1pCTlp1cG5PdU1CWE5YRUhkSldzZlBn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "00437888899718fbd0217062a5b023b2",
+      "title": "Buena noticia para el mercado: Chile se autodeclara \"País Libre de Influenza Aviar\" en aves de corral - biobiochile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-06-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNS0FjZng4dzZMWF9Memc5bHNPcjBfdHhkV2dCcHVDck5GMC1LMjdQMEFMNnROeDhUZWk1MDZSOVdFZEVTRG10REVRS3RmVkdfcGlodTc5NkZxNGFuYmVvVnU1UXI4UWJQTW1zVjdXUXRjWFRQbDVzTnBsaWdXRGNQR1YxcWFMWlVVUjVCb1Y3RFVaX3JnbXUyUEM0Y09IUDNfQWQyN2dFZHNfR19lQnFUaHVNVVVXcUxYYktFMHhCZk5qbmMzUFZFZHV2dks2WlFSVk5wMTRzRFZGckkyX1VPOTM0WVQ5YTRkZzVrWjNOdWlSMEtCckJ0aEotRUJJeDB6NWQ0Mkt0alVQdGNfSFE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "1ef6053952aa4a48646740c97b62d596",
+      "title": "Influenza aviar H5N1: Senasa declara emergencia sanitaria nacional por 90 días tras detectar brote altamente contagiosa en Cañete - elcomercio.pe",
+      "source": "Google News - Perú",
+      "date": "2026-07-13",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQN3pBOGJhQUx0Sm5nTjBHb0xrblA5bTJXRXBUMHB2N2tCMFpHcFotRFlBWU9NSHJMTVQyR1J3UFJaNHF1cGZ1S29RM2FnUmMta3BBTm1lLTh0bUZWRkFIX19YSFhYRmxrZ003R3FpRG8wVWdpSXRIUTB3LWlJcFVqNHpWblZ3R3hidVFUSmRCaHBqYnpEbklWRjg3NGhaWVhoTDZXYVR5Y0xBYW5PYklJekxyZ3ZGSkE3MzhCaE1kMWRqUUVQSUVQMEtqRmxRdUg4RGllRHRKMF8wRnNVamdkeWZUOGhlNHNFZ0U2dFNESEFLTG93OEJpS2tralNsM3VRWkE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-07-31 06:44 UTC"
+  "last_updated": "2026-07-31 10:41 UTC"
 }
