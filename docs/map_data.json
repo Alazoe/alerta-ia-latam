@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "5c2953fdf5666cab24342c049abe4908",
-      "title": "Confirman primer caso de ave silvestre con influenza aviar en la región de Antofagasta - Chilevisión",
-      "source": "Google News - Chile",
-      "date": "2026-06-18",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQSkVndWpyZV9YaEcwZkVPNmh5VXVRajI1ODMxRVNDZW1wM1VhUWZ5ZUJVNmlTdEd6ZUJHdHU2SVlRZnh2eHJ5T2xrRWhXSl9hc0p6djdVMGtaSmRtZ0duNGl6UGJXYm1DSC0wWnJfLUQwNUZOR3BLZmg5a0VzOUZpRkFrQXlRZTY5VGdYSUNJUEQzUWdoMm5EcktqdjBmbWF5cng3SmdoM0ptVWsySG5ITGt6cXBuOXIxSU96NmtYeG5yWmZNVFc5dXJfSWw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "6bcfcf1c2824bdcb0217d93db1b1d69a",
       "title": "Detectan influenza aviar altamente patógena en Chile - Agritotal",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenNvdzJmZjVYb2FneHdNLTU1TWlhWnFHaHY0NnNHWTNoZkpoX21aUUJTY0lVWTNYTTNQRGRiWEtoRy1OcUtrYTd2eUdGMGhaaTZnczF5SVNGR1Y2d2FFdkh2QnpaQXVyTTltMGpnNWhzX2x2dmRJNDR4X3JkZDYyMkh0aDRNYl9HN0RZTlJfTUVnWU51dkx2bA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "b36e139b7c728cd9eca33b5a3c990a5c",
+      "title": "Honduras sacrifica 32.000 gallinas tras confirmar primer caso de influenza aviar en una granja comercial - mapglobalmedia.com",
+      "source": "Google News - Honduras",
+      "date": "2026-06-24",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNjktUENKcVFoQTh6d2RZU2NUbGhJTkR2eXhoVFFMMU00dW4xdjZubm1KMWU5c09VLXZ2TnU2Z1JFZThEUUQxUEpzVTFZZU94dFFBbnJqYlRpTkxscS0tRmM3VDVjTEZqcjlTV1J5OEtJekNfMENhV2RUZlNTNl94dVYtTzVjbUhMbExaUDAyUFBNNjZZaER3M1RteV9ja1ZzaWhvM1BndGQ1NzNfNVJkWl9TUENLVFpJMXFaN1lNVXJRUjdFOUoxM0h5Rl9WSTJQd09fbnFQM1hBRmc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-01 06:30 UTC"
+  "last_updated": "2026-08-01 10:02 UTC"
 }
