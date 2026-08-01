@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "6bcfcf1c2824bdcb0217d93db1b1d69a",
-      "title": "Detectan influenza aviar altamente patógena en Chile - Agritotal",
-      "source": "Google News - Chile",
-      "date": "2026-06-18",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdWd5YVMtaGNpZ1dSTTl2bzVPN3NMbE9DMFFUZFM1c2J2eHEySFp3NWRaQkxacFl0RUo5Zk9fbW1KVTdOUXowMTFhWHpDdW5vemkyc1o1X24zN2NqVm9nRXVqdHZ3SzhOeDZYRi15OW85TTNENk9sbkRiN0tVWU9DNTFTNUtNRXczRm1nUVI5VHR3QUk?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "9c86d523d462522df1128e36091b99e8",
-      "title": "Influenza aviar irrumpe en Antofagasta: detectan primer caso en ave silvestre en el sector de El Huáscar - SoyChile.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-18",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRWgxdXlzbUt1eTNfOE1QUUh5N3dPaTdKbkNsb1l0UUxib1ozdm1ZNXIzUU5LTHZtV2xXU2hWbm9hRC0zeEQyaHJLb2JYMm8tdGVGcFFwbkJMYzJhNXFHZzRVM1JWanpJWEN0djBFRTBJc3JHU0NMVEFSdlZlcm1uei1lNW4tbHE4ZWdmbHg2WWptSDZaMVE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "baceb1e53388d831fa19998aaa970f2e",
-      "title": "SAG confirma primer caso de influenza aviar en ave silvestre en la Región de Antofagasta - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-06-18",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS013bXpyeHkyem5XcS1iQUp4YVN0RWFrSndXbFpITE1yLUk4WHp6b0VxX3lOOGhsRlRDZlBfa3BhUzlsd19iT21xZlBicU9uU095X0F2MGJKdUNGaUZEd2FEQ1RNcDJHdkNxOVZWSVlzODF6WEVxbUt2LVdiLXJOZW4wbHFQckdBdTY2WFMxMndxbHd1c3BCaWk2bDByMTNnbnJoRTRJVU5kS0NKR0x5ZjBmU0pBemFqWWlMYlVDMldxdDUyeDQxMGlwbw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "d69bc983b8121c7cee065d31ad34be1c",
       "title": "Especialistas y autoridades estuvieron en la primera jornada regional sobre Influenza Aviar y vigilancia sanitaria en La Araucanía - araucanianoticias.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNjktUENKcVFoQTh6d2RZU2NUbGhJTkR2eXhoVFFMMU00dW4xdjZubm1KMWU5c09VLXZ2TnU2Z1JFZThEUUQxUEpzVTFZZU94dFFBbnJqYlRpTkxscS0tRmM3VDVjTEZqcjlTV1J5OEtJekNfMENhV2RUZlNTNl94dVYtTzVjbUhMbExaUDAyUFBNNjZZaER3M1RteV9ja1ZzaWhvM1BndGQ1NzNfNVJkWl9TUENLVFpJMXFaN1lNVXJRUjdFOUoxM0h5Rl9WSTJQd09fbnFQM1hBRmc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "5947ce796dfda4490502c0d055e858cc",
+      "title": "La región vuelve a estar libre de influenza aviar tras sacrificar 178 aves contagiadas en Tierra del Fuego - La Prensa Austral",
+      "source": "Google News - Chile",
+      "date": "2026-08-01",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMHRLWmJlN3lNekg2cTlJNVIxbWVDTEdhOV9jVnBvRDFWNEoyUTlINUZ4bUdMaVVDandVb2NUeU1OMXJ3M0xaazNfUk52UTk5OHRxaXJFVWJieC03QmswSGtDYXg1dEg0YWk4VzV5STRRZG9mLXRZYjZtQzluWGwwTEJQQm9RaXYwOUlkSGh3cWZKanhnWVhkdjFXbFNkaVFURFUtU0t5SF83SHRaa1VGSDlpME0taGxzYng4NUN5NG0takFVZXl0NzJYRmEwVEtleVYyUmVpZkFwb2hQbVE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "3e3bac378e20621812695fd082493eb8",
+      "title": "¡Alerta! Senasa declara emergencia sanitaria en todo el país por influenza aviar en aves de corral y dispone prohibiciones - larepublica.pe",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdlJicUV2UUVNd19mRlJPZU1wMDVvcWhhUVZtY3NvcjNQbWJCMmd0NC1DblpSSHJxMTB4WjJPMHlfaDBvVTRCa01TajVIc2xEcmtyVVo4bml1OUdYTGIyNjRSN2tiSlFXSWpDZVd3aDkwR3NXMDcwcHhYSkYzdFpSZFdncTZ3a2JnQ1VKVmtsU3ZFaml0UjNwV2MwYU9zeG5RdGR4SThUNmlGbGtON0c0QmZJYWV3YUJxbk14MGdKdzR6YUJyTHd0QmYyTTRhemFNSy1CVkxtRmVLSUFrc1lUU1A4cWNzeEJCQmlwU053QkZlVDdVRTl2ZjI2QTNobmJT0gGGAkFVX3lxTFBuNnlUQVgtS0NOeGtiOWI3UTNwM0pmN3I3NU85Q1FIYndJQjUxZGRlMlBQQnF1SVZuZHlUVlpWaEtuUHBIMUMtamhjeHdSalRqYXFCb3dJWUNjX05RN19qclFNX1J3bkZOZFBCZW5TeVl1T2JBdi0wU2h0a0MzbndQZnU3cHA4S3pYMXpBR2FTRmp1U1BKakNWZXdpenFXMmxFYWVITm5rZXFoUVBkWm9uYy1Ud1c1NVY0VVhrbzNkSm1hNWtlQ1h3Wmk3NThLUzZOTGxRRmVvQldCbi1GbkJUVGdWVUpQcGkybGFQWlEzWkl2MzlaQ0E4N2RucjMxNEhTWFJLbnc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "ba2f5e12ac30dba05ae99b244f9fa652",
+      "title": "Honduras controla influenza aviar y reactiva exportaciones avícolas - tnh.gob.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-07-29",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ0dUa0JPQXpkNm1GS3RwZC1oYUZ2cEhydlVPcUQ3ZUU3ZE10M3c4TUZhMlFHdDZ6QjhIUGY0U2lDNmdRZVJlYnhIOEc4cmRVaEMyMXc1cUNJNlJHalhhXzdiSXJXb1VoOS1Cc2ctZWt1TTFNQWpMVmtyUFU0dEtkQWdJenNaeWU5SHNrQjk2SGtZY1RRaWJ5M2pkTTQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-01 10:02 UTC"
+  "last_updated": "2026-08-01 13:24 UTC"
 }
