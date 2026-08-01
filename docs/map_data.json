@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d470c49ab71f83dfd9a6050ee8b5761a",
-      "title": "Perú y Chile volvieron a abrir sus mercados para el pollo argentino tras el levantamiento de la influenza aviar - Ruralnet",
-      "source": "Google News - Chile",
-      "date": "2026-06-17",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZk81QW93MG03eDVVc0hMUFN2QzFoYUloWGxGYlF6NDV4UXhhV1padUR3YlBEank4MU9LblFZR0NKdklhV2FvcHZxemNWblBLV1ZhRGlHMHFwYzlmX2NGLUZ2bFhOWVZobjVlS2Z5MXQybERrSTNQNDZqQ3BJdS1WeW9xbE8xdzkwdDVZN1FqSGRPN1hPN2hR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "f2206649ff62da27a77c2e450d2b4f56",
-      "title": "Senasa analiza declarar emergencia tras muerte de 450 aves por influenza aviar - elheraldo.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-17",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnNyM3QyTW9YbWd2MXZJMDlQTVEwajdkZGpHclduNDRJWnRUU0NXNXZ1ZHpCa2prNkpOenI5R3EtNU51WmRYWV9WRmVZTGZMcU01TV9YSjNHeVpNWENDWUx3WGlDMDZKdGNldTJRSzVEMHM3aVNaWVNFYXF6cUhDeFpCdlVVaW1janMycXZ4WWpoTVJQaDYtUm5PcldWUGNxLUJEaXV3U0NXWjdjX0w0Wjc1Y3lEcWc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "5c2953fdf5666cab24342c049abe4908",
       "title": "Confirman primer caso de ave silvestre con influenza aviar en la región de Antofagasta - Chilevisión",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkR3Q0tGNUJUelZvM080U21yRUdCcGxsQTk5ZVBseXJIdnNMYmlVSHVEZ3hWNEZxUEEtcFFYa0QyTmU2dXBhVi1QU2JHaEIwWWd3cVZsTzEyenpkb0J2SkhZalh0LTVVOWUxTENFOWxNRnA1VllNN2RGblFFeGlDbXpab1l0UGs1V2g1S00zTXFYMllmaWI2WUZ0ZVlyeFp4MGVTYV9YWUc4QnNXTmc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "140808885887e6f2af8786661f2848b1",
+      "title": "Bolivia se declara país libre de Influenza Aviar de Alta Patogenicidad - abi.bo",
+      "source": "Google News - Bolivia",
+      "date": "2026-06-11",
+      "country": "Bolivia",
+      "lat": -16.2902,
+      "lng": -63.5887,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGJuYUE2Q2JsRk5meFNHZzdGeGphS2RmWjRWajZqNXZrNHBud1AzMjRpMTk0RzRWUnYydXc5RjN5My1OZ1BoS3hESFd3LS15N2RaTWNkNmpfYUtSTFUxOE5iT0hWa0pSejEzMERQNTFHSW5QYTdPdGczUTNPVFZrdEtaR0RieE9GSmdmNjZaMk1wVlhRWC1CQ3VZTWc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "7b3185100a94cdf0c48822918c97ea93",
+      "title": "Vigilancia intensificada en humanos ante eventos de Influenza Aviar - paho.org",
+      "source": "Google News - Honduras",
+      "date": "2026-07-14",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenNvdzJmZjVYb2FneHdNLTU1TWlhWnFHaHY0NnNHWTNoZkpoX21aUUJTY0lVWTNYTTNQRGRiWEtoRy1OcUtrYTd2eUdGMGhaaTZnczF5SVNGR1Y2d2FFdkh2QnpaQXVyTTltMGpnNWhzX2x2dmRJNDR4X3JkZDYyMkh0aDRNYl9HN0RZTlJfTUVnWU51dkx2bA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-01 02:57 UTC"
+  "last_updated": "2026-08-01 06:30 UTC"
 }
