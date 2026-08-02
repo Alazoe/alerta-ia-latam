@@ -361,18 +361,6 @@
       "color": "#ea580c"
     },
     {
-      "id": "3b1234438a571c3893786f08eeda809b",
-      "title": "Se levanta la emergencia sanitaria por influenza aviar tras más de 50 días sin nuevos focos - GUB.UY",
-      "source": "Google News - Uruguay",
-      "date": "2026-05-04",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdVRHbk5OX1Fwazdpa3AzMi1IaEpZUEVWdTA5T2tRR2pfWHVaeUlQMmVGellaRzdLYmtOME9iczRQZ3VaWWEtREF6YmNqR2ZTaEpRaFh0QktQQzdaczJ3WVZhU0dhc0syclhyTjJHM3BCVmh3ZHN3MVFXY0VMY0lwVVpzUmJFNHJzY2Q2X0ZiekVmeENKZHpyTkJwS2kwV0paRWE0dWNJM0JVUEN2aUtlQzVYeElVQkVMOUhKa2c3dUs5TzJHQWtISzdXM3JCWVdQbVpvdncteW1lMDR4OTlCVl9WUnVQSmFuaE01M1p3?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "dbf1b176243c58dea48ae6d2f6aa05a9",
       "title": "UST Temuco realizó la primera jornada regional sobre Influenza Aviar y vigilancia sanitaria - Araucanía Diario",
       "source": "Google News - Chile",
@@ -3097,18 +3085,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "fc6e3d95791685628f7289719f4f834b",
-      "title": "Se levanta la emergencia sanitaria por influenza aviar tras más de 50 días sin nuevos focos - gub.uy",
-      "source": "Google News - Uruguay",
-      "date": "2026-05-04",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdVRHbk5OX1Fwazdpa3AzMi1IaEpZUEVWdTA5T2tRR2pfWHVaeUlQMmVGellaRzdLYmtOME9iczRQZ3VaWWEtREF6YmNqR2ZTaEpRaFh0QktQQzdaczJ3WVZhU0dhc0syclhyTjJHM3BCVmh3ZHN3MVFXY0VMY0lwVVpzUmJFNHJzY2Q2X0ZiekVmeENKZHpyTkJwS2kwV0paRWE0dWNJM0JVUEN2aUtlQzVYeElVQkVMOUhKa2c3dUs5TzJHQWtISzdXM3JCWVdQbVpvdncteW1lMDR4OTlCVl9WUnVQSmFuaE01M1p3?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "1b90e8f0c8624f0c74bbeb93aa39b6f3",
       "title": "Levantan cuarentenas por influenza aviar en aves de traspatio en Negrete y Los Ángeles - SoyChile.cl",
       "source": "Google News - Chile",
@@ -3601,5 +3577,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-01 20:54 UTC"
+  "last_updated": "2026-08-02 02:55 UTC"
 }
