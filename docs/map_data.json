@@ -1,66 +1,6 @@
 {
   "alerts": [
     {
-      "id": "e15cbd19904d7a9e755e8d04156417b6",
-      "title": "Senasa analiza declarar emergencia tras muerte de 450 aves por influenza aviar - ElHeraldo.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-17",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTnNyM3QyTW9YbWd2MXZJMDlQTVEwajdkZGpHclduNDRJWnRUU0NXNXZ1ZHpCa2prNkpOenI5R3EtNU51WmRYWV9WRmVZTGZMcU01TV9YSjNHeVpNWENDWUx3WGlDMDZKdGNldTJRSzVEMHM3aVNaWVNFYXF6cUhDeFpCdlVVaW1janMycXZ4WWpoTVJQaDYtUm5PcldWUGNxLUJEaXV3U0NXWjdjX0w0Wjc1Y3lEcWc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "91bdd81966b276d4ad2d505ae843a44a",
-      "title": "Confirman primer caso de influenza aviar en Antofagasta: ¿Puede afectar a las personas? - elnortero.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-19",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcnBmaC1OY215XzFRbW1yTWMwZmJtRnZtTzJxYnQyUGRLYXBVMkpVSlpkaDdZYjNwZms3c3JDdGhLSHFYWmx2dTFzWkl4UlAzaXBiUzZPN2ZmQlVOVGhKOURLM0lLa2RGWkIzTTVWcUppQWxuZnpQYk5NTEVuYUpmNFlWQXIwTmdWOFc2R0dCOGZNUWw5QnBtYy1sY2FuVjkyQk42QjhDYzRMcXJHdTJNOVlPNE5pZm5EOS01c2NR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "dd7191a190ceda9d4bf62a83b1b50ab7",
-      "title": "Uruguay impulsa la preparación nacional frente a la influenza aviar zoonótica desde la perspectiva de Una Sola Salud - Pan American Health Organization (PAHO)",
-      "source": "Google News - Uruguay",
-      "date": "2026-06-18",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXhTR3NRRDZGR1BuTjAwTGhVbHlHQjVtQkNjV00zQnB1SzZobXUxbTFmbWt6em1MYmc2Um5pUGwzUkxyTVZjbEJrekV2ZTgwS0V1cmtUQ3E0M0oyVzZpS05HTjBNNERXS0dnM0cteWNudXN0czB0UlYxLVR1M3JIcVpGdGRVUDZWdDlPX3ppQlVZaE9HSzZUM0VWVjFnMXBlcGN3U3VSU1JwVU15UnNvUGM3X1FZaGx4YkE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "415437f7ae1362512f4ab6598cc04b7e",
-      "title": "Chile detectó un nuevo caso de influenza aviar en Antofagasta - Revista Chacra",
-      "source": "Google News - Chile",
-      "date": "2026-06-19",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNam9vUmJsVDFnZWFUTnBOM0dyMkxMNHNlUVZNLUhTQzVRaFEzb1hoWkc5WmZVdS1UeG92SkMxNTJRcVhNS0FQN0FFM0NrVTgxb1BNc1pMNWhiSzNvdllJbUpqUzhUMmFrT3pCVWpvNzl0WFVBQ21Yczdha0hPdEFkaHNOUFdHRWNzZFI1YzgwWkE5QXNieVllaEttVXdFZkNQQk00cUFFTDVBelVPMkZiNtIBqAFBVV95cUxPUEVtTU0yTmZjSlEwMEh6SmtIU2dBYkJaVUs2bEZJZ0xLY0dTTUFVRFNnQ1lyVFQzVDU2Y1lfN1ZleVlBYWtuSzhHMXI5WXNtWGlDZjdibmtqalNXSWxncm1aNWQ3VHNZX0dibXFxdXc3V3VUdXpVMDlGWW14RDU0VU1xejJWTFB6VVRSdVl6LUxMSDNBd1NSMDcyU0ZKc1FQeGFvOXdESDk?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "e3a57a34df49817534404fead683a9cc",
-      "title": "Senasa mantiene vigilancia en el occidente de Honduras tras detectar brote de influenza aviar en aves silvestres - HCH",
-      "source": "Google News - Honduras",
-      "date": "2026-06-16",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSGpRZXljbnoyUE1uLTFrUE1Td2VBMktpRnRCX0lUNjFfY0ZENmd2S1NzY1hoRVdtaWZfU0tLRWl6aW9FU0huT1NhNDZCQXpvMXRRSm43ZWs0MkIxTHZBNUx5TUI4TFN6S1owQ3ZEdkZBSXctRjR3V2xlRVZIXzNYV2hUNVAzVU5SMVNRMTVJb0JPVUlWMnNkTFdnMjNDbnk0bHNlaVVSV2VjZGhhVWxYeE1zelpWRDR2M0JmbmpvMXV2QUI4RFZr?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "19585f3185b28096bf01f6b72db019cd",
       "title": "Influenza Aviar y heladas: Indemnizan por un total de $30 millones a tres productores de la Región del Maule - Portal Agro Chile",
       "source": "Google News - Chile",
@@ -3599,7 +3539,67 @@
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQME5ZNV93X2tMYVF6QWQ3YmhmVkVuN0NmX25UY1EtNVdCN004LW1HSWVhX3Q4RDk0Z1lfUlZLSEJyQUljWVo5LVJySWJxZXFfMERQMzZWcTh4a003WkhNWlI2NFpyYXVfZGZkMENXNnVvb2w3TkVqNkE1RjVaOUFEblVqZFNEa25BcUlKT2FvV1l4Z2owblN6N0UxUEZxS0ZCSGw4Z0dzYXBKNFRHMFV5QXJZaXFoS3U0d3dBZWp6elNXekxjamFZLXB3X2VOQ1M5bHZkOFFSck5tQ2pjQkp0TVpsenRGMHVwR0E?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "674628ae944e2d32f11467974846accb",
+      "title": "Prevengamos juntos la influenza aviar - guatemala.gob.gt",
+      "source": "Google News - Guatemala",
+      "date": "2026-07-21",
+      "country": "Guatemala",
+      "lat": 15.7835,
+      "lng": -90.2308,
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fUkIyUEItT0JvWXhTTzR3RUMtMk15Z0x2eUhtMzBURkxJWmJ6c3RWa0RpUFJOSFF1aVYxbEFlaV82ZjNxUzk3Z285TWp0RUVmVE04WnBfbUpDdG91Qm56U3lOMGdJb1VwcEUzZDlYZlBmcHc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "3519ecd9d459a753f4d3dc1c4b8a95ad",
+      "title": "La influenza aviar puede propagarse rápidamente - guatemala.gob.gt",
+      "source": "Google News - Guatemala",
+      "date": "2026-07-10",
+      "country": "Guatemala",
+      "lat": 15.7835,
+      "lng": -90.2308,
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRZGxhd3ZSNFUyZzAzc0VZakRocktOUE80cmpWSnpmUTR2cjdGLUF1VThCQU1CWDNuaWpyd0NvckhXWDJxV0VEN005bFdqSTJxTExlX044UG9FQVAtMF9KWnVvNWV4bUQ5SUpNTEI4QjhjZVFUc25zMFkwTUJPdw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "02b13bb566a7b7a0d10600eedc90ee04",
+      "title": "Fortalecen medidas para mantener a Guatemala libre de influenza aviar - guatemala.gob.gt",
+      "source": "Google News - Guatemala",
+      "date": "2026-07-06",
+      "country": "Guatemala",
+      "lat": 15.7835,
+      "lng": -90.2308,
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX2k3dHk3bWZQN1RMMEd6VU9xOFBVWEVUV25ZRG1maDVGMWtwc2p2Sy13alZuWFNJVkFpekhfMHlWOWtTbjRtS2FVcnRyRnE1cHJIb2ZwTUlpU3ZjM1BjTkFaT1E0cU1CQVNOWm5HRzV0dkFkSlZTaGRwYWcwN2o0dkFPd0dnYlpoY08tYUVKRmE5anlRNWFpS2tQOA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "392add6af27abf84f710daa8afe799a3",
+      "title": "Monitoreo sanitario descarta presencia de influenza aviar en el nororiente del país - guatemala.gob.gt",
+      "source": "Google News - Guatemala",
+      "date": "2026-07-03",
+      "country": "Guatemala",
+      "lat": 15.7835,
+      "lng": -90.2308,
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdHh1cVJweTVKcFNhUFUwNDRybWFRaGZwWl9rY1pTUFA4UGpENjgzVWlMYzdPNmplMjVRbFdYRHFRVld2aXNocHFOYTJrUDIzbUlucW14XzUyRlhsYV9WbzlZSTR3QjBUbnpUTXVucUJnTk53S181OVVsc2NQcnhlNU5oNWIzUEtiOEd6NTByNGlERmpiME4wb0F1QjJfUF80VVpkczk3Q1lRb2QzNlE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "984e4a9b97ddf7a991b3df5324a07284",
+      "title": "Extensionistas capacitados en vigilancia epidemiológica de Influenza Aviar - guatemala.gob.gt",
+      "source": "Google News - Guatemala",
+      "date": "2026-06-26",
+      "country": "Guatemala",
+      "lat": 15.7835,
+      "lng": -90.2308,
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWJwUHZDQWxpWUZLOHVJT0lwQTBEYm03Vm81WWkwQnBzY2hfSTRmSkVXaVJYUjJYajNUMkJjTl92ZDAxZE1MSTE0UVpyMXljeWV2NG9QY3c4SlB3UVJPcmUwNHVNWkpYdlBFcnQyc1ZBWWhfWWdKS19kSTQzRzVuRHE1ZXprRE9lal9OUmZGZElpTXZFU1I5OHJXaVdRcGRjbkE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-04 14:19 UTC"
+  "last_updated": "2026-08-04 17:50 UTC"
 }
