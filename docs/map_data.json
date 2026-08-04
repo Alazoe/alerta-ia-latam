@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d69bc983b8121c7cee065d31ad34be1c",
-      "title": "Especialistas y autoridades estuvieron en la primera jornada regional sobre Influenza Aviar y vigilancia sanitaria en La Araucanía - araucanianoticias.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-18",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOOTNoTG42a05TTnlSSEUzTnlEdHpUcUM1ZkNEQnZmYVBSNVU5OG53cjVONGkzTUZBeVJWV0g1NzN2Sk1telFscnQ2WlByOUtnY0lnX0JYMUI4WWJVX00wYjZsQXR4SDhhRk83cWZpOENMOHhsbXNrRloxYW5kZzZmbnpwRnhJZFF1NGlXUmdYVjBSVjJ5S2M2TENxMzhKN2VJTUVtQnZZeFBnV1ZLN1BkNDRBczFGUlVndEpfZHc1b2dVZEpyRTNPVHhiV1NiU0Nidjc2ckdYakNoYlotd2NmTGgzRmNPRTNnNjF0ZHh1aFRJSU0wd3A2RWMybnJ5SHEtVzJYTg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "b0662457a9c8c0c958f71dadfc9f958a",
       "title": "Influenza aviar irrumpe en Antofagasta: detectan primer caso en ave silvestre en el sector El Huáscar - SoyChile.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnhxYmgxRURLV1h0WFZJa1ZveHBOYm9aTW5CUWh5enJMVlB5YmRoNFRqTng0eEVUcE5MUVJvMklWVVlMSXFUWE9lTmM3NXFJeHZMXzJsQVhaQjM4Sm4xRHJKTjFTSjJQYVZ1WU1TT01Nb1dTY3RZZEVJWm91bEtEd29hZ2pDd1p0NlJpTVozRXFPRC03MGx3NkNNTzNESzZjTG9pSnNOVUlVSWxRU0FIX0hwYlE5a0xX?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "2bbdef1460ed5e5c2a857aec1e3d1f1e",
+      "title": "Prevención de la influenza aviar: Claves sanitarias para la crianza de aves de traspatio - argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-06-02",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2JmWWZHR045WTN2ZWxJbWxWMTU2Sm4zYy1oMFJ2dU5PMVlua3BYb0llWU91ck1NdUx6Vzg0NjZvSmVFUHA5a1VBaUFmU1pMSDV4Z0stQlRTUkxjQU4ycUJSeTBaSkFDRmJZQy1nNThHUE1RV1VZa0E0SnViOE8tOFhUaG9fbU9rQmRuZmxKRFdWb2ZxdkZWMjJFMzV6MVBSUENIZnRrSllLQ0YtNUtZaTFqVG1YbDFVUkthREYzMVNKSXM?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-03 21:04 UTC"
+  "last_updated": "2026-08-04 02:42 UTC"
 }
