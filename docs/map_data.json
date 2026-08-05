@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "3bc77f43f9ab99ce8a4e064f8deb9841",
-      "title": "Honduras detecta caso de influenza aviar en granja comercial y activa protocolo de contención - El informativo.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-20",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lVURfUmU2TG9rRWxsUmlFTGFNbm9QSFJYTUtrOVBST00wUGQxVHQxYWdVcDkwdURmd0ttLWh1bExOemluN0tZWVFFWlZRV0psZko1Nk40NA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "ecfa937e4701e83edc25bbc157813d1f",
-      "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la región de Arica y Parinacota - SAG GOB",
-      "source": "Google News - Chile",
-      "date": "2026-06-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2VhQ184M2d2Sk9KZDN6clhlV2EtbWZRMFJkQ0s0a1JmODRya0pDckJZNDlzLUk5MmVCOFlkdlhEUjI5bWJaejh0VzhuRU9NOHo2bDJIT2tIcmVwZFNWa1hqV1pvdzUwR1Q5VnQtNWM1Uk5IcTJxam0zWlN1aFlLSmZCZWtEN2F3ZHB2X2hweE41MW1JYkNsUzV4WFZnUmV3dzAxM0pFdlhoTEE3Yzh3NFJkUHp5WlpnTFZsOE5nWlNPSDFjSl9sd0UwQUxIOGgyRlFodk1neUVkbFUzLUE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "fff5ab0eae22ad2099e263e90d39c8d9",
-      "title": "Avicultores garantizan consumo seguro de pollo y huevo tras casos de influenza aviar - ElHeraldo.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-20",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZlZ5RHBKejFJb2g3a29ZWGRTYmdKOVp4SzdIR0p5NFJuRzBPOGcwVUlsTXd5WG5VY2k5NGhpVzJaSHJ3VjRxNmtNSFBSaE95OUo3ZnVfWFFYUkdFeUcxaWdtNEc3TWRNZm1VUVFQMGNtZWZlcG5HZjZoMUczZFBwNTkxRTM1ZkdwYjhIMVlyZEtsSnc0dlJwRDJLMjFUOGtKNVVSX29TMUgwdWZlRnlGTVZqek40VGtUUWtSU1lR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "d4451ad6604c250133d37b418bc42ee9",
       "title": "Estudiante del DCSAV publica investigación sobre receptores de influenza aviar en fauna marina sudamericana - Universidad de Chile",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaFU4dnZVUUpEbm5wdzhVR01UeVpjWXp4MmdsMWtnZmpLUEwzVmhTVGJRNWQtWjVFeXFxaXpWQk8zc3BnanotUXo5c1p5bnBKUmpsNHVlRkFabzNKYmI3TDB3U3U1RlJidElIUmhSSGlfWk5tTkJXRUgxVXdkc3ZIb0YwOGswVkc2RzhRU0l6bmNJQXFHWUN4TmRpc2VYVGgwWkJIVU8yVUJMTGxXcHRaTXBoSU9QUTZ1QXc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "e285acb03abae153e66a3eecc1923a24",
+      "title": "Mantienen alerta por influenza aviar tras nuevo hallazgo de ave silvestre positiva en Iquique - SoyChile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-08-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc05FOUttUFM2bFJFNDhvbzBuWWxnRDdyYkd6X0t2cXM5OFhEVlgyWGJuSmZRX01YUnEwWjcyLUZqLTZQYkJXSVVUeVVuYkVtN0RhUTdwZTJoU0dodXQ0TDVjcHB6MF9IZVhfREhsNjlYYmhHTUcydFJGZ2drWFVNdWNpWEJvZGQ2YzNSa1FKZnhzRUpLQlE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "32aebbb68ee232cefc0bd517454a451d",
+      "title": "Influenza aviar: síntomas, prevención y ¿es posible contagiarse por estar cerca de aves de corral o consumir pollo? - elcomercio.pe",
+      "source": "Google News - Perú",
+      "date": "2026-07-15",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa0Q0Z3VGeHFpbllhdzZXcUNOV3dwd2cxaVNPdnUzSDJwUTZPN2NHMUJiN2l5SE5aV0Y4U3pQS2VZUXlocGIxREtlYmh6LWp2YnZQRDZHYWVMSlBHR3lzMk91QWJvbFRobEpWdE1UUFpaWnh5cnRKMFZmOXdSeVFqd0hQak1uMWl2VmpjclREbDFqZHM1cGhEeW1sWFVGMVAwMFBtRVZobnFlTXUtQzNLTEVXRWxRRzNRVzE0Y2Vfd1pjUXZmOWpRajJacXczamF6UHk5UXhNS2x4VEV2b2R6VA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "c511ef950653006b6a221676c58ab06e",
+      "title": "Senasa mantiene vigilancia para controlar influenza aviar en Honduras - LaPrensa.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-07-17",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0UxQm5jM3JoQ1d4T1JHTERNdjdJMFBkeXVRc2R5UFZaYTBCejBVZ2MtTzlEczAtTmI1Z2tVSVBPZG1ZNUhwbjhya2pTR0lTN1NDVnRkVkVVaWxXWVZtV0U2Y1ZGYXlabWl4SXJsYUJrem9NOE1lQTBzQUo1bWkyZi00SjJyQVhWa0V1X3ZCYzRFdWdYN3hieWk1VE9zVlMxeWljTEFfVmc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-05 17:39 UTC"
+  "last_updated": "2026-08-05 21:11 UTC"
 }
