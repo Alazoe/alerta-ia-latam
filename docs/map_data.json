@@ -1,78 +1,6 @@
 {
   "alerts": [
     {
-      "id": "be68f18e171026ec7d3f186ba1e0d2bf",
-      "title": "Honduras detecta caso de influenza aviar en granja comercial y activa protocolo de contención - radioamerica.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-19",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVXE0Z2hKMm0xbEdUMmhLNWUzOGJvekdlQXVDUTVkN0NsQ1FxajdTNVdYd3VjbXdocE9fMGFCVnJVV2VjcGpzVjBFczRrU3kxdC1sUzF2dW5FV1liTjN6eDR1b0FEMHZMelRsX2R1VG5xNHhPWU0zQzlrTmQ3c2RGRXp0c1ozbGVTTmJtamw0VE9rU0pjRzF5SUJWWjBKbVl2b0FSZHh4eHpRYVlnOV9DZndQZWhQVC1kcy1N?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "07aa401b302b4208d092c3ea61315cd4",
-      "title": "Autoridades activan vigilancia tras detectar influenza aviar en Santa Bárbara - ElHeraldo.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-20",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnFmYnFxNm1XMjlNNkVqT1FhOFd1YmZBWXd5Skl6a2NlSkwyTUxOenBLdnd1em5zckJEZGZVaXpBMnNRM2o4V2FsQ09WM3ExZkZGYWdIUXgtcU9ueGZpSUJYSnltcVIxWW01Yk9vQUhwZjgwU2p3U204enQzQWtFMmpmX2hEaVR5U2Q1Z3VXaGkycnR0UG1nUkFrUjBRQldVME40N1Y5XzRkLVdrYlNIS2FxR3g?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "827d9271f305416c5d93ecdd0e876f71",
-      "title": "Senasa mantiene vigilancia en el occidente de Honduras tras detectar brote de influenza aviar en aves silvestres - Marquesina Política",
-      "source": "Google News - Honduras",
-      "date": "2026-06-17",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQeVloNmczNW5ENHRhbHJjSFc4NGJBMEE2bUVtWmE1U2taTmdNUlI0MXlMamdSTFp4cm1MUWlUVFFsU01Bd0FoZA?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "5b7e82e33fc385ff84b722e742ff3c98",
-      "title": "UST Temuco reunió a especialistas y autoridades en primera jornada regional sobre Influenza Aviar y vigilancia sanitaria - Santo Tomás en Línea",
-      "source": "Google News - Chile",
-      "date": "2026-06-16",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOYnJwXzFSLTlFNFhBeWNaemgzVUhiWGpZWnE3Z1VnWmRxdnNYYWNZNXJhZFpPOHVZck1SVXpWVG1WSkhPVEpSU1NaR19hV0VZdUt4LUhQQUJ5UjdTU2k1d0VydzVJdjhfbm1HMnU2TW5nRHBZR0I0NmhWYkZYNzZzSXlST0c3aTN3UlV4LWRYUnJoNzZhM1RlTERzVXVLR1ltRkVKVGI3ZzFpazNpRTRPT1c0NGZjaUdidnpMYmdFZ25FS1VIUER2a2V0NDBkS3pwcFA5OEE1ZDZwY2s2VlZiQXJjSzYzaDExdkxjYmU0ZkViSXhLSlhudXNoZEhfaE1xckJMQmtMUDdLQW96RFZsRA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "204ee6845275c77a35f79f0dc57b64fa",
-      "title": "Detectan primer caso de influenza aviar H5N1 del año en el norte de Chile - elproductor.com",
-      "source": "Google News - Chile",
-      "date": "2026-06-17",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMXNRS3hYU2tOV2lVandtbVlMUjhNOFhnb2d1ODVhd25zMzNKaG1TSGx0ZHByckN5bHBMUEJTVmFnNDVWTEd2U2M5dUloUV85WU9fN19YRlYzejh5NGVoX2lUemRWai1PYkNPQWxZdnU0STJkX0RqLVBnSXhGVzJvVTE3TzRCU0pTT0ZldjVkNHZnUUV0TzVNM3RDanJIV3U4RnZWMHhiNmtFUQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "c3831bf6faae6054778202edc2c180f3",
-      "title": "SAG confirma primer caso de influenza aviar en ave silvestre en la Región de Antofagasta - Mestizos Magazine",
-      "source": "Google News - Chile",
-      "date": "2026-06-19",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPaV9FU0Vkc2c0UjJyamZrSkkwSkJKUjRHRldEV1pHVXZSRWRvbG1YLTQxUGhyOWtVeXhUaXhQU3UyWVBqeTRIRG1RbFpuZEJpY1c4bXlwbWZhMUw3Y0U1bzZsNnJLd2RzSnd5cG1HbjlhVUJoWTlWUHN0QWtCcnRZRzdBTV9BWTBWMUVnczQ4WjN1OVM4TjZNTkI0WU9GWUdCNDBQWld0TndKbVBVejhmQk5XVzBMbGZyU0UyZm5mNEx2S1NuWGlZZHBYOXhHYUJiRTVQd01mc1J1QXBBeEstNjJpT1VHdzDSAecBQVVfeXFMT2lfRVNFZHNnNFIycmpma0pJMEpCSlI0R0ZXRFdaR1V2UkVkb2xtWC00MVBocjlrVXl4VGl4UFN1MllQank0SERtUWxabmRCaWNXOG15cG1mYTFMN2NFNW82bDZyS3dkc0p3eXBtR245YVVCaFk5VlBzdEFrQnJ0WUc3QU1fQVkwVjFFZ3M0OFozdTlTOE42TU5CNFlPRllHQjQwUFpXdE53Sm1QVXo4ZkJOV1cwTGxmclNFMmZuZjRMdktTblhpWWRwWDl4R2FCYkU1UHdNZnNSdUFwQXhLLTYyaU9VR3cw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "3bc77f43f9ab99ce8a4e064f8deb9841",
       "title": "Honduras detecta caso de influenza aviar en granja comercial y activa protocolo de contención - El informativo.hn",
       "source": "Google News - Honduras",
@@ -3599,7 +3527,79 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oeXlUdkZsMnlBZTFCd1hZQk50U3pGTG11WEN5SDUtTEhBVUJTWUVMVlpaT0s3bUZyTzhMN0xPamNlSGNkeXdoTW5zTGJlSVpfZjBzQWhTd2VsN1VCbmM4SUVIQUltRHM?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "c0da410b56cbd8202955311cf7bfa5ed",
+      "title": "Mantienen alerta por influenza aviar tras nuevo hallazgo de ave silvestre positiva en Iquique - SoyChile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-08-05",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONWdkVVNqbGd3RnQwaDBfMTNlUjdSYXRSNnFJNHN6a1BfQ1FxeXl5NGFtdnZfM3c3eHNKV3diUlVncE9nOHNPcWZCNTdNNUZqYUhiQ3V5b2xQV0xQb1ZYRmtNazhVU0tWNTZIYjZscHFVUmFjRVlaZUpvVFV3anRCTkxBczhoRWFZWUEwT0hUZkdidw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "bba99f144c8cc4d3baede21ec91e2ebd",
+      "title": "¿Qué es la influenza aviar H5N1 detectada en aves? ¿Puede contagiarse en humanos? - ElHeraldo (HN)",
+      "source": "Google News - Honduras",
+      "date": "2026-06-08",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVGRLNWF5WkJXOUVwVTNGY0liQ21xSWpWM3ZDTWJWYWVYN3c3SF9EZlRiNC05dllkdFdtdTZpSmtQWU5XRE1vY0U2cDhsZE1FM05oTlpPR0NhRGpmWHFFVDF1TzRwSFlyX2RaZkk5NUlYNE9kYnRrU1MxSElEa2VIUkZ3cTVZcHhFVHhyUlFUd2RGZ21aZ3Fya29QLXc2R0E3UVlvYnpEY0RwMXZsaGtMY09WQlRZQU1wbElMc3g3SzNET1Z4?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "c42822961be3a88be4860e4c3623790b",
+      "title": "Honduras reactiva las exportaciones avícolas tras controlar la influenza aviar - ElHeraldo (HN)",
+      "source": "Google News - Honduras",
+      "date": "2026-07-29",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTGlhTE5xekdXMWlmVk5DdDA1REotN1JoTWFaZmJJYml0WmpVLUNpdmxBcTVFTUdVNGhseGhtVTZUX1pWWHRFZVA4Y2JEeEk5VGwzX1RVYy1EWDJzTEhGSVFjeFd0T1Y0MGlMTEtqSW8yTjdUV3RIXy1fMXNILXM1bEF0WFpYbHZCcW51b3pZRlE1MnV1SlphemlKRms4ZUdJbFVsSDVHREprSUptbVdlQmFsdlktUUk?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "28189ebb2ff5e2b587d0e76977d7b712",
+      "title": "Senasa asegura que no se han reportado nuevos casos de influenza aviar en el país - ElHeraldo (HN)",
+      "source": "Google News - Honduras",
+      "date": "2026-07-13",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1lkaURjUlNRaHozNk1LMU52Ty1PQVQ1RVhvRFRGSDNzdzZhOW5vb1dLWUZBcDUxNHhwNGpJRFczVU13c281WnMtTDFNV2xNV2N2ME12QXVtTHJNNHZJNFp3aEdPT2xsVkRxME9aZWM2Y01UNndfTWVGZmZGSlAxV3VxRjBrbHFwZ2pDbjZac2xUMS1Ucm1JY0dQZ194SnhxTHg5SGRIQXZuMkF6YjFkd0ZFZzFQZW5GajkyMUhmLWQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "3ceec3efed5325127db9cbbc700312fd",
+      "title": "Senasa fortalece la vigilancia sanitaria para mantener bajo control la influenza aviar - ElHeraldo (HN)",
+      "source": "Google News - Honduras",
+      "date": "2026-07-17",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYWF5ckUyZ1F0Q1FGMkJ2Z3NLM0xSRjZvTTMyQVdZTGdxMEhxN1EwZ1FLT3JrZVlOT1RRUHoyZlFGSTBoUnV4NTNsaFFzdUdzN3p3Y1pHaFRvdEJhNjBydUh0TTBsb3gwNlQ1SS1wVnpoNHY3Vy1wdDlwYl9fUXAxWjlSVnU4N3JsTThBOUd6dFA0V0FVX0trYXRVQnRMVG1PSFluNkVULVFVbTBDSHAxNXJDR1NZZUdZU1JSdQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "e1d4fc5894d198a311ff73fa3a2ecc39",
+      "title": "Pelícanos siguen apareciendo muertos en Puntarenas: análisis previos descartaron influenza aviar - El Observador CR",
+      "source": "Google News - Costa Rica",
+      "date": "2026-08-03",
+      "country": "Costa Rica",
+      "lat": 9.7489,
+      "lng": -83.7534,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaFU4dnZVUUpEbm5wdzhVR01UeVpjWXp4MmdsMWtnZmpLUEwzVmhTVGJRNWQtWjVFeXFxaXpWQk8zc3BnanotUXo5c1p5bnBKUmpsNHVlRkFabzNKYmI3TDB3U3U1RlJidElIUmhSSGlfWk5tTkJXRUgxVXdkc3ZIb0YwOGswVkc2RzhRU0l6bmNJQXFHWUN4TmRpc2VYVGgwWkJIVU8yVUJMTGxXcHRaTXBoSU9QUTZ1QXc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-05 14:12 UTC"
+  "last_updated": "2026-08-05 17:39 UTC"
 }
