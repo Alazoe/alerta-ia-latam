@@ -3169,18 +3169,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "8723c03a7304564ad137d2aaefe5f190",
-      "title": "Río Negro: Se detectó un caso de influenza aviar en aves de traspatio en Valcheta - argentina.gob.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-05-07",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNa0c5YlhwZ2NFdGFlSF9WazhSbndiWmN1UUlIbldKNlhFcURKYTItdFFMT0dFeVpucnZiUGwwZ29ZMU1MVndjTkt4NFlxelVQV0VvNE5rVUJvR3VMWHM1YUJRcXpEZzItZjJNU0d4OXlfYi1oTENoa2hmdjBpcE9aamQ1MDQ2LWxSbzFuWE9UYWRaZGY4Yzl1cmVqdVViSTFPN1RacG4xaGFSVXNGLXdjOHJIRW9HdDdRb0E?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "2d46593efd11e13bdf1d929969898a5f",
       "title": "Bioseguridad: La primera barrera de prevención contra la influenza aviar en granjas comerciales - argentina.gob.ar",
       "source": "Google News - Argentina",
@@ -3601,5 +3589,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-04 21:13 UTC"
+  "last_updated": "2026-08-05 02:40 UTC"
 }
