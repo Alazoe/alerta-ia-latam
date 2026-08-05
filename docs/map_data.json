@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "19585f3185b28096bf01f6b72db019cd",
-      "title": "Influenza Aviar y heladas: Indemnizan por un total de $30 millones a tres productores de la Región del Maule - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-06-19",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPU3pIZjRYVjBtQ0ExYWlaTllGcTROeGMtVWFzWVpOUFhMRVJUam9uVktkNGZGZ0F3YXZ1a0JMZFlfazEtdFdYZE0zUll0Z0tiLV8xc2ltMHc2Tnp1alVtOEJrdE4zNG5nc3JvbzBJa21ZTGszWW9aNHVDUldXb29xbjZ4aDhfZU56SnlQY291cDZNcWducXgxYlJ5X29nOEMyQTdtby1RYS1nMldXbHdNY2FCb0NQci02dzFPdzFjRzIyUTc4RGhWQkZ4aVJlemtYemRUYnk1ZVJ0UGcybjg3amtPSQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "be68f18e171026ec7d3f186ba1e0d2bf",
       "title": "Honduras detecta caso de influenza aviar en granja comercial y activa protocolo de contención - radioamerica.hn",
       "source": "Google News - Honduras",
@@ -3587,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWJwUHZDQWxpWUZLOHVJT0lwQTBEYm03Vm81WWkwQnBzY2hfSTRmSkVXaVJYUjJYajNUMkJjTl92ZDAxZE1MSTE0UVpyMXljeWV2NG9QY3c4SlB3UVJPcmUwNHVNWkpYdlBFcnQyc1ZBWWhfWWdKS19kSTQzRzVuRHE1ZXprRE9lal9OUmZGZElpTXZFU1I5OHJXaVdRcGRjbkE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "1fd9325f8607d3d2bb5cf186750a3a7a",
+      "title": "Australia confirma primera mortalidad masiva por Influenza Aviar - Periódico MOTIVAR",
+      "source": "Google News - Argentina",
+      "date": "2026-08-04",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR3RjNjRFQTBJTWJVMzRwTkRVcnZzWENiM1NXQTladlRxaWRsdFR3ZkdnTV9ZTEZTaVF5MEJ2NkhubHRDa1VIVjNBZk0wcFYyNU9LWDVIaWs5SndzV1BkWUhvemNfSE1veE5DU0lZOXFiSHZpR0pZRjQ1Ri11MGZUZlpIVWxNSUY2SnJJTHcwTzNOWTUyMDVoNUoybkhyUG16X3JqeWRSbEplQTVCV2J2N9IBtgFBVV95cUxQOFJZR193OGVRM2lybzVLdXlydmxib2g1bXptMkdheHhPTDgyRThUVXdFbVRuZ3ZFektRVzZrUEN0MkZUUUlrWlYwZmxKZGdKRHNyUU1GVXZxS1FpUThRZVJSa1M1SFcyeDBWNHZyZ3VBUTU3RTBYOUoyd18zaG9RUFZrZE9aY2ZMTVVRUWJFeGdaRmloVEtFZmk0MkdRUWN3bERmalFuR3pqWU5EcXdCa3FvaWx2QQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "eceaa293216c6349f3cc03b9f7e33c3a",
+      "title": "Prevengamos la influenza aviar - guatemala.gob.gt",
+      "source": "Google News - Guatemala",
+      "date": "2026-07-10",
+      "country": "Guatemala",
+      "lat": 15.7835,
+      "lng": -90.2308,
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oeXlUdkZsMnlBZTFCd1hZQk50U3pGTG11WEN5SDUtTEhBVUJTWUVMVlpaT0s3bUZyTzhMN0xPamNlSGNkeXdoTW5zTGJlSVpfZjBzQWhTd2VsN1VCbmM4SUVIQUltRHM?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-05 02:40 UTC"
+  "last_updated": "2026-08-05 06:29 UTC"
 }
