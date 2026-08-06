@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "cbcccfa435a2e896f8b5acd90e9d3242",
-      "title": "Honduras: Confirman Influenza Aviar de Alta Patogenicidad en granja de Santa Bárbara - El Sitio Avicola",
-      "source": "Google News - Honduras",
-      "date": "2026-06-22",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTl9VcTBjM1l5TjV4WnBSX1BlWi1kQ044NGhyaEZrczQzdHVrZzI0SnBnYkNwQ0pPTko3dndHN21nQnMxbGIzSERtYnJqOTdOYkFoVFhfdFFMYlQzc3g5YUlhN0JqSmVZN0hEZ0h3WlVSSG4xNVVmNTMxSTd6NjBicGhkTGdTeHpMRE9xLV8tM21TMjh4VEtuWjdkMmJCNHdwYk1vVmdORXgwNEpfcEsweTByOF95MjlBLTVDbjVFY2d4aE5NOG1nTDhURE8?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "dd8837e70ea1bc3b25b4abba41271976",
       "title": "Consumo de pollo y huevo no representa riesgo tras caso de influenza aviar - www.laprensa.hn",
       "source": "Google News - Honduras",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenNvdzJmZjVYb2FneHdNLTU1TWlhWnFHaHY0NnNHWTNoZkpoX21aUUJTY0lVWTNYTTNQRGRiWEtoRy1OcUtrYTd2eUdGMGhaaTZnczF5SVNGR1Y2d2FFdkh2QnpaQXVyTTltMGpnNWhzX2x2dmRJNDR4X3JkZDYyMkh0aDRNYl9HN0RZTlJfTUVnWU51dkx2bA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "139966284babff68d9d65fc9a0effde4",
+      "title": "La región vuelve a estar libre de influenza aviar tras sacrificar 178 aves contagiadas en Tierra del Fuego - laprensaaustral.cl",
+      "source": "Google News - Chile",
+      "date": "2026-08-01",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMHRLWmJlN3lNekg2cTlJNVIxbWVDTEdhOV9jVnBvRDFWNEoyUTlINUZ4bUdMaVVDandVb2NUeU1OMXJ3M0xaazNfUk52UTk5OHRxaXJFVWJieC03QmswSGtDYXg1dEg0YWk4VzV5STRRZG9mLXRZYjZtQzluWGwwTEJQQm9RaXYwOUlkSGh3cWZKanhnWVhkdjFXbFNkaVFURFUtU0t5SF83SHRaa1VGSDlpME0taGxzYng4NUN5NG0takFVZXl0NzJYRmEwVEtleVYyUmVpZkFwb2hQbVE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-06 02:42 UTC"
+  "last_updated": "2026-08-06 06:32 UTC"
 }
