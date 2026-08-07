@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b6ffdbe8f180cef5b9154c2f25d9064a",
-      "title": "Solo un caso de influenza aviar en granjas comerciales del país reporta Senasa - Diario Tiempo de Honduras",
-      "source": "Google News - Honduras",
-      "date": "2026-06-22",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONTBsWE5qQkVPQzFYelZSUWVZODhzVnNfOG9MVUN3Qk9GWW9LTGpSRWNpUEcwZFVLQXJ4cDdZbC0tbGkyYXdOTDVFcG51U0kydW5DczlwdGtvU3FYU3R0YW81eWdDMFRfeW0xUVRNQ3c1RVdYRHpGQkVreWYzZlBPcUlnUlh6N3J6UkFYNFJ6UQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "38642a07903590c11872c45c84efc917",
       "title": "Capacitan a equipos técnicos de Malleco y Cautín sobre influenza aviar y bioseguridad - lasnoticiasdemalleco.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZnNlYm8zMnBlZHhTMlAwbGVSWDBqVkFJY18wb2Vjck9GVUdBT0I1UVdJcTB1TDFmblpYX0JxbzdlekJycFdad2h2LWZNRDRHWGoyY1ZJSF9HV0xoVWhEdzBZX1hhSE9SVE9GX3ptbmp5dGgwU0dhSmlFMVU1eDd0V3Bzdm14YnQ0WDlJV0w3aEotSlpsNXFHbzEwUQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "35b69c0c3d0ddba64f5e125cbbbdf05f",
+      "title": "Confirman nuevo caso de influenza aviar en Iquique y refuerzan llamado a no manipular aves enfermas - 24horas.cl",
+      "source": "Google News - Chile",
+      "date": "2026-08-06",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa0JNcDlCRF81ZWpiYmhkdGpLZUFhaUVfbEcxbnhrU0g5OWdyMHNtaGZ0bndlZ0ZCT0N5Yk1tR25sOGQ3dUxnS2pZODM1bGhiV0xaQTdsT1k2UzNDcm9GLTVLV09NUzJaWE5BYU1OdWh5YUlkT093Zkt0M1NOMGFDT3hpZ084c0R0TDkzRkdHdW5rSzhxaWJGalhyRnpkMDVpR2ZUQkFPa1FjZ9IBqgFBVV95cUxNa0JNcDlCRF81ZWpiYmhkdGpLZUFhaUVfbEcxbnhrU0g5OWdyMHNtaGZ0bndlZ0ZCT0N5Yk1tR25sOGQ3dUxnS2pZODM1bGhiV0xaQTdsT1k2UzNDcm9GLTVLV09NUzJaWE5BYU1OdWh5YUlkT093Zkt0M1NOMGFDT3hpZ084c0R0TDkzRkdHdW5rSzhxaWJGalhyRnpkMDVpR2ZUQkFPa1FjZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-07 13:07 UTC"
+  "last_updated": "2026-08-07 16:55 UTC"
 }
