@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "8e27be4402afae8aa4559eba01a30cee",
-      "title": "Avicultores refuerzan medidas sanitarias tras detección de influenza aviar en granja comercial - Infobae",
-      "source": "Google News - Honduras",
-      "date": "2026-06-22",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd1h0ZFRHMmhlcmZTNjN6NFdTNVdIaVM2ZVQ3T3R1a1hhN1RPVnppY3VVSVdvLTlWOU5tTlJCeWlTcDZfeWNmcXpCUmlaQnVHN0dLRW9icUdROGpaTVJMbjdRRlBxUG9WUUtuYXdsLV9zQ01JV0M0Nm84cDYyTThqenVXU3Z1ZE5iYmFVeGNxUFNtYmFOVkZkSGpJcWJXb2ZkM1VLblJ1MjRROFVpeFU0Vkd3U3V4di1qUTc2THRNQXdkb1B5bG5JWnRvX2YtRkdqdklJMTlIRWFZMml1RDB3SkczLVM2Njh2cjJGX0xqQW_SAfABQVVfeXFMTXdYdGRURzJoZXJmUzYzejRXUzVXSGlTNmVUN090dWtYYTdUT1Z6aWN1VUlXby05VjlObU5SQnlpU3A2X3ljZnF6QlJpWkJ1RzdHS0VvYnFHUThqWk1STG43UUZQcVBvVlFLbmF3bC1fc0NNSVdDNDZvOHA2Mk04anp1V1N2dWROYmJhVXhjcVBTbWJhTlZGZEhqSXFiV29mZDNVS25SdTI0UThVaXhVNFZHd1N1eHYtalE3Nkx0TUF3ZG9QeWxuSVp0b19mLUZHanZJSTE5SEVhWTJpdUQwd0pHMy1TNjY4dnIyRl9MakFv?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "b6ffdbe8f180cef5b9154c2f25d9064a",
       "title": "Solo un caso de influenza aviar en granjas comerciales del país reporta Senasa - Diario Tiempo de Honduras",
       "source": "Google News - Honduras",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa0JNcDlCRF81ZWpiYmhkdGpLZUFhaUVfbEcxbnhrU0g5OWdyMHNtaGZ0bndlZ0ZCT0N5Yk1tR25sOGQ3dUxnS2pZODM1bGhiV0xaQTdsT1k2UzNDcm9GLTVLV09NUzJaWE5BYU1OdWh5YUlkT093Zkt0M1NOMGFDT3hpZ084c0R0TDkzRkdHdW5rSzhxaWJGalhyRnpkMDVpR2ZUQkFPa1FjZ9IBqgFBVV95cUxNa0JNcDlCRF81ZWpiYmhkdGpLZUFhaUVfbEcxbnhrU0g5OWdyMHNtaGZ0bndlZ0ZCT0N5Yk1tR25sOGQ3dUxnS2pZODM1bGhiV0xaQTdsT1k2UzNDcm9GLTVLV09NUzJaWE5BYU1OdWh5YUlkT093Zkt0M1NOMGFDT3hpZ084c0R0TDkzRkdHdW5rSzhxaWJGalhyRnpkMDVpR2ZUQkFPa1FjZw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "24ee4e9d8d6b76d6efc7d6f9bd44fccf",
+      "title": "Brote de influenza aviar alerta a sector avícola y productores - canal6hn.com",
+      "source": "Google News - Honduras",
+      "date": "2026-06-10",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZnNlYm8zMnBlZHhTMlAwbGVSWDBqVkFJY18wb2Vjck9GVUdBT0I1UVdJcTB1TDFmblpYX0JxbzdlekJycFdad2h2LWZNRDRHWGoyY1ZJSF9HV0xoVWhEdzBZX1hhSE9SVE9GX3ptbmp5dGgwU0dhSmlFMVU1eDd0V3Bzdm14YnQ0WDlJV0w3aEotSlpsNXFHbzEwUQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-08-07 09:00 UTC"
+  "last_updated": "2026-08-07 13:07 UTC"
 }
