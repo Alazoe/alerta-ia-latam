@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "3cb455906a454fc8328f9f25253eecd0",
-      "title": "Honduras contiene brote de Influenza Aviar y refuerza la bioseguridad para proteger producción nacional - avinews.com",
-      "source": "Google News - Honduras",
-      "date": "2026-06-23",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdmtfcVJET0laaWR2QnZMRm95QlpXdHlyakRTX1BRTEs4U0hYdWtBYS0zUUwwRVl0SnZkejcxT1Nid3dXR2JkbnJOOG9teXUtdmJpaVVmckp1a1lSUE1HcjNyMUY2RGpNeXIxeDFJVFg3WUxLTVFITTlqNWtXVzl5NTJZeHB0QjdJNlVLV3l4SmxmWEJYVGpSZURfZS1zV0ZOUXhUVUs5dWJYRnhheDRrc0dVcUFPcHp5TXRyLU55dXJjOThRM3I0?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "632994f178fa75cffae7b315dd3ce960",
-      "title": "Recomendaciones para la prevención de la influenza aviar en aves silvestres - Argentina.gob.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-06-23",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkkzVFBGU2Vzc0drSHlBZUZSWGh1QnZuU3FaRW5UQUVKN2xHRGg3U2NTczNCaTdSWmR2SmRxcndmb21WLWJILXo2d01wZklOblVqQ3JyS3dfVWNUVVFVRVYtX28wZVFha2dfVVdPZ0FGUHJKbTZ5TXF5c1BUcEwzZWZwb3lhZk1BM1FBdVVJdVZmS2lfQ2doZjJ3M1IyeHZmR3FjWGlDYWNIRkg4RnMzM1N4NA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "9e2a805d936f0dd58aebb0f96605c333",
       "title": "Emergencia por influenza aviar: SAG pide evitar contacto con aves enfermas - Diario Tiempo de Honduras",
       "source": "Google News - Honduras",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdm1xQWF4QURQUlo4M0J2MW42alBhYk5SRWxDMmI3RHkxYjAzXzh4VXI3RG5IQzN3OXBTZUNQeWFjeWxLbGdDQWY5Zm9zT0s2SDF6RHJCb01uQ0xJMmtQdEZsRzdWYUJaUHc1SjVlSVpYYjFxVnJacjVuTWJpSi1kcC14ZGdKNDV2M2o1WWdEbEtjUnZSMk1GR3FJNko4NXF5WjZIZk5iN2xUSXM?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "4670b780bbfbe811265514dfc23207a6",
+      "title": "La Unión Europea reabrió el mercado para la carne aviar argentina tras recuperar el estatus de país libre de influenza aviar - Data Portuaria",
+      "source": "Google News - Argentina",
+      "date": "2026-07-28",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOZjBORjFQR1ltMlA3UjNwZTQwMmVKemtSMm8tZXk5SmcyN1UxU2FJdThCa3NUbHVlV0YzY1Y3THBwZFhTYktRQUNJSzRtSF8tc1U2TUVOeVRmbkxzZ284MmFnR2dmZ2hOREY4cGlOOExFWTY4czFia2k1QVk4Z1NZcVhtNVA4Z3U4dmVpelpoY3ozVklwTEM4SmNBVVA2VGtKUTdfMFZOY0RNTWxURmhoS2YwZ3hKLWxicXlnbHZPekhjZ1Rzb1drMHJLbmJKQ3dfbnNjYV9mMmxNSDA1Z0FCVGRsb1ZWLWFNbVFBeVkzbWpESGJma3lPVnQzQ1poeFBwRUFnUmJ2TWkzTXlVQThpSElVVQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "ecc069ef871af83867263935ccaa0e0c",
+      "title": "UNALM: Consumo de pollo y huevo es seguro pese a casos de influenza aviar - agroperu.pe",
+      "source": "Google News - Perú",
+      "date": "2026-07-21",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOG80bm5Ca09PTGFob25hUG9aakk1NXU5akhDWmJlY3BDb2dJWXh4ZFN6dWE4b012SUtnNGVHbXNwa1ZPZEFtMXgxcFlkaXhDZGRkQlZtSk5TQVRndHdDZUsxOXRjQ0pLRzFVWExNYkdPblgyblZVaFA2ZlBUZmI4Y0ROOTNVYkJtMFBJME1SS3JtVTBocnZuRWlfeHdBZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-09 08:44 UTC"
+  "last_updated": "2026-08-09 12:54 UTC"
 }
