@@ -877,18 +877,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "3b6800656287318dc62c0bf7871f6374",
-      "title": "Lambayeque: detectan brotes aislados de influenza aviar en crianzas de traspatio - Agencia Andina",
-      "source": "Google News - Perú",
-      "date": "2026-05-11",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONm8tRWNzakV4aDQ1N012QkRFMjZTN0FCX1BEeGV0bUpMZDVJS3hlek9OYkl4MGpQNGpiSWNRZlZ0TU9SaDN3SHQyU1JaWnF2enNtQmlLNVBjVHVVNHJuUVRCS2dRb0JCMVRCUXhoUEcxQ1dpV09GNlFDazJZUkFsUXJETFpDcXVQUF9CVVBwbTNTdmtwZGs3V3hJTXlvYmZPY2JiYzd2cnVHRmlnUTFtZGRFRGQ1ZkJF?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "c68278627e58bb008065b220a3a4ed7f",
       "title": "Descarta Senasica afectaciones por influenza aviar en Chiapas - Hoja de Ruta Digital",
       "source": "Google News - México",
@@ -2941,18 +2929,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "2d46593efd11e13bdf1d929969898a5f",
-      "title": "Bioseguridad: La primera barrera de prevención contra la influenza aviar en granjas comerciales - argentina.gob.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-05-11",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZDVIUjhLZ0J6ZmNhaTdQNE5OdGtDOWhjbjVxZC1fOFgzZ21lR3ZZaU9wV0E0RUVKTVZYTFZ0N0FNQ1A5LTFxaFdvdnhLZ2MxUEdXR0NERUZfZUlRZ1dJUkZRNFlUeFNzbVdjamh2bFh3Nm5kRmcwZzVacVBjV2YzRWRpa1RUVEh4RWhzeEdTdDhrWXVPZTlsX0FUOWNlMjdxTm41SUYwYzRLTHpMU1NzS3VxMjYtMkpHcjhKZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "e9137862ef98777c7f70150b4c55ba9e",
       "title": "Ministerio de Salud de Chile decreta Alerta Sanitaria por hantavirus, arbovirosis e influenza aviar - noticialdia.com",
       "source": "Google News - Chile",
@@ -3599,7 +3575,19 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBicmlGUTllNzNpUHJ2Y3Z6Vkp6TG94bk1vem90cFhUSWZYcDZ4UklDVmZXTGxMUHdsb21JdlZkT3ZkWkoyQm9JZWtJMnhPN1ZhX0ZDQnMtTXRDZzczQk9ZaEQzdTd6MDZIU3NORjYwcXM?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "f8bc374e0e0e1e17afdf27445360adb7",
+      "title": "Influenza aviar: Senasa declara emergencia sanitaria por 90 días en todo el Perú - tvperu.gob.pe",
+      "source": "Google News - Perú",
+      "date": "2026-07-13",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaHp4T2otN0ltUEREeDg5NmUyMXppaXQ0VkNiYUdlYjBGaUx4UnphcjNLVzVDZFljNnVLUEJWYllWSG03OTRjY2xtN3NBNWI3eF9fWGhPd0tqenM1MkJzYXp1NWdEM3lmLXhvU0V0OEtIRUpxeXFURDZHU1phSWpQbklYc2JFVkNERkVjQ2U0OFo4V3ZkV1hSMGkyX0MtaThHZmstdVBEUjZUczdyVmo4NmRaZlpMQ2JSaktuRTFSTDR2eVE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-08 20:31 UTC"
+  "last_updated": "2026-08-09 01:51 UTC"
 }
