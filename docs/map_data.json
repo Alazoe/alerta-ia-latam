@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "6d082c5cca9beca7c9d6d446dc11fc5e",
-      "title": "Alerta en el norte de Chile: confirman el primer caso de influenza aviar de 2026 - Agrolatam",
-      "source": "Google News - Chile",
-      "date": "2026-06-22",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdU9abEdCZlBOUmM3MEFXLTRHNlQ2QU5wQnVjLUdLZi1kOXQyaVNKN0tvODFzRTlBM1dBbU44N1VOa0htYnNISmRwcUVOVTFzSXotaVBGS2Nod1gwalRURGRDcUYxZV9yZ0tvTUs5Z0hSd0xpQWRuWU5XTFJPcVdFVVA3b1hHNE9MWXk5UkpIZTVUUi0xS3phSg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "3cb455906a454fc8328f9f25253eecd0",
       "title": "Honduras contiene brote de Influenza Aviar y refuerza la bioseguridad para proteger producción nacional - avinews.com",
       "source": "Google News - Honduras",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOZjBORjFQR1ltMlA3UjNwZTQwMmVKemtSMm8tZXk5SmcyN1UxU2FJdThCa3NUbHVlV0YzY1Y3THBwZFhTYktRQUNJSzRtSF8tc1U2TUVOeVRmbkxzZ284MmFnR2dmZ2hOREY4cGlOOExFWTY4czFia2k1QVk4Z1NZcVhtNVA4Z3U4dmVpelpoY3ozVklwTEM4SmNBVVA2VGtKUTdfMFZOY0RNTWxURmhoS2YwZ3hKLWxicXlnbHZPekhjZ1Rzb1drMHJLbmJKQ3dfbnNjYV9mMmxNSDA1Z0FCVGRsb1ZWLWFNbVFBeVkzbWpESGJma3lPVnQzQ1poeFBwRUFnUmJ2TWkzTXlVQThpSElVVQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "3b291a98eecc97d62698d01b38661726",
+      "title": "Bolivia recupera estatus sanitario y se declara libre de influenza aviar - laoctavabo.com",
+      "source": "Google News - Bolivia",
+      "date": "2026-06-12",
+      "country": "Bolivia",
+      "lat": -16.2902,
+      "lng": -63.5887,
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdm1xQWF4QURQUlo4M0J2MW42alBhYk5SRWxDMmI3RHkxYjAzXzh4VXI3RG5IQzN3OXBTZUNQeWFjeWxLbGdDQWY5Zm9zT0s2SDF6RHJCb01uQ0xJMmtQdEZsRzdWYUJaUHc1SjVlSVpYYjFxVnJacjVuTWJpSi1kcC14ZGdKNDV2M2o1WWdEbEtjUnZSMk1GR3FJNko4NXF5WjZIZk5iN2xUSXM?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-09 05:07 UTC"
+  "last_updated": "2026-08-09 08:44 UTC"
 }
