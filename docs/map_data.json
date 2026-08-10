@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "9e2a805d936f0dd58aebb0f96605c333",
-      "title": "Emergencia por influenza aviar: SAG pide evitar contacto con aves enfermas - Diario Tiempo de Honduras",
-      "source": "Google News - Honduras",
-      "date": "2026-06-24",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ3M1Ml9oNGx4MUd2Sms4dWVaQnRfbWNqM2tGMk5JZGZGNVltME1vODdoYUZVbFdmUFp0YWlqTzhiYWtBc0hKNktfanZVY2R0T0dnS1NxaktDYkNpNzk3bFdhbUNSaFZzQWxVTzhTY3Z4b0REbzM1aHdNMV9IMVhQTmNTSGUxN1VadkN2LVdtOGplYU82LXV5Z21MeXlxSklVNXVDR0hJYw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "5e614b3fa636d05cd1cbcc53263c99af",
       "title": "Honduras contiene brote de Influenza Aviar y refuerza la bioseguridad para proteger producción nacional - avinews.com",
       "source": "Google News - Honduras",
@@ -3587,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaXJzbGRYYkpQaFZqdm9qTldGTUw4YzdISzY0aW44RlRWd3RJb01VMTdySFNiQnVmT0NHeXF2ZTdzbmR4bm8tQjNFanV6SHdPdzg2emRrN1dtQkc0Ykh2Zjg2STVDYk5PVUxwVTB6VTdpTVdlcURnc3l4bUVSVlhUdTFjR1pkc0dLb2E2LUttaW8yTzFLRjRoRUFhWGtlLXVROWtDVEtzUG5UUEF5aHktWjY0LXhWV0o4Szk40gHAAUFVX3lxTE13elIwQ3F1a2RBYXJiU182dDdlRUd6UlhDRlRJSk52aGhnanFyTzA0ei0wN1NJXzhfN2VsdEg1MEdJOEhONnFqNHg0WTBSY0hUOXYxNXNPQ2xGWlFtZWwtV2xaWjRGNThqTEVUVElDdFJlcTYtY1Z4RUtLQkVtTzBNNDJyN0ZfREYtb0JTSUxnbWl0Q3E0ZW1lY2JLRWFaTzZ0YWs0a0lPVVFwUlU4TzJpQ3lCWFR2YnV0cVU2R00zWg?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "c6b76d2b84bcc2c23459c079d4e304dc",
+      "title": "Gran Bretaña reconoció a la Argentina como país libre de influenza aviar - La Gaceta",
+      "source": "Google News - Argentina",
+      "date": "2026-08-10",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd3pSMENxdWtkQWFyYlNfNnQ3ZUVHelJYQ0ZUSUpOdmhoZ2pxck8wNHotMDdTSV84XzdlbHRINTBHSThITjZxajR4NFkwUmNIVDl2MTVzT0NsRlpRbWVsLVdsWlo0RjU4akxFVFRJQ3RSZXE2LWNWeEVLS0JFbU8wTTQycjdGX0RGLW9CU0lMZ21pdENxNGVtZWNiS0VhWk82dGFrNGtJT1VRcFJVOE8yaUN5QlhUdmJ1dHFVNkdNM1rSAcABQVVfeXFMTXd6UjBDcXVrZEFhcmJTXzZ0N2VFR3pSWENGVElKTnZoaGdqcXJPMDR6LTA3U0lfOF83ZWx0SDUwR0k4SE42cWo0eDRZMFJjSFQ5djE1c09DbEZaUW1lbC1XbFpaNEY1OGpMRVRUSUN0UmVxNi1jVnhFS0tCRW1PME00MnI3Rl9ERi1vQlNJTGdtaXRDcTRlbWVjYktFYVpPNnRhazRrSU9VUXBSVThPMmlDeUJYVHZidXRxVTZHTTNa?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "d518dc9c3b1f34577b53305f9fef1136",
+      "title": "El Salvador declara alerta sanitaria por influenza aviar de alta patogenicidad - infobae.com",
+      "source": "Google News - El Salvador",
+      "date": "2026-08-10",
+      "country": "El Salvador",
+      "lat": 13.7942,
+      "lng": -88.8965,
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNXzc2VFRLQTc5bjBOWGs5RDR5cnphQzBqYXFqb29YZDRZUFRhQlo3V3FQd1dqQ1lTdE5QNUJhVUlveE5YbEVqRURHd3dTdkNhWUpBRVJBc0RxWGxodXctdEZCVUZGRWQ5MnphNUo4RllzWVg4NF9PUGFzMWVCU2ZaeXlraXlMOG9jd19PN3ZkajZ2VndXeEczSzB1VkRnbDJtYTJnSlBYLWdnMlZmZUY0ajZ1N3FrWHhBdnhiMXNKUElQYUE40gHfAUFVX3lxTE1MVXVQb1Z3X292UzZGMS1uNi1SRThIRkFwTmRTQ3hRYTR1MFpJZHd0N1l0Z21pbTY2d0YyaDdJVkJ4VVdOYjRKeExiRG5kekQ3ZFd2aGpJZ0w4bzZ4bHJSVmdNeVBsaUV6UzBIaE1JMWxmX2ZNT3gtdmRIdEkwcHF3SkZ0SWdObE1vSXNHd19RNWJKTG5UemxTZUFCT3JuZk5VbUZkTmZ6THZ2VldQOTd3bVdjd1dsWElYb1E4dkFaSnpVdUxqYUtULWJWWHlWck5XdGJkOVJjUjV0Vk1IMkU?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-10 16:54 UTC"
+  "last_updated": "2026-08-10 20:43 UTC"
 }
