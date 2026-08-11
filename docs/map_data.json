@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "5e614b3fa636d05cd1cbcc53263c99af",
-      "title": "Honduras contiene brote de Influenza Aviar y refuerza la bioseguridad para proteger producción nacional - avinews.com",
-      "source": "Google News - Honduras",
-      "date": "2026-06-23",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWVl5VFJqRWZxUFE0a2tEaGNjM2VKNXhJMTdRaHNFNWVQUmtIQmQwc2RWcTRrVkZYSnZjMk9JaUEwWEtpRnNxVFVxNHZsX0t6OUY1MktwZjA2LTJJMzlZSTdNdVo2cmtxS2FfOHhyTl8wZkVpb2xPTUJDYkxPR0dGY3RHWjRnZnZRSG9oMjlaaGJCU2M1WjQyMm1QZ2ZvNTdpVUFMUFhvRHp1d19tQjF2RHRueGlIRHBQc3pCYnZraFZSUQ?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "dbf1b176243c58dea48ae6d2f6aa05a9",
       "title": "UST Temuco realizó la primera jornada regional sobre Influenza Aviar y vigilancia sanitaria - Araucanía Diario",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNXzc2VFRLQTc5bjBOWGs5RDR5cnphQzBqYXFqb29YZDRZUFRhQlo3V3FQd1dqQ1lTdE5QNUJhVUlveE5YbEVqRURHd3dTdkNhWUpBRVJBc0RxWGxodXctdEZCVUZGRWQ5MnphNUo4RllzWVg4NF9PUGFzMWVCU2ZaeXlraXlMOG9jd19PN3ZkajZ2VndXeEczSzB1VkRnbDJtYTJnSlBYLWdnMlZmZUY0ajZ1N3FrWHhBdnhiMXNKUElQYUE40gHfAUFVX3lxTE1MVXVQb1Z3X292UzZGMS1uNi1SRThIRkFwTmRTQ3hRYTR1MFpJZHd0N1l0Z21pbTY2d0YyaDdJVkJ4VVdOYjRKeExiRG5kekQ3ZFd2aGpJZ0w4bzZ4bHJSVmdNeVBsaUV6UzBIaE1JMWxmX2ZNT3gtdmRIdEkwcHF3SkZ0SWdObE1vSXNHd19RNWJKTG5UemxTZUFCT3JuZk5VbUZkTmZ6THZ2VldQOTd3bVdjd1dsWElYb1E4dkFaSnpVdUxqYUtULWJWWHlWck5XdGJkOVJjUjV0Vk1IMkU?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "21c76a004f0eb4b6930f3e7808a23e7b",
+      "title": "Gran Bretaña reconoció a la Argentina como país libre de influenza aviar - lagaceta.com.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-08-10",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd3pSMENxdWtkQWFyYlNfNnQ3ZUVHelJYQ0ZUSUpOdmhoZ2pxck8wNHotMDdTSV84XzdlbHRINTBHSThITjZxajR4NFkwUmNIVDl2MTVzT0NsRlpRbWVsLVdsWlo0RjU4akxFVFRJQ3RSZXE2LWNWeEVLS0JFbU8wTTQycjdGX0RGLW9CU0lMZ21pdENxNGVtZWNiS0VhWk82dGFrNGtJT1VRcFJVOE8yaUN5QlhUdmJ1dHFVNkdNM1rSAcABQVVfeXFMTXd6UjBDcXVrZEFhcmJTXzZ0N2VFR3pSWENGVElKTnZoaGdqcXJPMDR6LTA3U0lfOF83ZWx0SDUwR0k4SE42cWo0eDRZMFJjSFQ5djE1c09DbEZaUW1lbC1XbFpaNEY1OGpMRVRUSUN0UmVxNi1jVnhFS0tCRW1PME00MnI3Rl9ERi1vQlNJTGdtaXRDcTRlbWVjYktFYVpPNnRhazRrSU9VUXBSVThPMmlDeUJYVHZidXRxVTZHTTNa?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-10 20:43 UTC"
+  "last_updated": "2026-08-11 01:52 UTC"
 }
