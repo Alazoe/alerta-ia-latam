@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "c7e47b722f12dba34be396a44ef94ad7",
-      "title": "Araucanía: Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - araucanianoticias.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcFpzcWNVbHd4QTVSQXBGVW9GTHc4Qnh4S3l2Tzhnb1hFVjNCVTdpTmZzR0ljSVJISzgyUEtadTAtalN3WTcwZXlhcTQ2dzU2ZXVhWGx1LVdrclpEaU1jNjRXNkphTlhwZnZsLVpOS3A1cW9fQUFwSllGdGJ1QTVzSTA2U3cyMlkwOTZacHN6di1HWm1oUnIwM0ozeTVPbWtmQXF1Yl9JZkZWTEczZ0hER0RndHJFMDdwcmN5TWRKTWVPZVBNVkdUOEJudTU3NVlybFVfQ213?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "b1d55b5421a8196efd7e9e1aa9791de6",
-      "title": "Honduras sacrifica 32.000 gallinas tras confirmar primer caso de influenza aviar en una granja comercial - MAP Global Media",
-      "source": "Google News - Honduras",
-      "date": "2026-06-24",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNjktUENKcVFoQTh6d2RZU2NUbGhJTkR2eXhoVFFMMU00dW4xdjZubm1KMWU5c09VLXZ2TnU2Z1JFZThEUUQxUEpzVTFZZU94dFFBbnJqYlRpTkxscS0tRmM3VDVjTEZqcjlTV1J5OEtJekNfMENhV2RUZlNTNl94dVYtTzVjbUhMbExaUDAyUFBNNjZZaER3M1RteV9ja1ZzaWhvM1BndGQ1NzNfNVJkWl9TUENLVFpJMXFaN1lNVXJRUjdFOUoxM0h5Rl9WSTJQd09fbnFQM1hBRmc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "64238cd8f5357b307dc89a09df7aac6d",
       "title": "Senasa vigila más de 500 granjas por riesgo de influenza aviar - www.laprensa.hn",
       "source": "Google News - Honduras",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnhNMUtDUmFhVW53MlhwNEcyWWdZc0pGTDJMYU1HWERyMWNRNjNtNGd5MlVZRVRQUGhvM2ViUTlEcFQxd0ZSM1ZzcmFTSmQ2Q3N5Si1qUE5vdUhfUk9RaVlJdnBCSml3dy1lcEVmN3hIa1BsNmZJcUFTaXVJMDNpRlZqSmlfbmJBbExjRF9sZHR4Y25wQnFCZmVRQk9DOUlzNkpubdIBrwFBVV95cUxNamRiUENBcHNPbzVzYlZtc1RTc0M3ZVNxNUlvQ0N5VjZLMk1GNjJoTEhjOS14Q1hSUE1jZW9ETVd2ZGRXb25QZGZCUHVZSVZjc0V3RFF2Yy1fUEdoalJGSE9IM05BcTBxQzlIbHYzbDNpMFZjc2tEVEEwZDduaDNJVi1KcHBFaWpVaTFubVU3NGM5YWZzSzlxSWh5Q0xIcmx1X2RCZnNaMnkxM0w2TXlz?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "ebb16b9a55ab95092eb5e4e2af989622",
+      "title": "Detectan dos casos de influenza aviar en zoológico de Chiapas - El Universal",
+      "source": "Google News - México",
+      "date": "2026-06-30",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeEl5WWNFRzNyeHJFZktlSkRaT3l5WlVPNkxhdkQ5N3hoTXlmajJKa0JNa2gwTF9jeDdGWEpEVlpFWFVPOERBQjJBcklTYWV4T09mZENyT2k2RGU5WFNqUUt0ZkZlQjUwZXpEVVBmX2RXQUlZU2w5NWV2bjVXOGxrM2Jnc2xtTTA2NHktczVBVF84NU5yVk9lZzZqT2dQbTQyUHRoazh5TFIwSmtXRzNmNkdjeTZLTlF3YUxWckFZNHgtVTBfWGdQRzRB0gHeAUFVX3lxTE04ZzFtazBhLWFMbnhSV0RaSU9VWVViZ19YNnVTcGNQWjNnRFJUTEhUSGhGZkVMdm50aVZwNW5RTFFIVFd1OFlJTndxOV84dFI4bDVuSFZjWV9YcGVOM08tajNlTl9mbEJuR0dxY3ExeXFFZC1OTndIMjdsaDl1Q3lDc2JPM1hkVXFIcVg5dWo5WmZpNWNmXzdLLUxGOUVBMkZqa3I3alJxYkpJWG1TSUx3Q0JHUEZJclZJc3VYVjRJTXVIYXo3Ymt5QU54OURnMVhHc2NMTHB1UGlhdm9ndw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "1c0e373a052cdb2571565f7a14adb386",
+      "title": "Fortalecen medidas sanitarias tras detección de influenza aviar en aves silvestres - canal6hn.com",
+      "source": "Google News - Honduras",
+      "date": "2026-06-08",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQm1Cc0RwbDRQbHJKNGtvcHI3SzRfY1lYT1JaN3B1UnpLeEVVOUc2bTZnMmR6YnRQVGoyS20yR19GdkZJYm5IQmd5VldlWFRHcVNMX052bGZPWDg3LTJ0UDlKNXk2dUxzTXl5SF9RYzJSay1WTXYzX0MzRnptU0JVVzh4M1pZUEhMVDJhd0lyT01lRmRKX1gwMmF1X2FsMWVPTEJNV0E0anQ3UEhoQnU1enVBWmNidw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-08-11 13:08 UTC"
+  "last_updated": "2026-08-11 16:58 UTC"
 }
