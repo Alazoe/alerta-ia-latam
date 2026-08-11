@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "64238cd8f5357b307dc89a09df7aac6d",
-      "title": "Senasa vigila más de 500 granjas por riesgo de influenza aviar - www.laprensa.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-25",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDRsWlVtV2FvTGQ0dUtGTXRpZGdXTkxWSXR6OUJtX1hpRnVlZ1pTRDl3U240SVdKTnpPYjFZUjdiYzJmNTh3ZW53YWdhbnlBeEVQQ19DeVlfRE5ZNVBEa044Q0V5Y2NnNnl3ZnZFdkxQYWtUVVRWXzhGdzdxTkxqdjgzQ3BJU2F0TlFFTHdwSzVjVVNYV0N5Vkc5b21TNGlZb2Rn?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "522466354feab6b9db0361060a2bc1cf",
       "title": "Confirman caso de influenza aviar en Costa Rica: Esto dicen las autoridades - Diario Extra",
       "source": "Google News - Costa Rica",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQm1Cc0RwbDRQbHJKNGtvcHI3SzRfY1lYT1JaN3B1UnpLeEVVOUc2bTZnMmR6YnRQVGoyS20yR19GdkZJYm5IQmd5VldlWFRHcVNMX052bGZPWDg3LTJ0UDlKNXk2dUxzTXl5SF9RYzJSay1WTXYzX0MzRnptU0JVVzh4M1pZUEhMVDJhd0lyT01lRmRKX1gwMmF1X2FsMWVPTEJNV0E0anQ3UEhoQnU1enVBWmNidw?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "32ab4b421148ee380070184f0f48e52c",
+      "title": "Vigilancia y respuesta ante la Influenza Aviar en animales y fauna silvestre - Pan American Health Organization (PAHO)",
+      "source": "Google News - Honduras",
+      "date": "2026-07-14",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMl81ZGdTYjBGc0FfMy14Z0RYVHFNY1ZxQTUzOTlsSXRNcGJURUw0MUprZlJsY3EwRWFWZTE4WC1MODViUGpfVl9uNlFoUUFydzNvcEZvdHRwODB3ZUgtUFBXR0NpWFllTmo5eVB6UW1zbE00R0VLTUtETHh5Z01NVmpTUjhEVVlwSmFxVnlBVWp3X3czQ285bDlzaFRmdGM?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-11 16:58 UTC"
+  "last_updated": "2026-08-11 20:46 UTC"
 }
