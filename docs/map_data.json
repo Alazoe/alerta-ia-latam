@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "522466354feab6b9db0361060a2bc1cf",
-      "title": "Confirman caso de influenza aviar en Costa Rica: Esto dicen las autoridades - Diario Extra",
-      "source": "Google News - Costa Rica",
-      "date": "2026-06-25",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0NXVWNSMklnMmVuQzl1WHhQTWlTTHMwTDAydkJnSnJqZmliTUpGb2J3YXBWWV9heElVUlVJZXktR0RpN091X1o5RHlkTVJNTktFLUJua0RNVWRESW5WTTVrUERmMWw0dS10aWxaRTlnQkc0eTJFY1Y3cFFzSjQ0TkNWZFBJRldDQ0JYNTFneUdWd01laEh2WWlGaTdUTjRmRlNSWF9MQUZOWkNsbXpOcg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "532c3d70e03f038b3bdd7334a2cc47fc",
       "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - Paislobo Prensa",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMl81ZGdTYjBGc0FfMy14Z0RYVHFNY1ZxQTUzOTlsSXRNcGJURUw0MUprZlJsY3EwRWFWZTE4WC1MODViUGpfVl9uNlFoUUFydzNvcEZvdHRwODB3ZUgtUFBXR0NpWFllTmo5eVB6UW1zbE00R0VLTUtETHh5Z01NVmpTUjhEVVlwSmFxVnlBVWp3X3czQ285bDlzaFRmdGM?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "495ef56c9fdf0315bff84d8d0e130bfd",
+      "title": "Confirman primer caso de influenza aviar en Honduras - latribuna.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-08",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOUpvU1NtVWI4M2F4anpGdm1NQk84OExBMndYaThnTmRzY1pWMng1N2ZtQXlsWWx5bU83cVpETFQ0UTgtQlFZcjYxdkJRMkJfUEp2RnBscktXYjRUTFNvNklNc0Z1eGpaemUzX3NpaW8wV2VsdDZ1UjBhN0xOQzZmZ1MzZGxoUjctbEl2ZXRJV1lBYlE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-12 05:38 UTC"
+  "last_updated": "2026-08-12 09:12 UTC"
 }
