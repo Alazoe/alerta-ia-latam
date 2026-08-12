@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "532c3d70e03f038b3bdd7334a2cc47fc",
-      "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - Paislobo Prensa",
-      "source": "Google News - Chile",
-      "date": "2026-06-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iT2lLemVFQjgwaDVoaGhMRVZFVVRXOC1UTk14SjJYWEZHeThoLU9OZnExUVVZNDVOMThhNTM4Nk9sTnpFZU1lcEt3YU1oZ3BoNzFFakdmcWtDUk53SWU5NjdJOUtXNXRKWUtuY0RlTlpPTFhxeXdEempaZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "b09bf9c8707c668ae2e276952b88741f",
       "title": "Autoridades mantienen vigilancia en más de 500 granjas por influenza aviar - www.laprensa.hn",
       "source": "Google News - Honduras",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOUpvU1NtVWI4M2F4anpGdm1NQk84OExBMndYaThnTmRzY1pWMng1N2ZtQXlsWWx5bU83cVpETFQ0UTgtQlFZcjYxdkJRMkJfUEp2RnBscktXYjRUTFNvNklNc0Z1eGpaemUzX3NpaW8wV2VsdDZ1UjBhN0xOQzZmZ1MzZGxoUjctbEl2ZXRJV1lBYlE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "6b31a34ed87abf4ea8caa4caa7d03721",
+      "title": "Descartan aumento de contagios de influenza aviar en Chiapas tras detectar dos caso - El Universal",
+      "source": "Google News - México",
+      "date": "2026-07-04",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUGgwb1JKRjFvN1k1aFdzamZZemtRNnE0cVNoWjFqX1pVRUxiXzZfQlpZWVJZbXZoV1NSZ2hfemR4YUNPUE9lWjM5MzgzZ1ZwTjJHR09GMTJUV2xxUHptRzNCdVdQOERaX3VGSHhVd3hhQ0RSYVJaX2drT1QtSjF5bnE3dVVMQ01tU2R0UUc5Y29aMWN3YW1vLWdYT3dFWDZIcy1vYkxqaWo1RUpyem1jYlVfaDJWdEtlYmpVa1p0WThlaFEtWXhyNzg2dVJqQlhRazBHVmhYUVVhclY1Z0luaExrNVNDV1h0SGJEQzNzbXhFRWVDYUJUdW5B0gGOAkFVX3lxTE5VWDhsVzNwYVRaVVBsRDdaTHpGZlRoQ1pVMl9QNkRqTmpLWUdiLTJ0U2RpeEdDcU1pRUo1STl1SWx5anBGbmVoaDJsUjNURktHSXYtdnJvNmZzOVNOUlJISTZZZV9sZ0w2aTdzc0dpUlBuU3VhZkNoMFBmblhtMkFITVhpbmpHcEl1WW9NSXJTam1pcnRPN2Fkd0I4NEQyb0traXZTQ2FDbXg0c2p4N21DcXFBZXdNaks3aE1OYndra25Rek9RckttYndqUzRocS1NYkJQZi1OUmhncG9zN1Q1ZUhnc3h1aUNBQ3ZpaUgxRy1XNVVaOEduMlFLVjBTV1JQanEyVElnYzB3bFlUQQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-12 13:12 UTC"
+  "last_updated": "2026-08-12 16:57 UTC"
 }
