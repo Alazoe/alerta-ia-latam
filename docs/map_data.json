@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b09bf9c8707c668ae2e276952b88741f",
-      "title": "Autoridades mantienen vigilancia en más de 500 granjas por influenza aviar - www.laprensa.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-25",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaXpRUkhQTTQ2b3ljS1k4X25JbEhqUUxCcVltZGJiQ1FBMFBBdlRKYXpGVHdJS0dSRVhka0JqeEM4SEVQd0R6ODVCUDFGVVQ3cThCQkNkUGhZWnRyOHdYVDFyanJsSVU3WG9pQV9CeDlXX0NJOGVMdXpRZlpVQ0FZajBBcTFaNTh1MXVZb2N2MFhjTEl6U2RXM0l3ZlV3SUMxYmhhRk12N1lLWFJfUEZYZ1ZNSS1Ndw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "e5f1716f3780392640678863144eb08b",
-      "title": "Nuevo caso de influenza aviar en Costa Rica: Senasa aclara cuál es el riesgo - nacion.com",
-      "source": "Google News - Costa Rica",
-      "date": "2026-06-25",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQblNOMlZBX3BSZ1Y2SG5aa0dZQUkyY1c4UWw4YWRvSFRVdmFmTHVXcVZ4bGU5UVFYeWkwWDI5dW9naGJHeURUUnJqMDJsQzBCWjRoZ2RJa0RvMWhIOWVIU0hBZEY4MHdhZXJpUmktR0ZrbTZFbTJ4WVV6UVhqbnBBWWVCQzVfdlYwQ0trUjBHSXZEVUM5bmVENzlvaHJJbEEwSm5XNl9LVzVHUE01cTUxQUltakJMa2s?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "10edd848f0a295a95608f06acfa8327a",
       "title": "Senasa detecta caso de influenza aviar en ave marina de Quepos - Teletica",
       "source": "Google News - Costa Rica",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOUGgwb1JKRjFvN1k1aFdzamZZemtRNnE0cVNoWjFqX1pVRUxiXzZfQlpZWVJZbXZoV1NSZ2hfemR4YUNPUE9lWjM5MzgzZ1ZwTjJHR09GMTJUV2xxUHptRzNCdVdQOERaX3VGSHhVd3hhQ0RSYVJaX2drT1QtSjF5bnE3dVVMQ01tU2R0UUc5Y29aMWN3YW1vLWdYT3dFWDZIcy1vYkxqaWo1RUpyem1jYlVfaDJWdEtlYmpVa1p0WThlaFEtWXhyNzg2dVJqQlhRazBHVmhYUVVhclY1Z0luaExrNVNDV1h0SGJEQzNzbXhFRWVDYUJUdW5B0gGOAkFVX3lxTE5VWDhsVzNwYVRaVVBsRDdaTHpGZlRoQ1pVMl9QNkRqTmpLWUdiLTJ0U2RpeEdDcU1pRUo1STl1SWx5anBGbmVoaDJsUjNURktHSXYtdnJvNmZzOVNOUlJISTZZZV9sZ0w2aTdzc0dpUlBuU3VhZkNoMFBmblhtMkFITVhpbmpHcEl1WW9NSXJTam1pcnRPN2Fkd0I4NEQyb0traXZTQ2FDbXg0c2p4N21DcXFBZXdNaks3aE1OYndra25Rek9RckttYndqUzRocS1NYkJQZi1OUmhncG9zN1Q1ZUhnc3h1aUNBQ3ZpaUgxRy1XNVVaOEduMlFLVjBTV1JQanEyVElnYzB3bFlUQQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "e73fb859b15e5cd7553eec18621be96d",
+      "title": "Detectan dos casos de influenza aviar en zoológico de Chiapas - eluniversal.com.mx",
+      "source": "Google News - México",
+      "date": "2026-06-30",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPeEl5WWNFRzNyeHJFZktlSkRaT3l5WlVPNkxhdkQ5N3hoTXlmajJKa0JNa2gwTF9jeDdGWEpEVlpFWFVPOERBQjJBcklTYWV4T09mZENyT2k2RGU5WFNqUUt0ZkZlQjUwZXpEVVBmX2RXQUlZU2w5NWV2bjVXOGxrM2Jnc2xtTTA2NHktczVBVF84NU5yVk9lZzZqT2dQbTQyUHRoazh5TFIwSmtXRzNmNkdjeTZLTlF3YUxWckFZNHgtVTBfWGdQRzRB0gHeAUFVX3lxTE04ZzFtazBhLWFMbnhSV0RaSU9VWVViZ19YNnVTcGNQWjNnRFJUTEhUSGhGZkVMdm50aVZwNW5RTFFIVFd1OFlJTndxOV84dFI4bDVuSFZjWV9YcGVOM08tajNlTl9mbEJuR0dxY3ExeXFFZC1OTndIMjdsaDl1Q3lDc2JPM1hkVXFIcVg5dWo5WmZpNWNmXzdLLUxGOUVBMkZqa3I3alJxYkpJWG1TSUx3Q0JHUEZJclZJc3VYVjRJTXVIYXo3Ymt5QU54OURnMVhHc2NMTHB1UGlhdm9ndw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "274b6fadd0ddedaa83385f0a02d2231b",
+      "title": "Pelícanos siguen apareciendo muertos en Puntarenas: análisis previos descartaron influenza aviar - observador.cr",
+      "source": "Google News - Costa Rica",
+      "date": "2026-08-03",
+      "country": "Costa Rica",
+      "lat": 9.7489,
+      "lng": -83.7534,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaFU4dnZVUUpEbm5wdzhVR01UeVpjWXp4MmdsMWtnZmpLUEwzVmhTVGJRNWQtWjVFeXFxaXpWQk8zc3BnanotUXo5c1p5bnBKUmpsNHVlRkFabzNKYmI3TDB3U3U1RlJidElIUmhSSGlfWk5tTkJXRUgxVXdkc3ZIb0YwOGswVkc2RzhRU0l6bmNJQXFHWUN4TmRpc2VYVGgwWkJIVU8yVUJMTGxXcHRaTXBoSU9QUTZ1QXc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-12 20:47 UTC"
+  "last_updated": "2026-08-13 02:06 UTC"
 }
