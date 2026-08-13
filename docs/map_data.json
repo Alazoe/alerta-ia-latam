@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "10edd848f0a295a95608f06acfa8327a",
-      "title": "Senasa detecta caso de influenza aviar en ave marina de Quepos - Teletica",
-      "source": "Google News - Costa Rica",
-      "date": "2026-06-25",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNmpFQmNPRGpMV3RmeXphRUJzWmxFNEI0NHdjLU1paUxueTRlYUxETUJNQVBnWDFvVUl4NGNtRm9BZmRyMzBoVXZiQ1gwYU83NWlIM2FUaVFaYnc2aUZ0NVluU3RRN09JMGFZUTgteGhVNG40OV94WWk4eEVtcWpvS3pRNEk1R1JETWpkbGtsVk94QjZRZlVuOWdXZFJIVWlENWQ2UndzOGVuN3PSAasBQVVfeXFMTzZqRUJjT0RqTFd0Znl6YUVCc1psRTRCNDR3Yy1NaWlMbnk0ZWFMRE1CTUFQZ1gxb1VJeDRjbUZvQWZkcjMwaFV2YkNYMGFPNzVpSDNhVGlRWmJ3NmlGdDVZblN0UTdPSTBhWVE4LXhoVTRuNDlfeFlpOHhFbXFqb0t6UTRJNUdSRE1qZGxrbFZPeEI2UWZVbjlnV2RSSFVpRDVkNlJ3czhlbjdz?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "b6cc40e145201b291d2f058c824df7b4",
       "title": "Buena noticia para el mercado: Chile se autodeclara \"País Libre de Influenza Aviar\" en aves de corral - BioBioChile",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaFU4dnZVUUpEbm5wdzhVR01UeVpjWXp4MmdsMWtnZmpLUEwzVmhTVGJRNWQtWjVFeXFxaXpWQk8zc3BnanotUXo5c1p5bnBKUmpsNHVlRkFabzNKYmI3TDB3U3U1RlJidElIUmhSSGlfWk5tTkJXRUgxVXdkc3ZIb0YwOGswVkc2RzhRU0l6bmNJQXFHWUN4TmRpc2VYVGgwWkJIVU8yVUJMTGxXcHRaTXBoSU9QUTZ1QXc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "c58932e97d30a526ad275988533c32f3",
+      "title": "¿Puede la influenza aviar afectar a los humanos en Honduras? - latribuna.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-09",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMjFxcUhiSU12aEFRbi0zUUJfSS02bVI4MXJzbzBNdmQ5eWJZWUtfZWZlNHhtSDhMb1dEa1A5UURHRGhQRVZHQS01MlYwWEFtWmh5OGJmRnFoRlAxXzY2aFFyblgwbFAtR3JhNkhkRDVGcDhuc21nSVU1dmg4bTlJQ1cyOWZkVm5oeXY3ODdrR2F4UEFGRDkxWHEzdw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-13 02:06 UTC"
+  "last_updated": "2026-08-13 05:41 UTC"
 }
