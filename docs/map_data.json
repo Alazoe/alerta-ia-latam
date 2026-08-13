@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "25ea9ccdcf5ee54d8c3fe49dc34bed2b",
-      "title": "Chile recupera estatus de país libre de influenza aviar en aves de corral - reporteagricola.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWW8wNno4cjNKRXktN0N2U1pIMXc3Snp0LVhoOFRiUkJ1a2kzVXNtM1NDX2JkMlk4NERreURmamhWMGlCQ3YzTUNOZDVEN3E3VGRfTFo4NFdpUm5LbEhPOGFpOUJsOFo1UFZ6TnZMMjZiUzBta1JtQVZJa1VlOXpnblVpNzlfSW9TSVZ3XzdlWDRQNWFOLUNOU2dCQkJ6ektpWk9ienZSWU9wX0FkeDVUaGxiTGxyaFpiNXZpMkdHVVl0Mkdoc1NBNw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "9ec3f9d3bfd8c48739bd1f8468962b22",
-      "title": "Chile recupera estatus de país libre de influenza aviar en pollos - MiradaSurTV",
-      "source": "Google News - Chile",
-      "date": "2026-06-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWk5UDlZUW1wbEZJRGRRXzRDUWxCX0FkV0kzREt0eFpPQ3VpSzRxNUI1WngxOTJOblFiYnlybjJvaUVmc3J5bFJFUVZaeFRwd0JiczZCZmg5TGdZODFYeGctUXlMcWxBUU1GV055YnJ1YjV3MUZxTGNtUFhPM3l4dmdYYzVlTlI1LWM2UDhnN2FjMlk?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "9b27207b7c87cbf04d56cbe536f3f946",
       "title": "Australia notifica su primer caso de gripe aviar H5N1. - Vietnam.vn",
       "source": "Google News - Venezuela",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVy12QUhFU1VRZ2Q3LXhacm5HUXhVVXEyblhKMEE4TVU4SElBTlY0d25yeVVWY2ZjM2dBRVl2RGxaSVFQcnVEalZjY0ZlTE9fQjNNUE83ejBtSERra0ticDBQcVRicGFpYzZKdzFnaHhuUUtDQTBlQlk5Q1dtckpBXy1ybkNtakZ2S1dWZkY3X2ZVUTJfUmg0YkFRdE1sU2RMYy03d09WRzVfT1BMeXBTMFhvM3hseTBVb0E?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "b0bebee6489a2332711a48e075ef54e4",
+      "title": "Detectan contagios de gripe aviar H7N3; reserva ecológica El Zapotal - Excélsior",
+      "source": "Google News - México",
+      "date": "2026-07-02",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMk1sUUswbGRLVnprWXBJVlRGcThPd2JBSHpXSWQ0bXBoY0ZXNF9fQ1Ffa1VLcFZIckduR2EzRVJ0XzZrQllPWjM2WVFsYWFzUExYTUNJS2ZDeTJBbEMyX3c4Tk5uZFlVM0JuU3pxX1NHZkk5ajJPby11VFRWVUZmRGkyQmVLemN6NlBMVnEwRHFLU1hhajNIaE4wOFdia0ti0gGmAUFVX3lxTFB4cDQ0SlFyblRZbGNNTjJPLUpsaUFUcndmdlNUMEhCc2dwVHdYNTd2WDJ6XzdsMVFITi1RSDcwbDNROExKeFNDQ183UlhMYS1XelBrOEQzazREWF9jbGJqU295VmhDamF4V05veFI2ODEzWm5XVnZDYlA1Z21XNkU0MlA3QjlRclM4cGY5SFBqSVFVZUVQeXVNNUNMSkhSS0ZmQktlTVE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "facfb6bce3670bedae0dfc0a877b502d",
+      "title": "Panamá mantiene vigilancia ante alerta regional por influenza aviar - CRÍTICA",
+      "source": "Google News - Panamá",
+      "date": "2026-06-26",
+      "country": "Panamá",
+      "lat": 8.538,
+      "lng": -80.7821,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzAteGFsU2VpdGtUQ3E5ZkZvOVV2QjlaVHVMbXF3OWhBXzhIbzhNc3c0aWVHeTN4ZHFlMmxiaEcxdXE0UV94Y1Zqb2dTZ1V3NnA1SnRvN3dHcUxIUXJzTC0yUjRmSkhIbkI2dFU3Z3ZXcWw3c1BfVTMyVW4zTXJBSDdubVJHRXF1Z0JtbmJIUWlDZHNsOW1KcWFIVi1xak5UQWI5V2Vnbl9GWHVlQlJR0gG0AUFVX3lxTFBMUkdlNW1YV2Uwb1BCUVNYZHZCQ3VDMU5RVXpiRTF4X2hzalV3bjZyT1BCdEloVnJ4b2pvTFpJYnVhU21vT0Q3RWQ3cDlwN21XUkFfbmg0RmJJMFhYdGhOdnEzR3ZjUTZTTDBqZnlpT0habnVGN3BGQXE2d3ZQb3NXNVdWOWNkRnVuelZ5NzFPbkNSc29zcjBocTNELUlkY19aaUxxSE5zZjA1dEVlWVlQUVR2Rg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-13 16:57 UTC"
+  "last_updated": "2026-08-13 20:45 UTC"
 }
