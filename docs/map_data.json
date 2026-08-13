@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b6cc40e145201b291d2f058c824df7b4",
-      "title": "Buena noticia para el mercado: Chile se autodeclara \"País Libre de Influenza Aviar\" en aves de corral - BioBioChile",
-      "source": "Google News - Chile",
-      "date": "2026-06-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNS0FjZng4dzZMWF9Memc5bHNPcjBfdHhkV2dCcHVDck5GMC1LMjdQMEFMNnROeDhUZWk1MDZSOVdFZEVTRG10REVRS3RmVkdfcGlodTc5NkZxNGFuYmVvVnU1UXI4UWJQTW1zVjdXUXRjWFRQbDVzTnBsaWdXRGNQR1YxcWFMWlVVUjVCb1Y3RFVaX3JnbXUyUEM0Y09IUDNfQWQyN2dFZHNfR19lQnFUaHVNVVVXcUxYYktFMHhCZk5qbmMzUFZFZHV2dks2WlFSVk5wMTRzRFZGckkyX1VPOTM0WVQ5YTRkZzVrWjNOdWlSMEtCckJ0aEotRUJJeDB6NWQ0Mkt0alVQdGNfSFE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "25ea9ccdcf5ee54d8c3fe49dc34bed2b",
       "title": "Chile recupera estatus de país libre de influenza aviar en aves de corral - reporteagricola.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMjFxcUhiSU12aEFRbi0zUUJfSS02bVI4MXJzbzBNdmQ5eWJZWUtfZWZlNHhtSDhMb1dEa1A5UURHRGhQRVZHQS01MlYwWEFtWmh5OGJmRnFoRlAxXzY2aFFyblgwbFAtR3JhNkhkRDVGcDhuc21nSVU1dmg4bTlJQ1cyOWZkVm5oeXY3ODdrR2F4UEFGRDkxWHEzdw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "27da10caa0cb9cdfd9e97dd64e82de33",
+      "title": "El Salvador declara alerta sanitaria por influenza aviar de alta patogenicidad - noticiasdebariloche.com.ar",
+      "source": "Google News - El Salvador",
+      "date": "2026-08-10",
+      "country": "El Salvador",
+      "lat": 13.7942,
+      "lng": -88.8965,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVy12QUhFU1VRZ2Q3LXhacm5HUXhVVXEyblhKMEE4TVU4SElBTlY0d25yeVVWY2ZjM2dBRVl2RGxaSVFQcnVEalZjY0ZlTE9fQjNNUE83ejBtSERra0ticDBQcVRicGFpYzZKdzFnaHhuUUtDQTBlQlk5Q1dtckpBXy1ybkNtakZ2S1dWZkY3X2ZVUTJfUmg0YkFRdE1sU2RMYy03d09WRzVfT1BMeXBTMFhvM3hseTBVb0E?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-13 13:14 UTC"
+  "last_updated": "2026-08-13 16:57 UTC"
 }
