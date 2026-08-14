@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b0c9ba5d51801ec1a26b7f6aab0fd63e",
-      "title": "PAÍS REGISTRA PRIMER CASO DE INFLUENZA AVIAR - Heredia Hoy",
-      "source": "Google News - Costa Rica",
-      "date": "2026-06-25",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUVhmdDd2VWJSRnRrRWpVNDFMQm02Z2U0VkNSSlRrZEk2Rko4d2JZSDRnRWhyVjRvNFpfQXN1aUdfQk16SFBkVm8tVmp4RjZNZEdnNUl4cUxqdmtoLWNLWHAzY3I1TmFQY2FMcVpNNzFCR2FOQkxraW41dGJkcW5ELWVhQmVRQQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "895e5210cac5eb038198e86178201899",
       "title": "Chile recupera el estatus de país libre de influenza aviar en aves de corral - De Mar a Cordillera TV",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX2k0Vzk2YzdIYTV1c2FycGVYWjkwWDZ4eWJ6S3VuWkVPYmZrVmVGSUxRNlo0WmM0Z1g2ZEYyR1VDcGFya0Q2Smx1OVE1c1lfTnc4TjNOcHp4bVJiaS1ZWllfYmxERHhZUDZtX2sxZERqT09YSlN5TV9ZdnUxa3RoanZpX0ROejdyMDdKRm9aZkNTLTBrYmZBSjl0cFRtUjREZmhNUXdxVV9fRGtLb05mOG4wX2V1QlVTNnlDU1BtWlVKR1NlUTM0SGZCRVVSQWd4c3RIVmxR?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "808d6962d01ae8f8cf42e18e27b52511",
+      "title": "Vigilancia y respuesta ante la Influenza Aviar en animales y fauna silvestre - paho.org",
+      "source": "Google News - Honduras",
+      "date": "2026-07-14",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMl81ZGdTYjBGc0FfMy14Z0RYVHFNY1ZxQTUzOTlsSXRNcGJURUw0MUprZlJsY3EwRWFWZTE4WC1MODViUGpfVl9uNlFoUUFydzNvcEZvdHRwODB3ZUgtUFBXR0NpWFllTmo5eVB6UW1zbE00R0VLTUtETHh5Z01NVmpTUjhEVVlwSmFxVnlBVWp3X3czQ285bDlzaFRmdGM?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-14 09:08 UTC"
+  "last_updated": "2026-08-14 13:09 UTC"
 }
