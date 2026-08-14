@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "9b27207b7c87cbf04d56cbe536f3f946",
-      "title": "Australia notifica su primer caso de gripe aviar H5N1. - Vietnam.vn",
-      "source": "Google News - Venezuela",
-      "date": "2026-06-20",
-      "country": "Venezuela",
-      "lat": 6.4238,
-      "lng": -66.5897,
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBzMDRrV0JRZkYweXpGZ3k5UWN4ZmFXYXZ2eUxVUi1xa2owUkdLd3hFRFpmRjJrVW4yNFQ2Qm5zcUVUSTBsb3gxdjc3ZWV0MUZKbE4zampBZzNYMUNXaVptOXg5bFR4U0hJUkRrclg2eUo0XzNaUGYtVVpQd3U?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "b0c9ba5d51801ec1a26b7f6aab0fd63e",
       "title": "PAÍS REGISTRA PRIMER CASO DE INFLUENZA AVIAR - Heredia Hoy",
       "source": "Google News - Costa Rica",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNzAteGFsU2VpdGtUQ3E5ZkZvOVV2QjlaVHVMbXF3OWhBXzhIbzhNc3c0aWVHeTN4ZHFlMmxiaEcxdXE0UV94Y1Zqb2dTZ1V3NnA1SnRvN3dHcUxIUXJzTC0yUjRmSkhIbkI2dFU3Z3ZXcWw3c1BfVTMyVW4zTXJBSDdubVJHRXF1Z0JtbmJIUWlDZHNsOW1KcWFIVi1xak5UQWI5V2Vnbl9GWHVlQlJR0gG0AUFVX3lxTFBMUkdlNW1YV2Uwb1BCUVNYZHZCQ3VDMU5RVXpiRTF4X2hzalV3bjZyT1BCdEloVnJ4b2pvTFpJYnVhU21vT0Q3RWQ3cDlwN21XUkFfbmg0RmJJMFhYdGhOdnEzR3ZjUTZTTDBqZnlpT0habnVGN3BGQXE2d3ZQb3NXNVdWOWNkRnVuelZ5NzFPbkNSc29zcjBocTNELUlkY19aaUxxSE5zZjA1dEVlWVlQUVR2Rg?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "db979b7ab603a116330af22deb2af43f",
+      "title": "Influenza aviar: la Argentina suspendió las exportaciones y enfrenta un nuevo freno comercial - Reconquista Radios",
+      "source": "Google News - Argentina",
+      "date": "2026-08-14",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX2k0Vzk2YzdIYTV1c2FycGVYWjkwWDZ4eWJ6S3VuWkVPYmZrVmVGSUxRNlo0WmM0Z1g2ZEYyR1VDcGFya0Q2Smx1OVE1c1lfTnc4TjNOcHp4bVJiaS1ZWllfYmxERHhZUDZtX2sxZERqT09YSlN5TV9ZdnUxa3RoanZpX0ROejdyMDdKRm9aZkNTLTBrYmZBSjl0cFRtUjREZmhNUXdxVV9fRGtLb05mOG4wX2V1QlVTNnlDU1BtWlVKR1NlUTM0SGZCRVVSQWd4c3RIVmxR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-14 05:38 UTC"
+  "last_updated": "2026-08-14 09:08 UTC"
 }
