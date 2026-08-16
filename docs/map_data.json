@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b604432dde29660b4cd3ea3b3caafd07",
-      "title": "Chile se autodeclara país libre de influenza aviar altamente patógena en aves de corral - Mestizos Magazine",
-      "source": "Google News - Chile",
-      "date": "2026-06-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZ3dsMGZVQ25ZdG5UdzBVWjEtYnR3YzVROWNJUVBURUtleHZiclpYV0Z0THBXUU9fWHFnaUVrc3RxbnZ1Rlo4dVQ1aTVuNHR1XzJQeFBsVGduYml4LXFkYkpMQ0d6bjY5ZGltZ0ZUZ1FXaEgzSmRHOTFEOHQ1X3FoZVl1bGhLYmNoMzNudUpIODIyMWJJWkhtUC1IV3p0b2F5MS01RmNiZ1FPX1Y5TTktcEVhdGwwaWF6QVRSd3hFLVR4QmpVYldtZEFFNEhlTW1PekdDMjBsbW9yOFZHTWgwWndhSE13Z9IB5gFBVV95cUxQZ3dsMGZVQ25ZdG5UdzBVWjEtYnR3YzVROWNJUVBURUtleHZiclpYV0Z0THBXUU9fWHFnaUVrc3RxbnZ1Rlo4dVQ1aTVuNHR1XzJQeFBsVGduYml4LXFkYkpMQ0d6bjY5ZGltZ0ZUZ1FXaEgzSmRHOTFEOHQ1X3FoZVl1bGhLYmNoMzNudUpIODIyMWJJWkhtUC1IV3p0b2F5MS01RmNiZ1FPX1Y5TTktcEVhdGwwaWF6QVRSd3hFLVR4QmpVYldtZEFFNEhlTW1PekdDMjBsbW9yOFZHTWgwWndhSE13Zw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "94d3b6d7472f598ac01db469653da4b7",
       "title": "Costa Rica detecta primer caso de influenza aviar desde 2023 en ave silvestre en Quepos - El Observador CR",
       "source": "Google News - Costa Rica",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkF6TkZRYlpVc1Zfekp4d0tpYkpNalZQQWN6Vm54X3V6SG00VHVZcFQ1VHBfb0xNTkl1alk3RDdiOFg3ZFpVTDdlMjVhZWpiMWVycFF1dk5CMHNpZXlCTVBpOHI3RXBXdHhQUWF2ck1SZkZHbDBSbXUwNHZ3NVlsUjVRYWxmN0xOaFZGWHlEZS1rLU1BWm83TFU5ZWE5RE1PQVRFbU5qOFNnNjFBUDBGdEw3QlUwelJUcmc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "c290e3395b64f7d84ff8eaee32a9ef15",
+      "title": "Nicaragua fortalece su producción avícola y se mantiene libre de influenza aviar - TN8",
+      "source": "Google News - Nicaragua",
+      "date": "2026-07-05",
+      "country": "Nicaragua",
+      "lat": 12.8654,
+      "lng": -85.2072,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEVQdkU2bmFkMVMwLUJWdVEweFdjRzNITGVNMVN5ekpJbEFhM1BpbXNwZkdLUEpWMzE2eGdJMU02OFU2YWd1bFNqY3JxSjRWdW1OaVBQeF9KMm5rSUZQVFlQUmY3anVZYXlsTzVZb1BteGkxNkJKb0lzRlZvZU1RWDNlU3I5NDN3VWlwV1pBQkZLZTZvRUVNSlktZF9OVnRKR0cwdkNaY0FXRGUtbFlIcA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-16 12:43 UTC"
+  "last_updated": "2026-08-16 16:26 UTC"
 }
