@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "94d3b6d7472f598ac01db469653da4b7",
-      "title": "Costa Rica detecta primer caso de influenza aviar desde 2023 en ave silvestre en Quepos - El Observador CR",
-      "source": "Google News - Costa Rica",
-      "date": "2026-06-25",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNmN1QXdpQ3BoNFVsbWhmT2czVzZzcTM1M0dyY2otRUxBTlozamVvV1JnVE9wMDRVRmxSb3JpV1daWlJHaUlNdmwtUDJMRk5VTmNVTEQxTWlXbXdNMVh3emtJdC1hVWY0OHBMZHlDS2JBVXFLSVppSWNQUjFOeHZoQ1U0a09oMnBiVG9MQTEyZkU4SWczLTUyRWhBZWJVY0phYTUybDBtdGlyUlp4NDRz?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "b57ff301ea71d048ee63bdb6163a16de",
-      "title": "Autoridades confirman influenza aviar en ave marina de Manuel Antonio - CRC 891",
-      "source": "Google News - Costa Rica",
-      "date": "2026-06-25",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGNWSUNTZ25kelRrd2U1eXZIZkZXNEdHVEl5bjFjbVNXYWxwWXUxcTRobnJ5U3pqT3R2c3hvdVh0Q0VaeGlBTUM5dXZTYXM5UEZRTTcyN0tDSVhXRExZUE00b2hXVTNpM21NREJubWpFazg3Z0xzeDJZaEFtTEZRdDJhYWc1anI5cFpITFVZY2RCdTBkU29oTzRQakhZYy1ERnRr?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "e50bb3f5dbfec4b89be51889ada628a4",
       "title": "Panamá mantiene vigilancia preventiva reforzada ante la influenza aviar - Panamá América",
       "source": "Google News - Panamá",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEVQdkU2bmFkMVMwLUJWdVEweFdjRzNITGVNMVN5ekpJbEFhM1BpbXNwZkdLUEpWMzE2eGdJMU02OFU2YWd1bFNqY3JxSjRWdW1OaVBQeF9KMm5rSUZQVFlQUmY3anVZYXlsTzVZb1BteGkxNkJKb0lzRlZvZU1RWDNlU3I5NDN3VWlwV1pBQkZLZTZvRUVNSlktZF9OVnRKR0cwdkNaY0FXRGUtbFlIcA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "48f23dbdc60b31c6cff3cd41e89256bb",
+      "title": "Senasa emitió nuevas recomendaciones para prevenir la propagación de la influenza aviar - diariodebatepregon.com",
+      "source": "Google News - Argentina",
+      "date": "2026-08-12",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdHFSRGZjZmI2X3lzWkw3VFFKOS1GX19acnhaZlN6clBraWFMdGFNdFhxWS1kbThITG9ldW9HQmd2VXpwMTVsY2hldVVVeTA5QjRYWVBoUE53SnhtXzlMdjJzbG00VTlTRGNFWVU2WVhra2VUSC0yTksxTnZobFlhalhZV1k0S0VQenBTTk1sTFBzWmRqUV9RdUUzMnQtc05yc3dOSm1MSnAzeC0wTDlJcTdPMXhOUDRxdHY5akVlWk9jT1l3UGZyVXJ4YW05QWtJWTMyYzY0MXpCeU0?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "20b8fbfa08f6c195846c4e5e548b6cc6",
+      "title": "Gran Bretaña reconoció a la Argentina como país libre de influenza aviar - La Gaceta",
+      "source": "Google News - Argentina",
+      "date": "2026-08-08",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaXJzbGRYYkpQaFZqdm9qTldGTUw4YzdISzY0aW44RlRWd3RJb01VMTdySFNiQnVmT0NHeXF2ZTdzbmR4bm8tQjNFanV6SHdPdzg2emRrN1dtQkc0Ykh2Zjg2STVDYk5PVUxwVTB6VTdpTVdlcURnc3l4bUVSVlhUdTFjR1pkc0dLb2E2LUttaW8yTzFLRjRoRUFhWGtlLXVROWtDVEtzUG5UUEF5aHktWjY0LXhWV0o4Szk40gHAAUFVX3lxTE13elIwQ3F1a2RBYXJiU182dDdlRUd6UlhDRlRJSk52aGhnanFyTzA0ei0wN1NJXzhfN2VsdEg1MEdJOEhONnFqNHg0WTBSY0hUOXYxNXNPQ2xGWlFtZWwtV2xaWjRGNThqTEVUVElDdFJlcTYtY1Z4RUtLQkVtTzBNNDJyN0ZfREYtb0JTSUxnbWl0Q3E0ZW1lY2JLRWFaTzZ0YWs0a0lPVVFwUlU4TzJpQ3lCWFR2YnV0cVU2R00zWg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-17 01:21 UTC"
+  "last_updated": "2026-08-17 04:42 UTC"
 }
