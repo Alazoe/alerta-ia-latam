@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "98866eedd78565d389fcc08c8e899bcb",
-      "title": "Medidas de seguridad ante la influenza aviar - Vos TV",
-      "source": "Google News - Nicaragua",
-      "date": "2026-06-26",
-      "country": "Nicaragua",
-      "lat": 12.8654,
-      "lng": -85.2072,
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTF9aMHlodzBPN2YxbkRqamhNYXJDNFJXbks2WVpUMzMyMllVLWxPR0FGbnFGWFJINGtvSGtETk9MZ2RKWm4tQWdTeXE0NjU0VEdkWEFGN1NFWXVJMkVIeTdoSjZkSVBBMkVhMHF4YWJNbThMcVVqMW1ZR3hVbVpnamNPOG16TEdtcUM3dmln?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "6d7696a4c59abda65103f1bd64646468",
       "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - SAG GOB",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX2k0Vzk2YzdIYTV1c2FycGVYWjkwWDZ4eWJ6S3VuWkVPYmZrVmVGSUxRNlo0WmM0Z1g2ZEYyR1VDcGFya0Q2Smx1OVE1c1lfTnc4TjNOcHp4bVJiaS1ZWllfYmxERHhZUDZtX2sxZERqT09YSlN5TV9ZdnUxa3RoanZpX0ROejdyMDdKRm9aZkNTLTBrYmZBSjl0cFRtUjREZmhNUXdxVV9fRGtLb05mOG4wX2V1QlVTNnlDU1BtWlVKR1NlUTM0SGZCRVVSQWd4c3RIVmxR?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "eafb16b13f3ae4cce08e28e52c5e8180",
+      "title": "Chile recupera estatus de país libre de influenza aviar en pollos - miradasurtv.cl",
+      "source": "Google News - Venezuela",
+      "date": "2026-06-25",
+      "country": "Venezuela",
+      "lat": 6.4238,
+      "lng": -66.5897,
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWk5UDlZUW1wbEZJRGRRXzRDUWxCX0FkV0kzREt0eFpPQ3VpSzRxNUI1WngxOTJOblFiYnlybjJvaUVmc3J5bFJFUVZaeFRwd0JiczZCZmg5TGdZODFYeGctUXlMcWxBUU1GV055YnJ1YjV3MUZxTGNtUFhPM3l4dmdYYzVlTlI1LWM2UDhnN2FjMlk?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-17 12:46 UTC"
+  "last_updated": "2026-08-17 16:29 UTC"
 }
