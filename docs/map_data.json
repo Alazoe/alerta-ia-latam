@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "6d7696a4c59abda65103f1bd64646468",
-      "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - SAG GOB",
-      "source": "Google News - Chile",
-      "date": "2026-06-24",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVnVwWjdySWVRZFJfTWpQV3ZSYzF0LUI4cXNneWJzSmdGQVJRc1dnRHd2bDJKTkw0X0VUN3JCUWlqZmItRGpsTktRa00tOUhabWFCeDJhVHE5UW1qaFUzLWpHMHN2bmNBZ2xCYmZTRXRnTnFUSkgyQkJXWUFyOHNmYUlLNlB6WndNaHNVRk9YR2MtWEVWeWhVUUFxZHd6cGNCRmxVS3dGSlNsMXpEZ3I2VFp1ZXZlLWk2UnVn?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "cdcc4a1a5f0755a30b6ff16c218c9194",
       "title": "Chile recupera estatus de país libre de influenza aviar en aves de corral tras exigencias de la OMSA - Diario De Puerto Montt",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWk5UDlZUW1wbEZJRGRRXzRDUWxCX0FkV0kzREt0eFpPQ3VpSzRxNUI1WngxOTJOblFiYnlybjJvaUVmc3J5bFJFUVZaeFRwd0JiczZCZmg5TGdZODFYeGctUXlMcWxBUU1GV055YnJ1YjV3MUZxTGNtUFhPM3l4dmdYYzVlTlI1LWM2UDhnN2FjMlk?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "699e18b30b21d53b58a2632bfedd72ce",
+      "title": "Minsa refuerza vigilancia epidemiológica tras emergencia sanitaria por influenza aviar A(H5N1) en aves de corral - infobae.com",
+      "source": "Google News - Perú",
+      "date": "2026-07-15",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMktwN0FBd3NLWlJLMTVDeGxFNmhqaDNSNzh3ckU1NFFQOE1ka0Z6V3BCMHc0dDRfcG0tb2tRd0JMcERHSHFtako4Rl83RmItX0hCbm82Wk9Hb3g0MHVUZUItaGxMdjc5SG5iV0U0UzI0ek9LdllaMFZjcV81RFVNYllHRzkyekFtS2xfa05RMS0tNHdNOW1RTkdkNEpRakpQRkluY1BnN3NwSEVLTDVuMVpSOWNnZWhaMVhRVnhuQWtqelNRNk5RTGpEUVIzMWdVRW5Ua0stMGNFTEhKaFRLQ0ZQd2t5Z9IBgAJBVV95cUxOdTVETFJvZ0s5TnFhakRxZmxoZFZmZXdNN3VMV2I4b2xLOHp6Wm10MTIwYTVfMW9PZFhNUTdNNExEN2RJczFFSHZ3Rk1ZZ3RvZjctd3lCVGdOcTVsaUJTdXk1SFIxLWtycFVKUTFTVHFXUy1lVF9JVDZTeUY3S2ZPRFpQX0FIcEpZSXdlaUFqSXliMDkxWUlxNk53SDBFb2lwQkRRYzFCTWdmVENkcTluTHZKdWdNM1V2d1VuSlRWb1lCZFFXbngyUllkOVBXZ0l5Snl2LWxjSkh0SjNDcjNwb21DUUV5dGQ0Sl83SEt5SGpnOW1nRDlBRWhwbEFVcEw5?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-18 04:36 UTC"
+  "last_updated": "2026-08-18 08:38 UTC"
 }
