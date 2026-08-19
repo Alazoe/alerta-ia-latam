@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "dbabef98c231a6f32c6a11e6e61648cb",
-      "title": "Extensionistas capacitados en vigilancia epidemiológica de Influenza Aviar - Gobierno de Guatemala",
-      "source": "Google News - Guatemala",
-      "date": "2026-06-26",
-      "country": "Guatemala",
-      "lat": 15.7835,
-      "lng": -90.2308,
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdWJwUHZDQWxpWUZLOHVJT0lwQTBEYm03Vm81WWkwQnBzY2hfSTRmSkVXaVJYUjJYajNUMkJjTl92ZDAxZE1MSTE0UVpyMXljeWV2NG9QY3c4SlB3UVJPcmUwNHVNWkpYdlBFcnQyc1ZBWWhfWWdKS19kSTQzRzVuRHE1ZXprRE9lal9OUmZGZElpTXZFU1I5OHJXaVdRcGRjbkE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "c3010cf2ed290978a4607a91d22e52c5",
-      "title": "Planteles de aves de corral en Los Ángeles y Negrete podrían quedar libres de cuarentena por influenza aviar - latribuna.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-26",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQaWlEd2NyVkFYTEsxZWVuZ2Y4M1pKVTh2LWFaM0FjVkllbnZrTUhKS3gzZUxQYml1RlBDeGlrLTh1WC1HUFhBR1BRdXAzUlkxcjlRbWVQelZ5LUcyTW13cllRVUtjM1JFUGdxeWthVy1odl9iOC16a0t4TW9WOUVDeGdpcVZORG41b1VuS3hRLTlWYXh5blVvelE3SWFPRHZQOUNkdUo0QVhUa2N6d282STB3ZFlqUkdEY3RIVkxDeVJYZ0d1dWhoSkk3OXdWZ1NKS2tMY2EzSXFXQ0NGUFJ2ay1Tc0pLbW45ZnVGVS1aU1JLakJiVWZ4TTZyTjhBWkVaREZz0gGDAkFVX3lxTFBpaUR3Y3JWQVhMSzFlZW5nZjgzWkpVOHYtYVozQWNWSWVudmtNSEpLeDNlTFBiaXVGUEN4aWstOHVYLUdQWEFHUFF1cDNSWTFyOVFtZVB6VnktRzJNbXdyWVFVS2MzUkVQZ3F5a2FXLWh2X2I4LXprS3hNb1Y5RUN4Z2lxVk5EbjVvVW5LeFEtOVZheHluVW96UTdJYU9EdlA5Q2R1SjRBWFRrY3p3bzZJMHdkWWpSR0RjdEhWTEN5UlhnR3V1aGhKSTc5d1ZnU0pLa0xjYTNJcVdDQ0ZQUnZrLVNzSkttbjlmdUZVLVpTUktqQmJVZnhNNnJOOEFaRVpERnM?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "a31a5f78f9b087af4420c61b9357ecd2",
-      "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-06-24",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVnVwWjdySWVRZFJfTWpQV3ZSYzF0LUI4cXNneWJzSmdGQVJRc1dnRHd2bDJKTkw0X0VUN3JCUWlqZmItRGpsTktRa00tOUhabWFCeDJhVHE5UW1qaFUzLWpHMHN2bmNBZ2xCYmZTRXRnTnFUSkgyQkJXWUFyOHNmYUlLNlB6WndNaHNVRk9YR2MtWEVWeWhVUUFxZHd6cGNCRmxVS3dGSlNsMXpEZ3I2VFp1ZXZlLWk2UnVn?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "a213addb6a5bfed01ae5e7c32987979c",
       "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la región de Arica y Parinacota - Home | SAG",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR3RjNjRFQTBJTWJVMzRwTkRVcnZzWENiM1NXQTladlRxaWRsdFR3ZkdnTV9ZTEZTaVF5MEJ2NkhubHRDa1VIVjNBZk0wcFYyNU9LWDVIaWs5SndzV1BkWUhvemNfSE1veE5DU0lZOXFiSHZpR0pZRjQ1Ri11MGZUZlpIVWxNSUY2SnJJTHcwTzNOWTUyMDVoNUoybkhyUG16X3JqeWRSbEplQTVCV2J2N9IBtgFBVV95cUxQOFJZR193OGVRM2lybzVLdXlydmxib2g1bXptMkdheHhPTDgyRThUVXdFbVRuZ3ZFektRVzZrUEN0MkZUUUlrWlYwZmxKZGdKRHNyUU1GVXZxS1FpUThRZVJSa1M1SFcyeDBWNHZyZ3VBUTU3RTBYOUoyd18zaG9RUFZrZE9aY2ZMTVVRUWJFeGdaRmloVEtFZmk0MkdRUWN3bERmalFuR3pqWU5EcXdCa3FvaWx2QQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "51c8b52c7a5efdf603aba231898e6b28",
+      "title": "Emergencia sanitaria por la influenza aviar: ¿qué es el H5N1 y cuáles son los riesgos que representa para las personas? - El Comercio Perú",
+      "source": "Google News - Perú",
+      "date": "2026-08-03",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMlJnV00wTWFGQ2o3emNldU9lTXpkMTZWUGtTc2JyQWF5Q0lhdC13UXFQVTZZd1ZRdzJaSVhMdWRnVDB5YTNWR3pPMnJYWXlDWGJjcnpQSjFtYnZvQ3E1UXRWTl94NU5TWVBqbVdGaVNCM3ctV3Mwek96c2VveDAwamxvSWtpY21UOHJ1ZVo3aENGMFpGeWYwd1duMXVtM0VUNGk3VW1pdkhlNHdsWmk5a3plOHlmSEx3NElzanRyYVNSdWd2djRZemlxT0NVbmxieGdQWmRfNXNYaW5rZktSOVNnOFlZeGRYT1JyX3hBNlRwRXdEb3pEWA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "2b8e25ea23912b3591f57603fef5062c",
+      "title": "Se detecta la circulación del virus de Influenza Aviar en Nuevo León - Enfoque Noticias",
+      "source": "Google News - México",
+      "date": "2026-08-18",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlJxcjFQSWI3YS0wQVR1Sm5nQkdwNUNFa1I0QktrVHZ0aDd4UE9fTzhsQUlnNlhYY1U0TUZhY20zbnN1bE9pZ1Y4UzJISEx2VDh5djd6QjRSbFBRa0duLXdfcTRpbVdBQWlCYUpxTFpLX2dGZnBIc2lUZGZjaXhSMndPQlNYQTg4dzJqTm1vTGZsRmpJNUN1c2N3OVhoSWdMZWgtckoxS3o2b2N1?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "e4e2112a939479b2be11cbeeea7a3c56",
+      "title": "Senasa confirma caso de influenza aviar en ave silvestre de Manuel Antonio - Delfino.cr",
+      "source": "Google News - Costa Rica",
+      "date": "2026-06-25",
+      "country": "Costa Rica",
+      "lat": 9.7489,
+      "lng": -83.7534,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQllFTlhnN0JtTk4wZ3ItTFFHRmZIM1ZMRi1ocXR0MkRvU1FFRmJSTWpWdjBxLWRZTkFGbUFOMVByOUdYQjZ1QzNxMjF1cWpWTF9na2pQODNFZUlqemFJS0oxLWtmYnA3dkpvTmxlRjQ1WUE3WW9SVjVJQjhDS1p0cklzdG0zcHFLSmZvTmZlUzFDZDFDNGpYVmZXcjJNMUNXc2tV?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-19 08:38 UTC"
+  "last_updated": "2026-08-19 12:50 UTC"
 }
