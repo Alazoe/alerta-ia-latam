@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "a213addb6a5bfed01ae5e7c32987979c",
-      "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la región de Arica y Parinacota - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-06-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2VhQ184M2d2Sk9KZDN6clhlV2EtbWZRMFJkQ0s0a1JmODRya0pDckJZNDlzLUk5MmVCOFlkdlhEUjI5bWJaejh0VzhuRU9NOHo2bDJIT2tIcmVwZFNWa1hqV1pvdzUwR1Q5VnQtNWM1Uk5IcTJxam0zWlN1aFlLSmZCZWtEN2F3ZHB2X2hweE41MW1JYkNsUzV4WFZnUmV3dzAxM0pFdlhoTEE3Yzh3NFJkUHp5WlpnTFZsOE5nWlNPSDFjSl9sd0UwQUxIOGgyRlFodk1neUVkbFUzLUE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "1b5e788b71ab2ad1f4e12116706e84b6",
       "title": "SAG confirma primer caso de influenza aviar en ave silvestre de la región de Atacama - Home | SAG",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQllFTlhnN0JtTk4wZ3ItTFFHRmZIM1ZMRi1ocXR0MkRvU1FFRmJSTWpWdjBxLWRZTkFGbUFOMVByOUdYQjZ1QzNxMjF1cWpWTF9na2pQODNFZUlqemFJS0oxLWtmYnA3dkpvTmxlRjQ1WUE3WW9SVjVJQjhDS1p0cklzdG0zcHFLSmZvTmZlUzFDZDFDNGpYVmZXcjJNMUNXc2tV?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "c2b29fce32633fad6273c23156fde49e",
+      "title": "Senasa confirma caso de influenza aviar en ave silvestre de Manuel Antonio - delfino.cr",
+      "source": "Google News - Costa Rica",
+      "date": "2026-06-25",
+      "country": "Costa Rica",
+      "lat": 9.7489,
+      "lng": -83.7534,
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQllFTlhnN0JtTk4wZ3ItTFFHRmZIM1ZMRi1ocXR0MkRvU1FFRmJSTWpWdjBxLWRZTkFGbUFOMVByOUdYQjZ1QzNxMjF1cWpWTF9na2pQODNFZUlqemFJS0oxLWtmYnA3dkpvTmxlRjQ1WUE3WW9SVjVJQjhDS1p0cklzdG0zcHFLSmZvTmZlUzFDZDFDNGpYVmZXcjJNMUNXc2tV?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-19 12:50 UTC"
+  "last_updated": "2026-08-19 16:33 UTC"
 }
