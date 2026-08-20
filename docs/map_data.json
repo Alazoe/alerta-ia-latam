@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "becf7d9420c7221f852fe6f274b4cff2",
-      "title": "Chile recupera su estatus de país libre de Influenza Aviar H5N1 y fortalece su prestigio sanitario internacional - avinews.com",
-      "source": "Google News - Chile",
-      "date": "2026-06-26",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVVRlamlzMVZJc0dGZVphVGlRb0tqbDRkbk1zc1NiUjhLRlZqSVJkRXViUzA0ek9jUWQteGU3bmVWZ3JndFh6ZkpfSnRLU2lUdEU0NElfUE8yYXFqUEhBamMxejB4VGk0T0tMZUx0NDZsU2wtUHdkSEVTbjg5bzk0b0d2SGNDLXBNWHZvcUV3T1NadDY4Nm5penBMYndNWWxiTW1KNWE3bTZKbDZFNUFJY1J2dmVjb1NTOV95VE5jeUVZZ2FkWWdNWHhWTTl2UQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "3f3bae6e9c3f7c9e0c3b53e76381ebce",
       "title": "Panamá refuerza vigilancia ante casos de influenza aviar detectados en Centroamérica - Nacionales | Tvn Panamá - tvn-2.com",
       "source": "Google News - Panamá",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkF6TkZRYlpVc1Zfekp4d0tpYkpNalZQQWN6Vm54X3V6SG00VHVZcFQ1VHBfb0xNTkl1alk3RDdiOFg3ZFpVTDdlMjVhZWpiMWVycFF1dk5CMHNpZXlCTVBpOHI3RXBXdHhQUWF2ck1SZkZHbDBSbXUwNHZ3NVlsUjVRYWxmN0xOaFZGWHlEZS1rLU1BWm83TFU5ZWE5RE1PQVRFbU5qOFNnNjFBUDBGdEw3QlUwelJUcmc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "08a4da8940c124199a3f7a366a12eb28",
+      "title": "Perú declara emergencia sanitaria por presencia de influenza aviar en aves de corral - Xinhua Español",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRWZsMUZTYThZNExEYkt3TUJxSkxVQ3NwWUtMcm13TmtySFc5T3otTmlKdFdfcXpmcjhCb0dhOHpxQWs5X25VSXlYMkV3NVhFa0xlRi1ETk5aYVVtUGVuMVl3MmNHeUQzS2VvWW0xZG9CV05jcndxbjNBTFNoRWprVWYtRQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-20 04:38 UTC"
+  "last_updated": "2026-08-20 08:39 UTC"
 }
