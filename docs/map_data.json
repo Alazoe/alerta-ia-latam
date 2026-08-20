@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "1b5e788b71ab2ad1f4e12116706e84b6",
-      "title": "SAG confirma primer caso de influenza aviar en ave silvestre de la región de Atacama - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-06-04",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWEJVUFZtTWpQTGp0Mkl0Z3A4c2lhbllyVl92TzJZaHRFbGdzdWRDNXpCeXh1ai1xRjhHbGItNWtFWnp1WWRvLUZJZ2k1SmdObnpud1JpYnlRZUFWM0llWlhUV0g1WHM5eTBZUm8xbm5OdFc5NTdWUXRWWjFBLU9ydDZ6ak5vMlJZMUlQTjFwdjNKNTN3MTdqQ3AyYmxSWlhFaWF6R0xkV1UwUGRudk9DMjBabjFrUQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "becf7d9420c7221f852fe6f274b4cff2",
       "title": "Chile recupera su estatus de país libre de Influenza Aviar H5N1 y fortalece su prestigio sanitario internacional - avinews.com",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQllFTlhnN0JtTk4wZ3ItTFFHRmZIM1ZMRi1ocXR0MkRvU1FFRmJSTWpWdjBxLWRZTkFGbUFOMVByOUdYQjZ1QzNxMjF1cWpWTF9na2pQODNFZUlqemFJS0oxLWtmYnA3dkpvTmxlRjQ1WUE3WW9SVjVJQjhDS1p0cklzdG0zcHFLSmZvTmZlUzFDZDFDNGpYVmZXcjJNMUNXc2tV?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "1baf7aacc1375a7c51197e9a4f14b492",
+      "title": "Expertos nacionales e internacionales comparten experiencias para fortalecer la preparación del país frente a la influenza aviar - OPS/OMS | Organización Panamericana de la Salud - Pan American Health Organization (PAHO)",
+      "source": "Google News - Honduras",
+      "date": "2026-07-02",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkF6TkZRYlpVc1Zfekp4d0tpYkpNalZQQWN6Vm54X3V6SG00VHVZcFQ1VHBfb0xNTkl1alk3RDdiOFg3ZFpVTDdlMjVhZWpiMWVycFF1dk5CMHNpZXlCTVBpOHI3RXBXdHhQUWF2ck1SZkZHbDBSbXUwNHZ3NVlsUjVRYWxmN0xOaFZGWHlEZS1rLU1BWm83TFU5ZWE5RE1PQVRFbU5qOFNnNjFBUDBGdEw3QlUwelJUcmc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-19 20:29 UTC"
+  "last_updated": "2026-08-20 01:19 UTC"
 }
