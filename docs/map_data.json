@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "3f3bae6e9c3f7c9e0c3b53e76381ebce",
-      "title": "Panamá refuerza vigilancia ante casos de influenza aviar detectados en Centroamérica - Nacionales | Tvn Panamá - tvn-2.com",
-      "source": "Google News - Panamá",
-      "date": "2026-06-28",
-      "country": "Panamá",
-      "lat": 8.538,
-      "lng": -80.7821,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbE9JbUlydmFTS3RUSDg1MFJoMTFqdld6TUhid1d2NUFHYk13SEhacGNUZjBsOUVOWTlYZl8yaDF5TENrV3lkeUJEeS1oNk55N0U2TTU1V1ozZEp3U1B3NERDbEhIWUViUnB2TC1weFp6QVRPbUp2ekNmTTQ3VzhYd1ZuR19aMUdVRFZXbTFCV0k3TGtBR05jVFVQR3J6dklRWVo3X3pLbDNlYmZjcHV30gG0AUFVX3lxTE1KSkVfM1l2SGd6VnlfRFg0TTdxNllkbzVTdkxRVW5EekhtTWRLUGFvd2hlb1M4SHVLb0YyQ0dTM1pFcHdreTdzT3FPZThrbWtFa25CM3JSeV9jWGV6aDBEYWVKSlNhcnZxTUJoYTJWdXNyQkRYeXprV3RUM3JSWjBNQ181VWlZcm9MM013dDhJUlVTUTJTUGExRlNPRmxwY1Z1djBxTUEydHJxeUx3UENneWdLUw?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "6fd92b2edcec917d25da603567f17c1e",
       "title": "Chile se autodeclaró un país libre de Influenza Aviar Altamente Patógena en aves de corral - El Tipógrafo",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRWZsMUZTYThZNExEYkt3TUJxSkxVQ3NwWUtMcm13TmtySFc5T3otTmlKdFdfcXpmcjhCb0dhOHpxQWs5X25VSXlYMkV3NVhFa0xlRi1ETk5aYVVtUGVuMVl3MmNHeUQzS2VvWW0xZG9CV05jcndxbjNBTFNoRWprVWYtRQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "38f960a4b97362a6c834ea2b0443e1d9",
+      "title": "Influenza aviar en Chiapas: SENASICA activa vigilancia - avinews.com",
+      "source": "Google News - México",
+      "date": "2026-07-06",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT3huLXN3Sm0xWFFwTkZGdWktclk5WHR4Y0ZrT1l3QkNVQzBaZEFaeU5NOFBEd1RBRXdIbElQVVFaQ3pQR1JpSTR2bUNMMjRVOFNFZXlHX3ExalBweDNGX09ENFpvRXF6YXk4YXEyUVRUd19VYWoxd1VRQjN2VXk4VDZIbw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-20 20:29 UTC"
+  "last_updated": "2026-08-21 01:22 UTC"
 }
