@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "520d95b0b5438f8eb781a908759e8327",
-      "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - Ciencia en Chile",
-      "source": "Google News - Chile",
-      "date": "2026-06-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVVNGcmZ6TUpvRkljMC1tTGtVR0xzeHJHUFMzV1ZVcTR5Z29BZmxLWHNVa1dDSzVJNlhJdGdrSmd0c0V3Nkl1eF9oQ3gzc0ZkM3FqSHhSeHZnX1BsaHplcDg1ckhtckN5VHhsbVgwZHhTQVFmT0ltMlFvaVdpVUI0QzBGeC1WaExvajV2SFBnWk12ME16a21EQTFJV3dmQ3gwa1dSNE5sWUxOemNmQkM3Y21PNmJqM2hzWkE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "582e47cef36e84654d327d595220d217",
       "title": "Destacan levantamiento de la cuarentena por Influenza Aviar al plantel de aves más grande de La Araucanía - Temuco Televisión",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMTVtTXBCY2Q0Q0JXSmRvaFVnQXhCZGVaM3A4bWNYdGhOTFkxdEE2WEhpWUZQYlNhZFgzdEI2dzJ1eURWTlpienVwSGRNRWRCOE9hNjR0NXhqZ1NOZ0VSRFpTUEx2cF9UUjBzRGJCM2JmRzBNcTZTalZtQ1VrYmRZX1U1ekhLeEgwaEx2Q1dFdzRiMTNER1plVEVwMFBMdDdfN1Z3SndORDdEV3pxdi1xVzdLeUFhUEE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "0e2865ee77f3ae1b0256c1c346b26896",
+      "title": "Senasa descarta influenza aviar en 121 muestras de aves silvestres, pero aún desconoce qué está matando a los pelícanos - El Observador CR",
+      "source": "Google News - Costa Rica",
+      "date": "2026-08-22",
+      "country": "Costa Rica",
+      "lat": 9.7489,
+      "lng": -83.7534,
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUVh3VDhDVTZUTklhSUVnRUYxWUMxbEdNODhUY0d4UDZmek9zMXE5WEtjSHlMVi12VEo1bEM1Nk14RFQzYVdvc3hLa0JBQlk4aG92eGJBdXpyNG5YZVBpTm4yNS11UENIbG9vajJycl9WQzVTeGQ1YXRoRElkRDFLdDRwVjZjdTZtSEUwVmVHYTJEcm8xYmxwQVJwUndVaUF2dXZabXVkb3RObEhrQ3BWMXhEVnZjaHJOTXBJSXphQk45YmRyNHhnaDkxNzBtR0NaNU1YQXd5eUE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-22 04:34 UTC"
+  "last_updated": "2026-08-22 08:31 UTC"
 }
