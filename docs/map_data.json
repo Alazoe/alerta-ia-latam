@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "6fd92b2edcec917d25da603567f17c1e",
-      "title": "Chile se autodeclaró un país libre de Influenza Aviar Altamente Patógena en aves de corral - El Tipógrafo",
-      "source": "Google News - Chile",
-      "date": "2026-06-28",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdjRSSDBJWVVQZVBsemdmSkFvRnd4cHlsaTVWMzZQMFB5MFYzY2Y5UW1Xa21vVU9tMDNjM21NVERWcFN3T1ZHWlR6cWZWN0dRdnJkTlA0Yl8ta0tHSHBDdlpjb1o1S1NRaW0zbEpfY2ZVSDNxVGhyWnkzdjB3aU1YTnZ2c0ZYbk9aRDh2WXZ6X2N5ZVE0ZS1YVG04aVRiMkpvMWxibExzbHpLbG81V2s1UEVzbkh4U3pySmdjREhn?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "520d95b0b5438f8eb781a908759e8327",
       "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - Ciencia en Chile",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOT3huLXN3Sm0xWFFwTkZGdWktclk5WHR4Y0ZrT1l3QkNVQzBaZEFaeU5NOFBEd1RBRXdIbElQVVFaQ3pQR1JpSTR2bUNMMjRVOFNFZXlHX3ExalBweDNGX09ENFpvRXF6YXk4YXEyUVRUd19VYWoxd1VRQjN2VXk4VDZIbw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "9a95088b526c47dfde7f3356b405b367",
+      "title": "Emergencia por influenza aviar: Senasa invoca evitar contacto con la fauna marina - Actualidad Ambiental",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMTVtTXBCY2Q0Q0JXSmRvaFVnQXhCZGVaM3A4bWNYdGhOTFkxdEE2WEhpWUZQYlNhZFgzdEI2dzJ1eURWTlpienVwSGRNRWRCOE9hNjR0NXhqZ1NOZ0VSRFpTUEx2cF9UUjBzRGJCM2JmRzBNcTZTalZtQ1VrYmRZX1U1ekhLeEgwaEx2Q1dFdzRiMTNER1plVEVwMFBMdDdfN1Z3SndORDdEV3pxdi1xVzdLeUFhUEE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-22 01:18 UTC"
+  "last_updated": "2026-08-22 04:34 UTC"
 }
