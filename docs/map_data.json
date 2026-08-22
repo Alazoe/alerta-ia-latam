@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "582e47cef36e84654d327d595220d217",
-      "title": "Destacan levantamiento de la cuarentena por Influenza Aviar al plantel de aves más grande de La Araucanía - Temuco Televisión",
-      "source": "Google News - Chile",
-      "date": "2026-06-29",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQbmVTYnNBb2dDZjJPMFpzZkFjR211SnAxdE40bGpqUURmNUZ0S3ZxZDdTeDlqM3hxZE0wSVBRSTg1cDRUd1RiYVM4QzBDU0FRajhBSHNydjhTMUp0eDVqbUQ5ZmF0MVZVQVBrbmpCNmZkaUR6cGdVVU1mQWJEYzBvYUdOY0hOdm55cWRtZ09fYkllTVZhRnlUUnFmRVB1ZFJubVZqTDN3LWZZT01DVG1PclZTWDl5bHI5OGlHWk9TbVIzTmF3M0hTeDEtekExaGVKMXBFUk5BVGFNa3p6bl8xa2dNTQ?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "49e49661dcf991156206cbb7865dca24",
       "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - Maule Hoy",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUVh3VDhDVTZUTklhSUVnRUYxWUMxbEdNODhUY0d4UDZmek9zMXE5WEtjSHlMVi12VEo1bEM1Nk14RFQzYVdvc3hLa0JBQlk4aG92eGJBdXpyNG5YZVBpTm4yNS11UENIbG9vajJycl9WQzVTeGQ1YXRoRElkRDFLdDRwVjZjdTZtSEUwVmVHYTJEcm8xYmxwQVJwUndVaUF2dXZabXVkb3RObEhrQ3BWMXhEVnZjaHJOTXBJSXphQk45YmRyNHhnaDkxNzBtR0NaNU1YQXd5eUE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "e7c28e7bd1b9fc1b8367dafa800f6936",
+      "title": "Gripe aviar H7N3 y H5N1 en México: Eliminan más de un millón de aves en 2026 - Diario de Yucatán",
+      "source": "Google News - México",
+      "date": "2026-08-22",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUZyQ2N5S0VGOUVZVDduU2NibUZWZno0dHFtdlRIbGdwNHg5MGZQNlhwSDVrenM2dU5jY2R4X19RR1Y0WE1yM2dlR0ZDQjJUaE92bFBBRm5OeS00aUpmM3YwZnlCZ05zMnJ0czZZZU9yc2xpSXl6RnpjYXR2WVpBMDNTUlNBcnRyeHR1RXNod0FINzJ2QmlrX2ZkbG5OR2tBWDhjZS1vbHhmOWZqYk05R25BYWFsRnFhc2lyNE1XYVFzRFU?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-08-22 12:41 UTC"
+  "last_updated": "2026-08-22 16:25 UTC"
 }
