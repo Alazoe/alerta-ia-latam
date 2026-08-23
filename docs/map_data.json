@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "4822e97af6841a398c689970c469fe95",
-      "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - Soy de Osorno",
-      "source": "Google News - Chile",
-      "date": "2026-06-27",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPemdfbTRSMl9uZnNSSTlRbHFQNXFNdEJRczdOaXJTVXFTcFdLazB4R2ZqOEJtZVVzYUNQcjFSc1FjVkdEQnBScjJKSnVsMkdYSkJxam9JbjlxUlpVNFdXcTJxanBDaGN4OUFlejhJWnRZam1wZkdVZm84UXoyclplNjctWDB2cGF6emYxYUJFYlFlV1lEcEFQUjdrYTJNTF84eXc3Tkhna25Bamh3LWdMZEtha2o3a3RUYzhUeG5hSQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "62e995c07b091229f0bea0735ba6707f",
-      "title": "No habrá escasez ni alzas en carne de pollo y huevos por influenza aviar: Gobierno - www.laprensa.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-29",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0IzbzVTTXY4S1Q2enhScVdtU0NFSnFXVzNzbFJRYjhtQjh5VmdwSzlEdUxWRGRNa1RTaTd0bnZWRm9mT01tNkExREJmbEhYRWgwb3VzcjZwOW9IQms1WnVFZm5GREw2c0tYQk9pb2ViNVBza1pIdnoyaFFveG9tSFpMQi1odTFtUHlpRmNrcGtSbmpOcHJydVpHQk9vUmZkMmE4?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "8454f4cf515c861424d561cefb88dbd7",
       "title": "Levantan cuarentena por influenza aviar al plantel de aves más grande de La Araucanía - tiempo21.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY1pZaHhQbXg2dnFpaTM4OFNoMFFmbDlxWmtLa2t2WTREallCWjdTOWlVLUVrbjhadzRBb3VueE53VThKUjBPd0o2elZVN0s2XzNjdm0ycUNzZ3pDSkF0OF9NLXJpbDdLWDVDYWhkQmVHNFg0M3lXdFRnTE13NWctaklrRU9Qano5UVU3WGpCUV90VG1QT0FKYW5VUEVWS1c3?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "0ff31e36d07e224befd5cf665a0eeb09",
+      "title": "Autoridades mexicanas detectan caso de influenza aviar en aves silvestres - Enfoque Noticias",
+      "source": "Google News - México",
+      "date": "2026-08-17",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUldPYVZ5RHdCcUVTNk1xRjJGdzRFY2VPUVVOaWJkLTlfWUpsaUlXOGt1VGxvVWlmcUR0dzdMbEdGVkowa0pkb0lmOXhpR3Z3UlZJa1ZkR3VENWtxNXc4NlJJMWg5V1phRnFBcThMaEZkbUFpajhybTAtWUlzQXFfOGNCUVh1Q2JZOGRVN1ZjSUY4cGRxZjlOa3F2WUIzZVdScnZLZl8xVUhYV3FnNlI1VWtzRQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "b9a8304156814442c6c116fc30540b49",
+      "title": "Senasa reporta más de 320 aves muertas por influenza aviar - ElHeraldo (HN)",
+      "source": "Google News - Honduras",
+      "date": "2026-06-16",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUWNxanU2Y2tiTXB6c2hLYTdVVklQOVFYeFlJWjg1YjVqeVA3UFdSVEVXQmNISHg2UC05OVB5S2VuV0VjVW5ZMDJvS1NyYmo5VHJwLVRqWGRfTDJCLXFsTVRyNl8zZWNVc2hybXlXX2xTazEyX1RPVTNtUmJ5cWlMelpaU01UUnZYN0lSNUUtMmtDS0xTQTRScEZKYkFJVmM1dlBpZUdiYTI?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-23 16:27 UTC"
+  "last_updated": "2026-08-23 20:25 UTC"
 }
