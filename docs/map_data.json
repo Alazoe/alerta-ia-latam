@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "49e49661dcf991156206cbb7865dca24",
-      "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - Maule Hoy",
-      "source": "Google News - Chile",
-      "date": "2026-06-27",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVjY2M1VlamdsOU9ZRGdLYk9GSl9PM3pmNjhlMTNrWlpteHBFYlVkT3BmZEN5QV92NDZuZzNOaTA5NmlNMnlRLVFYbHE1dHB3MXZHV0dVRXp5S2dPdGVpbTJ2ZVhpY0syZU43RTNHSmRQRmVnOGpyWUxHTjAtRDhsYUhGdms5VHdCUEthZjB6dHV6c1d1ekRPZl82VE95UTNoOWRwbjRPbmtMSEZMbFJ0Q242cksxNkpZM2Nr?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "4822e97af6841a398c689970c469fe95",
       "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - Soy de Osorno",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUZyQ2N5S0VGOUVZVDduU2NibUZWZno0dHFtdlRIbGdwNHg5MGZQNlhwSDVrenM2dU5jY2R4X19RR1Y0WE1yM2dlR0ZDQjJUaE92bFBBRm5OeS00aUpmM3YwZnlCZ05zMnJ0czZZZU9yc2xpSXl6RnpjYXR2WVpBMDNTUlNBcnRyeHR1RXNod0FINzJ2QmlrX2ZkbG5OR2tBWDhjZS1vbHhmOWZqYk05R25BYWFsRnFhc2lyNE1XYVFzRFU?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "e48ea4aba92b46b9059c2a6061083e3a",
+      "title": "Descarta Senasica afectaciones por influenza aviar en Chiapas - Gob MX",
+      "source": "Google News - México",
+      "date": "2026-07-04",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY1pZaHhQbXg2dnFpaTM4OFNoMFFmbDlxWmtLa2t2WTREallCWjdTOWlVLUVrbjhadzRBb3VueE53VThKUjBPd0o2elZVN0s2XzNjdm0ycUNzZ3pDSkF0OF9NLXJpbDdLWDVDYWhkQmVHNFg0M3lXdFRnTE13NWctaklrRU9Qano5UVU3WGpCUV90VG1QT0FKYW5VUEVWS1c3?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-23 08:31 UTC"
+  "last_updated": "2026-08-23 12:42 UTC"
 }
