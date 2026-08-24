@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "8454f4cf515c861424d561cefb88dbd7",
-      "title": "Levantan cuarentena por influenza aviar al plantel de aves más grande de La Araucanía - tiempo21.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-30",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVlJtenZ2OFlVQ3ZsSWJCdWFTMV9QR2phbDR2czNjVTE5VjV6cXVpNjV0ZkNPLUQyMTJHQVhMM1pILWVuQnFWa0NmS1VKcG5yODdEU2xsenlqd3ptcEdURHBMc0RkNTNNQkJ3ZkJuQnpBUUNBSFZGTWRvODJ5S0xCQUNtX0Q0R1pjbVhoSEpReGZRa2lwd1JnVGlza2VxNkdnQVk2UmYzaVZiaFNOdHBB?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "cd10188f3ed0a12bacf3561d86df41f0",
       "title": "Uruguay se prepara para la influenza aviar con un enfoque que une salud humana, animal y ambiental - Pan American Health Organization (PAHO)",
       "source": "Google News - Uruguay",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUWNxanU2Y2tiTXB6c2hLYTdVVklQOVFYeFlJWjg1YjVqeVA3UFdSVEVXQmNISHg2UC05OVB5S2VuV0VjVW5ZMDJvS1NyYmo5VHJwLVRqWGRfTDJCLXFsTVRyNl8zZWNVc2hybXlXX2xTazEyX1RPVTNtUmJ5cWlMelpaU01UUnZYN0lSNUUtMmtDS0xTQTRScEZKYkFJVmM1dlBpZUdiYTI?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "675b969488c79d9c17001b9ecc94a562",
+      "title": "Perú declara emergencia sanitaria por presencia de influenza aviar en aves de corral - spanish.xinhuanet.com",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRWZsMUZTYThZNExEYkt3TUJxSkxVQ3NwWUtMcm13TmtySFc5T3otTmlKdFdfcXpmcjhCb0dhOHpxQWs5X25VSXlYMkV3NVhFa0xlRi1ETk5aYVVtUGVuMVl3MmNHeUQzS2VvWW0xZG9CV05jcndxbjNBTFNoRWprVWYtRQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-24 08:49 UTC"
+  "last_updated": "2026-08-24 12:53 UTC"
 }
