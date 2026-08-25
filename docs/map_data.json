@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "cd10188f3ed0a12bacf3561d86df41f0",
-      "title": "Uruguay se prepara para la influenza aviar con un enfoque que une salud humana, animal y ambiental - Pan American Health Organization (PAHO)",
-      "source": "Google News - Uruguay",
-      "date": "2026-06-22",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcGVaV3o2aW51Q0Z6NjZQWGZWLTRpUkFiOWI2eHJqZTliZkdpaEJWbE5lVXAxRG4wdC0wVlZvRkxYTXZpN1lEMnI1WFRhM25XYVBYQUM0clg4eTN4VmZNb0hCMUFxaEMyVjItMDJyQkw2WENUQUJPTFh6TklpSXk1LWU3WEtRdXk0anpwTko3NWdzWjhLcDBfQU1YQ1paWDY0MVlyOU8yUjNVbndYUmhrN2gzNlFScFJhblJsRVQzZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "d024cd5df3e837cbc37e0394f29389dc",
-      "title": "Honduras refuerza acciones contra la influenza aviar, para proteger producción avícola y garantiza abastecimiento de pollo y huevo - radioamerica.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-30",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNT3ZyU3M4cVI4NXlGSFJ0TmxCclc0amo1VWs2b1BzQ1kxX2E4djNsZnhpaTVDLWh1OUpRZmhlVk1TOHJEVFhxeWV0dEdmOXUzTWxWV3Vpa2lPZkZGUFJMYjlOeEZOX2ZDaWE3SDBHdFBocUtzWmRKOU02aXYyT0FlMTBWZGhsT1JRYVZDNnM5OUxMNk1vOUZtZ2pHZGY1a2NOeU0zZDdsOVdOcll1VzlCbjNCal9UeEZOUkl2ejJZcng3VEtDMUNlNFFMZXVVLU9KaTQtSy1Bd2N4TnBXZ1BVSmNEUUhsOC1XUjhN?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "c9d8a05c298b34336de3b1ce21f026b4",
-      "title": "Confirman caso de influenza aviar en Costa Rica - Diario Extra",
-      "source": "Google News - Costa Rica",
-      "date": "2026-06-25",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0NXVWNSMklnMmVuQzl1WHhQTWlTTHMwTDAydkJnSnJqZmliTUpGb2J3YXBWWV9heElVUlVJZXktR0RpN091X1o5RHlkTVJNTktFLUJua0RNVWRESW5WTTVrUERmMWw0dS10aWxaRTlnQkc0eTJFY1Y3cFFzSjQ0TkNWZFBJRldDQ0JYNTFneUdWd01laEh2WWlGaTdUTjRmRlNSWF9MQUZOWkNsbXpOcg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "843dac4341b687ae926db001e2938fa2",
       "title": "Levantan cuarentena por Influenza Aviar al plantel de aves más grande de La Araucanía - TemucoDiario.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRWZsMUZTYThZNExEYkt3TUJxSkxVQ3NwWUtMcm13TmtySFc5T3otTmlKdFdfcXpmcjhCb0dhOHpxQWs5X25VSXlYMkV3NVhFa0xlRi1ETk5aYVVtUGVuMVl3MmNHeUQzS2VvWW0xZG9CV05jcndxbjNBTFNoRWprVWYtRQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "1ff257e7b212d19b616dbda4ce45aa9c",
+      "title": "Valdivia será sede de encuentro nacional de investigación sobre Hantavirus e Influenza Aviar - Diario El Ranco",
+      "source": "Google News - Chile",
+      "date": "2026-08-25",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWFZSMVdERERzMWN0ZDZIY2c3c2gzM0RYNTh3TWRfZk9xN1dNOXVjNjRpY1FySnZ4b3pmd3ltLUthb1dELWpqLXNkM2pJcElhRHhCX1ZLVU5Udk44MlZyX01rUUlEMWpOMnRoak4zbUhYTHRQMDFJcnpWNHRhYks1S1ZTckFfSm9FcVFZQUZtbkRhS2F6aVg2MFpBM1A3QWV4Qks3RzlrTUNMQ09GUnNkNzF2UE1EZEcyeE52dGpYN0hwR2R3U3dySg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "c5601e28e22793873b41d585dbbbbb99",
+      "title": "Australia | Un estudio revela las claves biológicas que permiten a la gripe aviar H5N1 infectar al ganado bovino - Portal Agro Chile",
+      "source": "Google News - Chile",
+      "date": "2026-08-24",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQ3cxYVZSRmZFQTRFaTgwOTg1UzBjeENybVI3MVV4d05GdnB0ZFBpdnpFcW83WGpEODgxMklKeVN6VU5NZG04TWZ5Ym1Jb1B6cmF3U1hlbTNDRGFFd2pzMlRyZkM1TnBnSHh1TldObVFNVzVZdEJ1WUlNWElvZG5OZWNzOWxERXl0N3NXZ2c3OUdEVzlvd0xVczlaTWVwVk9Wa2lmdnMxTlY4UDVGblhvUG1MaHZpd0tlYjRiNzE4MDY3UFVBNVpTb3B4ekxPNlZpLTEzS2QyYjBhTXNKbGY2QUlmMGlmTTMy?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "cf0636879552dd7fca0424e80fee7406",
+      "title": "México refuerza la vigilancia frente a la Influenza Aviar: H7N3 y H5N1 mantienen activos los desafíos sanitarios - avinews.com",
+      "source": "Google News - México",
+      "date": "2026-08-24",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY0V6VlpoZkc5OXBvTk1BaHBFek0wRG45TUdZTVNXeFZEUDA0M0xTX0dTYVVrckpjbE5ORi1Ga3hWQlhXNnF0R3N5RTF2UmVyUXdZRWxWOHgxcXptY3haVC11d2o4aWpXMkRvb082aFh3bktfZkE3S3pqSVJLa1RXbWswR3pXa3ZXNGl3Y1hiQnhxckpIVkxlMFJLSDdqTWhLOTVqeVowS25JaWlPQ3h6ZnJfVWxXbi1TOGxaU0tpMkpoMUhDY2hnQWNuclo?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-24 20:32 UTC"
+  "last_updated": "2026-08-25 01:20 UTC"
 }
