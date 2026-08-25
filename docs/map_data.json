@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "843dac4341b687ae926db001e2938fa2",
-      "title": "Levantan cuarentena por Influenza Aviar al plantel de aves más grande de La Araucanía - TemucoDiario.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-30",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORkFoTHg5N3FGT1FPT1QxZHZKaWtybm1CSnU4RjJOakdMakhyLTd3TGdBM0loSHBhcW5faVpIUVhLbkljRTFGYTZpT3hUaUFNdGhzcnBvS3lzZHJuVFhBc1RkS2N5S2JrWXM3UkliYk1xTjljc3c4OVc3WXh4T21oZXdKVmY3ZXZnQ0FBMDN3Q2EyX2x1QnZmVXBGRnJGVFRlb2lsSUNhVlVOVmJ3OXJsMEVhNXlvUDJCT3ZLYlBn?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "bfeaad9daeb398c1bedf90acdf9d489a",
       "title": "Levantan cuarentena por influenza aviar al plantel de aves más grande de La Araucanía - tiempo21.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPY0V6VlpoZkc5OXBvTk1BaHBFek0wRG45TUdZTVNXeFZEUDA0M0xTX0dTYVVrckpjbE5ORi1Ga3hWQlhXNnF0R3N5RTF2UmVyUXdZRWxWOHgxcXptY3haVC11d2o4aWpXMkRvb082aFh3bktfZkE3S3pqSVJLa1RXbWswR3pXa3ZXNGl3Y1hiQnhxckpIVkxlMFJLSDdqTWhLOTVqeVowS25JaWlPQ3h6ZnJfVWxXbi1TOGxaU0tpMkpoMUhDY2hnQWNuclo?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "469b1f81c7ca8d5a4e04bf1bc8480e21",
+      "title": "Emergencia sanitaria por influenza aviar: Senasa activa medidas en todo el país para evitar la propagación del virus H5N1 en granjas avícolas - Infobae",
+      "source": "Google News - Perú",
+      "date": "2026-07-15",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYWQ1UlVBQzExeWl2VVVMWHQ3ZjNzbEZ0RW1pbG5Lc0E1dlNteHNnQUd6Ti1EeXJheFJPajRTaE9VbHNpblBJcXNtS1VQUUd5c1J1NElHTVJUeGkxd09MN3Rha2psbVktc25XdjNJT21uelhTek9YeC1sUUR4M3lOTnYxRzNYOVBRU1diYXRoSjNzc3F1UkdKWWd2TUZ6U3NjWUM3Y0xQa1gzUDQtdXd2RDZJQk9XdFU4RGN0SWlUYnBCUEdkTUgyMWVmVGNVNXBFSmdReXZXaDJaSElwU3ZNZ0FrTUlIbWxuVlNyWFNhdXA2QUNzS3cyM19iOA?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-08-25 08:43 UTC"
+  "last_updated": "2026-08-25 12:50 UTC"
 }
