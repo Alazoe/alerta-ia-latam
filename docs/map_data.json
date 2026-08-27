@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "bfeaad9daeb398c1bedf90acdf9d489a",
-      "title": "Levantan cuarentena por influenza aviar al plantel de aves más grande de La Araucanía - tiempo21.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-30",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTHh2eWUwZzJlVV9reENBS0JFSGQyZ0RSWUp2UjJYWXJQdUEtQWRSOEZMY3V5WlBiaVF2eFN5MzZlSVdnOFFaeXZkNzNSRUZOelN3eF9COWpwMktDTUh3M1VERnRCVmtoOHNuWG4tN3VlWWttaGZ1aXBUeDB1QlE4bmt4YlBXUTRoZUZiNzhZM2lxb0lKUk9sWFJuRGJySzB0d2FZMTNta29FdVBGWnc?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "945800ed6ce514f8632343e5db58fd61",
       "title": "En solo 90 días Chile logra recuperar condición de país libre de influenza aviar y puede reactivar sus exportaciones - Diario Financiero",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNYWQ1UlVBQzExeWl2VVVMWHQ3ZjNzbEZ0RW1pbG5Lc0E1dlNteHNnQUd6Ti1EeXJheFJPajRTaE9VbHNpblBJcXNtS1VQUUd5c1J1NElHTVJUeGkxd09MN3Rha2psbVktc25XdjNJT21uelhTek9YeC1sUUR4M3lOTnYxRzNYOVBRU1diYXRoSjNzc3F1UkdKWWd2TUZ6U3NjWUM3Y0xQa1gzUDQtdXd2RDZJQk9XdFU4RGN0SWlUYnBCUEdkTUgyMWVmVGNVNXBFSmdReXZXaDJaSElwU3ZNZ0FrTUlIbWxuVlNyWFNhdXA2QUNzS3cyM19iOA?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
+    },
+    {
+      "id": "6e951801da504f3aff95cb15306a3f2a",
+      "title": "Actualización epidemiológica sobre la influenza aviar A(H5) en las Américas - Edición Médica",
+      "source": "Google News - Ecuador",
+      "date": "2026-08-26",
+      "country": "Ecuador",
+      "lat": -1.8312,
+      "lng": -78.1834,
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQczlGQmEwUU94T1pEV28zMUhTTDRnS0p5Q1pBWi14bkN5LThpUFJ0a1BteHNXamc0cmQ1eXE1Qm5WMlluc01KNlBtdEdyQ1J5Y1M5LTYzSkhWaWNqYVlvamFhRklXenFJbzk1OWROcjlQUjJuOFhYZ1RtYVdMY2k1aU1nc0ZzaTFWQVJONEhIYS1ocFRjYzhib0M3VWQ2OURZamJfWTBWSzd3MVpPQjZNa1R0VzBSZTYweVRoQTdBTTk0U0ZfdjFvQ0NoSUp2SmNoTUNZ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-26 22:50 UTC"
+  "last_updated": "2026-08-27 08:07 UTC"
 }
