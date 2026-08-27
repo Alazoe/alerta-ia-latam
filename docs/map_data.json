@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "945800ed6ce514f8632343e5db58fd61",
-      "title": "En solo 90 días Chile logra recuperar condición de país libre de influenza aviar y puede reactivar sus exportaciones - Diario Financiero",
-      "source": "Google News - Chile",
-      "date": "2026-06-30",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMnZxX2JDbE5PcWo3ZjhndGZ3NXhTSWJNa1pqZWNRUTA3azlGcWhsbmZHLV9BSjNnREVWUnl3aE1XWXlnb3BKQ3dxS3pTWFI1Zml3c212Y3B2VmZ4cDd6WWQzTWVTbnZKS0daejdlZGFPOEdrOGRMdWZhTnpmTkk2UzBZZjVIU0tNeFV3cmhiU0cxdHliVFl4V3g1a0ludmlN?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "b8ee8d91b14cd9d472d4dbfd63dda34e",
-      "title": "Confirman 2 casos de influenza aviar en aves de zoológico en Tuxtla Gutiérrez, Chiapas - El Heraldo de México",
-      "source": "Google News - México",
-      "date": "2026-06-30",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPeWFpeHFvdmNCeDZ4RGlrMUIwX1ZBd3BYampQNThVNmlkNlhzTFF5SlR6UWRjemtpWUw0ZFpRZnRncThZZ1lJUUh1QW9HYnZMVjFQSTRpVGdwRFNQaGdEempVVnlTcU91X3FaMWoydk9PdmpYXzM3bUM4NENza3owRk4tNXpyRnFpSzEzc2s4al9jX2RDM2UxWTJWR2dCclFqUlhqaVpiV0c5YlZmTkJjazJSdXJQWkYwbm9leXVibktyOVJxbVFYRmQ1dnhNbms3aExJRWY3MnlBdFdrX2c?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "b0f28ece5f53f07a5305ffaf41b87e6a",
       "title": "Monitoreo de Influenza Aviar en México con IA y Satélite - avinews.com",
       "source": "Google News - México",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQczlGQmEwUU94T1pEV28zMUhTTDRnS0p5Q1pBWi14bkN5LThpUFJ0a1BteHNXamc0cmQ1eXE1Qm5WMlluc01KNlBtdEdyQ1J5Y1M5LTYzSkhWaWNqYVlvamFhRklXenFJbzk1OWROcjlQUjJuOFhYZ1RtYVdMY2k1aU1nc0ZzaTFWQVJONEhIYS1ocFRjYzhib0M3VWQ2OURZamJfWTBWSzd3MVpPQjZNa1R0VzBSZTYweVRoQTdBTTk0U0ZfdjFvQ0NoSUp2SmNoTUNZ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "f17934e7fa420e6dcf8e9ecabc648588",
+      "title": "CHILE: Detectan primer caso de influenza aviar H5N1 en el norte del país - elproductor.com",
+      "source": "Google News - Ecuador",
+      "date": "2026-07-07",
+      "country": "Ecuador",
+      "lat": -1.8312,
+      "lng": -78.1834,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnFSNkgyU0h1enQySUZ2RzNYMG5DZzdtRlktbVdTbzB3SVZuUlJuUG9ZSlNSYk44TkJJbXJtallFU1NaRlAxZDNoU08yRjh4RFRXVnQ4bEFRUjhCTlVwd1VYeUxDQkxBd3ZxNTU5VkQtS0YyUkFkSGZlZUlMUnlEX3VvMXhTTlAzZFp2T05nMllBZ3EwRkN1cWR2Nks3VWhrSF9nNzZydjltNGto?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "703fbada60bc5348b9425ab7ce0c6802",
+      "title": "Honduras vuelve al mercado avícola internacional tras superar brote de influenza aviar - Infobae",
+      "source": "Google News - Honduras",
+      "date": "2026-07-29",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUJzXzBUd0RrVTlOMHk4aVg4UFZ4NGhZMlRHT3Q0SnQzSTd2Zi1tZ3pERDFub2ZDeUROMkFzcUZ2VS1mT3FEYURSUy1vRUhKSFFCYTlNcDc1aExCdUF0cXB0ZXJGSEtIdUw3cEwxckRWNDAxQVFkRUJGQS1oejV0QmdKWE1CRFJjckR3REZwX0U5eFBrTm9WcWJlcUZlYzN3MkNsQzNoOXhCbElKbVVEZjlFQWplMzlxaGk3VmM5amVhVzllTGt4SndjMA?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-08-27 08:07 UTC"
+  "last_updated": "2026-08-27 21:56 UTC"
 }
