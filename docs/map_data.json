@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b0f28ece5f53f07a5305ffaf41b87e6a",
-      "title": "Monitoreo de Influenza Aviar en México con IA y Satélite - avinews.com",
-      "source": "Google News - México",
-      "date": "2026-06-30",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Sd05wVnlySE9vX3VoU0ZsOHRaejFtQWhXNkphcjhHV0JSWnhqdFJJYWlQcUtpZFpuVnJCVE9rbXl1QVd2YnFpTFNoS2k2Q1ktRDQwdUM0MGxqejVuOVp3b3cxLVRFeWM?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "04330779216bed57306016802e50e223",
       "title": "Detectan dos casos de influenza aviar en zoológico de Chiapas - El Universal",
       "source": "Google News - México",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUJzXzBUd0RrVTlOMHk4aVg4UFZ4NGhZMlRHT3Q0SnQzSTd2Zi1tZ3pERDFub2ZDeUROMkFzcUZ2VS1mT3FEYURSUy1vRUhKSFFCYTlNcDc1aExCdUF0cXB0ZXJGSEtIdUw3cEwxckRWNDAxQVFkRUJGQS1oejV0QmdKWE1CRFJjckR3REZwX0U5eFBrTm9WcWJlcUZlYzN3MkNsQzNoOXhCbElKbVVEZjlFQWplMzlxaGk3VmM5amVhVzllTGt4SndjMA?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "46ffde1823c2c97c7554037220c83e6c",
+      "title": "La OPS alerta por persistencia de influenza aviar A(H5) en animales de América - elheraldo.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-08-28",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbjlidkZEX2treEpyVzFtaFpvZGdudDN1OGUzSlZyUUxlWjlDeUN6SDVjblZWZ1drZG82dzRoUlVDNnI4bmp5TUZNa2NGNmZoUUpMN19JZEZQd3BjZE5uMUJDM2M0UTM1VFVQalFuWm1zQ3BsQ1pDOENEM1QtbGdPRjE0SHB1UEV0c21JeXZMXzgyY2JjMzVUX1UtUXNSelMzcjJsT0Q2cS1KNlhsdFRXVg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-27 21:56 UTC"
+  "last_updated": "2026-08-28 10:10 UTC"
 }
