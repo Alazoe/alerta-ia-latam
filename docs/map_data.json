@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "04330779216bed57306016802e50e223",
-      "title": "Detectan dos casos de influenza aviar en zoológico de Chiapas - El Universal",
-      "source": "Google News - México",
-      "date": "2026-06-30",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOGcxbWswYS1hTG54UldEWklPVVlVYmdfWDZ1U3BjUFozZ0RSVExIVEhoRmZFTHZudGlWcDVuUUxRSFRXdThZSU53cTlfOHRSOGw1bkhWY1lfWHBlTjNPLWozZU5fZmxCbkdHcWNxMXlxRWQtTk53SDI3bGg5dUN5Q3NiTzNYZFVxSHFYOXVqOVpmaTVjZl83Sy1MRjlFQTJGamtyN2pScWJKSVhtU0lMd0NCR1BGSXJWSXN1WFY0SU11SGF6N2JreUFOeDlEZzFYR3NjTExwdVBpYXZvZ3fSAd4BQVVfeXFMTThnMW1rMGEtYUxueFJXRFpJT1VZVWJnX1g2dVNwY1BaM2dEUlRMSFRIaEZmRUx2bnRpVnA1blFMUUhUV3U4WUlOd3E5Xzh0UjhsNW5IVmNZX1hwZU4zTy1qM2VOX2ZsQm5HR3FjcTF5cUVkLU5Od0gyN2xoOXVDeUNzYk8zWGRVcUhxWDl1ajlaZmk1Y2ZfN0stTEY5RUEyRmprcjdqUnFiSklYbVNJTHdDQkdQRklyVklzdVhWNElNdUhhejdia3lBTng5RGcxWEdzY0xMcHVQaWF2b2d3?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "d6d5ba6f3d49e7241bf3c78041542593",
       "title": "Influenza aviar H7 en la reserva del ZooMAT no representa riesgo para visitantes, aseguran especialistas - Aquinoticias.mx",
       "source": "Google News - México",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbjlidkZEX2treEpyVzFtaFpvZGdudDN1OGUzSlZyUUxlWjlDeUN6SDVjblZWZ1drZG82dzRoUlVDNnI4bmp5TUZNa2NGNmZoUUpMN19JZEZQd3BjZE5uMUJDM2M0UTM1VFVQalFuWm1zQ3BsQ1pDOENEM1QtbGdPRjE0SHB1UEV0c21JeXZMXzgyY2JjMzVUX1UtUXNSelMzcjJsT0Q2cS1KNlhsdFRXVg?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "acadf2a70ffd801ef9b121f541fb5b19",
+      "title": "La OPS alerta por persistencia de influenza aviar A(H5) en animales de América - ElHeraldo (HN)",
+      "source": "Google News - Honduras",
+      "date": "2026-08-27",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbjlidkZEX2treEpyVzFtaFpvZGdudDN1OGUzSlZyUUxlWjlDeUN6SDVjblZWZ1drZG82dzRoUlVDNnI4bmp5TUZNa2NGNmZoUUpMN19JZEZQd3BjZE5uMUJDM2M0UTM1VFVQalFuWm1zQ3BsQ1pDOENEM1QtbGdPRjE0SHB1UEV0c21JeXZMXzgyY2JjMzVUX1UtUXNSelMzcjJsT0Q2cS1KNlhsdFRXVg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-28 10:10 UTC"
+  "last_updated": "2026-08-28 21:49 UTC"
 }
