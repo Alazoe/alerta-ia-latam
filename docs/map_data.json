@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d6d5ba6f3d49e7241bf3c78041542593",
-      "title": "Influenza aviar H7 en la reserva del ZooMAT no representa riesgo para visitantes, aseguran especialistas - Aquinoticias.mx",
-      "source": "Google News - México",
-      "date": "2026-06-30",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNmxWNWs5SzhOaFhQM05TblM0aHRnai1RdXdlWEJVMjhRVWN6bGtnRXVGS0Jmc3JfdktXTkRQT2RRYXY5WE9aVEdERFNzdlpualgtLVBIZ05WUDJxNDEzQ2JXSmtTYk9OczhJMnk2OExqVnh6SzNMdWVrUFFaeVA2VWx3eTJqbkU2SEppLWREMlVjUmJsZ1cxT2FIS1FRcFVTTE9JbFB4UjRtTENZdUJ3NDRoQnFXSlBhS2ZJNEFOa0R1VmFCQ05v?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "3b8e43a2763a6b7a5c1f77b1903bfa39",
       "title": "No habrá escasez ni alzas en carne de pollo y huevos por influenza aviar: Gobierno - LaPrensa.hn",
       "source": "Google News - Honduras",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbjlidkZEX2treEpyVzFtaFpvZGdudDN1OGUzSlZyUUxlWjlDeUN6SDVjblZWZ1drZG82dzRoUlVDNnI4bmp5TUZNa2NGNmZoUUpMN19JZEZQd3BjZE5uMUJDM2M0UTM1VFVQalFuWm1zQ3BsQ1pDOENEM1QtbGdPRjE0SHB1UEV0c21JeXZMXzgyY2JjMzVUX1UtUXNSelMzcjJsT0Q2cS1KNlhsdFRXVg?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "ca24cc00c7583f6180d0a4650e146df1",
+      "title": "Panamá refuerza su vigilancia ante casos de Influenza Aviar en Centroamérica - Ministerio de Desarrollo Agropecuario",
+      "source": "Google News - Panamá",
+      "date": "2026-06-25",
+      "country": "Panamá",
+      "lat": 8.538,
+      "lng": -80.7821,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX01wSEU3TGRkTFRGUVJwMlpDZE4wZVo3MW9BcUxtazM2bDAzMllvUVJoOFlZVDZJUEk4cUkwTUpBUXU5cEhDUnZNR1h5MlpwYlREbmZQbWhZZm1sUVBjSHpqS3dKQVpnWEczTzdqS1NUSU5MWjJRd01PTF83dXpjbjE1VTdkT0J5N2ZkVnk2VkhYN3RDSWh1ckJkNkpDeEZqN1kteE42bjZyV2lx?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-30 04:16 UTC"
+  "last_updated": "2026-08-30 13:38 UTC"
 }
