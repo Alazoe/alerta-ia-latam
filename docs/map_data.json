@@ -73,18 +73,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "595d3674664d835bdfb61dc0c43240f1",
-      "title": "Brasil refuerza la vigilancia sanitaria para prevenir el ingreso de la influenza aviar altamente patógena - avinews.com",
-      "source": "Google News - Brasil",
-      "date": "2026-06-02",
-      "country": "Brasil",
-      "lat": -14.235,
-      "lng": -51.9253,
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaWRTZFNNNnJ1b1pFUTVWUVpOTmNReXM4VzlzeFV3alpmS250LXlhRWFEOFpQdGlnOWY0NzdySjRFd0trZWdsTjNnbzQ1NlNEQXdDeTA2ajJldUk1R182eWNNdDh1c3NRUUt4eGFjdkhHSVE0UlFkc1NpYkJoTzVBNEdKT1daOHRmRTI5bHpkTkVkNWpoai1QTFcydXZsQmpUTkc3T0N2S1pxSkE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "cd2a94fb67594687d25e26b44b1736ad",
       "title": "Detectan dos casos de influenza aviar en zoológico de Chiapas - Noticias - Almomento",
       "source": "Google News - México",
@@ -1933,18 +1921,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "d065f88151f32b10ca448ed41a5e059b",
-      "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la región de Arica y Parinacota - sag.gob.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNT2VhQ184M2d2Sk9KZDN6clhlV2EtbWZRMFJkQ0s0a1JmODRya0pDckJZNDlzLUk5MmVCOFlkdlhEUjI5bWJaejh0VzhuRU9NOHo2bDJIT2tIcmVwZFNWa1hqV1pvdzUwR1Q5VnQtNWM1Uk5IcTJxam0zWlN1aFlLSmZCZWtEN2F3ZHB2X2hweE41MW1JYkNsUzV4WFZnUmV3dzAxM0pFdlhoTEE3Yzh3NFJkUHp5WlpnTFZsOE5nWlNPSDFjSl9sd0UwQUxIOGgyRlFodk1neUVkbFUzLUE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "3d1211ce3e0e6546e8ee3115fc61b511",
       "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la Región de Tarapacá - sag.gob.cl",
       "source": "Google News - Chile",
@@ -2567,18 +2543,6 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYnhxYmgxRURLV1h0WFZJa1ZveHBOYm9aTW5CUWh5enJMVlB5YmRoNFRqTng0eEVUcE5MUVJvMklWVVlMSXFUWE9lTmM3NXFJeHZMXzJsQVhaQjM4Sm4xRHJKTjFTSjJQYVZ1WU1TT01Nb1dTY3RZZEVJWm91bEtEd29hZ2pDd1p0NlJpTVozRXFPRC03MGx3NkNNTzNESzZjTG9pSnNOVUlVSWxRU0FIX0hwYlE5a0xX?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
-    },
-    {
-      "id": "2bbdef1460ed5e5c2a857aec1e3d1f1e",
-      "title": "Prevención de la influenza aviar: Claves sanitarias para la crianza de aves de traspatio - argentina.gob.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-06-02",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNU2JmWWZHR045WTN2ZWxJbWxWMTU2Sm4zYy1oMFJ2dU5PMVlua3BYb0llWU91ck1NdUx6Vzg0NjZvSmVFUHA5a1VBaUFmU1pMSDV4Z0stQlRTUkxjQU4ycUJSeTBaSkFDRmJZQy1nNThHUE1RV1VZa0E0SnViOE8tOFhUaG9fbU9rQmRuZmxKRFdWb2ZxdkZWMjJFMzV6MVBSUENIZnRrSllLQ0YtNUtZaTFqVG1YbDFVUkthREYzMVNKSXM?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
     },
     {
       "id": "a09230c5ace37b541cb0a9037ea91fa9",
@@ -3601,5 +3565,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-30 22:29 UTC"
+  "last_updated": "2026-08-31 04:22 UTC"
 }
