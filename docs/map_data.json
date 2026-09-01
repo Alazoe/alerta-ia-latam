@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "50aa38a57b05e5446b9acd33bc19d464",
-      "title": "Honduras activa vigilancia sanitaria tras detectar gripe aviar H5N1 en aves silvestres de Lempira - Infobae",
-      "source": "Google News - Nicaragua",
-      "date": "2026-06-09",
-      "country": "Nicaragua",
-      "lat": 12.8654,
-      "lng": -85.2072,
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMlJVbWNBamxvVXdJaFZVZjBGUFBvYzY5X2JFNDB3X1VUbHdkRnRiSlg1WUdqVjhiLW1mVmgtaEFZVUxNNW9QVS1Kalc1ejNURTFlX21UcThBMHdhUC1Ta2ZIV1BCeXhpU3ZGZTJ1UjZfel9jckhTYmo0QWw2cHBtdUlpNzgzOWN0N0xSZy1NWVc4TjMwVlJxYWxmeDk3WkVabUtFM1QtMkVyTmhDUGV1cjBGMmU2UDdGMTY3RGNyQVNITUp6a2l3RzBZcVpuR0VHUm1FM1dLT2xJUQ?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "e14851de409c49f54f217d84f6185eb4",
       "title": "Levantan cuarentena por Influenza Aviar al plantel de aves más grande de La Araucanía - Araucanía Diario",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMlJnV00wTWFGQ2o3emNldU9lTXpkMTZWUGtTc2JyQWF5Q0lhdC13UXFQVTZZd1ZRdzJaSVhMdWRnVDB5YTNWR3pPMnJYWXlDWGJjcnpQSjFtYnZvQ3E1UXRWTl94NU5TWVBqbVdGaVNCM3ctV3Mwek96c2VveDAwamxvSWtpY21UOHJ1ZVo3aENGMFpGeWYwd1duMXVtM0VUNGk3VW1pdkhlNHdsWmk5a3plOHlmSEx3NElzanRyYVNSdWd2djRZemlxT0NVbmxieGdQWmRfNXNYaW5rZktSOVNnOFlZeGRYT1JyX3hBNlRwRXdEb3pEWA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "385d1c451a5180d5e86b084ecd5cb3ee",
+      "title": "Senasa mantiene vigilancia en el occidente de Honduras tras detectar brote de influenza aviar en aves silvestres - infobae.com",
+      "source": "Google News - Honduras",
+      "date": "2026-06-16",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNUl1cDBTdzEyb0hMZW5rVDk5MnRyZE1laUlmM21obmFFWW9weTJrcEZPQ3E1TV9wekJIT2JUVlJ6a2dKN1oycGIxd1B5X0tsYnhSVDlxX1dDeHNrRDZNNnQ3MkdKUTZXZElIT2xscmR0SzFyZzdfQkloVVl1eUJuMi0zQXdIaE15dlVwMEFfdElfM0ZSX2QyOHduOVlMS3JjNFROU1FrbHZXQ0R2SHI0UjQwRllmR2hWOUdFS3VrbThwT0dPeTVYamhnNGRLVTdYNlV5VzBOMFh6TkhfU1VrUHM4a29fQlhuNzY2aW9R0gGIAkFVX3lxTFA2VndtNWJWeXZ6d2NkV1IyVWREMGkwQ1k1UW1rbFA3MzYxc0NmeUs2TGpGMENFM0xISDB2NTlBQThHY2pwOTlkeVdvOTZVaE9ud1NrOEo5YXY4WkVUVW1kaTVOTVFFWGMxWHFLaXR0dFlSZTUyclBoV2VhSDFScERmYkdLNzMwRmQ0SWxRRTA4al9xUi1pUG1HRFdBekNaT29heWtxSDFFM3lIQU1OQXJGLUNaelR4UTkxdkRtZGRXNXhsSktpNW02ck9ISExhcWs5dmdaYWlZWFFidl9ZVnJldEVvWXFhQTJCUFo2MjY1SlJsQkJ1ZnQ0aW5fMEZIblBlMTlMcWMwaQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-09-01 19:15 UTC"
+  "last_updated": "2026-09-01 22:26 UTC"
 }
