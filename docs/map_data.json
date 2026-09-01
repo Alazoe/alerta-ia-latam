@@ -3563,7 +3563,31 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0hCTTBvSkhNb0ZzMmxPQmliOU5QT2t0Nmh3a0lvX25uYU5wSmE5R2VTUU0wN1ViSTRSbExzajV1Yy1NZnBDTkV1SktSRzFZalN5M0l5OTllS010OVV4ckFPY1J6czQyaTVyaWlMdlNJcll3bFRRMWdfRDl3RDZKUS03X0pJQ0lESVZ3QlpHYlpxQUZRZHh0UmR3eGdPS3lDTEI2Q0IyWVNLdVVrbkNoMEZZU1MtZE1wZUFCXw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "7baa9428211095bb1ebce96db559a82d",
+      "title": "Perú declara la emergencia sanitaria tras detectar un brote de influenza aviar en granjas de Lima - agritotal.com",
+      "source": "Google News - Perú",
+      "date": "2026-07-17",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXNUSXYyMHNCTEZIajlYT2xjRVlaZXB6d2JlQ1ctRWtpZXg3LWJWYkM0emFRUnJGWHJjbjM0VDVCU1RZbnJVSWRxS0FKeXVRa0FvVU5Hb2tkZUdWVnl0dldEUVZBelozYXh6ZDQxSTlObHo0QS15S0JhVm5Ua0t2eWRKNVRrR1B2NERST2JwX1U0VFlHLW94THRvSktsaldpcVd3VDhWclVFVmtMOEZ2b0txdXJiVXpieWpnclVDb2RkZHdJTmFKMnVKWGEtcnc?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "998bd2f1a8bf3ff8a433fd4216bdec0f",
+      "title": "Descarta Senasica afectaciones por influenza aviar en Chiapas - gob.mx",
+      "source": "Google News - México",
+      "date": "2026-07-04",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY1pZaHhQbXg2dnFpaTM4OFNoMFFmbDlxWmtLa2t2WTREallCWjdTOWlVLUVrbjhadzRBb3VueE53VThKUjBPd0o2elZVN0s2XzNjdm0ycUNzZ3pDSkF0OF9NLXJpbDdLWDVDYWhkQmVHNFg0M3lXdFRnTE13NWctaklrRU9Qano5UVU3WGpCUV90VG1QT0FKYW5VUEVWS1c3?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-01 04:06 UTC"
+  "last_updated": "2026-09-01 13:12 UTC"
 }
