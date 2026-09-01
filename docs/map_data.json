@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "3b8e43a2763a6b7a5c1f77b1903bfa39",
-      "title": "No habrá escasez ni alzas en carne de pollo y huevos por influenza aviar: Gobierno - LaPrensa.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-29",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0IzbzVTTXY4S1Q2enhScVdtU0NFSnFXVzNzbFJRYjhtQjh5VmdwSzlEdUxWRGRNa1RTaTd0bnZWRm9mT01tNkExREJmbEhYRWgwb3VzcjZwOW9IQms1WnVFZm5GREw2c0tYQk9pb2ViNVBza1pIdnoyaFFveG9tSFpMQi1odTFtUHlpRmNrcGtSbmpOcHJydVpHQk9vUmZkMmE4?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "a3320fc0367a1a7f0a1f069febd1f2fc",
-      "title": "Senasa vigila más de 500 granjas por riesgo de influenza aviar - LaPrensa.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-25",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDRsWlVtV2FvTGQ0dUtGTXRpZGdXTkxWSXR6OUJtX1hpRnVlZ1pTRDl3U240SVdKTnpPYjFZUjdiYzJmNTh3ZW53YWdhbnlBeEVQQ19DeVlfRE5ZNVBEa044Q0V5Y2NnNnl3ZnZFdkxQYWtUVVRWXzhGdzdxTkxqdjgzQ3BJU2F0TlFFTHdwSzVjVVNYV0N5Vkc5b21TNGlZb2Rn?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "50aa38a57b05e5446b9acd33bc19d464",
       "title": "Honduras activa vigilancia sanitaria tras detectar gripe aviar H5N1 en aves silvestres de Lempira - Infobae",
       "source": "Google News - Nicaragua",
@@ -3587,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY1pZaHhQbXg2dnFpaTM4OFNoMFFmbDlxWmtLa2t2WTREallCWjdTOWlVLUVrbjhadzRBb3VueE53VThKUjBPd0o2elZVN0s2XzNjdm0ycUNzZ3pDSkF0OF9NLXJpbDdLWDVDYWhkQmVHNFg0M3lXdFRnTE13NWctaklrRU9Qano5UVU3WGpCUV90VG1QT0FKYW5VUEVWS1c3?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "ecd306d1bed5637e141461511e0ec7d7",
+      "title": "Influenza aviar: refuerzan llamado a fortalecer la bioseguridad en la crianza de aves por nuevos casos en Los Lagos - SoyChile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-09-01",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMmtlR1E3S3BtdTdJUFpyZ2otVjlLYnZqalR6RERQQ3l4UFZnU1NSVVdlaDB6Vk9XT01xNWs1c2I4bnVoUWlWbEpWZzF4bTNhYWt6NW5WcG9tLXpROXlrVTNpcW5HTUxoQ2dzN1ROcjhuWU1BNElvcHk3Uk93c2lpU2J1eEVDUzg1THhQdEtVY1JCTE4tVlBCcFY3NHZXS0MyVElRVU1DQQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "1c1d05461e588e2e3fc0844e88508f1f",
+      "title": "Investigación fortalece liderazgo en prevención de Hantavirus e Influenza Aviar - Diario El Ranco",
+      "source": "Google News - Chile",
+      "date": "2026-09-01",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdzEyaldLYUlPMTNHX2p0VUdBRTlWTVBiTEU4a2Y0SDRkOVRnWmJPRXJsOWZEVm9kVTdkbTB1SHlYUVo5b3A5Z1JXcnpxOXRzcFE1Vnk1d2V5N1NJamt3UFl5VDMycVJQYjIzT25CUmtIVk9NdXJNdzNFcXF2WWU0WW1KNWxaVjJucVVsNzdxLUJmOVByWi1XakF1VXR6WllQY2syOHpTSWg2US1obDdfLXE5QWdlV0k?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "9f0bcec64868df02ab4475c2c39aa20d",
+      "title": "Emergencia sanitaria por la influenza aviar: ¿qué es el H5N1 y cuáles son los riesgos que representa para las personas? - elcomercio.pe",
+      "source": "Google News - Perú",
+      "date": "2026-08-03",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMlJnV00wTWFGQ2o3emNldU9lTXpkMTZWUGtTc2JyQWF5Q0lhdC13UXFQVTZZd1ZRdzJaSVhMdWRnVDB5YTNWR3pPMnJYWXlDWGJjcnpQSjFtYnZvQ3E1UXRWTl94NU5TWVBqbVdGaVNCM3ctV3Mwek96c2VveDAwamxvSWtpY21UOHJ1ZVo3aENGMFpGeWYwd1duMXVtM0VUNGk3VW1pdkhlNHdsWmk5a3plOHlmSEx3NElzanRyYVNSdWd2djRZemlxT0NVbmxieGdQWmRfNXNYaW5rZktSOVNnOFlZeGRYT1JyX3hBNlRwRXdEb3pEWA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-01 13:12 UTC"
+  "last_updated": "2026-09-01 19:15 UTC"
 }
