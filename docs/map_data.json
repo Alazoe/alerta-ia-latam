@@ -49,18 +49,6 @@
       "color": "#ea580c"
     },
     {
-      "id": "f838f2a80bf20d44a8ff67a48132d1a9",
-      "title": "México fortalece la vigilancia epidemiológica frente a la influenza aviar H5N1 - avinews.com",
-      "source": "Google News - México",
-      "date": "2026-06-03",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY2dvcEJ0a0xra0p1b0EwMWhQTzdRaEdqcExHUWtSZll0MlBJVHJxVUVTb2dJS0NCdGR0TkNfNDVKc2ZNOF9iMDlhN1hZYWV4RmNVMk5LNUo0dUR6NWZGUjF6VFctY2x3WUZrUE1UNEF2X2F2ajF3YkhRNkVzYUxVU2NvQzBKM3dBM00yOTVreEFtSHUwWkNta1R4TFJQa2ZxUGVJSlNR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "e17f77772accac4b773b966f8fc095d9",
       "title": "Chile se autodeclara país libre de influenza aviar altamente patógena en aves de corral - Trade-news.cl",
       "source": "Google News - Chile",
@@ -345,18 +333,6 @@
       "lat": 15.1999,
       "lng": -86.2419,
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZlZ5RHBKejFJb2g3a29ZWGRTYmdKOVp4SzdIR0p5NFJuRzBPOGcwVUlsTXd5WG5VY2k5NGhpVzJaSHJ3VjRxNmtNSFBSaE95OUo3ZnVfWFFYUkdFeUcxaWdtNEc3TWRNZm1VUVFQMGNtZWZlcG5HZjZoMUczZFBwNTkxRTM1ZkdwYjhIMVlyZEtsSnc0dlJwRDJLMjFUOGtKNVVSX29TMUgwdWZlRnlGTVZqek40VGtUUWtSU1lR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "2c65abc008d748b4b0601ef4f56c457f",
-      "title": "México fortalece la vigilancia epidemiológica frente a la influenza aviar H5N1 - avinews.com",
-      "source": "Google News - México",
-      "date": "2026-06-03",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTU9Ba0xSZ3BIOGh3ZmZtVkZwNjFQc0FOSDR2YmlrRTFqX0FfVG9WZmZlVDVYS2JmeXkzelFCYTRBeGppYnJYems4MjZHWm1YQndRUm9IYWpuTnJKc09Ub0JFODZOM21zSTJuX1V6NU5ydC1GTG5QTHhpbTRlTWF4VDJYbTlQZ0ZrRmRWTVEtLXBubnVtYzVhLVNWNk5OQWp4?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -3589,5 +3565,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-08-31 21:23 UTC"
+  "last_updated": "2026-09-01 04:06 UTC"
 }
