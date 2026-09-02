@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "e14851de409c49f54f217d84f6185eb4",
-      "title": "Levantan cuarentena por Influenza Aviar al plantel de aves más grande de La Araucanía - Araucanía Diario",
-      "source": "Google News - Chile",
-      "date": "2026-06-30",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWk83NXJBSXFQYlpCSFpET2I4RUpEU3dsbmNmN0Y3V0ZtUHRoeUJZWHptY29LbDB4MDdhdWJJMlh2VVNkMXVrcEs4R1p5Y2FSWnZMVkhXenlqVUROVTVZaFpISHp6dTItdkhhT1RNeTdpMkpzbko2WHljdFNWTjV4V3FkLW5GbDhCTk5YUllnU01fV3pMempobF9PNFYxczQtVm5UZzh6b1VEeWFXLUJWUU4xQTZ4ZkZt0gG4AUFVX3lxTE1aTzc1ckFJcVBiWkJIWkRPYjhFSkRTd2xuY2Y3RjdXRm1QdGh5QllYem1jb0tsMHgwN2F1YkkyWHZVU2QxdWtwSzhHWnljYVJadkxWSFd6eWpVRE5VNVloWkhIenp1Mi12SGFPVE15N2kySnNuSjZYeWN0U1ZONXhXcWQtbkZsOEJOTlhSWWdTTV9Xekx6amhsX080VjFzNC1WblRnOHpvVUR5YVctQlZRTjFBNnhmRm0?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "e17f77772accac4b773b966f8fc095d9",
       "title": "Chile se autodeclara país libre de influenza aviar altamente patógena en aves de corral - Trade-news.cl",
       "source": "Google News - Chile",
@@ -1885,18 +1873,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "9dcb6c9f08b9fd37f998586a16ff525a",
-      "title": "SAG confirma primer caso de influenza aviar en ave silvestre de la región de Atacama - sag.gob.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-04",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWEJVUFZtTWpQTGp0Mkl0Z3A4c2lhbllyVl92TzJZaHRFbGdzdWRDNXpCeXh1ai1xRjhHbGItNWtFWnp1WWRvLUZJZ2k1SmdObnpud1JpYnlRZUFWM0llWlhUV0g1WHM5eTBZUm8xbm5OdFc5NTdWUXRWWjFBLU9ydDZ6ak5vMlJZMUlQTjFwdjNKNTN3MTdqQ3AyYmxSWlhFaWF6R0xkV1UwUGRudk9DMjBabjFrUQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "ae7936c1ef9bc64a9441985afa9130ed",
       "title": "Honduras: Confirman Influenza Aviar de Alta Patogenicidad en granja de Santa Bárbara - elsitioavicola.com",
       "source": "Google News - Honduras",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNUl1cDBTdzEyb0hMZW5rVDk5MnRyZE1laUlmM21obmFFWW9weTJrcEZPQ3E1TV9wekJIT2JUVlJ6a2dKN1oycGIxd1B5X0tsYnhSVDlxX1dDeHNrRDZNNnQ3MkdKUTZXZElIT2xscmR0SzFyZzdfQkloVVl1eUJuMi0zQXdIaE15dlVwMEFfdElfM0ZSX2QyOHduOVlMS3JjNFROU1FrbHZXQ0R2SHI0UjQwRllmR2hWOUdFS3VrbThwT0dPeTVYamhnNGRLVTdYNlV5VzBOMFh6TkhfU1VrUHM4a29fQlhuNzY2aW9R0gGIAkFVX3lxTFA2VndtNWJWeXZ6d2NkV1IyVWREMGkwQ1k1UW1rbFA3MzYxc0NmeUs2TGpGMENFM0xISDB2NTlBQThHY2pwOTlkeVdvOTZVaE9ud1NrOEo5YXY4WkVUVW1kaTVOTVFFWGMxWHFLaXR0dFlSZTUyclBoV2VhSDFScERmYkdLNzMwRmQ0SWxRRTA4al9xUi1pUG1HRFdBekNaT29heWtxSDFFM3lIQU1OQXJGLUNaelR4UTkxdkRtZGRXNXhsSktpNW02ck9ISExhcWs5dmdaYWlZWFFidl9ZVnJldEVvWXFhQTJCUFo2MjY1SlJsQkJ1ZnQ0aW5fMEZIblBlMTlMcWMwaQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "a9477003a6a577f03118273b1e7a49a4",
+      "title": "Senasa detalló las claves para prevenir y monitorear la influenza aviar en Argentina - prensalibreonline.com.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-09-01",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS3pMNmNTQ3phbmJqdHZRMkVuWlpCOE5UVVE5UDc1Y0h3Q1kwMEdYYjVlQnFNV0xYN093U3lUY29ENHRnUUpCZXlSenRMblppMFkwRGhEZFptU3pfSmZPZFdwbE1xVFlfQWozNUtZNGF4OFJwU0JSOGhERVl2R2JUNWRGU3J4LTNOcE1IY3BsZXBTRTc3V2t0ZjAxOWFRZWdEdGt6RURSMDYxanZ4TDZ1ZlJQaw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "492659bd25355eb86bcdf0912f8d5104",
+      "title": "Nicaragua fortalece su producción avícola y se mantiene libre de influenza aviar - tn8.ni",
+      "source": "Google News - Nicaragua",
+      "date": "2026-07-05",
+      "country": "Nicaragua",
+      "lat": 12.8654,
+      "lng": -85.2072,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEVQdkU2bmFkMVMwLUJWdVEweFdjRzNITGVNMVN5ekpJbEFhM1BpbXNwZkdLUEpWMzE2eGdJMU02OFU2YWd1bFNqY3JxSjRWdW1OaVBQeF9KMm5rSUZQVFlQUmY3anVZYXlsTzVZb1BteGkxNkJKb0lzRlZvZU1RWDNlU3I5NDN3VWlwV1pBQkZLZTZvRUVNSlktZF9OVnRKR0cwdkNaY0FXRGUtbFlIcA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-01 22:26 UTC"
+  "last_updated": "2026-09-02 03:28 UTC"
 }
