@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "30916725fcdc9e4c683b64655ad5f0d4",
-      "title": "Influenza aviar en la interfaz entre humanos y animales - Gob MX",
-      "source": "Google News - México",
-      "date": "2026-06-08",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcDV3ajNDTGliaW1RcTI3X3ZBRS14YkhNTEdQTDBweDU4OU9STWFKR1B6V1ZneHp0VGJjckhzeE9BR243SkxobzhlNGtOUDNKa2FkMTBVdnNLbnktcnRDWFp2XzFnRVVtV0FseXRWcVBGdUFGa0F1MDM5VmJqZ3NxV3JNUm0zclBrM0RrT2NpQ1ZnQQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "cbfe6ba30240b133b060bff40da4dbc8",
-      "title": "Alerta en Chiapas: Detectan casos de influenza aviar en el ZooMAT - Diario De México",
-      "source": "Google News - México",
-      "date": "2026-07-02",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1NnOC1paXZZOFZiZlhhWWxRcWxramJFREJwWnhZTFF1RTdZX2lmeUI3UGdRV0xHN29XZUEwZy1PUEpiMU5XNGczZTlpdW55dFd4WGd2QXRjaUpJV0F6ajBSRnZGY2FXUkV2eFlTdlJNOGwwTDhfOEJZeUZ2T3RZeER1LVREc2d2NjJTOV9uUVhlZk1mYnBBVERYeHZPa094?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "d3721db882474208186f2bb04349f681",
-      "title": "Alerta en Chiapas: Detectan casos de influenza aviar en el ZooMAT - Diario De México",
-      "source": "Google News - México",
-      "date": "2026-07-02",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUmpQcEx0cWtocTRiOXJZbTFORDlONWJqRlZKb2VUdGJhV3pTeW9FdGQyYklPU19QZ3lJWURoYlludjVLenducUVNaUhDTmxBb21ZZ3dtY1ZNQllRQ0x6bk81eGR1ZkJlbVZqTTdyS2JtbG5qTllncjZobTR3THFmdXBCeWZydDVRQWtkRTI3aWlRX1dsTm5rVHBaRy1kazc3YkpoLXZB?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "fe16ce39dd9cdda1e8cba9222390f052",
       "title": "Argentina refuerza su patrimonio sanitario avícola y recupera impulso exportador tras superar la influenza aviar - Agroempresario",
       "source": "Google News - Argentina",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUVh3VDhDVTZUTklhSUVnRUYxWUMxbEdNODhUY0d4UDZmek9zMXE5WEtjSHlMVi12VEo1bEM1Nk14RFQzYVdvc3hLa0JBQlk4aG92eGJBdXpyNG5YZVBpTm4yNS11UENIbG9vajJycl9WQzVTeGQ1YXRoRElkRDFLdDRwVjZjdTZtSEUwVmVHYTJEcm8xYmxwQVJwUndVaUF2dXZabXVkb3RObEhrQ3BWMXhEVnZjaHJOTXBJSXphQk45YmRyNHhnaDkxNzBtR0NaNU1YQXd5eUE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "73bcf9131dbf28cfa588076d8b8646f8",
+      "title": "Los Ríos se consolida como referente en la prevención del Hantavirus e Influenza Aviar - Lanco.cl",
+      "source": "Google News - Chile",
+      "date": "2026-09-02",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5rVUg0Vzl4LTBEX25IRWRZMlJqOFZRY1IwZFBRNHZPOTV2S2lXcFFNWUJsdkYxbkRYOW1WTWxn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "9cdb107411843ae769dc9538023a7ef4",
+      "title": "Influenza aviar: refuerzan llamado a fortalecer la bioseguridad en la crianza de aves por nuevos casos en Los Lagos - soychile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-09-01",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMmtlR1E3S3BtdTdJUFpyZ2otVjlLYnZqalR6RERQQ3l4UFZnU1NSVVdlaDB6Vk9XT01xNWs1c2I4bnVoUWlWbEpWZzF4bTNhYWt6NW5WcG9tLXpROXlrVTNpcW5HTUxoQ2dzN1ROcjhuWU1BNElvcHk3Uk93c2lpU2J1eEVDUzg1THhQdEtVY1JCTE4tVlBCcFY3NHZXS0MyVElRVU1DQQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "8e521b0f3f4491309c4259a74158c365",
+      "title": "Expertos nacionales e internacionales comparten experiencias para fortalecer la preparación del país frente a la influenza aviar - OPS/OMS | Organización Panamericana de la Salud - paho.org",
+      "source": "Google News - Honduras",
+      "date": "2026-07-02",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZkF6TkZRYlpVc1Zfekp4d0tpYkpNalZQQWN6Vm54X3V6SG00VHVZcFQ1VHBfb0xNTkl1alk3RDdiOFg3ZFpVTDdlMjVhZWpiMWVycFF1dk5CMHNpZXlCTVBpOHI3RXBXdHhQUWF2ck1SZkZHbDBSbXUwNHZ3NVlsUjVRYWxmN0xOaFZGWHlEZS1rLU1BWm83TFU5ZWE5RE1PQVRFbU5qOFNnNjFBUDBGdEw3QlUwelJUcmc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-02 08:31 UTC"
+  "last_updated": "2026-09-02 16:09 UTC"
 }
