@@ -1,66 +1,6 @@
 {
   "alerts": [
     {
-      "id": "ddfb76d2be10af31384ad0b61475edb7",
-      "title": "Chilehuevos aprueba fondo de hasta $1.000 millones para apoyar a productores afectados por influenza aviar - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-07-06",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWkNKTEo0dzFPYzlZQWNvYk05SVlkdEM3S2FIV0tqSjVkbDdSamhqbExzSEx2LXA0RW1pcWJIS0dhT2IyaS0zZGlEaTVZcHNVeC1SVDFCcS1DSldLbEdPaXBQZ0lPa3R6X2hrclppcE1MVGg2WExjMnRLdm0teW9sVjlsSUxxeHF6UnZuZWl5SXZWYjdfbHViUmtPd2tYTGZSbFVNbkxFS3VCTTZCa3ZlTm9pVUFxX1c2aDhMTmF6eU9vOUlWRlFFZWNXVERFX1N2OTNRb3J3WWJ6cjFnanE3bWJn?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "ce7f99fae3841be6bcf8d4db042a0b38",
-      "title": "Fortalecen medidas para mantener a Guatemala libre de influenza aviar - Gobierno de Guatemala",
-      "source": "Google News - Guatemala",
-      "date": "2026-07-06",
-      "country": "Guatemala",
-      "lat": 15.7835,
-      "lng": -90.2308,
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNX2k3dHk3bWZQN1RMMEd6VU9xOFBVWEVUV25ZRG1maDVGMWtwc2p2Sy13alZuWFNJVkFpekhfMHlWOWtTbjRtS2FVcnRyRnE1cHJIb2ZwTUlpU3ZjM1BjTkFaT1E0cU1CQVNOWm5HRzV0dkFkSlZTaGRwYWcwN2o0dkFPd0dnYlpoY08tYUVKRmE5anlRNWFpS2tQOA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "ca3d1bfeb481a52173e73756f9da7f4a",
-      "title": "Avicultores garantizan consumo seguro de pollo y huevo tras casos de influenza aviar - elheraldo.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-20",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZlZ5RHBKejFJb2g3a29ZWGRTYmdKOVp4SzdIR0p5NFJuRzBPOGcwVUlsTXd5WG5VY2k5NGhpVzJaSHJ3VjRxNmtNSFBSaE95OUo3ZnVfWFFYUkdFeUcxaWdtNEc3TWRNZm1VUVFQMGNtZWZlcG5HZjZoMUczZFBwNTkxRTM1ZkdwYjhIMVlyZEtsSnc0dlJwRDJLMjFUOGtKNVVSX29TMUgwdWZlRnlGTVZqek40VGtUUWtSU1lR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "aacbbfd218539ce76902300e877e1f52",
-      "title": "CHILE: Detectan primer caso de influenza aviar H5N1 en el norte del país - elproductor.com",
-      "source": "Google News - Chile",
-      "date": "2026-07-07",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNWVWRTU1clVLX09FOTlTRE5JR28zaDUtdy1IOGlnczR2QW4tcGpnYWxJOVJJbEp1NXN4SmZxYzZucUNTel9KUzNoclZKeWd0Smhza2hoZTJvZENiWWNvU3hHTmRINE5PMkZKTENGaEJzZjZxdnRNRV9uVk92dS1yZEYyS21ZQlh6RUFCakM3NWdacHdvaWRLZ3RyZVJNc0hzM1ZqWi14QQ?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "8b2812d9d048717d7a3439c49cc90e13",
-      "title": "Video| Alertan por pelícanos con comportamiento inusual en playas del Pacífico tras reciente caso de influenza aviar - El Observador CR",
-      "source": "Google News - Costa Rica",
-      "date": "2026-07-07",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSjUxbDVfX3A3QTg3SzY4THF4ZkhzNGZhSXJTNDVjX2EyNXlFTVdSZnBabmxhUEZ3dFZxT2lTREVZTnlVWU43cDM3QVR6dkpyaWhWSzk1TkMySkR5YmcwaDZxU3lTRkdLS3lPUzBNVkxTWFp3RENGeTlxY3lza1ltWi02UF9adWpQb0daUE1xVVRaR0VVcnUyeUFCWGFmNTlZeFdlc3dvdmpJUElZaGhIOVFJZ2dYWnNoTWRYaW5QWHp4QnV0UllUSGo1WVRZMGVEMzk2Qg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "a975a0361ddf397590890c89cb9485f5",
       "title": "Confirman dos casos de influenza aviar en el zoológico de Tuxtla Gutiérrez - Meganoticias.MX",
       "source": "Google News - México",
@@ -3599,7 +3539,67 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcjRtTjBJTFI1c29wOXpFTEI2MlhIdGFqbHJzaVFMT2ZWeHlaQ05NVDBTaEExQTI1TEhQY0syMUNoTG5RNk1Na3hyaTMtRFNqdHpfSGJ5RlBPdUhJRmpxZHdyc05VQTRRdUU0TkNxamRJU2tWVUlGcTRUbEl1RDkxRzQxQmc3aGRSV0NpSWJGWmtUbHN5QkZiQXNfaXY0aGNZbEJVSTctaC00ZmpFUU9fa1dkVUFQQQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "95a10ecd3c503c448e067b7e51f60c80",
+      "title": "Influenza aviar suma dos nuevos casos en Los Lagos y provincia de Osorno recuerda focos registrados - BioBioChile",
+      "source": "Google News - Chile",
+      "date": "2026-09-03",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOWFF2RWlRQnJneVM4TFoyTGUteDVKR0JNTGVaOUZzZzRXVm00dnY2LUtaMzlZLUxPTEtuX3JNQnpoZjBrRzlnNU92ZEtCeU9NRVUxZjBqNTQ3dHVDUXNmX1RzN3JlVHZxRVpiVjFTcUxJTlFSUDRZOUVMYk0zUVExNlpNMldNdElKckZkZE12c0RUN2JueDBua1lGUl9LWG5OLVRXbXBOZDJSMW5xSFllOW1Fei1uX2xsSHN3ckktZ0xuRjdtbnFMcGYtUUoybmw5XzQzc2xTVllhX0VfYUlkdmdTdGtXVktyT1lwTndKMF9kWHh5UGYyRDJZZjRlc2hzVXZDLU9XNm9qZlc5Z2c?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "e38e280bf75e6f3b59342e038ff555dc",
+      "title": "Senasa declara emergencia sanitaria nacional por influenza aviar H5N1 tras detectar brote en Cañete - diariocorreo.pe",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbXVyNW5NbzlQM1J6QWVvdU1IZDJ6LW1oWW4zQzh4TEt3VnRaUS1RMjlvNXNCMG0tejlNWkNVSkRleTRZTnN6ZW95M2JvZ3NOQ0h6YU9CaDhpRlZYM180OXlZZFNCQWNnaWRUb2NUbDRWRVVTaHlkLWhMTGE1YkladWIyTW5QdzE4QTRiN0FxQU1PN3NQZUJRajhrUG5EQzhQZlVVRFJkODBMZVB1NmFPWGZmTXN2RzdDWnpBNFN0dGloRzliZjZIVzBjNWlZcVR2V3Zv0gHnAUFVX3lxTE40azBLdlY2QmxUWi0ybm5mQzF5VU1PczFFVXk4TFV2XzlsWHg4TmlrRFNJMHZaVUhtaTFacmZfNElZVTUtQ1hkZjlyVUFnTXpzc0trcjZ0RXZMMlVOemttaGYtcTFZOVJLbHR4a1dIQnRRaW9nNmNGaWZiNGVXMHpMbU1vQm9nTXBVLU15Q1ZmX1FHQnc2X2hVaU5YR3ZJeUNYNTd1aEh4MXZId0d4YVZXeS1LT01nc3RtY2hVZFZ4a053YVJpU2MyUTkzX2g5NTktbGpmcV82VWpab3VvWmdtN2F6UGF0VQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "a09845ecce2383c3ea0dbccd7044477e",
+      "title": "SENASA fortalece medidas sanitarias tras detección de Influenza Aviar en aves silvestres - elinformativo.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-09",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00akxZT0U2VW5KcmxnVV9TZEJJSmNSVkZ1M1pqNnVJOFh5VHd2dGZ5N2daNHVaeVdETnJnT1EwYVNVZHhPdWdYY0Q3cUk0Q29BTWg3QW1zWQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "b7a79e8eb540363936ce70cff15ea51b",
+      "title": "Consumo de pollo y huevo no representa riesgo tras caso de influenza aviar - LaPrensa.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-06-22",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWklldzdhNl9nQ0ExVDN6TlRJSjhzdEdaRjNHcnl6MUJpamEwSlc1OHlZUE40dW5oUVB3OVNLTExCaVZOQVl4N0VhdHZMZ09xNHIzdzIzRUF1R21nNFJLRnVoYjF4eTN6a0FIQWRLdkZHV3lBUVFTX2tRSHlJYV81cUxjSldnaUNiLV9FRTNkZktnUWJwOU1LNFBxS0VLM0c0SDVmVTlLcE5ydndB?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "a8735398030ae69aa845ce5747049a81",
+      "title": "Avicultores garantizan consumo seguro de pollo y huevo sin riesgo de transmisión de influenza aviar - Diario La Tribuna",
+      "source": "Google News - Honduras",
+      "date": "2026-06-21",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc05PUkctSWlZUGI1cVYxeG1ULWkydUo0clJjclJGSTg5enpmSndyYjgxdElyUXFyMkJqR3NjWC1JWDZpWnFyZWRTaXp6MFNEQXBGNXNWS25PMlhpazc3LXNMaFE3WElxSEg4ckdnY3NZYm94YnVPME53Y3YwS0hmYlVoMVVfNllXMFFUOWlzOXFkSDZUbjFzdHo1dlR4Z25ScUJSVXlnQ1ctSmtwZ1JEaUdZYUZycjBnLVh3TWJwZnR4cW8xWGtKWUY4bC13b2lGVkE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-03 19:15 UTC"
+  "last_updated": "2026-09-03 22:22 UTC"
 }
