@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "c68278627e58bb008065b220a3a4ed7f",
-      "title": "Descarta Senasica afectaciones por influenza aviar en Chiapas - Hoja de Ruta Digital",
-      "source": "Google News - México",
-      "date": "2026-07-03",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRVhGdzZwYXI3emVJZE51OHFJbVdCdlI4V1VkUXMzNzZPRW9LTE02eUVKbUZubjZncE9wUW84LXFSWlZUejZKTkZaWGh2czdWRC1XNDZmOW9mT0dBajFpMUtXR3pHa2dwRmY0RUFBdGtIUlktWTNfU25UbnlvQzBKMHNQT2hkYm8wWEhaREVKSXFaMnNzR2c?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "e1d8da0b497d4eabac2522938c9fb22a",
-      "title": "Confirman caso de influenza aviar en Costa Rica - diarioextra.com",
-      "source": "Google News - Costa Rica",
-      "date": "2026-06-25",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0NXVWNSMklnMmVuQzl1WHhQTWlTTHMwTDAydkJnSnJqZmliTUpGb2J3YXBWWV9heElVUlVJZXktR0RpN091X1o5RHlkTVJNTktFLUJua0RNVWRESW5WTTVrUERmMWw0dS10aWxaRTlnQkc0eTJFY1Y3cFFzSjQ0TkNWZFBJRldDQ0JYNTFneUdWd01laEh2WWlGaTdUTjRmRlNSWF9MQUZOWkNsbXpOcg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "5cb508e652fb1b206b031d55bf7c35d1",
-      "title": "Argentina recuperó el estatus libre de influenza aviar y ya exporta a más de 75 países: cómo lo logró el SENASA - Ruralnet",
-      "source": "Google News - Argentina",
-      "date": "2026-07-04",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUzNpUlVDb180U0xsczRpQktNZ2N6cVp0RGNNUUNTaWFlaklCNXBRcnhHMFJIc25FSDQwYS02MTFaSXB5RGRfSV9Gd3VrZGNYV3dXQm9RX3pkUG05aE0yVmtwZFdfeGNNOXh0RU5aTlNHdHBNY3V6WjlFSGFzUDA1dlYxcjdaUQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "ac4dbe78ac0f3396b239665aa164c51b",
       "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - G5noticias",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX01wSEU3TGRkTFRGUVJwMlpDZE4wZVo3MW9BcUxtazM2bDAzMllvUVJoOFlZVDZJUEk4cUkwTUpBUXU5cEhDUnZNR1h5MlpwYlREbmZQbWhZZm1sUVBjSHpqS3dKQVpnWEczTzdqS1NUSU5MWjJRd01PTF83dXpjbjE1VTdkT0J5N2ZkVnk2VkhYN3RDSWh1ckJkNkpDeEZqN1kteE42bjZyV2lx?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "dbbc86b76f5422d3e2ff8c70af7f9d9c",
+      "title": "Las claves para prevenir y monitorear la influenza aviar en Argentina - R2820",
+      "source": "Google News - Argentina",
+      "date": "2026-09-02",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbDBiQ2dzU2FjOGxqVTJRWDR1US1UXzc4Sm05cWxoNmVSM19tcFdpMW1IWFh2YjhjdWlmdTJJY0FOcjAwTldFRzdnaFNaSURqZFNydUZldUQ4RmFycU1UN3JGNnRZbFFzS0tvNThlZ25zYnNfbzlnVm5OWFNGV2pVcHJGVTcyQzZVWlFtMjF4YjVGcnBtLXBLM2FwbXpua1ZWVFdSNmhXdDFmelRFUVJMUGY0WHZZSmQtVWNSRXc0RdIBvwFBVV95cUxQbDBiQ2dzU2FjOGxqVTJRWDR1US1UXzc4Sm05cWxoNmVSM19tcFdpMW1IWFh2YjhjdWlmdTJJY0FOcjAwTldFRzdnaFNaSURqZFNydUZldUQ4RmFycU1UN3JGNnRZbFFzS0tvNThlZ25zYnNfbzlnVm5OWFNGV2pVcHJGVTcyQzZVWlFtMjF4YjVGcnBtLXBLM2FwbXpua1ZWVFdSNmhXdDFmelRFUVJMUGY0WHZZSmQtVWNSRXc0RQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "8b21512ebadf62fbd0b9bbda9f9d5fd4",
+      "title": "Influenza aviar suma nuevos grupos de riesgo a la vacunación antigripal en Uruguay - lr21.com.uy",
+      "source": "Google News - Uruguay",
+      "date": "2026-08-31",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0hCTTBvSkhNb0ZzMmxPQmliOU5QT2t0Nmh3a0lvX25uYU5wSmE5R2VTUU0wN1ViSTRSbExzajV1Yy1NZnBDTkV1SktSRzFZalN5M0l5OTllS010OVV4ckFPY1J6czQyaTVyaWlMdlNJcll3bFRRMWdfRDl3RDZKUS03X0pJQ0lESVZ3QlpHYlpxQUZRZHh0UmR3eGdPS3lDTEI2Q0IyWVNLdVVrbkNoMEZZU1MtZE1wZUFCXw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "01ecca4d098d028070c07be0a051cce8",
+      "title": "Gobierno decreta 180 días de emergencia por influenza aviar y niega alza en precios - Jambalaya News Louisiana",
+      "source": "Google News - Honduras",
+      "date": "2026-06-29",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxONnpVaVBJOW5hWmlqcHN4c2VkYUNkYjhtOTdhVGtiZmJaeUkxTHRyRVlKRnhzeGZaZGIzUGQ4SU8wRXlpUkZSSEVXWUZnZUlUV0VQUXpReEFMeHlQZ3EwTEl0MXFtQ3M0TllaZ1VHZEprZHBKQTBVRVk0aEdsSTB5RHFISEd6N0dkVEozOGFROGNTbW03eFZyd0hEdWFBeklhZEZETHMxRzl5TFRhX1BqNGdGNVBSVk9DLW0ydjdNa1FlQ2ZpSDl3cTJWVHEzanJZMC1iNkZQSW1ZMlg4OUp3WHY3TmpvRWJwSVZ5ejZ1WUQ5RFlQRjBMME1POUZnWnVqeFpwSnJla09hck1wdlVV?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-02 22:25 UTC"
+  "last_updated": "2026-09-03 03:30 UTC"
 }
