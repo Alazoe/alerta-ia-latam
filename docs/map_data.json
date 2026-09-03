@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "ac4dbe78ac0f3396b239665aa164c51b",
-      "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - G5noticias",
-      "source": "Google News - Chile",
-      "date": "2026-06-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOF93OW4zR0Vnb0RGY0tXVXRReDRQYnNncUtGMVJTVjlsOEpQZjRwei00WlVVRTF4cGRCYkFfeHdITXBiemllWEQ2VDhTeEZJbkJtOUFMdjRCZzlqNzJVbDRwSmZNZ1RmVlZ0V2hLcElLWkx2TnhiVTQ1bGF0NjNNT0FYZHhsdTFmVTl6dzh3cnc5QWxjWHQwMTJPS295OXZQcVc5VGJXU3VlYnI1MERVb1VBV3pzejRGVHlLdUN3?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "3382793640e508960b1611161bbe57ed",
       "title": "Chile se auto declara país libre de Influenza Aviar altamente patógena en aves de corral - Diario Sexta Región",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxONnpVaVBJOW5hWmlqcHN4c2VkYUNkYjhtOTdhVGtiZmJaeUkxTHRyRVlKRnhzeGZaZGIzUGQ4SU8wRXlpUkZSSEVXWUZnZUlUV0VQUXpReEFMeHlQZ3EwTEl0MXFtQ3M0TllaZ1VHZEprZHBKQTBVRVk0aEdsSTB5RHFISEd6N0dkVEozOGFROGNTbW03eFZyd0hEdWFBeklhZEZETHMxRzl5TFRhX1BqNGdGNVBSVk9DLW0ydjdNa1FlQ2ZpSDl3cTJWVHEzanJZMC1iNkZQSW1ZMlg4OUp3WHY3TmpvRWJwSVZ5ejZ1WUQ5RFlQRjBMME1POUZnWnVqeFpwSnJla09hck1wdlVV?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "11dfad8d6a5bea19f266a1549bd02fa8",
+      "title": "Senasa declara emergencia sanitaria nacional por influenza aviar H5N1 tras detectar brote en Cañete - Diario Correo",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbXVyNW5NbzlQM1J6QWVvdU1IZDJ6LW1oWW4zQzh4TEt3VnRaUS1RMjlvNXNCMG0tejlNWkNVSkRleTRZTnN6ZW95M2JvZ3NOQ0h6YU9CaDhpRlZYM180OXlZZFNCQWNnaWRUb2NUbDRWRVVTaHlkLWhMTGE1YkladWIyTW5QdzE4QTRiN0FxQU1PN3NQZUJRajhrUG5EQzhQZlVVRFJkODBMZVB1NmFPWGZmTXN2RzdDWnpBNFN0dGloRzliZjZIVzBjNWlZcVR2V3Zv0gHnAUFVX3lxTE40azBLdlY2QmxUWi0ybm5mQzF5VU1PczFFVXk4TFV2XzlsWHg4TmlrRFNJMHZaVUhtaTFacmZfNElZVTUtQ1hkZjlyVUFnTXpzc0trcjZ0RXZMMlVOemttaGYtcTFZOVJLbHR4a1dIQnRRaW9nNmNGaWZiNGVXMHpMbU1vQm9nTXBVLU15Q1ZmX1FHQnc2X2hVaU5YR3ZJeUNYNTd1aEh4MXZId0d4YVZXeS1LT01nc3RtY2hVZFZ4a053YVJpU2MyUTkzX2g5NTktbGpmcV82VWpab3VvWmdtN2F6UGF0VQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-09-03 03:30 UTC"
+  "last_updated": "2026-09-03 08:39 UTC"
 }
