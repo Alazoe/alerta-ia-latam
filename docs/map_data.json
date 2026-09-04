@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b6453cc7d9e5c6ada339dfe104bfbd8f",
-      "title": "Prevengamos la influenza aviar - Gobierno de Guatemala",
-      "source": "Google News - Guatemala",
-      "date": "2026-07-10",
-      "country": "Guatemala",
-      "lat": 15.7835,
-      "lng": -90.2308,
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oeXlUdkZsMnlBZTFCd1hZQk50U3pGTG11WEN5SDUtTEhBVUJTWUVMVlpaT0s3bUZyTzhMN0xPamNlSGNkeXdoTW5zTGJlSVpfZjBzQWhTd2VsN1VCbmM4SUVIQUltRHM?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "6424437a58ad1b1399cb0a19864989d6",
-      "title": "Descartan Afectaciones Por Influenza Aviar En Chiapas - lacapital.com.mx",
-      "source": "Google News - México",
-      "date": "2026-07-04",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdWtzM0RlYUxHQ0c1NG5yMUlIS1FRYXZZSHcweDBxQ1pkejBna01TN3ZJZmJfcjBITUwybURTcFlLdmJBUGh5Mk91eGlpdDJDTFV5cDNqZktWemxZYnFaOHFJR2VRbHZXaF92cnlIbm5nX3pTUlJpcjg3cERQbVZqU252VUdnYU9VRTNKc3FHQXYxNXlWaGNvdENXdVNuUQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "d64d6ef335cd4003f5635c6762e6a959",
       "title": "Senasa vigila más de 500 granjas por riesgo de influenza aviar - laprensa.hn",
       "source": "Google News - Honduras",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1NnOC1paXZZOFZiZlhhWWxRcWxramJFREJwWnhZTFF1RTdZX2lmeUI3UGdRV0xHN29XZUEwZy1PUEpiMU5XNGczZTlpdW55dFd4WGd2QXRjaUpJV0F6ajBSRnZGY2FXUkV2eFlTdlJNOGwwTDhfOEJZeUZ2T3RZeER1LVREc2d2NjJTOV9uUVhlZk1mYnBBVERYeHZPa0940gGmAUFVX3lxTE9SalBwTHRxa2hxNGI5clltMU5EOU41YmpGVkpvZVR0YmFXelN5b0V0ZDJiSU9TX1BneUlZRGhiWW52NUt6d25xRU1pSENObEFvbVlnd21jVk1CWVFDTHpuTzV4ZHVmQmVtVmpNN3JLYm1sbmpOWWdyNmhtNHdMcWZ1cEJ5ZnJ0NVFBa2RFMjdpaVFfV2xObmtUcFpHLWRrNzdiSmgtdkE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "110fc093d96239af4b6f2a2139b71f84",
+      "title": "Senasa refuerza medidas contra la influenza aviar en Argentina - motivar.com.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-09-02",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcW9VQUhIVElfclNBXzhoNG9oblV1RWlFZDRSWDFYUWJ3Z2I1OEVrVU9TRXZWbkRYT2tBY0ozbjNyS01VaTR6VTVrM0JoVUNoOXhIamhDLUNIRzVsUWRLUnpZajFlbTZhUk8wTXBGZkdHM0ZwV1hlVWdqUWJicS1jYjdfWTM2Tk9YeHc5dm9yZ1dPTGJNdjNRYTdadFlJY2JBeGVzOXl5NV9nQnozMks0?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "1711110e24a8ae09e149c63b0a47315d",
+      "title": "Internacional Colombia: Balance de la situación sanitaria por influenza aviar de alta patogenicidad en el país - elproductor.com",
+      "source": "Google News - Colombia",
+      "date": "2026-08-21",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPczBzWUFpRkZwaGZKOFNjM1l2Q1J4MmlQLVNvbGpPeG44RHV6S2k0d1FWdS1uMnBaUEdKOUNGMjgwYlc0TWRSWnY0Z2VCVWxDcGxteVJuRlQyQ1JlUEUxWjhiTHR1TFhObEI3RTM1dWJnamV3bkU3Nm4xVUgzVWJzZkhZeEV5NjNzNWowU0sxVkF5ajFpbENobHEteG1Nc2tiM3hlZHNhVEE5UVVSM1h1a3dmMmpRYkZ3WHEwRVYxT2xWYU1GVXJ6MmcwMjZ5Z0ZrNXlJcE1mVDJPTzg4T0Rv?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-04 15:56 UTC"
+  "last_updated": "2026-09-04 18:55 UTC"
 }
