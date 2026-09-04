@@ -1,78 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d64d6ef335cd4003f5635c6762e6a959",
-      "title": "Senasa vigila más de 500 granjas por riesgo de influenza aviar - laprensa.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-25",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNDRsWlVtV2FvTGQ0dUtGTXRpZGdXTkxWSXR6OUJtX1hpRnVlZ1pTRDl3U240SVdKTnpPYjFZUjdiYzJmNTh3ZW53YWdhbnlBeEVQQ19DeVlfRE5ZNVBEa044Q0V5Y2NnNnl3ZnZFdkxQYWtUVVRWXzhGdzdxTkxqdjgzQ3BJU2F0TlFFTHdwSzVjVVNYV0N5Vkc5b21TNGlZb2Rn?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "d09a86207306cebe9cbbd4422fc2aa45",
-      "title": "Influenza aviar, tendidos eléctricos y El Niño amenazan a aves emblemáticas en Latinoamérica - Mongabay Latam",
-      "source": "Google News - Chile",
-      "date": "2026-07-11",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXzRRY2JWOUlJejVtZ3FjOWpVTVJqb2lJRzRlR0ZrcFJqcGJOdWxScTZOUHp2UWE2alVudU9nQ1duM1hGSUM2ZHNmY0Z1dzBpNzdvQWhxZkpUb0xsRzJ1MEdBc0w3YzczRFNKU3hMLVg3VEhGd2FpSkRIZFI2dzYxa0UwR3l4Rl93bEpldzJFNnZSU2EwbERxT3FaTU1hZkQ5UGRZZ2Y5RQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "fc07f62ae10e51189d3aa4585b2e588e",
-      "title": "La vigilancia es clave para contener la influenza aviar altamente patógena - Andes on line",
-      "source": "Google News - Chile",
-      "date": "2026-07-11",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNd2lHU1Z6YVZFd3NSWW0zdEZvSXNGaU9OQ2d1cjRaNEdjOFRIRnlHZ2pueDl4dmpjQjRFdndTazgtYkFydUtoUGZCN3hvb1VFQTZiUXFweVhPNFEwYS1hZDhzcmdUZV9IOWNDYldrZGEtZUFMeVhtbEp2SDJvcVF2d0xzS3RiTjM3OUpSY2pMQUlZVEVKM09aQXRXNlNWZEpMbF9BX2dyd0VOU04xSC1mSXoxZmNDUEZoZmF4dg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "031e18f5e7ae9f50d0a25b354ca13ff0",
-      "title": "Influenza aviar: Chilehuevos crea fondo de $1.000 millones y Biobío se acerca al fin de las cuarentenas - latribuna.cl",
-      "source": "Google News - Chile",
-      "date": "2026-07-09",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQQVdEMFF0TFJ1Q0lDa3Nwdm5OV25QV19fczNWcGxjaFBZNHBJVE9xWFRXLXNOWWZ2STNndDhTOWdBYXlXNnpEOVhldGpBVmctWThVcDl1bTFJYWJNaTI3UWVjbXJzNGJnS3ZNd2Y3SlBlNjJKaDFpUGNNNmdrTDRwOE1PaWs5Uk1NOVo2aXBDU3F0bGw5WGpadDYxNFNhbXRIbE1LXzl3Wl9mTy10WEhpLXA4WTlVc3FOa0sxSVRlclVDa1Q0RU9fOFNIYXVBNGRlZGpBekZGRnZUUWRDdlF3R3VYMGgyTmZZTnNpSmktNljSAfgBQVVfeXFMTWwwSURDSW1MckdxUUc5NmN3S2NVdHVjdHhQaTE5b3lfV2VYcUktWkdlejNUN3J3Y0VSX0lFYm1iWVNMZVBMaE93WVJyVUxXMnNIV1l0bXFFYzFRWk1XZHlQRGhzUExuRFhQaWxDcDZqajNwT1hUMDFCbnloelVaWU5OX0R0bG9pbDBlZExFUm9fakF2dzdrU1N2eHlhYzNlWC1qMnI3WF9OQ2Nxal93RkZCUWwwX0MtVVk1SEIxQTFkS0FRRHpjREM2ck0tQk5Gb2YzNDBBREUwd1RqNlRWNHZnXzdTRXFiNlFUUWxPN3ZwN1ZWMXFXOVA?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "08d66d93a7b84641562d8ef74840e062",
-      "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-06-24",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0M2a3NzSUlLMWE2bEJLdWt1T1FwQmc5djFYbGo2U0ZLQldDX0J2Slo3NG5rMkJ5UEFNcFEwU3hMR2MweVhDSFRxQWRGSmVlV2tXWHlNRzB6UTUzLWI2dTBFTlgyb1AxUm5HN1ppWENON1RJTUR4TnotWWItWWFaZ1BpYk5EcHlnUDFKeUZEMkRKZE5kTGprZW5CMnljWVJSb0p4Q0RhNWhxVmRFZWdJRG42Qm5BQlFCMFE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "030eb47cf36e7756cf9809b79934037c",
-      "title": "ICA declara estado de emergencia sanitaria por brote de Influenza Aviar - El Quindiano",
-      "source": "Google News - Colombia",
-      "date": "2026-07-13",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQmNRSms4LUhOZ2xxRWZCaXVsTnR6T21FYk1WaDFhbXg5eFNiQ0d0Q1V0WDVRVE9EME52TlZGakJtOUlWOTJGcUhwUmNIVlFUX0U1QWtYS0pqajg1NVVjNGY1anhzbTdrc2lpQTBQT2N2d2FoUEZEZF9meDVRQmtOaU1RM0xobW1VYWhKTlJ2dS01TTFERHc4QXg1ZjdvVzhGa0E4bmEwdDIwYUgtbXJtdA?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "9ba6d81b8609b3654f6891423671e402",
       "title": "Senasa mantiene vigilancia en el occidente de Honduras tras detectar brote de influenza aviar en aves silvestres - hch.tv",
       "source": "Google News - Honduras",
@@ -3599,7 +3527,79 @@
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPczBzWUFpRkZwaGZKOFNjM1l2Q1J4MmlQLVNvbGpPeG44RHV6S2k0d1FWdS1uMnBaUEdKOUNGMjgwYlc0TWRSWnY0Z2VCVWxDcGxteVJuRlQyQ1JlUEUxWjhiTHR1TFhObEI3RTM1dWJnamV3bkU3Nm4xVUgzVWJzZkhZeEV5NjNzNWowU0sxVkF5ajFpbENobHEteG1Nc2tiM3hlZHNhVEE5UVVSM1h1a3dmMmpRYkZ3WHEwRVYxT2xWYU1GVXJ6MmcwMjZ5Z0ZrNXlJcE1mVDJPTzg4T0Rv?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "e79c0d227af619a3190d8c4fa19d39cc",
+      "title": "Alerta en el norte de Chile: confirman el primer caso de influenza aviar de 2026 - AgroLatam",
+      "source": "Google News - Chile",
+      "date": "2026-06-22",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdmxtWWpWdjJCZ3ZBVEFtSmg0NkNLSTlkWHJaRk5xQnlZdjFsc2RIQ2hSRW1ZMm9RY1gyTjJBeTlnVENBLUJkdEFzWXUzblVGV3QybDFPTlhRQjJiYVRTRkM1N1RHUlNhWUFtX19vcDl0Rno5VzJqVWFRRTNzcXl2U1B6QmtIVm5lMC1CTzN2NFg0Y2ctZ2tJMWQ3Y1RhUEZqc0E?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "17f664f7284a09cb155f675737c02104",
+      "title": "Valdivia será sede de inédito encuentro nacional para investigación de hantavirus e influenza aviar - Diario Futrono",
+      "source": "Google News - Chile",
+      "date": "2026-08-24",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYWxKOTN0Rmw3X3FiT3UzRFFDV1paOWFadDVQbFdjMkV3RW02QkZqT2xIZG03VGFWOVpXSTR4Yy1LT3lwekNncnNWby1QTl9RSjdLSzhENVEyejIxWXFYLUVkYlh0TmVETmJvQVpxcVViS052QzZ5RUxYRXc2emFkd01vNm5ta29YazNtWm04bm0zVF9PVWxULUlzcHd2SWRnS01adUQxdS1YWEhielhqeExiZy0ya3FKYndiRWZzWmtGdTQwVlZfVzlqSE1qTG9BWndSUk1pMm9mT0h3TXdMQmpvRlc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "1711bb8e9eac66428f8b0b0a3688e42a",
+      "title": "Uruguay declara la emergencia sanitaria por Influenza Aviar H5 - EFE - Agencia de noticias",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-04",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM0lKRXRIUUZCTmRvZnBwQUc1ZFBuLVFRNVRTQXM0ZFR5QWgwY3ZxNDdta3JhRE5vTWFLemdZRXltZFBjRDJUckNNZWtVTkpxLTJJRkd0cGg0Xzhsb0M1TExKT3BPOWx1eDFoZ1FaQWZKMVhGLUJtZzNEWGpBdGhES0lLcw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "71e92e3940312e4679e5bff5ee2d0f19",
+      "title": "El MGAP confirmó un caso de influenza aviar en Colonia - lagaceta.com.uy",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-04",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdjRpZXMyVzZtZ2ZhNUNxcThIamFIamc2QmZOYk4xM2dVaVpncFNTOG5oUUNmVlB1Z01Md3dIcGtpajQyZVlGdDhXSmk5NG9nSnd3MVBhZWxkRnNKUVNNTXlrUjVkbHJTVjNpM0xuV2d3eWJwbTg4OGNXZXUwVjUxdGFFZnludw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "2d09d8ae2a925f1dbffb8b98357e0d90",
+      "title": "Declararon emergencia sanitaria a nivel nacional por un caso de influenza aviar H5 en Colonia - Telenoche",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-04",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNWlSWF9aSWJ1ZnJhV250U2pwX051SGI4OEVFQWNQWEhfdldfV3FDSFZ2NTloZk1uSV9xNmZnZzdiR2RIOEtXaHp3dm9xQzJkR0FDaEtWZEFVSzc3M0ZEYTBlQ0xkN2lYNXJjRjZpX2s1Tldab2J3WmpUSzBSaV94aWhtSUthY2ZmaXRnZkFYV0VfS2hLZDNOZW0xSlFfcVN1S3gyLW93Vl9MTXJfUklxZHYwRG1kVjZBNWlCaFUxT2loT0haNC1yXzBhQTNWeFUy0gHPAUFVX3lxTE5EUlV6bDlyNkVXT2JhZy16R3l6N25uR0VVWlhOb1lYaEFnRGltcDgtclNpM0daSENnZlJtRTJiZ24ta2FQU1hOZ3Y5dTJTX2s3dDlvNTg0ZW8zbk83bzRQcU9DVERNYjFodGZsVVMyMkRHa2RUWDBjSjFlMUlOR0ZnemZqTG9OdzB3VlVpYU85Sy1UdVZkeGhvNnVxem1aMW1vb3pDeGRqREVPclEyTW1JUHRYWC1xZG81UzZCYU1BYTl1M09OcU1EVHU0NEZ6WQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "f8cfb4314b02e42011aa0bdc04db7cce",
+      "title": "Tras confirmarse caso de influenza aviar en aves de traspatio en Colonia declaran emergencia sanitaria - radiomontecarlo.com.uy",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-04",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQXlnRVVkR3c4WHg5OEF0S2lpbWFQYkVpOUl6bUY0ejA1SWJKR01qN01YQk1iZUtKdElIQU9HMTJwU3pKemV1MHFtX2JaR1BzT0lKTF9ic01WaHY2d0FDdnlSTVk1UHNBZENIZXhlUnNNRHZYWlplX3RNRVVIbG00SThpcC1VM3ZqeWR5elJkQ1ZkX1VDWHdWcUZ0bHdSa3p6Ql80ZVhGUGxjNlRiRVFHa0FvZXNlSmZ6SVQybk1rUkN3M2J3aTN0ZldZcFFRMEFRUG1GaHMxOU5hNVNDaUZnMW4ycG04bnpRaGlF?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-04 18:55 UTC"
+  "last_updated": "2026-09-04 22:11 UTC"
 }
