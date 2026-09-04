@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "f1b18a9a5dd341ad12992a3a175cc119",
-      "title": "El ICA entrega parte de tranquilidad por brote de influenza aviar en zona rural de Puerto Carreño, Vichada - ica.gov.co",
-      "source": "Google News - Colombia",
-      "date": "2026-07-10",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yTjVoMXh4NHFQZVRWck5wZ2p3a2NqcEV6Vm1kOHotbWV0Ujdiay1CMUEzdGdGTlRjdUc0U3dPUmswd2RMQzk4MmFLdlNHYUJoUkI4M3N1YmJmVlBkLUE1d1RXQ0lVX2VVaHlBdEctbFNpVEpsWm5tRUM3TGo4Zw?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "22f5210eb5baf26744a690cb0c27ee16",
-      "title": "La influenza aviar puede propagarse rápidamente - Gobierno de Guatemala",
-      "source": "Google News - Guatemala",
-      "date": "2026-07-10",
-      "country": "Guatemala",
-      "lat": 15.7835,
-      "lng": -90.2308,
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRZGxhd3ZSNFUyZzAzc0VZakRocktOUE80cmpWSnpmUTR2cjdGLUF1VThCQU1CWDNuaWpyd0NvckhXWDJxV0VEN005bFdqSTJxTExlX044UG9FQVAtMF9KWnVvNWV4bUQ5SUpNTEI4QjhjZVFUc25zMFkwTUJPdw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "b6453cc7d9e5c6ada339dfe104bfbd8f",
       "title": "Prevengamos la influenza aviar - Gobierno de Guatemala",
       "source": "Google News - Guatemala",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQczlGQmEwUU94T1pEV28zMUhTTDRnS0p5Q1pBWi14bkN5LThpUFJ0a1BteHNXamc0cmQ1eXE1Qm5WMlluc01KNlBtdEdyQ1J5Y1M5LTYzSkhWaWNqYVlvamFhRklXenFJbzk1OWROcjlQUjJuOFhYZ1RtYVdMY2k1aU1nc0ZzaTFWQVJONEhIYS1ocFRjYzhib0M3VWQ2OURZamJfWTBWSzd3MVpPQjZNa1R0VzBSZTYweVRoQTdBTTk0U0ZfdjFvQ0NoSUp2SmNoTUNZ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "3fa4c68a7a583ba4622c16456dabd746",
+      "title": "Senasa refuerza medidas contra la influenza aviar en Argentina - Periódico MOTIVAR",
+      "source": "Google News - Argentina",
+      "date": "2026-09-02",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcW9VQUhIVElfclNBXzhoNG9oblV1RWlFZDRSWDFYUWJ3Z2I1OEVrVU9TRXZWbkRYT2tBY0ozbjNyS01VaTR6VTVrM0JoVUNoOXhIamhDLUNIRzVsUWRLUnpZajFlbTZhUk8wTXBGZkdHM0ZwV1hlVWdqUWJicS1jYjdfWTM2Tk9YeHc5dm9yZ1dPTGJNdjNRYTdadFlJY2JBeGVzOXl5NV9nQnozMks0?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "a972667f626e00e77ea2cca598fd55ab",
+      "title": "Alerta en Chiapas: Detectan casos de influenza aviar en el ZooMAT - diariodemexico.com",
+      "source": "Google News - México",
+      "date": "2026-07-02",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV1NnOC1paXZZOFZiZlhhWWxRcWxramJFREJwWnhZTFF1RTdZX2lmeUI3UGdRV0xHN29XZUEwZy1PUEpiMU5XNGczZTlpdW55dFd4WGd2QXRjaUpJV0F6ajBSRnZGY2FXUkV2eFlTdlJNOGwwTDhfOEJZeUZ2T3RZeER1LVREc2d2NjJTOV9uUVhlZk1mYnBBVERYeHZPa0940gGmAUFVX3lxTE9SalBwTHRxa2hxNGI5clltMU5EOU41YmpGVkpvZVR0YmFXelN5b0V0ZDJiSU9TX1BneUlZRGhiWW52NUt6d25xRU1pSENObEFvbVlnd21jVk1CWVFDTHpuTzV4ZHVmQmVtVmpNN3JLYm1sbmpOWWdyNmhtNHdMcWZ1cEJ5ZnJ0NVFBa2RFMjdpaVFfV2xObmtUcFpHLWRrNzdiSmgtdkE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-04 08:34 UTC"
+  "last_updated": "2026-09-04 15:56 UTC"
 }
