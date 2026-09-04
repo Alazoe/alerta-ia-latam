@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "a975a0361ddf397590890c89cb9485f5",
-      "title": "Confirman dos casos de influenza aviar en el zoológico de Tuxtla Gutiérrez - Meganoticias.MX",
-      "source": "Google News - México",
-      "date": "2026-06-30",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSmZ2SUZuSzUydFVuQl9qMjdTbkdybk1YaURzR01DNW9YalM0MDlrWm5xNVdIVEdFTF8ySU52THh6MkVBckphWkZUMllhS2ZOX2ZDS1RZa1RnLWdERnlXVGNISnY2Y014WjlJMHp6V0RKMC1HRnV6eWw4T3JCRlJNQkNpZERTTlRxX0dKUGNOOGJtWTl2S0lucGg3eWdSa2pnNDIzWUczd2VrNTFrX1RHSEZWMmlaR2t6SF9tejB4ZXAzMng3cEpvOUk3cnFaNkRNLWMyWW96MUVuVXlV?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "6c57050aa63641b821af10d6f8b3e485",
-      "title": "¿Pelícanos enfermos en la playas tienen influenza aviar? Especialista aclara qué se sabe hasta ahora - El Observador CR",
-      "source": "Google News - Costa Rica",
-      "date": "2026-07-09",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWpPNE83dzlpdV96bzV2MXRfemhqRWZkcEpmT2lJYlR3VmdaUlkyanhmQTA2Q2tEeFB0SU55TTB3cnJBNzJfdXluMElpWmo2b3ZHN1hsMFI2eFltbmJJUDV4eng1d2tOWS1GYUVUdTdYSk9tUzQxVm1PamtkYldhWWpLNTV1T0FTVmJKa0hzRWVMS0RuRGJPSndmdnJVTjBMQnVXcm12N0wwenhDbmM2ODU5Y2xwUTU3UHRNbXl3?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "1ab1ed0bd9d11907780cfe11c5f37a23",
       "title": "Influenza aviar: Chilehuevos crea fondo de $1.000 millones y Biobío se acerca al fin de las cuarentenas - latribuna.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc05PUkctSWlZUGI1cVYxeG1ULWkydUo0clJjclJGSTg5enpmSndyYjgxdElyUXFyMkJqR3NjWC1JWDZpWnFyZWRTaXp6MFNEQXBGNXNWS25PMlhpazc3LXNMaFE3WElxSEg4ckdnY3NZYm94YnVPME53Y3YwS0hmYlVoMVVfNllXMFFUOWlzOXFkSDZUbjFzdHo1dlR4Z25ScUJSVXlnQ1ctSmtwZ1JEaUdZYUZycjBnLVh3TWJwZnR4cW8xWGtKWUY4bC13b2lGVkE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "94ddea3e57d36b353a501d7f3c866715",
+      "title": "Valdivia lidera ejercicio nacional para frenar el hantavirus y la influenza aviar - diariosanjose.cl",
+      "source": "Google News - Chile",
+      "date": "2026-09-03",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYlQ0TDZPNnNfUXNWNTlvMnh3V2hHbFVXM0hmS1JrTVd1OFNtaDZ1R1lzN21tYzdFZDI4THVtQkd4c1JUYnFtYU1VOEZVVmcwMW5KN0xuWUhYb1d1R3R4ZUNvX0RkWUVybjQtTDBLeU0xZ0tXOU1fQkY2V1dmNWpXQXBwQVA4TDVLMjdEUVBjb0pKMVJvbEJxN2ZiN3YxLTNuZXhkbUtXZlhRSktRSDlVLVdmaFIxTjd0OFRqeEczRlc1Q25xaHMxTFhZTXk?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "d7bd15cfc297a411a9ecdd035ca80868",
+      "title": "Emergencia sanitaria por la influenza aviar: ¿qué es el H5N1 y cuáles son los riesgos que representa para las personas? - El Comercio Perú",
+      "source": "Google News - Perú",
+      "date": "2026-08-03",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMlJnV00wTWFGQ2o3emNldU9lTXpkMTZWUGtTc2JyQWF5Q0lhdC13UXFQVTZZd1ZRdzJaSVhMdWRnVDB5YTNWR3pPMnJYWXlDWGJjcnpQSjFtYnZvQ3E1UXRWTl94NU5TWVBqbVdGaVNCM3ctV3Mwek96c2VveDAwamxvSWtpY21UOHJ1ZVo3aENGMFpGeWYwd1duMXVtM0VUNGk3VW1pdkhlNHdsWmk5a3plOHlmSEx3NElzanRyYVNSdWd2djRZemlxT0NVbmxieGdQWmRfNXNYaW5rZktSOVNnOFlZeGRYT1JyX3hBNlRwRXdEb3pEWNIBjAJBVV95cUxQTW9DQlNmSm1tRjR1ODZ6LUgwSl9hYUIxSXE3Q2dEY3NaNXVuRFhNOWI5UFo1U1NyR1JES0FmenRHRkJUN0ZzbjdXdVZzZDFUZzd0ZlJRZ3BrdmVGSWk3dWt2bzBwdnRRRUYxUGVHdTZjc0VVLWdoM0JSUzdncWFMX2p2R0ZLUlZnaWxvd2QzUDIteU1vRUVMZTBFSjlDdERpUXczdWI4YTRKYWhsMzJvSl9pZl80VnBPdVcwRWJVUm1zTWo3emg0VlZYOUdNQjE2RFBSUENXU1NOU2l2VGV4MlVzMjRyZHF3Z0lleFhRMjdIUE9NbVhBNU9UZE5rYUtzQzdENUtwTkNQNDJB?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-03 22:22 UTC"
+  "last_updated": "2026-09-04 03:27 UTC"
 }
