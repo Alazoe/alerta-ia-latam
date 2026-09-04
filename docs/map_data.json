@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "1ab1ed0bd9d11907780cfe11c5f37a23",
-      "title": "Influenza aviar: Chilehuevos crea fondo de $1.000 millones y Biobío se acerca al fin de las cuarentenas - latribuna.cl",
-      "source": "Google News - Chile",
-      "date": "2026-07-09",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbDBJRENJbUxyR3FRRzk2Y3dLY1V0dWN0eFBpMTlveV9XZVhxSS1aR2V6M1Q3cndjRVJfSUVibWJZU0xlUExoT3dZUnJVTFcyc0hXWXRtcUVjMVFaTVdkeVBEaHNQTG5EWFBpbENwNmpqM3BPWFQwMUJueWh6VVpZTk5fRHRsb2lsMGVkTEVSb19qQXZ3N2tTU3Z4eWFjM2VYLWoycjdYX05DY3FqX3dGRkJRbDBfQy1VWTVIQjFBMWRLQVFEemNEQzZyTS1CTkZvZjM0MEFERTB3VGo2VFY0dmdfN1NFcWI2UVRRbE83dnA3VlYxcVc5UNIB-AFBVV95cUxNbDBJRENJbUxyR3FRRzk2Y3dLY1V0dWN0eFBpMTlveV9XZVhxSS1aR2V6M1Q3cndjRVJfSUVibWJZU0xlUExoT3dZUnJVTFcyc0hXWXRtcUVjMVFaTVdkeVBEaHNQTG5EWFBpbENwNmpqM3BPWFQwMUJueWh6VVpZTk5fRHRsb2lsMGVkTEVSb19qQXZ3N2tTU3Z4eWFjM2VYLWoycjdYX05DY3FqX3dGRkJRbDBfQy1VWTVIQjFBMWRLQVFEemNEQzZyTS1CTkZvZjM0MEFERTB3VGo2VFY0dmdfN1NFcWI2UVRRbE83dnA3VlYxcVc5UA?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "d07d27b270ff3b701829cad651205f9d",
-      "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la Región de Tarapacá - Home | SAG",
-      "source": "Google News - Chile",
-      "date": "2026-06-15",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObVhJX1NoMS1SWWtmY0N2dzVfaU5zR1NlcVcxeEJkd0c4Z1pZZlRfQ2FUU3JJMExtTWYwQllGa3h6NXdROUNPNHc0blFWWnhWa0VzcWJRcnNBdk1fa3hfc0NFVGJjV1ZtV00yQ1NqakFiSV9jN3A2Vk5yOXpubklqSGpyeEVxa0tFXzNnQVpKRDJPQWpVaVA0WkRUYWlnNFIyZTZsVmYyQXN0ODJ5OUhXTTFOY3pnV3J3cmhhLURfSVRReEFNNG9EQ3BQX250b1pL?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "862a737a4bfeb50da3927bf45f310d85",
-      "title": "Prevengamos juntos la influenza aviar - Gobierno de Guatemala",
-      "source": "Google News - Guatemala",
-      "date": "2026-07-09",
-      "country": "Guatemala",
-      "lat": 15.7835,
-      "lng": -90.2308,
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBicmlGUTllNzNpUHJ2Y3Z6Vkp6TG94bk1vem90cFhUSWZYcDZ4UklDVmZXTGxMUHdsb21JdlZkT3ZkWkoyQm9JZWtJMnhPN1ZhX0ZDQnMtTXRDZzczQk9ZaEQzdTd6MDZIU3NORjYwcXM?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "f1b18a9a5dd341ad12992a3a175cc119",
       "title": "El ICA entrega parte de tranquilidad por brote de influenza aviar en zona rural de Puerto Carreño, Vichada - ica.gov.co",
       "source": "Google News - Colombia",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMlJnV00wTWFGQ2o3emNldU9lTXpkMTZWUGtTc2JyQWF5Q0lhdC13UXFQVTZZd1ZRdzJaSVhMdWRnVDB5YTNWR3pPMnJYWXlDWGJjcnpQSjFtYnZvQ3E1UXRWTl94NU5TWVBqbVdGaVNCM3ctV3Mwek96c2VveDAwamxvSWtpY21UOHJ1ZVo3aENGMFpGeWYwd1duMXVtM0VUNGk3VW1pdkhlNHdsWmk5a3plOHlmSEx3NElzanRyYVNSdWd2djRZemlxT0NVbmxieGdQWmRfNXNYaW5rZktSOVNnOFlZeGRYT1JyX3hBNlRwRXdEb3pEWNIBjAJBVV95cUxQTW9DQlNmSm1tRjR1ODZ6LUgwSl9hYUIxSXE3Q2dEY3NaNXVuRFhNOWI5UFo1U1NyR1JES0FmenRHRkJUN0ZzbjdXdVZzZDFUZzd0ZlJRZ3BrdmVGSWk3dWt2bzBwdnRRRUYxUGVHdTZjc0VVLWdoM0JSUzdncWFMX2p2R0ZLUlZnaWxvd2QzUDIteU1vRUVMZTBFSjlDdERpUXczdWI4YTRKYWhsMzJvSl9pZl80VnBPdVcwRWJVUm1zTWo3emg0VlZYOUdNQjE2RFBSUENXU1NOU2l2VGV4MlVzMjRyZHF3Z0lleFhRMjdIUE9NbVhBNU9UZE5rYUtzQzdENUtwTkNQNDJB?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "618e834be159f3357be444d9fb7b67a9",
+      "title": "Valdivia lidera ejercicio nacional para frenar el hantavirus y la influenza aviar - Diario Futrono",
+      "source": "Google News - Chile",
+      "date": "2026-09-03",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNd2pDREZYbUd0R0p1cUpSZ1FGMXJhcFF2RFVVbnlYaHhWRE5lYXNQRXliN0FsUWI2X2xHUWxYZ2w4Rmx3RnlYRzRiZkR4Q0FlQUJBOElTcWMxaDJnN2JzSDdfNEFCTGdvZU5pQ3FmT0pwRTF3V1FxMUJjM3NIb0hnMnNLUkdRNDRMcHlrLU1LbDBoWXRHRlk3MW1sa0MzSE16ZUV5ZVBYcU90NmxvemhBc2Rvc0p2T1FoaU96VFRZb0xvaTYtaENScWNLMEY?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "b223448bd314882e341ae16fd890edd2",
+      "title": "Influenza aviar: refuerzan llamado a fortalecer la bioseguridad en la crianza de aves por nuevos casos en Los Lagos - SoyChile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-09-01",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRW9RckhqTE5Cd0xISzZMUW9ZZ09CRmo3d29sbFZpUDVEeVZzbVJoU0RKN1ZJU21NZFBXN3hKczVLc1M5VlRCb1E3NFVNSnI2R2ktUndJanNRa1Bpa1lsTWIteWNTaXlKaEt1TWJkdkRudjQ3bWtiTlVoaThFMUJlekxZdzBJZE1rRW9ldXFwMjdWdVlkUVEyYVJFbUhVQ1lqU09DQWwydw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "09b1cd9eed7fa3f3a944a2bcb96cbbdf",
+      "title": "Actualización epidemiológica sobre la influenza aviar A(H5) en las Américas - edicionmedica.ec",
+      "source": "Google News - Ecuador",
+      "date": "2026-08-26",
+      "country": "Ecuador",
+      "lat": -1.8312,
+      "lng": -78.1834,
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQczlGQmEwUU94T1pEV28zMUhTTDRnS0p5Q1pBWi14bkN5LThpUFJ0a1BteHNXamc0cmQ1eXE1Qm5WMlluc01KNlBtdEdyQ1J5Y1M5LTYzSkhWaWNqYVlvamFhRklXenFJbzk1OWROcjlQUjJuOFhYZ1RtYVdMY2k1aU1nc0ZzaTFWQVJONEhIYS1ocFRjYzhib0M3VWQ2OURZamJfWTBWSzd3MVpPQjZNa1R0VzBSZTYweVRoQTdBTTk0U0ZfdjFvQ0NoSUp2SmNoTUNZ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-04 03:27 UTC"
+  "last_updated": "2026-09-04 08:34 UTC"
 }
