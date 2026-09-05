@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "82445080a06d3903d40a22539226d7df",
-      "title": "¡Alerta! Senasa declara emergencia sanitaria en todo el país por influenza aviar en aves de corral y dispone prohibiciones - La República",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQbjZ5VEFYLUtDTnhrYjliN1EzcDNKZjdyNzVPOUNRSGJ3SUI1MWRkZTJQUEJxdUlWbmR5VFZaVmhLblBwSDFDLWpoY3h3UmpUamFxQm93SVlDY19OUTdfanJRTV9Sd25GTmRQQmVuU3lZdU9iQXYtMFNodGtDM253UGZ1N3BwOEt6WDF6QUdhU0ZqdVNQSmpDVmV3aXpxVzJsRWFlSE5ua2VxaFFQZFpvbmMtVHdXNTVWNFVYa28zZEptYTVrZUNYd1ppNzU4S1M2TkxsUUZlb0JXQm4tRm5CVFRnVlVKUHBpMmxhUFpRM1pJdjM5WkNBODdkbnIzMTRIU1hSS2530gGGAkFVX3lxTFBuNnlUQVgtS0NOeGtiOWI3UTNwM0pmN3I3NU85Q1FIYndJQjUxZGRlMlBQQnF1SVZuZHlUVlpWaEtuUHBIMUMtamhjeHdSalRqYXFCb3dJWUNjX05RN19qclFNX1J3bkZOZFBCZW5TeVl1T2JBdi0wU2h0a0MzbndQZnU3cHA4S3pYMXpBR2FTRmp1U1BKakNWZXdpenFXMmxFYWVITm5rZXFoUVBkWm9uYy1Ud1c1NVY0VVhrbzNkSm1hNWtlQ1h3Wmk3NThLUzZOTGxRRmVvQldCbi1GbkJUVGdWVUpQcGkybGFQWlEzWkl2MzlaQ0E4N2RucjMxNEhTWFJLbnc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "ddb652a89ef55cb018c4d5e2912cf63b",
-      "title": "Reportan influenza aviar en dos aves de zoológico de Chiapas - MSN",
-      "source": "Google News - México",
-      "date": "2026-07-05",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQldoT3ZnWTRYODktc2piaXNDTFdSdG9ZbWNEXzdBVG0tNVFFU3VFeTZHUjgzdVk4UlpaMV9sdDNudTE4LXpzbkhRMkdNT1NqS1RSX3VXN1ZNOXgxQVhlOGdoV1NXQnM0VlJyMTFqT25GZUU2a2Jwai02VG9hUVVERVNBMFZQeTNIaGMyUGxQZjNmd0FicC13RHdGRHd1cWE5QWZ0WTVtNWdxOWx3V1VTd3JweGRaVkI2RUZB?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "23b7914ebd52094a42bfd05ac877d0f6",
-      "title": "Pelícanos enfermos no tienen influenza aviar: Senasa busca qué está causando las afectaciones - El Observador CR",
-      "source": "Google News - Costa Rica",
-      "date": "2026-07-14",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRnNtczZ4YXpFRVN5dXZfdHY4Q2xFcC01VVNiT29UWG9GYWJtZ2ZKbnQyRmNmdDFJWGw4S0pvRERJdlhVOWJaa2laMDZWSG5SVXkwTldwTTFSUGsyMTVrWGZSNURFUmt6ZlI0R28tdW9rdXRlOUVUSmxhdWVSU1p1ZFJ3SXdER0k3MVktUTlaSXBjX3JHZ2pDbEJHcTdWYzNYNkI0T0RRRGVnaHZrOWVBb0ZzeWZNdw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "f95d4f41a03a7aa054ab910b69b8e9eb",
       "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - SAG GOB",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNWlSWF9aSWJ1ZnJhV250U2pwX051SGI4OEVFQWNQWEhfdldfV3FDSFZ2NTloZk1uSV9xNmZnZzdiR2RIOEtXaHp3dm9xQzJkR0FDaEtWZEFVSzc3M0ZEYTBlQ0xkN2lYNXJjRjZpX2s1Tldab2J3WmpUSzBSaV94aWhtSUthY2ZmaXRnZkFYV0VfS2hLZDNOZW0xSlFfcVN1S3gyLW93Vl9MTXJfUklxZHYwRG1kVjZBNWlCaFUxT2loT0haNC1yXzBhQTNWeFUy0gHPAUFVX3lxTE5EUlV6bDlyNkVXT2JhZy16R3l6N25uR0VVWlhOb1lYaEFnRGltcDgtclNpM0daSENnZlJtRTJiZ24ta2FQU1hOZ3Y5dTJTX2s3dDlvNTg0ZW8zbk83bzRQcU9DVERNYjFodGZsVVMyMkRHa2RUWDBjSjFlMUlOR0ZnemZqTG9OdzB3VlVpYU85Sy1UdVZkeGhvNnVxem1aMW1vb3pDeGRqREVPclEyTW1JUHRYWC1xZG81UzZCYU1BYTl1M09OcU1EVHU0NEZ6WQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "e457614b096b83c1dbb122019ac8af97",
+      "title": "El ICA controló brote de influenza aviar detectado en Puerto Carreño, Vichada - cristalina cundinamarca",
+      "source": "Google News - Colombia",
+      "date": "2026-07-05",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0QtTkZqc01BdzNLTEVmSHl6V3hGaWRpVTFyRXE1LW5WNmh3VTJJcS1zbTYzV2hzQlBEQndpRFBzSmlqQXVLX1lJUmlTNXFOcWwtRkdiMnFIdHVGVkw1dFZmVGpkNWs5bnhBMm9RcTI4NVJxeDZZdUVQU1B5ZjJ0b0tUeHZfck5iN0NFRHBDRFl0bXFJZ0stR0lSWUZRVnZIV0tLM09taEZlNk54VE1pSlBvT2dNVkpOSlV2Wg?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "1a8a931d9ac278ee00cab53f8fdcaac6",
+      "title": "Emiten alerta para el sector avícola ante brote de influenza aviar en Uruguay - La Nación",
+      "source": "Google News - Paraguay",
+      "date": "2026-09-05",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnJDaGNLOGZRZVJrYjBaeVpCbXJVNHpVaWx6MXNuWGR2V0VkUDVXQ1lBekNteGNnakxibFZPUXFUUGVFeU1YeTU5WThsXzZqbTVfQWlpTndfcks0TTlLeDdKX0tTOHhXUUZmTF9Pc3dhOERERHdDRkxGUHRseVdCUGdFUXoyTl9oaTY5UExPblI4d2JSNnF2WVZDWUtWbXJYZDQwZXVLZHo2RkZ2ejJKdHh2aGFHTVpET0M4bWFkUmtSSWdG?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "6fa6d215543060ec040b945785287776",
+      "title": "Influenza aviar: Uruguay declaró emergencia sanitaria en todo su territorio y restringió el movimiento de aves - Elentrerios.com",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-05",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb3dYcGxtbDVnU1JwQWZQbmd0d0NtcFRCSEY5VXZBRjl4YjN5MF9NVDJKZ09IcklNQ0JYMUFxQVpVV1ZETGdEU1hkSU1OcnBzc2IzOUhqcGZydE9nVWl4OFljZjB2Skpmd0lwRi1CN2E0T084TGo5dG9EVjNaQUl6Zk1USVl4b0ZlaHBWRDJsTHA1UEFlelN0dGNpMnI5ZFJPa3FPUC1zZlJzaW1oUUlraTEzd1E3NkU2ckF6d0F6dnVnWWV1eVVaMkdNWXdhcHZzNUxQUFBRa2JpWU44cXUzdzcyTzbSAdsBQVVfeXFMT1h0ZktlRG9WbnBQN0dwamRVVHRteHViczdUNUZXNl9KekR4VndOSzJkbjdvTXR3N2JZRXhjZmlrM3dnNGFGdm5hSGNlOXQwWnhoUlpyS3N2cko1dExKUGFCUnlXazNvNm1XalZPYnpmZFJxZHpIcGZwRExURy1MMnl6WUNxYm0yOGNzOXpucnlCbTR3bVdpUWxHcUNWd1NhcXFJU3dsaG9LeU1jY25BcERXeGNPV1ZDcVF6LTlHQy00Z3Q5RHRMeGczY0p1Q3V5bDIyc3JjNFFnS0F3?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-05 08:09 UTC"
+  "last_updated": "2026-09-05 14:47 UTC"
 }
