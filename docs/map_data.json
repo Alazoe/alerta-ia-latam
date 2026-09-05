@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "80d089eecb2833f76c4c5369c6733fc6",
-      "title": "Influenza aviar: Senasa declara emergencia sanitaria por 90 días en todo el Perú - TVPerú",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaHp4T2otN0ltUEREeDg5NmUyMXppaXQ0VkNiYUdlYjBGaUx4UnphcjNLVzVDZFljNnVLUEJWYllWSG03OTRjY2xtN3NBNWI3eF9fWGhPd0tqenM1MkJzYXp1NWdEM3lmLXhvU0V0OEtIRUpxeXFURDZHU1phSWpQbklYc2JFVkNERkVjQ2U0OFo4V3ZkV1hSMGkyX0MtaThHZmstdVBEUjZUczdyVmo4NmRaZlpMQ2JSaktuRTFSTDR2eVE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "c96ad20a710247c00f789bd508e59510",
-      "title": "Perú refuerza la vigilancia frente a la influenza aviar tras detectarse un foco en aves de combate en Cañete - MAP Global Media",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVUlnOUZDR2M2WnF0bFpXaTNLZktpckFOX3lWdG5Td19UMzAza1IyLWVtNXdSZDd6UEtCWUw1TjJxSjhraFZZMVVfdzhDcjFqRmVTYTNibE9ndFA5V2FPUXVVakVpLXlrUGV2NjRJTVJLSHVMOW5LeldlbUJrN2FzZ1pDN1RRM0xXTHVqeUlON1g3WTRrQkFsSXFIa2tjYkRYSEx4RjNhd05iaFUxRmxhNGNxX0V3N2VPMnFVRnNCeUVGckxTMHlySjMyZVlpRFVLdTQ4SlA2aWc5Z2N0bGZHTg?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "0704ab3a413055f9ac7cafa6bf0d9c58",
-      "title": "🔴🔵 #ElInformativoDeExitosa📺📺 | El Gobierno declaró en emergencia sanitaria en todo el país por un periodo de 90 días calendario a partir de la fecha ante la presencia de influenza aviar de alta patogenicidad en aves de corral. La disposición se oficializó e - facebook.com",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeXQxOG1BdEFmRzRoNlR6b0hBNzJEVm5wRENFTTNqQ0paVi1BUHJ6eHc0MnBZU3dnUWF3TUt1R2Roa0w4YWZ1VFZHMk93eDEtTmo4b190ZmpNYkk2b0pROWpaeTM3TzM2QWdmeDNxbDE2MDdPdktRT3U0dU8xQ3ROdDBQV0tibVAtYnJ5eFRTMG4xdDBaSGtkaWtuUC1rUVlxTnBsdUhSbHJxaFpGaDc0Z010Yk1KVTZFUGM2ZTNwVkJMLWtLSThoUWRCOFEyUFB1bWxWc2JBRU42Qnh6eFE2MXRiYVJlZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "82445080a06d3903d40a22539226d7df",
       "title": "¡Alerta! Senasa declara emergencia sanitaria en todo el país por influenza aviar en aves de corral y dispone prohibiciones - La República",
       "source": "Google News - Perú",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOekFVVU5RUzV5VEZUWnF4b040QVZvbHJvT3NxME1ydXdNM3FZUnQ0eUdscG1TV25HTEZWdGhOM3VReE8ya2Z4dHZwNldKYzVtMlFhQ1RBbFBGa0w0UlFVZmUwdzhLb0lSb3RvWUs4VHdfM1J0eFhRejAzWDBtWEtUd29yNTlRbjllNjBUaElhcXFjUXdYdHFSRno4NnV5QzRqQmJIclVqTG1HVk5sQ3Rvd2xBemlqbFFnSnpiV2NLclg2UQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "52c54d4e348f8837f2048ede1bed84f7",
+      "title": "MGAP confirma caso de influenza aviar en aves de traspatio en Colonia | Ministerio de Ganadería, Agricultura y Pesca - gub.uy",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-04",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcC1FOWpkQk9lQXpJVFNGV0N2Zkh5aExnRDZ2bzhmV1JaMUJ6dU1BTzVUZTJWOTRBZkhmZGs3NDlMTFpDS3V5bl9SQlZrLVJGYkREV0FIR0hTZE1ieHFpZk8wVHVDdkRrX182NEZ1Vlgtb0lUbVNUSG90Zk5LZnZMN3J0R1R2YTJtNmVCTy1Ub1JRdG5qb294UlBvUHFJS2Y4QmtIbmJCdWx6cGVDSzB2bjBzQ1RoeTAwUk9iU050akRaNHJNNUw5OENWZVEzZHlYWUZz?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "11bf47f98d3ca1b0e02587b146a7b6c5",
+      "title": "🔴🔵#ElInformativoDeExitosa📺📺 | El Gobierno de Uruguay declaró la emergencia sanitaria en todo el país tras el hallazgo de influenza aviar H5 de alta patogenicidad en aves de traspatio en la provincia de Colonia. Con esta medida, se restringe todo tipo de tr - facebook.com",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-04",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNNERyY25DaWtwM2lnampNVkhWM3ZMZzBrNkRnN1RRU0trYjR2NnIxNjF6RVdBZjc3VEVJeExFVWdaMHZRUHVXS0NVeDBMTE15enB1MFFubjdvOC0zYlVFd3p6a0x2NUdRUjd2bEhJT2pLa2QzU05jcU5rZXQ3U3hBQXl5bTN5UFJSM3l2cHh1bnZ2TG5iX0xYYXE1czlpMU9nVlptZGZuTDR0ejRDMzNHUlNUWW0tRm9FckIzU0ZOTHgtTU0tM2tPNkNHZHNmYWJSWno1cDlLeHdfR2RfVFljR3hPOGg0UQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "2e8661a5bc53847004ae36d0638ef8b2",
+      "title": "Declararon emergencia sanitaria a nivel nacional por un caso de influenza aviar H5 en Colonia - telenoche.com.uy",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-04",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNWlSWF9aSWJ1ZnJhV250U2pwX051SGI4OEVFQWNQWEhfdldfV3FDSFZ2NTloZk1uSV9xNmZnZzdiR2RIOEtXaHp3dm9xQzJkR0FDaEtWZEFVSzc3M0ZEYTBlQ0xkN2lYNXJjRjZpX2s1Tldab2J3WmpUSzBSaV94aWhtSUthY2ZmaXRnZkFYV0VfS2hLZDNOZW0xSlFfcVN1S3gyLW93Vl9MTXJfUklxZHYwRG1kVjZBNWlCaFUxT2loT0haNC1yXzBhQTNWeFUy0gHPAUFVX3lxTE5EUlV6bDlyNkVXT2JhZy16R3l6N25uR0VVWlhOb1lYaEFnRGltcDgtclNpM0daSENnZlJtRTJiZ24ta2FQU1hOZ3Y5dTJTX2s3dDlvNTg0ZW8zbk83bzRQcU9DVERNYjFodGZsVVMyMkRHa2RUWDBjSjFlMUlOR0ZnemZqTG9OdzB3VlVpYU85Sy1UdVZkeGhvNnVxem1aMW1vb3pDeGRqREVPclEyTW1JUHRYWC1xZG81UzZCYU1BYTl1M09OcU1EVHU0NEZ6WQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-05 03:29 UTC"
+  "last_updated": "2026-09-05 08:09 UTC"
 }
