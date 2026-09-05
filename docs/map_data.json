@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "f95d4f41a03a7aa054ab910b69b8e9eb",
-      "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - SAG GOB",
-      "source": "Google News - Chile",
-      "date": "2026-06-24",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0M2a3NzSUlLMWE2bEJLdWt1T1FwQmc5djFYbGo2U0ZLQldDX0J2Slo3NG5rMkJ5UEFNcFEwU3hMR2MweVhDSFRxQWRGSmVlV2tXWHlNRzB6UTUzLWI2dTBFTlgyb1AxUm5HN1ppWENON1RJTUR4TnotWWItWWFaZ1BpYk5EcHlnUDFKeUZEMkRKZE5kTGprZW5CMnljWVJSb0p4Q0RhNWhxVmRFZWdJRG42Qm5BQlFCMFE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "ed703046437ffa81a199ec972132f7ad",
-      "title": "Emergencia sanitaria por influenza aviar - Servindi",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOWplU1pDTnBkUThjbEZKWlg0cUItR3Y4aUR0T1lxbzNrd1hZNkZHTlRoT3VxU0JYRlRVc1BSeUlwNWtoT1ZqTi1jMVFaVE1aS3Fna3UwaC1ScFJGemlHWDZ4ZVJmTHdZM19rWkxrUlBPY0dhLXlseFVINERhQTdWR2tZVUFIdndFb3NpNUI3bGlMUzBHZFFIS0FqVmlteTNsWnVxZzhQbWRvUmd1ZE1J?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "af721c5a012d4622777e24e29aaf638e",
-      "title": "🔴🔵 SENASA declaró la emergencia sanitaria en todo el Perú tras detectar el primer caso de influenza aviar H5N1 en aves de pelea de Cañete. La medida, vigente por 90 días, busca frenar la propagación del virus mediante cuarentenas, controles de biosegu - facebook.com",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMXNiVVQtQUN1YzVaRHBIczBwSm51S0hzT082UmJ5SmExbGhmRlZnelZDTkJoNWhTakZVckQzdzBSZ2xhbkxMRTNWcy1uX29IZVlGM3pkcGZzdEVXcS1ER1Z1aHp6MHNtUzNaa0VhajRGV0VDU253b3pBc3QxMG9YTXNlVTBNcHNaOEVkYXlxMzJQR0UtdEMwaGllaWpsY2hlbXlhbjVFeWs2LTRIMXJ6MFBOd0lTLXpOQ1hDdDB6OHZjVzEteVVrcElKYnRmeUsyNE5OdXd5ZXRKS2NqZW5hM3c0aVdmazY2S29ZRQ?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "8ed08fa45fa6b94cd45c3abb9db848b6",
       "title": "🔴🔵SENASA declara 90 días de emergencia nacional por gripe aviar, tipo H5N1, en aves de corral tras hallar un caso el 6 de julio en Cañete. La medida se da con el fin de proteger a la industria y genera preocupación debido a que podría afectar el sector. # - facebook.com",
       "source": "Google News - Perú",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb3dYcGxtbDVnU1JwQWZQbmd0d0NtcFRCSEY5VXZBRjl4YjN5MF9NVDJKZ09IcklNQ0JYMUFxQVpVV1ZETGdEU1hkSU1OcnBzc2IzOUhqcGZydE9nVWl4OFljZjB2Skpmd0lwRi1CN2E0T084TGo5dG9EVjNaQUl6Zk1USVl4b0ZlaHBWRDJsTHA1UEFlelN0dGNpMnI5ZFJPa3FPUC1zZlJzaW1oUUlraTEzd1E3NkU2ckF6d0F6dnVnWWV1eVVaMkdNWXdhcHZzNUxQUFBRa2JpWU44cXUzdzcyTzbSAdsBQVVfeXFMT1h0ZktlRG9WbnBQN0dwamRVVHRteHViczdUNUZXNl9KekR4VndOSzJkbjdvTXR3N2JZRXhjZmlrM3dnNGFGdm5hSGNlOXQwWnhoUlpyS3N2cko1dExKUGFCUnlXazNvNm1XalZPYnpmZFJxZHpIcGZwRExURy1MMnl6WUNxYm0yOGNzOXpucnlCbTR3bVdpUWxHcUNWd1NhcXFJU3dsaG9LeU1jY25BcERXeGNPV1ZDcVF6LTlHQy00Z3Q5RHRMeGczY0p1Q3V5bDIyc3JjNFFnS0F3?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "efcbb4280cb1db3a2c105cac667745d9",
+      "title": "Influenza aviar: síntomas, prevención y ¿es posible contagiarse por estar cerca de aves de corral o consumir pollo? - El Comercio Perú",
+      "source": "Google News - Perú",
+      "date": "2026-07-15",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa0Q0Z3VGeHFpbllhdzZXcUNOV3dwd2cxaVNPdnUzSDJwUTZPN2NHMUJiN2l5SE5aV0Y4U3pQS2VZUXlocGIxREtlYmh6LWp2YnZQRDZHYWVMSlBHR3lzMk91QWJvbFRobEpWdE1UUFpaWnh5cnRKMFZmOXdSeVFqd0hQak1uMWl2VmpjclREbDFqZHM1cGhEeW1sWFVGMVAwMFBtRVZobnFlTXUtQzNLTEVXRWxRRzNRVzE0Y2Vfd1pjUXZmOWpRajJacXczamF6UHk5UXhNS2x4VEV2b2R6VNIB9AFBVV95cUxOUks3aEJ1VkFwM3FtVDc0V0owLWR1bWlMMHBrX1RyWGxrVW1hT1hYeGNXalBGYUI1bHVjb0tFbjR2WmNBMXFodktKUllzc0NGcGhJamU4cDA2aFQ2bjc1YjRLUGRQNmx6c1FZb0ZlSHYzWTBPa2JfVmdCRHZPRXh3S010Q3huWWNib05adkdMVE82UXpVYzg0M1ZzT2doMDRCLXhlN2NGbkJYMnNVMjBtX295SXVFczFKQUJnSXd6VjZUOTZZaWYwaGxNc2FGUnZkeDdIUE96WUEzbUdkNVAwVzM3N08wWlQ1MHZabTEyOW9IZk1n?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "51c56f6a042cfeafdd9a82ee38bfe904",
+      "title": "Influenza aviar H5N1: Senasa declara emergencia sanitaria nacional por 90 días tras detectar brote altamente contagiosa en Cañete - El Comercio Perú",
+      "source": "Google News - Perú",
+      "date": "2026-07-13",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQN3pBOGJhQUx0Sm5nTjBHb0xrblA5bTJXRXBUMHB2N2tCMFpHcFotRFlBWU9NSHJMTVQyR1J3UFJaNHF1cGZ1S29RM2FnUmMta3BBTm1lLTh0bUZWRkFIX19YSFhYRmxrZ003R3FpRG8wVWdpSXRIUTB3LWlJcFVqNHpWblZ3R3hidVFUSmRCaHBqYnpEbklWRjg3NGhaWVhoTDZXYVR5Y0xBYW5PYklJekxyZ3ZGSkE3MzhCaE1kMWRqUUVQSUVQMEtqRmxRdUg4RGllRHRKMF8wRnNVamdkeWZUOGhlNHNFZ0U2dFNESEFLTG93OEJpS2tralNsM3VRWkHSAZYCQVVfeXFMTkdndzNuSFVMY2NqWmE2UmVEdTBzZXFBSVE5OTg3eG9aVktqa3puVm40Z2w1NmF3ZnlPNXRVOXpyN05XanpGdlVoemsxUkItdG9Xb2JTSXJ2LTRTWXJPWWg4SFVNaHZGNmRvZTZBRUIxbFB3MlBucDdqRGNJNUlWNGJXb200c05JTDhMRERDOVhrc21NNDI1NjRrVm5ZVlpxb3MweGZVcVNGVUp3ZVFZQW9BLUhYM0NNQWRRRFN2bGxBclRIYlZEbWRjc0JFTkprVUpvSFNta19pWXphUG1femtxRWIyTS1qTExfeUVsMGNEZGU4MnYxV2h4cTlZU0Z5WHIwVTYzb3VHZHdPeGpGOXJmQTBRUkE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "58bcaec0619b8eaab1a330b3c5e8dc88",
+      "title": "Medidas de seguridad ante la influenza aviar - vostv.com.ni",
+      "source": "Google News - Nicaragua",
+      "date": "2026-06-26",
+      "country": "Nicaragua",
+      "lat": 12.8654,
+      "lng": -85.2072,
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTF9aMHlodzBPN2YxbkRqamhNYXJDNFJXbks2WVpUMzMyMllVLWxPR0FGbnFGWFJINGtvSGtETk9MZ2RKWm4tQWdTeXE0NjU0VEdkWEFGN1NFWXVJMkVIeTdoSjZkSVBBMkVhMHF4YWJNbThMcVVqMW1ZR3hVbVpnamNPOG16TEdtcUM3dmln?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-05 14:47 UTC"
+  "last_updated": "2026-09-05 17:58 UTC"
 }
