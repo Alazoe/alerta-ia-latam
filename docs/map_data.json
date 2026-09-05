@@ -1,54 +1,6 @@
 {
   "alerts": [
     {
-      "id": "8ed08fa45fa6b94cd45c3abb9db848b6",
-      "title": "🔴🔵SENASA declara 90 días de emergencia nacional por gripe aviar, tipo H5N1, en aves de corral tras hallar un caso el 6 de julio en Cañete. La medida se da con el fin de proteger a la industria y genera preocupación debido a que podría afectar el sector. # - facebook.com",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNb2Q4bGplLXlyZHA5ZEtBaFZDWDFDWFBPcW4wWkl0YzFzcWFZWEJobldaQTdQZVhpVjhQclo1dkFTSEpVMVpuczIyeERDQzhGUGVGS3BJX0l2aVB2bDdHc2I4a0NDWEtDSWFrbmdoOHpVbkJ2UGpxRExSVmI4cTgwWFNCOGFWeUFSQ3VKMmtmOU9qaThzNE5yZFNVZ0EzNV81aF9iSVVCQWpjOF81dmVWd2s1YzFkclhvNU5ISHNtcS1meDRpUUp0TDBna3hsOUNrNV91cXRGSkE2QndDTWpEbjI0NEM?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "b169eec4a8dd19a4a7d16edcc45077b4",
-      "title": "Influenza aviar H5N1: Senasa declara emergencia sanitaria nacional por 90 días tras detectar brote altamente contagiosa en Cañete - El Comercio Perú",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQN3pBOGJhQUx0Sm5nTjBHb0xrblA5bTJXRXBUMHB2N2tCMFpHcFotRFlBWU9NSHJMTVQyR1J3UFJaNHF1cGZ1S29RM2FnUmMta3BBTm1lLTh0bUZWRkFIX19YSFhYRmxrZ003R3FpRG8wVWdpSXRIUTB3LWlJcFVqNHpWblZ3R3hidVFUSmRCaHBqYnpEbklWRjg3NGhaWVhoTDZXYVR5Y0xBYW5PYklJekxyZ3ZGSkE3MzhCaE1kMWRqUUVQSUVQMEtqRmxRdUg4RGllRHRKMF8wRnNVamdkeWZUOGhlNHNFZ0U2dFNESEFLTG93OEJpS2tralNsM3VRWkE?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "8716b0f8f2fe052987dc94826f63ddab",
-      "title": "Senasa responde por nueva emergencia sanitaria por influenza aviar en el Perú: ¿Debe alarmarnos? - Infobae",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMk5Fb0ZZQ1NaUGFudV8tZ0haS2x5NVk5MDkwYlpOQjFKbk5hTmJBbkZNdWlLRTVYaEFkVGRBV2otUkJabEp1cTBjak1MSW1WWHpUU2VSazZfV0thcEVHazVsR0NyYlczcElKWE9uQnI0b3BxLXFqQlppazRWaWNpUW1Yd3YyTWpXNDRvMlBTNGRCNkdSZ1lrMEdwdVE2S0JLTkhsTGZKU1FXOWx2ODd5eEhoMlB6dXg5LVNzbXBiaTc0VUxaMGlEWDh6eXF4SmvSAeoBQVVfeXFMTXQ5YXVzOEdRNW1pcGdVbUNjY256blRQYnVCMm5IZ2V6RTdBZDV3dlBwemtCSVZzZ2JXdXM0ZGxGekxvTUs4ZkpQaUZnUFZWX1UtQ2xwbVlkemhqX2QwRkNDcHJmaldFc19fb0RJbnlzSEJKRDBLNzJIS25zNzFQUHJpWW03SkFuZVJfSkNhOFppVzhrMlJaTHhBWWdxMHB5VGF3a3lReDFVeDFRekcwRFVhVmlhUDNFVXNQcFJranNkam1hMmF1SDJabW54YjIxTFFCMmhfN0JYNzlCX0c0UFQtN1BoUnluel93?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "03578fe4c6a36aabb121c36feb1b532d",
-      "title": "🔴🔵 #ExitosaPerú🇵🇪🇵🇪 | En diálogo con Exitosa, Mario Bonifaz, médico veterinario y doctor en Sanidad Animal del Senasa, informó que se detectaron dos brotes de influenza aviar: uno en una crianza de patos en Carabayllo y otro en una crianza de gallos e - facebook.com",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOd29hZG5yTS1ETzlnTWJwSjZrQzlNWTFSU2FwTlBkREY5bk9yU2ZkbXR1OFdya19UUXg3SjQxakdaRWp3UW82QzgwMDRqQ1BDOG5DWFp1V0hfa2VabERyRXpTU0MwZVJxbl9wZ2E0Rk9tUkY1X3l0aUxyc1dkVnRnUG5rZGtqOXpiRXdqRHRlcG4tdnNLZW0yN1pjOWVpUkdtQ0JBMGVpRFJWOWg4cXh0UXBMaURwY3gzMVlNVzNoX0xnZzQyaGdkV3lMY25MQjNxTWhINjM1QkFrcGJ6cW9ISDF3TVFJMkllOFhibDhqX3lYQQ?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "253abd1f5dc20dbffeee4ba18b54d6dc",
       "title": "Emergencia por influenza aviar: abastecimiento de productos avícolas está asegurado - Agencia Andina",
       "source": "Google News - Perú",
@@ -3599,7 +3551,55 @@
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTF9aMHlodzBPN2YxbkRqamhNYXJDNFJXbks2WVpUMzMyMllVLWxPR0FGbnFGWFJINGtvSGtETk9MZ2RKWm4tQWdTeXE0NjU0VEdkWEFGN1NFWXVJMkVIeTdoSjZkSVBBMkVhMHF4YWJNbThMcVVqMW1ZR3hVbVpnamNPOG16TEdtcUM3dmln?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "72deb42c0737e08e8de91321488eae6d",
+      "title": "Los Ríos se consolida como referente en la prevención del Hantavirus e Influenza Aviar - lanco.cl",
+      "source": "Google News - Chile",
+      "date": "2026-09-02",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTE5rVUg0Vzl4LTBEX25IRWRZMlJqOFZRY1IwZFBRNHZPOTV2S2lXcFFNWUJsdkYxbkRYOW1WTWxn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "254b72cb9f987f008bca28400ed084d8",
+      "title": "Uruguay declara emergencia sanitaria nacional por Influenza Aviar H5 tras detectar el patógeno en Colonia - La República",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-05",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObzhzMUo4c3NhaE9aREREMlJueU92bDRFZW0wYzVWWVFfVlo1RDZMdld4SWM4ZFpHUDBxUURmSkluQjZRRC1MeTdRRzl5bTdyLTVsRnZ3dTlWdWN3ZktDVU9ITHBSb1hrZFRrVkF3LU11NmpLRzJyZnE4bkNhUHNpYW1SNWo1YTdGRzNPdVlSRWFmQ0ExcEk3LXI4Sm1CWFlhaGpINGFHejJQVHg1X2F1VEpWQllkb1NkeGpoNWllNG4yLXhvRWpzdDVhbVQ4djlKaG1qaTZ1MHBMLXE1N3hNLVZ2bE9kbDjSAewBQVVfeXFMTjBUbDdZcGp1Ri1QbVF2VkVlTXRKVV9OdFVMQzBvQ1ZHemdNOW9TNGs4TG5QNTR0VVZWZTR1NXdzRk0yZVRwbDVHQzZELXJkS2pWQmFBN29xdHd4b1JsS2ZTWDd2OW14bk8wMnF5TkVmYzdCN0JsUzJkMDJWSDdqcURkcnBpX011WmlGdkRnam5MWkdRX043V3pGdDVadGNCM180eExMSkpYZGZHSUlQQ0pvRzZ0X2VsNUgycDR4VkJXV2h1NDZaUE00UFBCbVRyMDBMcXVTV1dKUkpJaDVFTFBXWGpLN1ZZa1RUMWw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "0a79f7e2d5f1a8920641944e9df80974",
+      "title": "Uruguay declara emergencia sanitaria por influenza aviar H5 - gestion.pe",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-05",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNemFKMjJwSXgxT2IyYmNLbVhuSS12blFUanQ2Uzc1bXZyNmpzNm1QbE5uSlAxMjB3YzVFX2hZS0lHMk5KVDdDRlRKX0NiOXg1a2VVTThPRXBKNlZadFNWZ3pJSXR6dlVYSFhkaS03cDh0UjNucjNnX2tFM0poc1c3SUxCZ2RvSVZxNGVmd25Pbk5fdTd4UkhOTHFIZUd1Qkg1Q3ljX0pUYlA3WXc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "9f4ced4d18f634838f9ed9eccddf8b43",
+      "title": "Influenza aviar: Uruguay declaró emergencia sanitaria en todo su territorio y restringió el movimiento de aves - elentrerios.com",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-05",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOb3dYcGxtbDVnU1JwQWZQbmd0d0NtcFRCSEY5VXZBRjl4YjN5MF9NVDJKZ09IcklNQ0JYMUFxQVpVV1ZETGdEU1hkSU1OcnBzc2IzOUhqcGZydE9nVWl4OFljZjB2Skpmd0lwRi1CN2E0T084TGo5dG9EVjNaQUl6Zk1USVl4b0ZlaHBWRDJsTHA1UEFlelN0dGNpMnI5ZFJPa3FPUC1zZlJzaW1oUUlraTEzd1E3NkU2ckF6d0F6dnVnWWV1eVVaMkdNWXdhcHZzNUxQUFBRa2JpWU44cXUzdzcyTzbSAdsBQVVfeXFMT1h0ZktlRG9WbnBQN0dwamRVVHRteHViczdUNUZXNl9KekR4VndOSzJkbjdvTXR3N2JZRXhjZmlrM3dnNGFGdm5hSGNlOXQwWnhoUlpyS3N2cko1dExKUGFCUnlXazNvNm1XalZPYnpmZFJxZHpIcGZwRExURy1MMnl6WUNxYm0yOGNzOXpucnlCbTR3bVdpUWxHcUNWd1NhcXFJU3dsaG9LeU1jY25BcERXeGNPV1ZDcVF6LTlHQy00Z3Q5RHRMeGczY0p1Q3V5bDIyc3JjNFFnS0F3?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-05 17:58 UTC"
+  "last_updated": "2026-09-05 21:57 UTC"
 }
