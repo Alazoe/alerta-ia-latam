@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "856588e8ea9ed4efba0776d885194d7f",
-      "title": "Perú: Declaran emergencia sanitaria nacional por brote de Influenza Aviar H5N1 en aves de corral - avinews.com",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUC1OeWVSb0xFelRndUVZSGk0Q2lYbHhHVzRHR2w3MW93b3JtVjdHdktfdTFvcHNhbmYyRlpPQTMtVF9yMlExbTl4T0kyeGxER3V0czRmbHMySGtpZWtXaS1MYkVzZ0R0d1lnSndZZFQ0bFFYRHF1QmVfUWFBTWIwaDhNNDE0bkszdjVqQWFVTHQzTFktS2hMWndZT241Y1hLRy1WcjE0NEJ4T096b29UX1RmTmx1cWVOSkQ0Xw?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "72d60032aa286e1d5780744e787f6684",
-      "title": "Influenza aviar: Senasa declara emergencia sanitaria en todo el país por 90 días - El Peruano",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUtid2ZVeFg3Q0loeE0yN0ROcjFlWURTc1FwWEJIcjNFbEJTUG82am9pdVZvb3Q3NHlPb0tFX2FDZ0pGLW9wanhYX2VzYUhqR2p4Y0tMdVdjUU1FTElaT2NTcHpiS1NCV1hLTFVTM0dMR21RUmtCd3dqQVRiUzN1TXh2eGZRejN0cXJaaVlhb3E0RTRuM2dza1pTWXFQMWhoRkU1UVhsZFh6TE0yRm1SSXpWMVNaZ1FHOUVz?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "27d741379e204487b38e3e954eb5030b",
       "title": "Gripe aviar en Perú: ¿es seguro comer pollo y huevos tras la emergencia sanitaria por H5N1? - Infobae",
       "source": "Google News - Perú",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeE9vN1ItalhsUXlpNlFRdFZqZUxBcGwxR2pXZFNJZlNFSDVZUmc5eXc5QW5ZMkkyc180eDJVTkF5YWlPU0lra19hXzNRMFJhZXBtNS1KUWJfMVh3M3dqbnpTVXFoRFBNQnpaQmctZGVBRm8wdHRUSG9Ld0swYXBWNjdhcUNlbXVCME5aRHFYeVlxM3otNFJva2xSMkZWanpUYzdncTNqTjNkOTBSWkRyMUMtSXlNQdIB0AFBVV95cUxNNVlURzYzN2FENXFyQTduNXgwbEdhdDRhNE1tSmIzNGJCVFhmV0RMSXdvZjZ6UE9tS1hpalFDOUw0bjJlRk9LVTBYSVhCRnNEUjZwQkE5aWF4UkhneFNIdHdybGYyVWFfUGpTXzBHU0NvcE1aM0szcXhlTUl3MHVaMFMwWnZYdHduTE9EVVN0VG50NG81OVNTekZCaEtxOEhoZUFoNExMT01oQWdITUdUTnNfSkNHS1dpZTlrQUlhY1dNczVKT05HNF9LcTExcnFn?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "daf93b83073d7bfbcc994dc94eddbe34",
+      "title": "El Ministerio de Ganadería, Agricultura y Pesca de Uruguay declaró la emergencia sanitaria en todo el país por un caso de influenza aviar en Colonia - Ambito",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-05",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWTJBajY4Y0g5RlYxUFhaaVVJVlZTbFR6eWN3cHB2NG11NVVDTVJTS0R1UHFORDRVV3FYTTJtcFU4TDl5SlFwZXhkeVFCZDZQd0RYZjZWUmpDZzNGTVdhOGlyN1FEaEZ5V2J4emtFODdydDZVVnduZ3NUNWNGQ1NoemxHUjFvTzIxcHMzWkI3d2JrMW4zTTBmRmY5eUstQW9aYldZMG5ndEVZNDNtajYwRmxHN2FweGktbGwxMmJEaVZGaHdqNFhqUEhzR2l5Q3RrMWdFa2xQNUc4UG1TRlI2VjZxTXVGbU1sNEd2U1ZtMmpZd9IB9wFBVV95cUxOZVFGenN2YWlPaFlxNnNTV1lsVFpXSUVfejlLTU9JSE1YZXBvTlBQR0JzVmdSVnhXcVZIdW5hZ1o3NGpPOXBVNDBoNWx5Nk52RnNhVDRSMlVDZzQ5U3pUU1h5SXB2aFNGenF6Wjl1clBjMXZRdWpiUkhaUjRYMENnUGM2SVFzSGUtYUh4Q2VRZWhoWVVnZkVZYlF5TnI2RTdyUkFLTXdrTTVsdF95T3lTaVlPSThoTG1yOHhCLXRudHFKMTF4YTFrX2lnR0RybDdYcHpVYnQwbmdLT2J6QmNWNTZPdnNkMXI5bnpqRWRyQUhZanhhaFFF?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "20b366ab9b0808ef315161b255ae519f",
+      "title": "MGAP decretó emergencia sanitaria por caso de influenza aviar H5 en Colonia - montevideo.com.uy",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-04",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcms4OF8zN2FSRkpvbnR5eGJybHRRdWY0MHRNS2JaeTVNVkpicmZGcGwxWThlSmdiVGpnTU9kdTA3b21ON2Vxc0tWSURrQ09PejF3TXlyWndVdEk0WlVSNU9ZWnlXU09Ya0pKQklaMndCX3p6QjVnTkl1bWlTVW9BZ1Zrc2FxcnBlVm1xNngyb1VhWjRtd0xkMnNsSVUzLTJ4TEVXUGJHd2o2bGhVS2pmTDhWWjBBc2UyYVgtSlZJQnLSAeQBQVVfeXFMTlo1ZVdBVGlfeUtrSlBSMTQ5UHJpM3VCeWU3aXMwVXp1YU5ieWNmVDR4YXV2QWMwaEdoZVYtRFZNMlpQenlNMFFuM0V2WXgtNEczWUZoTVFibUZFQ2NQckdTRVdMREZpZGQ4UnRQVGpOcU51aUJtMjZKdGt4ZmQxOTAwYkdIREVmaUxIMWVVUlY5a3Q1cGNwQzVnSVNHZ0FMYlROWGNNWV9SYTlOTnEtZllQandHY2w5Tm5FMnJSTVhpWkRGb29xa2hCbldNdXpLaERpdjNUZ3Q4V3dOQjNVRkRyZG5Z?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-06 03:30 UTC"
+  "last_updated": "2026-09-06 08:26 UTC"
 }
