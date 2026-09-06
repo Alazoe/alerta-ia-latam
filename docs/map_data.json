@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "0965b65613eba1e6594c850f044fd382",
-      "title": "Nuevo brote de la Gripe aviar H5N1 en Perú: por qué el SENASA declaró emergencia sanitaria y lo que debes saber de esta enfermedad - Infobae",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSEtIb29RcFJXSHV2VU1MbzM5Y1JweERPYTdETWROTmN6b0o2dGtqWFNzM1RPN01EUHMwS1F0OUtWVThVX2RuVjVTWVRBSzc2MWN2Y0lGclEwQ1pQYTZWQXFyb1g3R040MTdNdkhnLXBaVWVjR1FRWDd5THVnSzVzd0J3b0EycHFVa1hJRnYxQWV6dGtvclhhbnlNQWdjQktNYk51XzJJUDVKXy0xOWZYdHBSUmU2dmNTcjVKQi0yZ29ZNGxOVnF3MGlRNEtJc1ZXSmxIel9WNllzek9nOGh3cnhqTUcwZkRjTlMtM0huWGw3NmNDdjk3T0Qwal92VTTSAZoCQVVfeXFMTWRXMnNsaWZubk9zUWQ3X1pzVk13cnA5TXRDTGNuTmVXeVc3QjNOM29RX3FFS2R6SWV1X3VOZklmMEFWOTZRdG5nbVE3eWJnTXJkMGxzcjRTR3IydkdVNkhkcGp6TzRqSWU4N2ZfaGdtbU4yUzdWRGVNMU9oaHBxWWcwS0stVUQteVVWVTUxN0hMejVtTTh0WEhSeE40NmFCSDZqdWZuN3FrYjZCQlVfQWRramk1c1NWUnZEWXNwcC1Pd2x3VVFjal9Ib2hPdEE4YWd2MUhLeEpEcXZNVXd3Q0tGdlJHMExLdnhyYXVSNXY3NVhnMlN3SzdHR3U5eExVdUpQcWFBcFpmQ1NmdkU1NVp3SHJnaVdEVTRR?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
-      "id": "31f8f9af22190ec34e8f2c95a13c12fc",
-      "title": "🔴🔵 Mario Bonifaz, médico veterinario y doctor en Sanidad Animal del SENASA, afirmó que consumir carne de ave y huevos bien cocidos no presenta riesgo para la población, pese a la emergencia sanitaria por influenza aviar. 🌐Más información en: https://w - facebook.com",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMVNCdzAwLXRkY1h2TTZJbDc5cE9mN0R4dXBTcUd3cUZ0U01YOFRLZ2FBd1BNUTdjY3NuaGxNU3I4QUtHd2NEQ3BVWU5FTkEtcDdyeHZ5ZDJtczlMNkFUaWcxaWZXakM5VEstMXRhNm5iRmtZQ1hKQ0lFY1k2YWlRek8tMW5sdERRdWpKbkViOWlEVzlDel82SUlsd3ZXQjVtRGxEcHpZZWJ3YkZpNnplcnZ5SndPNG9ieTB0eWdFcTdTT1psOGtVMFlVSzN1bk4yQWlxYklfRUhWaHJlZDFSd1laaHROd3dkYUNr?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "8e61616ec145b95078a5d4ef859daf75",
-      "title": "🔴🔵 En diálogo con Exitosa, Mario Bonifaz, médico veterinario y doctor en Sanidad Animal del SENASA, afirmó que consumir carne de ave y huevos bien cocidos no presenta riesgo para la población, pese a la emergencia por influenza aviar. - facebook.com",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWlgxbFotakN1Z3lsMkQ3RlhvQVNBMktVQzdLQlJNNGFBRXFLaXlrNmNTb3JwdHdsRWN4LVlXckhobTUxUlgtbG9VNl9lQkUwUHc2bnZJVk9NUFhuS3BsOVBRWEdNNDZDVWxMQUdaUE1yclloRktORTAzUDBNbzVOMWZPT25LZjFzLTJCbGlLWDAzNWRUVnJRV2NpY185Q0NOemVPQ3B1ZThFSG52ZEhsSWx6Sm1GOHQwamRCdFZkV2NMVnU5QTZQc1JIVVJPMEc1cC1qakxoX29aQ2FpajFJcHZfbllWb1Y5UXk0?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "57d1b9c684874a005d18313e06da3d72",
       "title": "Vigilancia intensificada en humanos ante eventos de Influenza Aviar - Pan American Health Organization (PAHO)",
       "source": "Google News - Honduras",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTVwY3R3dTZyOFdwbW52X3Q5YkVlSEdUdWVnaklqQ1d6NDJVNnpSMzdRZVFmV2x4ZkFkV0p2VmtwVF9xN0wxMDZjZHU2ZlBwM1BYQXZfNEd2OXlwSzNuRG1TdTk3UlFLSTU3TDJad2stb2xHRGpocVFKcTdwX2luQWE3b05PcmVTVEYwNTVLWExGajBlMmRSQzByV2hXWHF0bTYzN01lSk1hWlh3VGd3?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "c6ed7ef1ea19cbe146780597ad2b4b0c",
+      "title": "Influenza aviar suma dos nuevos casos en Los Lagos y provincia de Osorno recuerda focos registrados - biobiochile.cl",
+      "source": "Google News - Chile",
+      "date": "2026-09-03",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOWFF2RWlRQnJneVM4TFoyTGUteDVKR0JNTGVaOUZzZzRXVm00dnY2LUtaMzlZLUxPTEtuX3JNQnpoZjBrRzlnNU92ZEtCeU9NRVUxZjBqNTQ3dHVDUXNmX1RzN3JlVHZxRVpiVjFTcUxJTlFSUDRZOUVMYk0zUVExNlpNMldNdElKckZkZE12c0RUN2JueDBua1lGUl9LWG5OLVRXbXBOZDJSMW5xSFllOW1Fei1uX2xsSHN3ckktZ0xuRjdtbnFMcGYtUUoybmw5XzQzc2xTVllhX0VfYUlkdmdTdGtXVktyT1lwTndKMF9kWHh5UGYyRDJZZjRlc2hzVXZDLU9XNm9qZlc5Z2c?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "8000fe6bb2b79e052b8d6d8d9ca55e68",
+      "title": "Medidas urgentes por caso de influenza aviar en Colonia: se declaró la emergencia sanitaria en todo el país - elobservador.com.uy",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-04",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNnB6Tkh6VXZNckpnb0JlNFlYVGNKWmthb0JtcDVJNXQ2MXlaZEFIRzVObXpEWDhVSERmZTg3SG1CVFI3ZG5lS3doenBYZkFSOVlIcTNxLWVyc01mNURhb1ZBZjFpM0JNd0s2aXl0QWNSRENiM0h2VUdBbUlSOUNtbEtHMUNXX3hsdGxMelk3TmozYXhXZjNUc0l3NkM3aTltcDVHWG5xMWpZWDTSAbABQVVfeXFMUEcwLTFnVUxZYlU5NE1hcjlQZ0VxVEFwSW5BRjJPeXFtQXR6dkoxS2V4OEtzUm1EYk5YMmN6VzhNTlp2Wm9nTTFWeG1pRXdLTGt4aEtONmdLc3E0SFM0Z0NOcEhQMWtLQThxZlNOZk9WTWZkUHNTeGZidWFaemNKVGhTNHFmU3R0STNNakdoMExlQmdCWF9YVlJ2a0pvbmtYZ1FrUkREZlRQVU4yZktqVWI?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "f79d9ca0226edbece6d42942889acda1",
+      "title": "Reportan influenza aviar en dos aves de zoológico de Chiapas - milenio.com",
+      "source": "Google News - México",
+      "date": "2026-07-04",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNW5WOWxkc0xiX2tTN0pEVUVDTHJxU2tHeTFZWjI2cTE0VEd0cGhfaU03OVExQ3VUQ2xSS0xJODdLeGdrTHFmb0s5N1VEMVNhdFJFSF8xTXFBV29lSkVPOXFHUVZuQURpS0hXbC1ZV1Z3eWxzVmJkc0pLR2hmRnJsZWVqdGloRFpNZEFaMVByRE9jYmJiSkw5TNIBmAFBVV95cUxOeERPQl82TG8wUU91T2h6QTg1ZFk4Zm1sME4xM05zQ1N2VTJxdG4teE9qeW9lSGpkVEtYY2ppWU5tejY5VVRPSENGODZUU3YyamZncU5fWTZycEN1M1p4LVpDalhQVVFRLWR2Mjk0QV9oVFhTeExmTUs4SEJkUzVoV3hVOG5ScTR1cFkxTjFBY0dxaFktc3RKZg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-06 18:05 UTC"
+  "last_updated": "2026-09-06 21:59 UTC"
 }
