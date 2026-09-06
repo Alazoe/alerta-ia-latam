@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "27d741379e204487b38e3e954eb5030b",
-      "title": "Gripe aviar en Perú: ¿es seguro comer pollo y huevos tras la emergencia sanitaria por H5N1? - Infobae",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTlLWm5BUXNxT2N1TGY5ekVjYkxQU0twRUdBblhQcjRGbmVibmpYT3R4TmY0S2J5WEx1a2dPd0t3Q2RqUE1wTEhjN2dwNTlTMDhXQm1RZ3F4ZXFkdXF5dWNBSmNyT0FQYWVDYi1NRjkzazh2X0tSUDRlVDVvUlhMa0lNM2dfdzF2RDl1SU9PS3RmUGYyRW1nbE4tTWNWNDU0MkFLYUxiU3h6QW5vdlVlajEtbElUVzBfX0xKbjFEUHNybkZFa3pwaNIB4wFBVV95cUxPaG0yOGN0MEVHLTNMRFR5MUt6OE84TV92cVZhOWc3Ry1KVkI0SDJXMFkwT25GaW0yRkpVeHNYYldpT012TnkyRloycER5YjlUZnlCcHZlQXdDOHpSWV9uNjd2TWJoME9tNlNlVWk5dFRjS3BiTTNoOHBmbG9jcVBBdEpERHY3ejl1RW1VdWhpQU1tdHQzRmpTdFBTREVndWNKYndBNFcwWHZRVmZQOTBkZndCZG0zSXdjbExjNV9wMWV0TElSQ2dVM0sxUWkxZ1otc250NkhtbWZPeGNLUXVqME1Bbw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "effeab67d358df77db5eea758115aab5",
-      "title": "Senasa activa medidas preventivas ante brote de influenza aviar en Lima - AGROPERÚ Informa",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaHp0ZTZjMjlqTkZBNllfeEVHRWdId2JuOWw2cTFNb1R5MmllUE5CMlBTc3MtLXN5bFU4M19wdjlTbmhnZ0FfWllrMGJleTZ5SVZuSnhDRFJEYmMzaEk4M25KSTBOYmJERlNnemNLT0ZGS0ItY2JuRVhFV21mczhqWEhSa3p6Wjk2SVhYMzZPWUVXcVJSeG04T2dSNlM?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "0965b65613eba1e6594c850f044fd382",
       "title": "Nuevo brote de la Gripe aviar H5N1 en Perú: por qué el SENASA declaró emergencia sanitaria y lo que debes saber de esta enfermedad - Infobae",
       "source": "Google News - Perú",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcms4OF8zN2FSRkpvbnR5eGJybHRRdWY0MHRNS2JaeTVNVkpicmZGcGwxWThlSmdiVGpnTU9kdTA3b21ON2Vxc0tWSURrQ09PejF3TXlyWndVdEk0WlVSNU9ZWnlXU09Ya0pKQklaMndCX3p6QjVnTkl1bWlTVW9BZ1Zrc2FxcnBlVm1xNngyb1VhWjRtd0xkMnNsSVUzLTJ4TEVXUGJHd2o2bGhVS2pmTDhWWjBBc2UyYVgtSlZJQnLSAeQBQVVfeXFMTlo1ZVdBVGlfeUtrSlBSMTQ5UHJpM3VCeWU3aXMwVXp1YU5ieWNmVDR4YXV2QWMwaEdoZVYtRFZNMlpQenlNMFFuM0V2WXgtNEczWUZoTVFibUZFQ2NQckdTRVdMREZpZGQ4UnRQVGpOcU51aUJtMjZKdGt4ZmQxOTAwYkdIREVmaUxIMWVVUlY5a3Q1cGNwQzVnSVNHZ0FMYlROWGNNWV9SYTlOTnEtZllQandHY2w5Tm5FMnJSTVhpWkRGb29xa2hCbldNdXpLaERpdjNUZ3Q4V3dOQjNVRkRyZG5Z?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "8aa170cd2ed98b05d75746d28ae638da",
+      "title": "Emergencia por influenza aviar: Senasa invoca evitar contacto con la fauna marina - actualidadambiental.pe",
+      "source": "Google News - Perú",
+      "date": "2026-07-14",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMTVtTXBCY2Q0Q0JXSmRvaFVnQXhCZGVaM3A4bWNYdGhOTFkxdEE2WEhpWUZQYlNhZFgzdEI2dzJ1eURWTlpienVwSGRNRWRCOE9hNjR0NXhqZ1NOZ0VSRFpTUEx2cF9UUjBzRGJCM2JmRzBNcTZTalZtQ1VrYmRZX1U1ekhLeEgwaEx2Q1dFdzRiMTNER1plVEVwMFBMdDdfN1Z3SndORDdEV3pxdi1xVzdLeUFhUEE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "da7b9a68252e2d117f3cb2cce85df50f",
+      "title": "Detectan primer caso de influenza aviar H5N1 del año en el norte de Chile - elproductor.com",
+      "source": "Google News - Ecuador",
+      "date": "2026-06-19",
+      "country": "Ecuador",
+      "lat": -1.8312,
+      "lng": -78.1834,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTVwY3R3dTZyOFdwbW52X3Q5YkVlSEdUdWVnaklqQ1d6NDJVNnpSMzdRZVFmV2x4ZkFkV0p2VmtwVF9xN0wxMDZjZHU2ZlBwM1BYQXZfNEd2OXlwSzNuRG1TdTk3UlFLSTU3TDJad2stb2xHRGpocVFKcTdwX2luQWE3b05PcmVTVEYwNTVLWExGajBlMmRSQzByV2hXWHF0bTYzN01lSk1hWlh3VGd3?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-06 08:26 UTC"
+  "last_updated": "2026-09-06 15:06 UTC"
 }
