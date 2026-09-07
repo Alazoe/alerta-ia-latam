@@ -1369,18 +1369,6 @@
       "color": "#ea580c"
     },
     {
-      "id": "8731beceba466db37d363f980cbaecb6",
-      "title": "Honduras activa vigilancia sanitaria tras detectar gripe aviar H5N1 en aves silvestres de Lempira - infobae.com",
-      "source": "Google News - Honduras",
-      "date": "2026-06-09",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMlJVbWNBamxvVXdJaFZVZjBGUFBvYzY5X2JFNDB3X1VUbHdkRnRiSlg1WUdqVjhiLW1mVmgtaEFZVUxNNW9QVS1Kalc1ejNURTFlX21UcThBMHdhUC1Ta2ZIV1BCeXhpU3ZGZTJ1UjZfel9jckhTYmo0QWw2cHBtdUlpNzgzOWN0N0xSZy1NWVc4TjMwVlJxYWxmeDk3WkVabUtFM1QtMkVyTmhDUGV1cjBGMmU2UDdGMTY3RGNyQVNITUp6a2l3RzBZcVpuR0VHUm1FM1dLT2xJUdIB9AFBVV95cUxOam9ieWM1aThzbkpaUVVTdTRBdGFnTDJabElzbU9BSWxKRmcySEhPeE5ZVFNLME1nQnZrcHRQLVlEanRHSWc5Nkx0VmhaRE9PbG4tY1lxN3duUnkyemZLUkdKNW5kY1ZWcU9mOEFfSFY1MFVGMklDWUJOS0VFQXBFNk5WLVpSai00ZjBUWl9XU0J1Y0w1Qi1ydW1LcnBpLWRmb1pKZmNRRkNuRnd5YktremtpcGgxMFIwMnJXbHdpZ2JnLWJ3QnZVdENrSkw4cGlVLXNGZ3BOUXRzWjMzbDNjVkVwZjVmTUhxVTluMUd6SE1EWWt3?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "5450d07dd97ff631f74cdbe49f01a6fc",
       "title": "MIDA refuerza vigilancia por influenza aviar en el Archipiélago de Las Perlas - telemetro.com",
       "source": "Google News - Panamá",
@@ -2073,18 +2061,6 @@
       "lat": 9.7489,
       "lng": -83.7534,
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaFU4dnZVUUpEbm5wdzhVR01UeVpjWXp4MmdsMWtnZmpLUEwzVmhTVGJRNWQtWjVFeXFxaXpWQk8zc3BnanotUXo5c1p5bnBKUmpsNHVlRkFabzNKYmI3TDB3U3U1RlJidElIUmhSSGlfWk5tTkJXRUgxVXdkc3ZIb0YwOGswVkc2RzhRU0l6bmNJQXFHWUN4TmRpc2VYVGgwWkJIVU8yVUJMTGxXcHRaTXBoSU9QUTZ1QXc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "c58932e97d30a526ad275988533c32f3",
-      "title": "¿Puede la influenza aviar afectar a los humanos en Honduras? - latribuna.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-09",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMjFxcUhiSU12aEFRbi0zUUJfSS02bVI4MXJzbzBNdmQ5eWJZWUtfZWZlNHhtSDhMb1dEa1A5UURHRGhQRVZHQS01MlYwWEFtWmh5OGJmRnFoRlAxXzY2aFFyblgwbFAtR3JhNkhkRDVGcDhuc21nSVU1dmg4bTlJQ1cyOWZkVm5oeXY3ODdrR2F4UEFGRDkxWHEzdw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -2965,18 +2941,6 @@
       "color": "#ea580c"
     },
     {
-      "id": "a09845ecce2383c3ea0dbccd7044477e",
-      "title": "SENASA fortalece medidas sanitarias tras detección de Influenza Aviar en aves silvestres - elinformativo.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-09",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00akxZT0U2VW5KcmxnVV9TZEJJSmNSVkZ1M1pqNnVJOFh5VHd2dGZ5N2daNHVaeVdETnJnT1EwYVNVZHhPdWdYY0Q3cUk0Q29BTWg3QW1zWQ?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "b7a79e8eb540363936ce70cff15ea51b",
       "title": "Consumo de pollo y huevo no representa riesgo tras caso de influenza aviar - LaPrensa.hn",
       "source": "Google News - Honduras",
@@ -3599,7 +3563,31 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNW5WOWxkc0xiX2tTN0pEVUVDTHJxU2tHeTFZWjI2cTE0VEd0cGhfaU03OVExQ3VUQ2xSS0xJODdLeGdrTHFmb0s5N1VEMVNhdFJFSF8xTXFBV29lSkVPOXFHUVZuQURpS0hXbC1ZV1Z3eWxzVmJkc0pLR2hmRnJsZWVqdGloRFpNZEFaMVByRE9jYmJiSkw5TNIBmAFBVV95cUxOeERPQl82TG8wUU91T2h6QTg1ZFk4Zm1sME4xM05zQ1N2VTJxdG4teE9qeW9lSGpkVEtYY2ppWU5tejY5VVRPSENGODZUU3YyamZncU5fWTZycEN1M1p4LVpDalhQVVFRLWR2Mjk0QV9oVFhTeExmTUs4SEJkUzVoV3hVOG5ScTR1cFkxTjFBY0dxaFktc3RKZg?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "c9b876d6da28a080c6930533ef3071b6",
+      "title": "El Ministerio de Ganadería, Agricultura y Pesca de Uruguay declaró la emergencia sanitaria en todo el país por un caso de influenza aviar en Colonia - ambito.com",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-05",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWTJBajY4Y0g5RlYxUFhaaVVJVlZTbFR6eWN3cHB2NG11NVVDTVJTS0R1UHFORDRVV3FYTTJtcFU4TDl5SlFwZXhkeVFCZDZQd0RYZjZWUmpDZzNGTVdhOGlyN1FEaEZ5V2J4emtFODdydDZVVnduZ3NUNWNGQ1NoemxHUjFvTzIxcHMzWkI3d2JrMW4zTTBmRmY5eUstQW9aYldZMG5ndEVZNDNtajYwRmxHN2FweGktbGwxMmJEaVZGaHdqNFhqUEhzR2l5Q3RrMWdFa2xQNUc4UG1TRlI2VjZxTXVGbU1sNEd2U1ZtMmpZd9IB9wFBVV95cUxOZVFGenN2YWlPaFlxNnNTV1lsVFpXSUVfejlLTU9JSE1YZXBvTlBQR0JzVmdSVnhXcVZIdW5hZ1o3NGpPOXBVNDBoNWx5Nk52RnNhVDRSMlVDZzQ5U3pUU1h5SXB2aFNGenF6Wjl1clBjMXZRdWpiUkhaUjRYMENnUGM2SVFzSGUtYUh4Q2VRZWhoWVVnZkVZYlF5TnI2RTdyUkFLTXdrTTVsdF95T3lTaVlPSThoTG1yOHhCLXRudHFKMTF4YTFrX2lnR0RybDdYcHpVYnQwbmdLT2J6QmNWNTZPdnNkMXI5bnpqRWRyQUhZanhhaFFF?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "020fef1a0697bc55916c6bcfcb4695d0",
+      "title": "Descarta Senasica afectaciones por influenza aviar en Chiapas - Gob MX",
+      "source": "Google News - México",
+      "date": "2026-09-06",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU01FMl94RlhoMVM2c2MwSW5YS203XzU4SFprUDE1RVdrYm5ZOXhGZEJDd3dDRGZJTHBvMnZNQUk1SFlqUWVMVTVISU0wN1R5OGRGUkE3RHhMd0wzM1NzUXZjQVBXNlM2Q1hqT2ZxeEJpQVBTZXN6WXhzcjd4SXFUXzdwTGg0dlduT21NdjgxLWpKbWxiclZFRWVkUktOeFVWUER1ZVhIYkU5eTNIRDU4SmdhZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-06 21:59 UTC"
+  "last_updated": "2026-09-07 03:29 UTC"
 }
