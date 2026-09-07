@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "1d236343565933a6e413409c00a963ab",
-      "title": "Senasa asegura que no se han reportado nuevos casos de influenza aviar en el país - elheraldo.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-07-13",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOY1lkaURjUlNRaHozNk1LMU52Ty1PQVQ1RVhvRFRGSDNzdzZhOW5vb1dLWUZBcDUxNHhwNGpJRFczVU13c281WnMtTDFNV2xNV2N2ME12QXVtTHJNNHZJNFp3aEdPT2xsVkRxME9aZWM2Y01UNndfTWVGZmZGSlAxV3VxRjBrbHFwZ2pDbjZac2xUMS1Ucm1JY0dQZ194SnhxTHg5SGRIQXZuMkF6YjFkd0ZFZzFQZW5GajkyMUhmLWQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "db1fab3673609483d57d743a8f16ce37",
       "title": "Senasa descarta transmisión de influenza aviar por consumo de pollo o huevos: \"No hay ningún tipo de riesgo\" - RPP",
       "source": "Google News - Perú",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdC0tRTMtT1ZsUFUxM01WWVFYYm1pNERjMEpnZ0JER214eFg3ZVZnU2QzUWRESzZqNk1kdlJ1RTJxVURSQVdqZWZjUWtCM1J1M2VBZ2NxdHdEMDFQUmlMWHdYSjB5ZEhwOEYyVnprd0o1SzF3SDN4YTJfNzVvQkdsRnQtTU1JTEY2SDIyZlFoQU5FSGYxdU1zMkw4bEhhd1JwVDFpd0xEQVrSAbYBQVVfeXFMUDFULW93STAydjN2dUt6Z2dHdU1ZVnRqTndDRERObUZnUDRvSjNTWnoxZWxlLTF3dlAyT1JlQm5jdWVBbkxCY0dDMnVlNGlBOVRPUFZaREtnZVFGUXcyTFFmbHVnQnFuVFhSajlsSV9wT24wMnBMMTJ6RVBKeGthWm8yR2VUc1lUeUlDa0tEZDBST3Bac0doOHlEbDRYSXFIZmFyT0hOOEM1RU9fd0hnT21CRmFsV1E?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "e7b553b8a9f80a48011c38bd20336801",
+      "title": "Uruguay declara emergencia sanitaria tras detectar Influenza Aviar en aves de traspatio - avinews.com",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-07",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUXBNa3RqV3NZX3NhRWQ1ZkpXVjNiOHlqdkhlUHZ3UVNlb0Y2MV9YOWRub2hFOXB3V0xPemJwVkt0SHY1ZG83YzE0cjljQk9peE02QU5sS3hZQS1aRmd0YTRveGhnYUNGd3VqUHJDRzN0TVBQal9xdHFtSEQwTURZUXJLVG1CbWRVZ09QUWRBRk9zZDY5dUljU1dFQXNwTW1wQmh0SDZHSHpqNHZ2?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-07 17:28 UTC"
+  "last_updated": "2026-09-07 22:36 UTC"
 }
