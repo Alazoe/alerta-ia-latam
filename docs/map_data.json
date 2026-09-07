@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "57d1b9c684874a005d18313e06da3d72",
-      "title": "Vigilancia intensificada en humanos ante eventos de Influenza Aviar - Pan American Health Organization (PAHO)",
-      "source": "Google News - Honduras",
-      "date": "2026-07-14",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenNvdzJmZjVYb2FneHdNLTU1TWlhWnFHaHY0NnNHWTNoZkpoX21aUUJTY0lVWTNYTTNQRGRiWEtoRy1OcUtrYTd2eUdGMGhaaTZnczF5SVNGR1Y2d2FFdkh2QnpaQXVyTTltMGpnNWhzX2x2dmRJNDR4X3JkZDYyMkh0aDRNYl9HN0RZTlJfTUVnWU51dkx2bA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "1d236343565933a6e413409c00a963ab",
       "title": "Senasa asegura que no se han reportado nuevos casos de influenza aviar en el país - elheraldo.hn",
       "source": "Google News - Honduras",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02YkNxTE80dXFrMXdtTnpEdTQ2dTllTF9kWVZ0MVRrOW9HQkNzaUU2NHJ2VElxMXp6VjJDV0dqZWIxSVdhYld3RWp2S0I3aUZpX2Fv?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "10e1de16dc69a0048b6d97b98b7f1ee1",
+      "title": "Senacsa activa alerta máxima ante caso de influenza aviar detectado en Uruguay - ultimahora.com",
+      "source": "Google News - Paraguay",
+      "date": "2026-09-07",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdC0tRTMtT1ZsUFUxM01WWVFYYm1pNERjMEpnZ0JER214eFg3ZVZnU2QzUWRESzZqNk1kdlJ1RTJxVURSQVdqZWZjUWtCM1J1M2VBZ2NxdHdEMDFQUmlMWHdYSjB5ZEhwOEYyVnprd0o1SzF3SDN4YTJfNzVvQkdsRnQtTU1JTEY2SDIyZlFoQU5FSGYxdU1zMkw4bEhhd1JwVDFpd0xEQVrSAbYBQVVfeXFMUDFULW93STAydjN2dUt6Z2dHdU1ZVnRqTndDRERObUZnUDRvSjNTWnoxZWxlLTF3dlAyT1JlQm5jdWVBbkxCY0dDMnVlNGlBOVRPUFZaREtnZVFGUXcyTFFmbHVnQnFuVFhSajlsSV9wT24wMnBMMTJ6RVBKeGthWm8yR2VUc1lUeUlDa0tEZDBST3Bac0doOHlEbDRYSXFIZmFyT0hOOEM1RU9fd0hnT21CRmFsV1E?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-09-07 09:03 UTC"
+  "last_updated": "2026-09-07 17:28 UTC"
 }
