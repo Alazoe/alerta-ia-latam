@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "db1fab3673609483d57d743a8f16ce37",
-      "title": "Senasa descarta transmisión de influenza aviar por consumo de pollo o huevos: \"No hay ningún tipo de riesgo\" - RPP",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVU83SE93cTNBanItRWxpWUV1anJsWnAxaERkNDduUk5xbXVwU3ZlbkRWanJ4dmlDaDFQLXhENmM3MWR1RVNlY1BWclhTVmMzNEQ0SnA1cnBEMzI2dm1SM29mRTNFTk5RcHlqdmZVaHk5MHlpWTd2dzZ4dXdLQXM5cmF4Vk1tQ291ZTJCV0V6eWFWY3FFZGI1cWZFOVA2WHlZWG9Qc2pHMUwySzh6Qk5Oa3R4YUJqejlVWjBMQWhhRWd2T3MwejZCXy1FSUlxQUxReHFaRFMtZ3JzazRibk1RTVR4LTZrUDcy?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "91d62675c67f0efa800609e6b0fc1799",
       "title": "Perú activa una emergencia sanitaria por influenza aviar y refuerza la protección del sector - Agrolatam",
       "source": "Google News - Perú",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0VzRDFNVjBlWkxPUXRKYmZNSEJ1UFNlQjhRYUVCTjQxOXExREZyVlBNZDZLSmZyNjNnY0JYdmtNQ2VCVkgwUnhWb0RxakxIWHJwT21QZHZlMXM0SnVEbjFjaWRKaUgzR0RlbEZDOXRkNlF4Nk1PLWtSWnRfOEt2bTFaVnB1ekR6Uk91SDhOS1BIZmVnMGs1WTZzUFp3czJ1MUNFXzhDS29zbm5nSzNaR0UzLWNMUU1STEthUnd5blREUE4zRnBWVGJCRHJEcjVmZEhvMjBwejdlUQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "0ef54ce59bc6db83a3268e6aec3bcccb",
+      "title": "Senacsa refuerza la vigilancia sanitaria tras la alerta por influenza aviar en Uruguay - abc.com.py",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-08",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbGN0Rk1YZzNUQXBzbll0QUF6S29hTlAwU2ZJTmtDT2VhWDN3ZURVMHZ1TnRDdFc2XzJtSmNhTUNzdGgzM2J0YTNIYjl4ZjFwOUxyVFpDM3RMR0VFQ01ScThBQllUSXlNUVJQRTA0eDJDTUdfRjdOVEJKdkw0MHFDWEJzamg0SzY4amV0TFUxU0s4V2ZaQ194TDBaYnowcjMwNmhnUF85N1J4WXZCQ0l4Z18yYkpYSmN0NDJhbjVoU21CYW1EcUZBNFJwcmplV3RjLXg5d2ZjY2RkZUlZMTlILdIB4AFBVV95cUxNbGN0Rk1YZzNUQXBzbll0QUF6S29hTlAwU2ZJTmtDT2VhWDN3ZURVMHZ1TnRDdFc2XzJtSmNhTUNzdGgzM2J0YTNIYjl4ZjFwOUxyVFpDM3RMR0VFQ01ScThBQllUSXlNUVJQRTA0eDJDTUdfRjdOVEJKdkw0MHFDWEJzamg0SzY4amV0TFUxU0s4V2ZaQ194TDBaYnowcjMwNmhnUF85N1J4WXZCQ0l4Z18yYkpYSmN0NDJhbjVoU21CYW1EcUZBNFJwcmplV3RjLXg5d2ZjY2RkZUlZMTlILQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-08 08:41 UTC"
+  "last_updated": "2026-09-08 16:13 UTC"
 }
