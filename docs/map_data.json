@@ -121,18 +121,6 @@
       "color": "#dc2626"
     },
     {
-      "id": "33d0527414510cbfa9f9be0bc4d6d040",
-      "title": "Bolivia se declara libre de Influenza Aviar de Alta Patogenicidad - elmundo.com.bo",
-      "source": "Google News - Bolivia",
-      "date": "2026-06-11",
-      "country": "Bolivia",
-      "lat": -16.2902,
-      "lng": -63.5887,
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT19EWXFuWEJuTnFwTWNIVUU1UDByMFhoRmpxUnFUamFwTDZob3cxRXhaRjFHT202bmRFdWRCWHVDaGxTWTdIMUNjUHdRUzVqbGx6OU9CVkNITDZVOTc1UTh4UFVOQzRGay1WVTRyZHRtN2NPTkc4cldSeWhOQnVhakZkRk56NUFETmpob3IyeTk1Tnc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "1ab6d4972ab4f101a879f2768f467d80",
       "title": "Emergencia por influenza aviar: SAG pide evitar contacto con aves enfermas - tiempo.hn",
       "source": "Google News - Honduras",
@@ -537,18 +525,6 @@
       "lat": -38.4161,
       "lng": -63.6167,
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOXzRRY2JWOUlJejVtZ3FjOWpVTVJqb2lJRzRlR0ZrcFJqcGJOdWxScTZOUHp2UWE2alVudU9nQ1duM1hGSUM2ZHNmY0Z1dzBpNzdvQWhxZkpUb0xsRzJ1MEdBc0w3YzczRFNKU3hMLVg3VEhGd2FpSkRIZFI2dzYxa0UwR3l4Rl93bEpldzJFNnZSU2EwbERxT3FaTU1hZkQ5UGRZZ2Y5RQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "8029ad33cb955c63e086a78cdde075f6",
-      "title": "Bolivia se declara país libre de Influenza Aviar de Alta Patogenicidad - Abi.bo",
-      "source": "Google News - Bolivia",
-      "date": "2026-06-11",
-      "country": "Bolivia",
-      "lat": -16.2902,
-      "lng": -63.5887,
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGJuYUE2Q2JsRk5meFNHZzdGeGphS2RmWjRWajZqNXZrNHBud1AzMjRpMTk0RzRWUnYydXc5RjN5My1OZ1BoS3hESFd3LS15N2RaTWNkNmpfYUtSTFUxOE5iT0hWa0pSejEzMERQNTFHSW5QYTdPdGczUTNPVFZrdEtaR0RieE9GSmdmNjZaMk1wVlhRWC1CQ3VZTWc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -1341,18 +1317,6 @@
       "lat": -35.6751,
       "lng": -71.543,
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUkR3Q0tGNUJUelZvM080U21yRUdCcGxsQTk5ZVBseXJIdnNMYmlVSHVEZ3hWNEZxUEEtcFFYa0QyTmU2dXBhVi1QU2JHaEIwWWd3cVZsTzEyenpkb0J2SkhZalh0LTVVOWUxTENFOWxNRnA1VllNN2RGblFFeGlDbXpab1l0UGs1V2g1S00zTXFYMllmaWI2WUZ0ZVlyeFp4MGVTYV9YWUc4QnNXTmc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "140808885887e6f2af8786661f2848b1",
-      "title": "Bolivia se declara país libre de Influenza Aviar de Alta Patogenicidad - abi.bo",
-      "source": "Google News - Bolivia",
-      "date": "2026-06-11",
-      "country": "Bolivia",
-      "lat": -16.2902,
-      "lng": -63.5887,
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUGJuYUE2Q2JsRk5meFNHZzdGeGphS2RmWjRWajZqNXZrNHBud1AzMjRpMTk0RzRWUnYydXc5RjN5My1OZ1BoS3hESFd3LS15N2RaTWNkNmpfYUtSTFUxOE5iT0hWa0pSejEzMERQNTFHSW5QYTdPdGczUTNPVFZrdEtaR0RieE9GSmdmNjZaMk1wVlhRWC1CQ3VZTWc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -3599,7 +3563,19 @@
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObzhzMUo4c3NhaE9aREREMlJueU92bDRFZW0wYzVWWVFfVlo1RDZMdld4SWM4ZFpHUDBxUURmSkluQjZRRC1MeTdRRzl5bTdyLTVsRnZ3dTlWdWN3ZktDVU9ITHBSb1hrZFRrVkF3LU11NmpLRzJyZnE4bkNhUHNpYW1SNWo1YTdGRzNPdVlSRWFmQ0ExcEk3LXI4Sm1CWFlhaGpINGFHejJQVHg1X2F1VEpWQllkb1NkeGpoNWllNG4yLXhvRWpzdDVhbVQ4djlKaG1qaTZ1MHBMLXE1N3hNLVZ2bE9kbDjSAewBQVVfeXFMTjBUbDdZcGp1Ri1QbVF2VkVlTXRKVV9OdFVMQzBvQ1ZHemdNOW9TNGs4TG5QNTR0VVZWZTR1NXdzRk0yZVRwbDVHQzZELXJkS2pWQmFBN29xdHd4b1JsS2ZTWDd2OW14bk8wMnF5TkVmYzdCN0JsUzJkMDJWSDdqcURkcnBpX011WmlGdkRnam5MWkdRX043V3pGdDVadGNCM180eExMSkpYZGZHSUlQQ0pvRzZ0X2VsNUgycDR4VkJXV2h1NDZaUE00UFBCbVRyMDBMcXVTV1dKUkpJaDVFTFBXWGpLN1ZZa1RUMWw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "cfeefa89e5b22a0e80d27c1eaad702bc",
+      "title": "“Nos deja tranquilo la detección temprana” de casos de influenza aviar, indicó productor - Medios Públicos",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-08",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNel8zVWpSSC1NUzd3Y0tnQWRPVVNLYloxYkRleWlzWUdtLVFRUGNwOGN0YUNyX09ieW9aN3E3bFdLVzVkT18wdmhCRG5oekVqQ0ZLWTdCYUVHXy15Zmp5WDgxa09HY2RxbDFTc1A2Ti0wVzRIbEpQZEZMdXRUMUg1TnlPNzZjSG1FMFhIWm5LUGdEQTBnTFRydG9NM2R1dG03Rm1DMzdQaW5xRjB3OEFvTGhR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-08 22:26 UTC"
+  "last_updated": "2026-09-09 03:40 UTC"
 }
