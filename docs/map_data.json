@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "9ba39de43163f666803c692d9ff5b497",
-      "title": "PAÍS REGISTRA PRIMER CASO DE INFLUENZA AVIAR - Heredia Hoy",
-      "source": "Google News - Costa Rica",
-      "date": "2026-06-25",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMDB6UlFhRVUxRGZaTkZ4ZDZyRDF4SHp1MmptVTkwQkZaUUJsTmx6S2k4TjBxaUNaRDYwQ01DbkFkQnl0VkFzcGMxZlpHMnVnY1BiM1NtT1lqSTEyV3hMSE5IMEgydkxURUtvRm1TSXNSVDNqc0dScE0xVHh2Zi03LVEzTzJkdw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "c096c2e2a9c3c76d3e7469642e52920e",
       "title": "Consumo seguro: lo que hay que saber sobre la Influenza Aviar - Uno Entre Rios",
       "source": "Google News - Argentina",
@@ -3587,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQcktWZXpoWnNPR3ZJSm1ySW0zbm5lQXRoSHNwZWRqZGpncjJNMUJZM2VNRU13TmZQZjN2OGlmYWhtZG9MLWxSZnJSTGl0dlNRV3dXZ1N4alBwZWVJdFRDSHdRX3pZT0JlU2NkVWZQOE9tMXczRHcxY0N6LUtOUzRmMWtTRWRrbk1GZmxjU0FNeVJIVHMyLUI1M3UzMDQ4bVZJT3djalFzVTJ0QlFFa3NDTWswWnViN3ZCU0FGQzF6akdZOXNEbVFTdHpKZkdyWVJ2UHpFVWxSbDFVWGdaSU41eC1FclpZNEhYOUZNRHY1MlliYmJ0RnJxajNJcEVRQUJsVDZVMVFXWdIBogJBVV95cUxNb3JPc1E0akZ5Y3hRc2NXdTBlX1NwS1FnSENKQTROYVFSR0NtdE9NZWlBcXNvWGxvTWdXN25udEU2dnZZZG9nVDNQNzVPeS1OWnFHWVJDNFBpRlZORlU2dTVmNDc1MXBOTWpDbUhQOGg2UTVpTXRCdDR1RmVjazFFaXRnSlIxQnpOSzVVZUtmSTVsbEVsdVRiRkV2dWRnS2tIZnBWLVhLQUx3eEl0RDZvVzRyai1oU1VsZS1aTDhSRlpzemF4bnFfQkYtNW5ZeEtXMDd5V0dkZUh0bUpCWkR2Tk9PR1dLaGVUT1JGXzgySGlSUEhhTnNlNGE1MUR5dHF0LVJBQTN3cEVJRHB2dGNaeEYzdjBpQ3c4ZTJJN24tQzdXQQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "e9c1c7054e4b696e6d9d1d4346105164",
+      "title": "SENACSA declara alerta máxima tras detectarse un caso de influenza aviar en Uruguay - elnacional.com.py",
+      "source": "Google News - Paraguay",
+      "date": "2026-09-09",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOalNxZnMxTkNOd0dKMEFZdF8tcTRIQ0dOc3RpeDZnUEJXSUMzQnFnWTBQRmRFSzVTMk9vSmFPU0NBdnBmaDFWRGVyLUpuNG54QzF2a0VQb0lfcW4wdTdUTmtLVHJzdUNUYTNQczhzcTZtbm9uWG9xUTBYT1JQRjhpTjJzT2NPeEFRNXlJSENLMVdlQy1hdGZvSjJYX0JvbG9WNGktc1ZmNk1EeFNHRWdySmRDQzl3azBE0gG-AUFVX3lxTE5rZXYtdUZuVXl2X2VVSXhmRmpha2NaeTRVdUhtUmxrVEhYNzVHNGYzVDY2Nncza0N6eGVJWXcxVFRCTHpnU1I5UVJudlozR0h3OXQ1V2ZTLXhTTXgyNi0teDRrbS1ZS3RtVUdaN2tqc0hoVWlINjRYeXQ5TW9DZGE3VjZFZ3FodlJfbW56dmQxeHRqcU9iTGVqbTJIR2lMVkZKYUNrWFJIUUMxMGJwS21UTTg4RnBqMUNpdEcwenc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "9b9e4a0407376419a0616778394e0093",
+      "title": "Emiten alerta para el sector avícola ante brote de influenza aviar en Uruguay - lanacion.com.py",
+      "source": "Google News - Paraguay",
+      "date": "2026-09-05",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZnJDaGNLOGZRZVJrYjBaeVpCbXJVNHpVaWx6MXNuWGR2V0VkUDVXQ1lBekNteGNnakxibFZPUXFUUGVFeU1YeTU5WThsXzZqbTVfQWlpTndfcks0TTlLeDdKX0tTOHhXUUZmTF9Pc3dhOERERHdDRkxGUHRseVdCUGdFUXoyTl9oaTY5UExPblI4d2JSNnF2WVZDWUtWbXJYZDQwZXVLZHo2RkZ2ejJKdHh2aGFHTVpET0M4bWFkUmtSSWdG?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-09-09 08:46 UTC"
+  "last_updated": "2026-09-09 16:07 UTC"
 }
