@@ -3563,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOalNxZnMxTkNOd0dKMEFZdF8tcTRIQ0dOc3RpeDZnUEJXSUMzQnFnWTBQRmRFSzVTMk9vSmFPU0NBdnBmaDFWRGVyLUpuNG54QzF2a0VQb0lfcW4wdTdUTmtLVHJzdUNUYTNQczhzcTZtbm9uWG9xUTBYT1JQRjhpTjJzT2NPeEFRNXlJSENLMVdlQy1hdGZvSjJYX0JvbG9WNGktc1ZmNk1EeFNHRWdySmRDQzl3azBE0gG-AUFVX3lxTE5rZXYtdUZuVXl2X2VVSXhmRmpha2NaeTRVdUhtUmxrVEhYNzVHNGYzVDY2Nncza0N6eGVJWXcxVFRCTHpnU1I5UVJudlozR0h3OXQ1V2ZTLXhTTXgyNi0teDRrbS1ZS3RtVUdaN2tqc0hoVWlINjRYeXQ5TW9DZGE3VjZFZ3FodlJfbW56dmQxeHRqcU9iTGVqbTJIR2lMVkZKYUNrWFJIUUMxMGJwS21UTTg4RnBqMUNpdEcwenc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "2e4fa8ba0fdebc787c9ad4bcf05b2f72",
+      "title": "Detectan casos de influenza aviar en Los Ríos: SAG activa cuarentena sanitaria en Corral - adnradio.cl",
+      "source": "Google News - Chile",
+      "date": "2026-09-08",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYlBUdGp6bkFHaTEtYnJ1blZLVDRjaUFTN0JyM2lwOWxhLThaTGY5MFZuN1Zqb2RTdENCRl9EUC1rajVJTzlnV1VrUm5tSUxTYWFFOHNXN1pNN0hVd2JCMWFQM3EzVUxQRFcxeElCRFpBYWhFdTRtU0lDTDBJNUhDUzVaSm9PVkpCdGpSbnpTN0JWWUJpZjR0bTV2VXhHOHNtaEx3RmhrVnk3TTUxTEUzUkFvbDVHckc4Y3pyUy1NTkPSAdQBQVVfeXFMTXhheUdDOHlPMzY5SEdSRUpmQlVGTFNSbkY0a2VRNVVXdUJicTJ2QnVUd2hUQVhRc2tvMEcwYmU1ODJMWFFMZllfRUZydVI3c2xsRkN2NU1uMWp1M3NVcHZPZHMxLWs3cEZFSkIyNkZBM0dxdW1EcC0zN21udjRkMWFaWjVJdXFQT1F1Y0IyaXBIajU1bFhBZXFhajF2VVVFSnpwbDJBYXUxYmozUUNYUHM3OTZwZDNJYjhnTHozSnZVaC1Tajl5WjhDN2x2X0FYWEVxZ3Y?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "262737b25e0af047e302f4f80cacfbcc",
+      "title": "¿Se sumará el plan de matanza del Gobierno a la mortandad masiva de lobos marinos provocada por el cambio climático, El Niño y el virus H5N1 en las costas de Chile? - ecoceanos.cl",
+      "source": "Google News - Chile",
+      "date": "2026-09-09",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPdGs0eE95U1ZyazN2TkVwR2U4RkRRUEZ3RThWZjRCSzJUMjE3MlI4dEhRa0lWNFk5RndHVXYzTG9PTVIzTE0xRV92LWdEeUc5ckdrYnFHcUIwMWs3V1d2U3BUZDQ2R0dXR0xDclRrdEJwMXVVQnloRFo4Z0R1UG9FNjVOcHFHb001OUsyZ1FHT2t6TE93bHJkeG9hQzc0V0MzT3VzYVBlZWhtNzZod0dXY2dMWGZaSEZ1dmN2dEZSdU1zS2piWGVMUmZnWG1LMXRHeWVkbGRNM1ZTZXpkZjV2MlJvTDB2WTdvdG1iSWFUTnloZWxkTnJaVFBHQS1RVXk2ZUExYURxYmVlVXFIT01nLTM1U1ZSWUlNOW1IdE1NTXA?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "340f4161739ecf2d7651117ce04d7578",
+      "title": "Detectan foco de influenza aviar en el sur de Chile - prensa-latina.cu",
+      "source": "Google News - Chile",
+      "date": "2026-09-08",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV0dPMnFpZUtyRGRCc2FJN004dGFHWl9PVjFRSXRXRjBONnJqbHNaMHhKXzZBMkZFWGMyRGtjVmJ4SURxVk80NVViWVFYTmh5aTNTMlBSNXpzQVV1akF4Ri1vcmVJTWhwd1g2YjJOMU1nd01lWXRXaGNidFFCekppUTRGaWJxYVZ0YnpLRVhvVFpLQ29Ddmdn?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-09-10 03:38 UTC"
+  "last_updated": "2026-09-10 08:44 UTC"
 }
