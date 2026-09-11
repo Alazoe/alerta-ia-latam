@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "24ba949c0f3a497e5de1c15474d787fe",
-      "title": "¿Por qué Perú declaró la emergencia por influenza aviar? - Agrolatam",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdUZfQVc0Q1JLd1VHYWlPMXdWMDNkMWpBbXM5aktmN0RRTnNpejAzUVdLb2JQdUhoUS1sX1BFU1VGZ0JOaC02LWFIRW1oRkFJcjZIVWF0MEpRM1g4Mmw0RjgwN3Vtc0I5blRqdnkyYUpDWTNrTWEweFVmSGFYMEV1R0ZRQmllbzZQbWFzcg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "7186595c453b069ccee9089e8d829199",
       "title": "¡Alerta! Senasa declara emergencia sanitaria en todo el país por influenza aviar en aves de corral - La República",
       "source": "Google News - Perú",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdFA1alFGd3dqUkdJTUZ1NUtDWHFsOGR0aDN2NkZKRU1SZ3d0UkJkMVlrZEFCZGlSZGZaTDRWUFR6WGFBUXowZ0lRYmhZY085VDhMTDh3UTZUd0RPQWkyNDFId19GdVA1ZGhBcDdfQ2lWTEZZOXlJMmJsUEo4UWZKNF9MckszV2dFbDdyLVg0dnJ0NzBqa2hGZHBTNW5RVEkwYmJTZ0xfOWVHLWVzT1FEc19za1dZOU8xcU1DMlRGZ21ta2xvV2o4TENVYWREUGFlUnQ0WE51Zm91Z2dIN2xpUlZsMldEM0VKUUdXRlln?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "b9296a34231a1c4b8f5ed70e91fce79a",
+      "title": "Influenza aviar: síntomas, prevención y ¿es posible contagiarse por estar cerca de aves de corral o consumir pollo? - elcomercio.pe",
+      "source": "Google News - Perú",
+      "date": "2026-07-15",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa0Q0Z3VGeHFpbllhdzZXcUNOV3dwd2cxaVNPdnUzSDJwUTZPN2NHMUJiN2l5SE5aV0Y4U3pQS2VZUXlocGIxREtlYmh6LWp2YnZQRDZHYWVMSlBHR3lzMk91QWJvbFRobEpWdE1UUFpaWnh5cnRKMFZmOXdSeVFqd0hQak1uMWl2VmpjclREbDFqZHM1cGhEeW1sWFVGMVAwMFBtRVZobnFlTXUtQzNLTEVXRWxRRzNRVzE0Y2Vfd1pjUXZmOWpRajJacXczamF6UHk5UXhNS2x4VEV2b2R6VNIB9AFBVV95cUxOUks3aEJ1VkFwM3FtVDc0V0owLWR1bWlMMHBrX1RyWGxrVW1hT1hYeGNXalBGYUI1bHVjb0tFbjR2WmNBMXFodktKUllzc0NGcGhJamU4cDA2aFQ2bjc1YjRLUGRQNmx6c1FZb0ZlSHYzWTBPa2JfVmdCRHZPRXh3S010Q3huWWNib05adkdMVE82UXpVYzg0M1ZzT2doMDRCLXhlN2NGbkJYMnNVMjBtX295SXVFczFKQUJnSXd6VjZUOTZZaWYwaGxNc2FGUnZkeDdIUE96WUEzbUdkNVAwVzM3N08wWlQ1MHZabTEyOW9IZk1n?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-11 03:35 UTC"
+  "last_updated": "2026-09-11 08:42 UTC"
 }
