@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "7186595c453b069ccee9089e8d829199",
-      "title": "¡Alerta! Senasa declara emergencia sanitaria en todo el país por influenza aviar en aves de corral - La República",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNdlJicUV2UUVNd19mRlJPZU1wMDVvcWhhUVZtY3NvcjNQbWJCMmd0NC1DblpSSHJxMTB4WjJPMHlfaDBvVTRCa01TajVIc2xEcmtyVVo4bml1OUdYTGIyNjRSN2tiSlFXSWpDZVd3aDkwR3NXMDcwcHhYSkYzdFpSZFdncTZ3a2JnQ1VKVmtsU3ZFaml0UjNwV2MwYU9zeG5RdGR4SThUNmlGbGtON0c0QmZJYWV3YUJxbk14MGdKdzR6YUJyTHd0QmYyTTRhemFNSy1CVkxtRmVLSUFrc1lUU1A4cWNzeEJCQmlwU053QkZlVDdVRTl2ZjI2QTNobmJT?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "4cf60e21746a2ee03d80dc85bc695c17",
-      "title": "Minsa refuerza vigilancia epidemiológica tras emergencia sanitaria por influenza aviar A(H5N1) en aves de corral - Infobae",
-      "source": "Google News - Perú",
-      "date": "2026-07-15",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMktwN0FBd3NLWlJLMTVDeGxFNmhqaDNSNzh3ckU1NFFQOE1ka0Z6V3BCMHc0dDRfcG0tb2tRd0JMcERHSHFtako4Rl83RmItX0hCbm82Wk9Hb3g0MHVUZUItaGxMdjc5SG5iV0U0UzI0ek9LdllaMFZjcV81RFVNYllHRzkyekFtS2xfa05RMS0tNHdNOW1RTkdkNEpRakpQRkluY1BnN3NwSEVLTDVuMVpSOWNnZWhaMVhRVnhuQWtqelNRNk5RTGpEUVIzMWdVRW5Ua0stMGNFTEhKaFRLQ0ZQd2t5Z9IBgAJBVV95cUxOdTVETFJvZ0s5TnFhakRxZmxoZFZmZXdNN3VMV2I4b2xLOHp6Wm10MTIwYTVfMW9PZFhNUTdNNExEN2RJczFFSHZ3Rk1ZZ3RvZjctd3lCVGdOcTVsaUJTdXk1SFIxLWtycFVKUTFTVHFXUy1lVF9JVDZTeUY3S2ZPRFpQX0FIcEpZSXdlaUFqSXliMDkxWUlxNk53SDBFb2lwQkRRYzFCTWdmVENkcTluTHZKdWdNM1V2d1VuSlRWb1lCZFFXbngyUllkOVBXZ0l5Snl2LWxjSkh0SjNDcjNwb21DUUV5dGQ0Sl83SEt5SGpnOW1nRDlBRWhwbEFVcEw5?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "7133dae40f8107084ff13866669fc64e",
       "title": "Gripe aviar H5N1 en Perú: ¿es seguro comer pollo y huevos durante la emergencia? Senasa y Minsa responden - Infobae",
       "source": "Google News - Perú",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQa0Q0Z3VGeHFpbllhdzZXcUNOV3dwd2cxaVNPdnUzSDJwUTZPN2NHMUJiN2l5SE5aV0Y4U3pQS2VZUXlocGIxREtlYmh6LWp2YnZQRDZHYWVMSlBHR3lzMk91QWJvbFRobEpWdE1UUFpaWnh5cnRKMFZmOXdSeVFqd0hQak1uMWl2VmpjclREbDFqZHM1cGhEeW1sWFVGMVAwMFBtRVZobnFlTXUtQzNLTEVXRWxRRzNRVzE0Y2Vfd1pjUXZmOWpRajJacXczamF6UHk5UXhNS2x4VEV2b2R6VNIB9AFBVV95cUxOUks3aEJ1VkFwM3FtVDc0V0owLWR1bWlMMHBrX1RyWGxrVW1hT1hYeGNXalBGYUI1bHVjb0tFbjR2WmNBMXFodktKUllzc0NGcGhJamU4cDA2aFQ2bjc1YjRLUGRQNmx6c1FZb0ZlSHYzWTBPa2JfVmdCRHZPRXh3S010Q3huWWNib05adkdMVE82UXpVYzg0M1ZzT2doMDRCLXhlN2NGbkJYMnNVMjBtX295SXVFczFKQUJnSXd6VjZUOTZZaWYwaGxNc2FGUnZkeDdIUE96WUEzbUdkNVAwVzM3N08wWlQ1MHZabTEyOW9IZk1n?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "9f9ab0fbeaabd4c151f90289fc092dbc",
+      "title": "Uruguay declara emergencia sanitaria nacional por Influenza Aviar H5: medidas y alcance - debate.com.uy",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-07",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0VzRDFNVjBlWkxPUXRKYmZNSEJ1UFNlQjhRYUVCTjQxOXExREZyVlBNZDZLSmZyNjNnY0JYdmtNQ2VCVkgwUnhWb0RxakxIWHJwT21QZHZlMXM0SnVEbjFjaWRKaUgzR0RlbEZDOXRkNlF4Nk1PLWtSWnRfOEt2bTFaVnB1ekR6Uk91SDhOS1BIZmVnMGs1WTZzUFp3czJ1MUNFXzhDS29zbm5nSzNaR0UzLWNMUU1STEthUnd5blREUE4zRnBWVGJCRHJEcjVmZEhvMjBwejdlUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "5476b722d4d9ea22007c6fc19b4fe0ca",
+      "title": "Descarta Senasica afectaciones por influenza aviar en Chiapas - gob.mx",
+      "source": "Google News - México",
+      "date": "2026-09-06",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQU01FMl94RlhoMVM2c2MwSW5YS203XzU4SFprUDE1RVdrYm5ZOXhGZEJDd3dDRGZJTHBvMnZNQUk1SFlqUWVMVTVISU0wN1R5OGRGUkE3RHhMd0wzM1NzUXZjQVBXNlM2Q1hqT2ZxeEJpQVBTZXN6WXhzcjd4SXFUXzdwTGg0dlduT21NdjgxLWpKbWxiclZFRWVkUktOeFVWUER1ZVhIYkU5eTNIRDU4SmdhZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-11 16:04 UTC"
+  "last_updated": "2026-09-11 22:19 UTC"
 }
