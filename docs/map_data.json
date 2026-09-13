@@ -709,18 +709,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "3d1211ce3e0e6546e8ee3115fc61b511",
-      "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la Región de Tarapacá - sag.gob.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-15",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObVhJX1NoMS1SWWtmY0N2dzVfaU5zR1NlcVcxeEJkd0c4Z1pZZlRfQ2FUU3JJMExtTWYwQllGa3h6NXdROUNPNHc0blFWWnhWa0VzcWJRcnNBdk1fa3hfc0NFVGJjV1ZtV00yQ1NqakFiSV9jN3A2Vk5yOXpubklqSGpyeEVxa0tFXzNnQVpKRDJPQWpVaVA0WkRUYWlnNFIyZTZsVmYyQXN0ODJ5OUhXTTFOY3pnV3J3cmhhLURfSVRReEFNNG9EQ3BQX250b1pL?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "844280afd7f45770ba20cbea7f939303",
       "title": "SAG confirma primer caso de influenza aviar en ave silvestre en la Región de Antofagasta - sag.gob.cl",
       "source": "Google News - Chile",
@@ -3601,5 +3589,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-12 21:58 UTC"
+  "last_updated": "2026-09-13 03:47 UTC"
 }
