@@ -3563,7 +3563,19 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc29sbDBsMzY1MWFPUEFkY1E1a0xhZDlpRXA4WktoaGR1Q2poRHZlYWhGYWNWTHZOWTItelRzUzFNekpEYkhvMWtzSDVCWDFSRDlsUGVHNW50U0V6UDFkMVlOYW5OSHpPOUpIellkX1NYenA3YUdJTm9yVk43dHZkcTlzNmM?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "334aecda0b83a4e64ac3f1cc7a74999e",
+      "title": "Detectan foco de influenza aviar en el sur de Chile - Crónica Digital",
+      "source": "Google News - Chile",
+      "date": "2026-09-10",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc29sbDBsMzY1MWFPUEFkY1E1a0xhZDlpRXA4WktoaGR1Q2poRHZlYWhGYWNWTHZOWTItelRzUzFNekpEYkhvMWtzSDVCWDFSRDlsUGVHNW50U0V6UDFkMVlOYW5OSHpPOUpIellkX1NYenA3YUdJTm9yVk43dHZkcTlzNmM?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-09-14 03:55 UTC"
+  "last_updated": "2026-09-14 09:40 UTC"
 }
