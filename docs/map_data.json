@@ -3515,7 +3515,19 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc29sbDBsMzY1MWFPUEFkY1E1a0xhZDlpRXA4WktoaGR1Q2poRHZlYWhGYWNWTHZOWTItelRzUzFNekpEYkhvMWtzSDVCWDFSRDlsUGVHNW50U0V6UDFkMVlOYW5OSHpPOUpIellkX1NYenA3YUdJTm9yVk43dHZkcTlzNmM?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "d4b9c9f263e4f431d9fd1274ad152def",
+      "title": "SAG informa caso positivo de influenza aviar en aves de traspatio en Corral - SAG GOB",
+      "source": "Google News - Chile",
+      "date": "2026-09-07",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcF9hU0hrZGZaVGNhVWRUNHFyUTFTWjlEc25Kb1ZPN21CbmhjbF9CY0ZhR1NFWTI3R1NQcUVvUk1FRmpFeFk5cVk3X29kaVR6SXdqUnZGOHR0NWdwTW4xM00wZzZLd09lX0thNmJXWFdjMzgzRG1uMGJSSFA5TjVsRFhGZjNleWVGY2NWZ3BobnlwM1BHZk5hZDZ1UkNhZnhkQ0xXa1VKU3g3QQ?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-09-16 09:08 UTC"
+  "last_updated": "2026-09-16 16:22 UTC"
 }
