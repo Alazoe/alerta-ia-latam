@@ -3527,7 +3527,31 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcF9hU0hrZGZaVGNhVWRUNHFyUTFTWjlEc25Kb1ZPN21CbmhjbF9CY0ZhR1NFWTI3R1NQcUVvUk1FRmpFeFk5cVk3X29kaVR6SXdqUnZGOHR0NWdwTW4xM00wZzZLd09lX0thNmJXWFdjMzgzRG1uMGJSSFA5TjVsRFhGZjNleWVGY2NWZ3BobnlwM1BHZk5hZDZ1UkNhZnhkQ0xXa1VKU3g3QQ?oc=5",
       "level": "EMERGENCIA",
       "color": "#dc2626"
+    },
+    {
+      "id": "55db7e4f491882e3c5a36facfb0ec4e7",
+      "title": "Buenos Aires: Se detectó un caso de influenza aviar en aves de traspatio en Carlos Spegazzini - Argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-09-16",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNODFBZFBEcU5yRFEyZE9RTjVqTmxlWEQxREozZkNqSjFQRHh4akNlXy05d2JyazdodFg2RmJXeXV0eFVLMzdNR29yZElsUlduaDFVQ3ozNTFIYmNxM2tSTFBfS1RqY3drVG52Q2dWNnliX3pTNFpwdzJVR1A0c01CYTdpQlh0TVM1UkRUdFlTZnR6OFBySVp1TWV3RVRiNmZ6NVBWRmpSWjRFaXE1TkdGM0RUWHpqbFk3ZktB?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "1908c7c5c7bf6359dec989b713f507a5",
+      "title": "Influenza aviar H5N1: Senasa declara emergencia sanitaria nacional por 90 días tras detectar brote altamente contagiosa en Cañete - elcomercio.pe",
+      "source": "Google News - Perú",
+      "date": "2026-07-13",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQN3pBOGJhQUx0Sm5nTjBHb0xrblA5bTJXRXBUMHB2N2tCMFpHcFotRFlBWU9NSHJMTVQyR1J3UFJaNHF1cGZ1S29RM2FnUmMta3BBTm1lLTh0bUZWRkFIX19YSFhYRmxrZ003R3FpRG8wVWdpSXRIUTB3LWlJcFVqNHpWblZ3R3hidVFUSmRCaHBqYnpEbklWRjg3NGhaWVhoTDZXYVR5Y0xBYW5PYklJekxyZ3ZGSkE3MzhCaE1kMWRqUUVQSUVQMEtqRmxRdUg4RGllRHRKMF8wRnNVamdkeWZUOGhlNHNFZ0U2dFNESEFLTG93OEJpS2tralNsM3VRWkHSAZYCQVVfeXFMTkdndzNuSFVMY2NqWmE2UmVEdTBzZXFBSVE5OTg3eG9aVktqa3puVm40Z2w1NmF3ZnlPNXRVOXpyN05XanpGdlVoemsxUkItdG9Xb2JTSXJ2LTRTWXJPWWg4SFVNaHZGNmRvZTZBRUIxbFB3MlBucDdqRGNJNUlWNGJXb200c05JTDhMRERDOVhrc21NNDI1NjRrVm5ZVlpxb3MweGZVcVNGVUp3ZVFZQW9BLUhYM0NNQWRRRFN2bGxBclRIYlZEbWRjc0JFTkprVUpvSFNta19pWXphUG1femtxRWIyTS1qTExfeUVsMGNEZGU4MnYxV2h4cTlZU0Z5WHIwVTYzb3VHZHdPeGpGOXJmQTBRUkE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-09-16 16:22 UTC"
+  "last_updated": "2026-09-16 22:42 UTC"
 }
