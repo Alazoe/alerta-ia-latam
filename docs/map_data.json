@@ -877,18 +877,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "c0edff06d5d729db73eb22f29c078dd3",
-      "title": "Uruguay impulsa la preparación nacional frente a la influenza aviar zoonótica desde la perspectiva de Una Sola Salud - paho.org",
-      "source": "Google News - Uruguay",
-      "date": "2026-06-18",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXhTR3NRRDZGR1BuTjAwTGhVbHlHQjVtQkNjV00zQnB1SzZobXUxbTFmbWt6em1MYmc2Um5pUGwzUkxyTVZjbEJrekV2ZTgwS0V1cmtUQ3E0M0oyVzZpS05HTjBNNERXS0dnM0cteWNudXN0czB0UlYxLVR1M3JIcVpGdGRVUDZWdDlPX3ppQlVZaE9HSzZUM0VWVjFnMXBlcGN3U3VSU1JwVU15UnNvUGM3X1FZaGx4YkE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "bd255a18dd7c5d80ac97b7faad04f70e",
       "title": "Uruguay se prepara para la influenza aviar con un enfoque que une salud humana, animal y ambiental - paho.org",
       "source": "Google News - Uruguay",
@@ -1413,18 +1401,6 @@
       "lat": 15.1999,
       "lng": -86.2419,
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0UxQm5jM3JoQ1d4T1JHTERNdjdJMFBkeXVRc2R5UFZaYTBCejBVZ2MtTzlEczAtTmI1Z2tVSVBPZG1ZNUhwbjhya2pTR0lTN1NDVnRkVkVVaWxXWVZtV0U2Y1ZGYXlabWl4SXJsYUJrem9NOE1lQTBzQUo1bWkyZi00SjJyQVhWa0V1X3ZCYzRFdWdYN3hieWk1VE9zVlMxeWljTEFfVmc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "5d058078eb3689860e673135054d7a6d",
-      "title": "Uruguay impulsa la preparación nacional frente a la influenza aviar zoonótica desde la perspectiva de Una Sola Salud - Pan American Health Organization",
-      "source": "Google News - Uruguay",
-      "date": "2026-06-18",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaXhTR3NRRDZGR1BuTjAwTGhVbHlHQjVtQkNjV00zQnB1SzZobXUxbTFmbWt6em1MYmc2Um5pUGwzUkxyTVZjbEJrekV2ZTgwS0V1cmtUQ3E0M0oyVzZpS05HTjBNNERXS0dnM0cteWNudXN0czB0UlYxLVR1M3JIcVpGdGRVUDZWdDlPX3ppQlVZaE9HSzZUM0VWVjFnMXBlcGN3U3VSU1JwVU15UnNvUGM3X1FZaGx4YkE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -3541,5 +3517,5 @@
       "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-09-15 22:44 UTC"
+  "last_updated": "2026-09-16 03:52 UTC"
 }
