@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "7133dae40f8107084ff13866669fc64e",
-      "title": "Gripe aviar H5N1 en Perú: ¿es seguro comer pollo y huevos durante la emergencia? Senasa y Minsa responden - Infobae",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTlLWm5BUXNxT2N1TGY5ekVjYkxQU0twRUdBblhQcjRGbmVibmpYT3R4TmY0S2J5WEx1a2dPd0t3Q2RqUE1wTEhjN2dwNTlTMDhXQm1RZ3F4ZXFkdXF5dWNBSmNyT0FQYWVDYi1NRjkzazh2X0tSUDRlVDVvUlhMa0lNM2dfdzF2RDl1SU9PS3RmUGYyRW1nbE4tTWNWNDU0MkFLYUxiU3h6QW5vdlVlajEtbElUVzBfX0xKbjFEUHNybkZFa3pwaNIB4wFBVV95cUxPaG0yOGN0MEVHLTNMRFR5MUt6OE84TV92cVZhOWc3Ry1KVkI0SDJXMFkwT25GaW0yRkpVeHNYYldpT012TnkyRloycER5YjlUZnlCcHZlQXdDOHpSWV9uNjd2TWJoME9tNlNlVWk5dFRjS3BiTTNoOHBmbG9jcVBBdEpERHY3ejl1RW1VdWhpQU1tdHQzRmpTdFBTREVndWNKYndBNFcwWHZRVmZQOTBkZndCZG0zSXdjbExjNV9wMWV0TElSQ2dVM0sxUWkxZ1otc250NkhtbWZPeGNLUXVqME1Bbw?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "75ad57cce674414a6c18341828821dd8",
       "title": "Emergencia sanitaria por influenza aviar: Senasa reporta aparición de un tipo del virus H5N1 en aves de corral y evalúa medidas - Infobae",
       "source": "Google News - Perú",
@@ -3587,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOWRmSklNWnF4T2ZTVUZpY0FXNkRXbmpvVWdvZk5yTVNkaWlCQm9FU3F2STFBbUZUcUVubVNEdDNoX2huaHZfMlhzRmhjZmY4eXZIQnBod0hPLTAxckJfVVB3WDQ2dEgyaXpLa1Nic3NXMEptM1NZcE9XMDVKdTBsX21LTXZ5eW5BaEkxMEM4Y2JRY1lpTzk2b0lRazVWZ29qQURRaXUyZjh2N2N2WmdsWDlXZnI5ZjA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d6ba411f6c30b9600c0756b1ee787858",
+      "title": "SAG informa caso positivo de influenza aviar en aves de traspatio en Corral - sag.gob.cl",
+      "source": "Google News - Chile",
+      "date": "2026-09-07",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcF9hU0hrZGZaVGNhVWRUNHFyUTFTWjlEc25Kb1ZPN21CbmhjbF9CY0ZhR1NFWTI3R1NQcUVvUk1FRmpFeFk5cVk3X29kaVR6SXdqUnZGOHR0NWdwTW4xM00wZzZLd09lX0thNmJXWFdjMzgzRG1uMGJSSFA5TjVsRFhGZjNleWVGY2NWZ3BobnlwM1BHZk5hZDZ1UkNhZnhkQ0xXa1VKU3g3QQ?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "41d00cfe6e602ee2beddbc4f60646a2c",
+      "title": "Influenza aviar: MGAP recuerda reforzar las medidas de bioseguridad - GUB.UY",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-17",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRl9fM3ZhaWhqT1VFdHVwWktLRzB2WUlKQXU4Rmd4cXliMGE4YW82dWJzYi1teVZva0RlQzl3OE1lZ2dMMWp6T0xrMnhwbjVqRDJEU3cxYmEtb3VvaDVHT3duSDhqOUJwa3VHZ0dBWGRwdlc1aGlJbDFzTll0M3ZuZ1NvaVBndENROUlFaEE4aUxiZXh4TVR5b3Vqa0JmakxSUC1iVzhGTl9tOWx5eEItN1BqY0t3SllsOWlYRm9zM3I3cGpDODZlYWRlTXd4b29nNVMxVnVR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-17 16:28 UTC"
+  "last_updated": "2026-09-17 22:42 UTC"
 }
