@@ -3539,7 +3539,31 @@
       "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQN3pBOGJhQUx0Sm5nTjBHb0xrblA5bTJXRXBUMHB2N2tCMFpHcFotRFlBWU9NSHJMTVQyR1J3UFJaNHF1cGZ1S29RM2FnUmMta3BBTm1lLTh0bUZWRkFIX19YSFhYRmxrZ003R3FpRG8wVWdpSXRIUTB3LWlJcFVqNHpWblZ3R3hidVFUSmRCaHBqYnpEbklWRjg3NGhaWVhoTDZXYVR5Y0xBYW5PYklJekxyZ3ZGSkE3MzhCaE1kMWRqUUVQSUVQMEtqRmxRdUg4RGllRHRKMF8wRnNVamdkeWZUOGhlNHNFZ0U2dFNESEFLTG93OEJpS2tralNsM3VRWkHSAZYCQVVfeXFMTkdndzNuSFVMY2NqWmE2UmVEdTBzZXFBSVE5OTg3eG9aVktqa3puVm40Z2w1NmF3ZnlPNXRVOXpyN05XanpGdlVoemsxUkItdG9Xb2JTSXJ2LTRTWXJPWWg4SFVNaHZGNmRvZTZBRUIxbFB3MlBucDdqRGNJNUlWNGJXb200c05JTDhMRERDOVhrc21NNDI1NjRrVm5ZVlpxb3MweGZVcVNGVUp3ZVFZQW9BLUhYM0NNQWRRRFN2bGxBclRIYlZEbWRjc0JFTkprVUpvSFNta19pWXphUG1femtxRWIyTS1qTExfeUVsMGNEZGU4MnYxV2h4cTlZU0Z5WHIwVTYzb3VHZHdPeGpGOXJmQTBRUkE?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "07cc8ef8348e477752ae1f3a01711325",
+      "title": "Buenos Aires: Se detectó un caso de influenza aviar en aves de traspatio en Carlos Spegazzini - Data Portuaria",
+      "source": "Google News - Argentina",
+      "date": "2026-09-17",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLU93Z0V4czhDdVIxUXM2d0FtNkhXZWI2MDByVzNKUE10M1B1ZUpuRFlGZUw2blV2UTl6NzF5aW1MVEhHSGoxSlFwT3hSUjVsejl4cUlDc2JLaTVZLUFLZGpaQlRDQkJ4c2VsMC12WlAtdGM2bU96MFRIalZQWWhhYjdfbGdtOTlLQ0NhOUhMbkRjSTJTWUZxeEhuaWNBUXAwSWhoNG1Ebw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "e7a015ab3fb56c03f071286a1eed90d0",
+      "title": "Foco de influenza aviar contenido en Colonia: fueron sacrificadas todas las aves del predio - El Observador",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-08",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUkh1Y1RZRDhXV1NybldxNnM0LTVsdEd4SkUtRDU3Z2JHRXl3WWhCYUVTaDNJQW5NWmROYl9EcUtPSXE3dnhGYzF2TWdCTzlEcjJMVU5TT1BPU3pOSFpCM045Tl9aVzc5UzFmbUl0WW9Tb0V2OUhldmFUUUlQTWdyeDcwcmp4c0NfWWVIMW01QnBwdVRWb3N4WDVmb1pyZkVkcnIzSXRPMlEwTkZjdjJpcGVNbi1EdkxVd1lTU21wbnNBOGxwRTBWM19R0gHPAUFVX3lxTFBBLTJkNDJhVm5neHBMSVlONUcxWldMM0NOdjBvR1k1NUllM0lCOWJWeHVEd255MzRSek10NVFtbkMtU1Q4bGFsd1ZMbUlUaV9vUW9WRDBMZy13d1VYY0kwZXoxbTcxSWpQb2J0Ml9abUtzdnU0UklGSkhWSC1HbjZhbE8wSDEtZ2J0dkFpcDlsQ1NSNlZIYm1mT3hseFBmRTV1MnlYeU1pSWZoVTBWbnBDc1FjT0tzTFp5R19YRW5BUk9ocGVWS25mWGhpSkx4WQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-09-17 03:57 UTC"
+  "last_updated": "2026-09-17 09:21 UTC"
 }
