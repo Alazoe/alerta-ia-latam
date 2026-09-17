@@ -3097,18 +3097,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "da7b9a68252e2d117f3cb2cce85df50f",
-      "title": "Detectan primer caso de influenza aviar H5N1 del año en el norte de Chile - elproductor.com",
-      "source": "Google News - Ecuador",
-      "date": "2026-06-19",
-      "country": "Ecuador",
-      "lat": -1.8312,
-      "lng": -78.1834,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPLTVwY3R3dTZyOFdwbW52X3Q5YkVlSEdUdWVnaklqQ1d6NDJVNnpSMzdRZVFmV2x4ZkFkV0p2VmtwVF9xN0wxMDZjZHU2ZlBwM1BYQXZfNEd2OXlwSzNuRG1TdTk3UlFLSTU3TDJad2stb2xHRGpocVFKcTdwX2luQWE3b05PcmVTVEYwNTVLWExGajBlMmRSQzByV2hXWHF0bTYzN01lSk1hWlh3VGd3?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "c6ed7ef1ea19cbe146780597ad2b4b0c",
       "title": "Influenza aviar suma dos nuevos casos en Los Lagos y provincia de Osorno recuerda focos registrados - biobiochile.cl",
       "source": "Google News - Chile",
@@ -3553,5 +3541,5 @@
       "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-09-16 22:42 UTC"
+  "last_updated": "2026-09-17 03:57 UTC"
 }
