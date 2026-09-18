@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "83f38603dab8571871bb85048cca2777",
-      "title": "¿Subirá el precio del pollo? Esta es la “capacidad” de Perú para responder a la influenza aviar - Gestión",
-      "source": "Google News - Perú",
-      "date": "2026-07-16",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX3RzaE9oZ1V3U24ydXhHa0tqV3N0QXV4dmMyWkhlb3I0SHBKOEMwQjJWZWQtaldJcmQ3MnY2eG5mUDBoRW52QnBydWZzRkVMQnd4SFAzQ3lwN2piakFDYU1XNHBHczk3RUdvNzZRdUd4ckdESWRxam5LSEZPMFNlaFVabGNSTHYwNGJXbkxpaGZXRkp4elA2YjRPaTlyb1gxY0RSUXB1WDUtY1JIc0xVZC1QdkVaLVJHSXl4QnRHZlktcmdUZm50MjlFY1prVlp3SnlIc0NPREFUWG41?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "a3052791c00e19fadf68bfdf64b0949c",
       "title": "SAG confirma primer caso de influenza aviar altamente patógena en ave silvestre en la Región de Coquimbo - lavozdelnorte.cl",
       "source": "Google News - Chile",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcERHalFyMlFFY0ZEQld0VkRWaXpSWkhzNndOUlhMNVFFeWU3Q1VfWll0UXdzWHdET2E3UlAtekRBTEV2cEZacGlYZWFyQWw1WnpEZzM0MGRNTEF0dldkX1JXVEZYWjdMbVR4bm80NUstWU5tUGN5aTlPZXprcUNQWUhVMlppZEZEYjBpd19kdk1YcUtYaFFvckxxakdhdUtSNlcyWS11aU5hNHNJWm9mYm1wTFJjN0pIQVc3RVZ6UVZXaV9aMkdULVlqS3p5cVVzNktSYUd4WjBqWEV6RHBwcHJtYzFwZFg0QUx6Tw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "da27f80af9680886c79b879473cb1639",
+      "title": "Chile reanuda exportaciones avícolas tras brote de influenza aviar - musicaynoticias.cl",
+      "source": "Google News - Chile",
+      "date": "2026-09-18",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQd0FudEh0Q3RrUzNyY1AxTnJqWlZUSlBTclExTjJNblAyZE9ualVVbUpBZEVnVVh4UWQ5NzZpOWVRYk1rSEN5R1ZQUER0dlMwV1FYNC1FX2lTQ25lc21SNXNiRU9ITDJFWTJ4ZmszeEZfZV9qU0VfVlhMX1dYQTFCVEdZYmVPc0NVMFFSS053cFJLR1VpQWVfNFQ3RE8xcUktd0wyZkhiUlJibGxJ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-09-18 08:52 UTC"
+  "last_updated": "2026-09-18 16:00 UTC"
 }
