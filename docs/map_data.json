@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "1ab6d4972ab4f101a879f2768f467d80",
-      "title": "Emergencia por influenza aviar: SAG pide evitar contacto con aves enfermas - tiempo.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-06-23",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ3M1Ml9oNGx4MUd2Sms4dWVaQnRfbWNqM2tGMk5JZGZGNVltME1vODdoYUZVbFdmUFp0YWlqTzhiYWtBc0hKNktfanZVY2R0T0dnS1NxaktDYkNpNzk3bFdhbUNSaFZzQWxVTzhTY3Z4b0REbzM1aHdNMV9IMVhQTmNTSGUxN1VadkN2LVdtOGplYU82LXV5Z21MeXlxSklVNXVDR0hJYw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "83f38603dab8571871bb85048cca2777",
       "title": "¿Subirá el precio del pollo? Esta es la “capacidad” de Perú para responder a la influenza aviar - Gestión",
       "source": "Google News - Perú",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVNvbmFQTzVUbUVJVHNhSHJGZVJfaVRtZ1B6VDI3UUNfYXg1czBDSTZvYUZPTkJFUnA0UkVWTlVuOTNWbmxhd2RlTVBZVEhhdVpLVDQxX0MzRHYtdWdZR1Y4OS1oeGE1b1d5bnYtRGRTZFdHRzBsdTNCS3Rwa0lTQ2F2em5zNVdlQUZBZXFyUWt6NUhKeHRlQzV5QVlkb3c4bWJiZl9aMTZRelNn0gGoAUFVX3lxTE1Nc3AxTnlSbnh1cHNCSVVobFBrTnJGUjdvdnJtX2ZCV3NUT3o1YVkwRzZVbExfTXdXcnByMlpPY1hKcDVsOWFGV2xTMG1QZDh3TFZrWFZJbXg5akxIaUczN2pQS3AwWWt1ZnFPNUNObGpBUEVSWC1OVW44THdrVl9pSXVwenI0Nk83V3pvMzRLZkhrSTV0dEpHLWlhQVpoa3NPSktDT3piSg?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "a16f40d3b43f1fb20524168d913d4518",
+      "title": "Influenza Aviar: SAG Los Lagos refuerza llamado a fortalecer la bioseguridad en la crianza de aves por nuevos casos en la región - SAG GOB",
+      "source": "Google News - Chile",
+      "date": "2026-09-01",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcERHalFyMlFFY0ZEQld0VkRWaXpSWkhzNndOUlhMNVFFeWU3Q1VfWll0UXdzWHdET2E3UlAtekRBTEV2cEZacGlYZWFyQWw1WnpEZzM0MGRNTEF0dldkX1JXVEZYWjdMbVR4bm80NUstWU5tUGN5aTlPZXprcUNQWUhVMlppZEZEYjBpd19kdk1YcUtYaFFvckxxakdhdUtSNlcyWS11aU5hNHNJWm9mYm1wTFJjN0pIQVc3RVZ6UVZXaV9aMkdULVlqS3p5cVVzNktSYUd4WjBqWEV6RHBwcHJtYzFwZFg0QUx6Tw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-18 03:44 UTC"
+  "last_updated": "2026-09-18 08:52 UTC"
 }
