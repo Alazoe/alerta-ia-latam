@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "75ad57cce674414a6c18341828821dd8",
-      "title": "Emergencia sanitaria por influenza aviar: Senasa reporta aparición de un tipo del virus H5N1 en aves de corral y evalúa medidas - Infobae",
-      "source": "Google News - Perú",
-      "date": "2026-07-14",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWk1LYWF6Mk1meE5hbFAzaUh2aUNxYy1fWXgzNWl4ZWdWcGZneEQ2QnVDMVlVR1E0UDN0TEp1d0xOLTE5eVVsTHc4Si1GRW5MSUVDRlJMSGpZVldzenFYWjZKVFZnOC05OVRMYV80RHg2YVNrT2p0WGRIaFJOM2JWc1M2TEV2M29INUt5dnc3Mllib0oybHlWSE1USUNWb1hBT2lZbnVyYTVwU3lKMTN6bnlkYmxZZlhsVm13MUdCcnRFQXczU2VqTjg0VUtocnhHTEFQNzloNTJ2ZjctRGh2WDFBUm5aNVF3cHdnODBQRVlaMWJqVmI1UF9ndkM3TUF0OFplcHBrNTNwNlVlRVZpRnZTb2JyQdIBlgJBVV95cUxQWk1LYWF6Mk1meE5hbFAzaUh2aUNxYy1fWXgzNWl4ZWdWcGZneEQ2QnVDMVlVR1E0UDN0TEp1d0xOLTE5eVVsTHc4Si1GRW5MSUVDRlJMSGpZVldzenFYWjZKVFZnOC05OVRMYV80RHg2YVNrT2p0WGRIaFJOM2JWc1M2TEV2M29INUt5dnc3Mllib0oybHlWSE1USUNWb1hBT2lZbnVyYTVwU3lKMTN6bnlkYmxZZlhsVm13MUdCcnRFQXczU2VqTjg0VUtocnhHTEFQNzloNTJ2ZjctRGh2WDFBUm5aNVF3cHdnODBQRVlaMWJqVmI1UF9ndkM3TUF0OFplcHBrNTNwNlVlRVZpRnZTb2JyQQ?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "1ab6d4972ab4f101a879f2768f467d80",
       "title": "Emergencia por influenza aviar: SAG pide evitar contacto con aves enfermas - tiempo.hn",
       "source": "Google News - Honduras",
@@ -3599,7 +3587,19 @@
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRl9fM3ZhaWhqT1VFdHVwWktLRzB2WUlKQXU4Rmd4cXliMGE4YW82dWJzYi1teVZva0RlQzl3OE1lZ2dMMWp6T0xrMnhwbjVqRDJEU3cxYmEtb3VvaDVHT3duSDhqOUJwa3VHZ0dBWGRwdlc1aGlJbDFzTll0M3ZuZ1NvaVBndENROUlFaEE4aUxiZXh4TVR5b3Vqa0JmakxSUC1iVzhGTl9tOWx5eEItN1BqY0t3SllsOWlYRm9zM3I3cGpDODZlYWRlTXd4b29nNVMxVnVR?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "977874f29f88bb4959c1112bd5488d77",
+      "title": "Alerta por influenza aviar: SENASA confirmó un caso de IAAP H5 - Revista Chacra",
+      "source": "Google News - Argentina",
+      "date": "2026-09-17",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVNvbmFQTzVUbUVJVHNhSHJGZVJfaVRtZ1B6VDI3UUNfYXg1czBDSTZvYUZPTkJFUnA0UkVWTlVuOTNWbmxhd2RlTVBZVEhhdVpLVDQxX0MzRHYtdWdZR1Y4OS1oeGE1b1d5bnYtRGRTZFdHRzBsdTNCS3Rwa0lTQ2F2em5zNVdlQUZBZXFyUWt6NUhKeHRlQzV5QVlkb3c4bWJiZl9aMTZRelNn0gGoAUFVX3lxTE1Nc3AxTnlSbnh1cHNCSVVobFBrTnJGUjdvdnJtX2ZCV3NUT3o1YVkwRzZVbExfTXdXcnByMlpPY1hKcDVsOWFGV2xTMG1QZDh3TFZrWFZJbXg5akxIaUczN2pQS3AwWWt1ZnFPNUNObGpBUEVSWC1OVW44THdrVl9pSXVwenI0Nk83V3pvMzRLZkhrSTV0dEpHLWlhQVpoa3NPSktDT3piSg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-17 22:42 UTC"
+  "last_updated": "2026-09-18 03:44 UTC"
 }
