@@ -565,18 +565,6 @@
       "color": "#ea580c"
     },
     {
-      "id": "3ceb14148c221ec57958c89ade25424a",
-      "title": "Chile se autodeclara País Libre de Influenza Aviar Altamente Patógena en aves de corral - sag.gob.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-24",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON0M2a3NzSUlLMWE2bEJLdWt1T1FwQmc5djFYbGo2U0ZLQldDX0J2Slo3NG5rMkJ5UEFNcFEwU3hMR2MweVhDSFRxQWRGSmVlV2tXWHlNRzB6UTUzLWI2dTBFTlgyb1AxUm5HN1ppWENON1RJTUR4TnotWWItWWFaZ1BpYk5EcHlnUDFKeUZEMkRKZE5kTGprZW5CMnljWVJSb0p4Q0RhNWhxVmRFZWdJRG42Qm5BQlFCMFE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "bafba076558fb7f2363855e6dcc374b7",
       "title": "Ministerio de Salud de Chile decreta Alerta Sanitaria por hantavirus, arbovirosis e influenza aviar - Noticia al Dia",
       "source": "Google News - Chile",
@@ -1017,18 +1005,6 @@
       "lat": 15.1999,
       "lng": -86.2419,
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNenNvdzJmZjVYb2FneHdNLTU1TWlhWnFHaHY0NnNHWTNoZkpoX21aUUJTY0lVWTNYTTNQRGRiWEtoRy1OcUtrYTd2eUdGMGhaaTZnczF5SVNGR1Y2d2FFdkh2QnpaQXVyTTltMGpnNWhzX2x2dmRJNDR4X3JkZDYyMkh0aDRNYl9HN0RZTlJfTUVnWU51dkx2bA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "b36e139b7c728cd9eca33b5a3c990a5c",
-      "title": "Honduras sacrifica 32.000 gallinas tras confirmar primer caso de influenza aviar en una granja comercial - mapglobalmedia.com",
-      "source": "Google News - Honduras",
-      "date": "2026-06-24",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNjktUENKcVFoQTh6d2RZU2NUbGhJTkR2eXhoVFFMMU00dW4xdjZubm1KMWU5c09VLXZ2TnU2Z1JFZThEUUQxUEpzVTFZZU94dFFBbnJqYlRpTkxscS0tRmM3VDVjTEZqcjlTV1J5OEtJekNfMENhV2RUZlNTNl94dVYtTzVjbUhMbExaUDAyUFBNNjZZaER3M1RteV9ja1ZzaWhvM1BndGQ1NzNfNVJkWl9TUENLVFpJMXFaN1lNVXJRUjdFOUoxM0h5Rl9WSTJQd09fbnFQM1hBRmc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -3563,7 +3539,19 @@
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbHRQYW92YlZuTlJzeVUtV0NHUnV0Y0NXWVo3OG1PZmhqc1huUVo3NmZFOWxTaXNZTjdWaTItb05xdHJnc1ZHR2pnRGtOX0hmeXZXQjhsRDJRaUI2VVlqMTFoU3QtdmN2YzdHdTR1SWI2MUhwSndfdUZndi1LeXNwRENNVjZYTlhPbUdxVW1jZlF1MmJ5eGxySTBWTG1ZUTk3S3NhMmphdDdoSXYxMXpMbkxlQ3VxazN0THE4dkl3YVc2b1IwWlh6MFFfeFlGNmR0aVRaMG1pamZ2XzhZTkR1SGN3S0hJUQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "8fbb2697650ea2454d1a2ac7e4330c05",
+      "title": "Influenza aviar: MGAP recuerda reforzar las medidas de bioseguridad - gub.uy",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-17",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRl9fM3ZhaWhqT1VFdHVwWktLRzB2WUlKQXU4Rmd4cXliMGE4YW82dWJzYi1teVZva0RlQzl3OE1lZ2dMMWp6T0xrMnhwbjVqRDJEU3cxYmEtb3VvaDVHT3duSDhqOUJwa3VHZ0dBWGRwdlc1aGlJbDFzTll0M3ZuZ1NvaVBndENROUlFaEE4aUxiZXh4TVR5b3Vqa0JmakxSUC1iVzhGTl9tOWx5eEItN1BqY0t3SllsOWlYRm9zM3I3cGpDODZlYWRlTXd4b29nNVMxVnVR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-21 23:03 UTC"
+  "last_updated": "2026-09-22 03:52 UTC"
 }
