@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "e895ad92d37ca17d22aa3c0e1e47664f",
-      "title": "Senasa detecta caso de influenza aviar en ave marina de Quepos - Teletica",
-      "source": "Google News - Costa Rica",
-      "date": "2026-06-25",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeVJEVzBKNklfalhuVzQ0RGk3cTdsejBobXpEbTV5aXZZWmdqbTF4NlZmakNibVVhWXFpWnVCdlBxVkduMVhtNHRJTndBcjR0dkk0OGhGSVRybmFpdFNaTFRwTzZCV2s1VGJjS0VoMHc0d0NNV3lucnFyMmFmS0g2SGVBTnNTdHlvNlpXd3p3dkxJWW56ajBJNk43M3NOTzN4MG0xa0dR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "7c17b671584d2f1604accabdc8e5f567",
       "title": "Perú declara la emergencia sanitaria por influenza aviar tras detectar un brote en granjas - Revista Chacra",
       "source": "Google News - Perú",
@@ -529,30 +517,6 @@
       "color": "#ea580c"
     },
     {
-      "id": "23a135361d5a246e6f34cc275b0d49f8",
-      "title": "Confirman caso de influenza aviar en Costa Rica: Esto dicen las autoridades - diarioextra.com",
-      "source": "Google News - Costa Rica",
-      "date": "2026-06-25",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY0NXVWNSMklnMmVuQzl1WHhQTWlTTHMwTDAydkJnSnJqZmliTUpGb2J3YXBWWV9heElVUlVJZXktR0RpN091X1o5RHlkTVJNTktFLUJua0RNVWRESW5WTTVrUERmMWw0dS10aWxaRTlnQkc0eTJFY1Y3cFFzSjQ0TkNWZFBJRldDQ0JYNTFneUdWd01laEh2WWlGaTdUTjRmRlNSWF9MQUZOWkNsbXpOcg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "81aff346820955abd8e0a0269fb25610",
-      "title": "PAÍS REGISTRA PRIMER CASO DE INFLUENZA AVIAR - herediahoy.com",
-      "source": "Google News - Costa Rica",
-      "date": "2026-06-25",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUVhmdDd2VWJSRnRrRWpVNDFMQm02Z2U0VkNSSlRrZEk2Rko4d2JZSDRnRWhyVjRvNFpfQXN1aUdfQk16SFBkVm8tVmp4RjZNZEdnNUl4cUxqdmtoLWNLWHAzY3I1TmFQY2FMcVpNNzFCR2FOQkxraW41dGJkcW5ELWVhQmVRQQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "c476e7331f235536fcd32abc6eeef399",
       "title": "SAG Biobío levanta cuarentenas por influenza aviar en aves de traspatio en Negrete y Los Ángeles - portalagrochile.cl",
       "source": "Google News - Chile",
@@ -625,18 +589,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "3961c2773f5664f3aea3ceb624dffde7",
-      "title": "Senasa detecta caso de influenza aviar en ave marina de Quepos - teletica.com",
-      "source": "Google News - Costa Rica",
-      "date": "2026-06-25",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeVJEVzBKNklfalhuVzQ0RGk3cTdsejBobXpEbTV5aXZZWmdqbTF4NlZmakNibVVhWXFpWnVCdlBxVkduMVhtNHRJTndBcjR0dkk0OGhGSVRybmFpdFNaTFRwTzZCV2s1VGJjS0VoMHc0d0NNV3lucnFyMmFmS0g2SGVBTnNTdHlvNlpXd3p3dkxJWW56ajBJNk43M3NOTzN4MG0xa0dR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "c2cf88ad0400cfdf0f4b29db12dd005c",
       "title": "¿Pelícanos enfermos en la playas tienen influenza aviar? Especialista aclara qué se sabe hasta ahora - observador.cr",
       "source": "Google News - Costa Rica",
@@ -657,18 +609,6 @@
       "lat": 9.7489,
       "lng": -83.7534,
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRnNtczZ4YXpFRVN5dXZfdHY4Q2xFcC01VVNiT29UWG9GYWJtZ2ZKbnQyRmNmdDFJWGw4S0pvRERJdlhVOWJaa2laMDZWSG5SVXkwTldwTTFSUGsyMTVrWGZSNURFUmt6ZlI0R28tdW9rdXRlOUVUSmxhdWVSU1p1ZFJ3SXdER0k3MVktUTlaSXBjX3JHZ2pDbEJHcTdWYzNYNkI0T0RRRGVnaHZrOWVBb0ZzeWZNdw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "a745ab3b0551282531abebbedbcef457",
-      "title": "Costa Rica detecta primer caso de influenza aviar desde 2023 en ave silvestre en Quepos - observador.cr",
-      "source": "Google News - Costa Rica",
-      "date": "2026-06-25",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNmN1QXdpQ3BoNFVsbWhmT2czVzZzcTM1M0dyY2otRUxBTlozamVvV1JnVE9wMDRVRmxSb3JpV1daWlJHaUlNdmwtUDJMRk5VTmNVTEQxTWlXbXdNMVh3emtJdC1hVWY0OHBMZHlDS2JBVXFLSVppSWNQUjFOeHZoQ1U0a09oMnBiVG9MQTEyZkU4SWczLTUyRWhBZWJVY0phYTUybDBtdGlyUlp4NDRz?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -925,18 +865,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "00437888899718fbd0217062a5b023b2",
-      "title": "Buena noticia para el mercado: Chile se autodeclara \"País Libre de Influenza Aviar\" en aves de corral - biobiochile.cl",
-      "source": "Google News - Chile",
-      "date": "2026-06-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNS0FjZng4dzZMWF9Memc5bHNPcjBfdHhkV2dCcHVDck5GMC1LMjdQMEFMNnROeDhUZWk1MDZSOVdFZEVTRG10REVRS3RmVkdfcGlodTc5NkZxNGFuYmVvVnU1UXI4UWJQTW1zVjdXUXRjWFRQbDVzTnBsaWdXRGNQR1YxcWFMWlVVUjVCb1Y3RFVaX3JnbXUyUEM0Y09IUDNfQWQyN2dFZHNfR19lQnFUaHVNVVVXcUxYYktFMHhCZk5qbmMzUFZFZHV2dks2WlFSVk5wMTRzRFZGckkyX1VPOTM0WVQ5YTRkZzVrWjNOdWlSMEtCckJ0aEotRUJJeDB6NWQ0Mkt0alVQdGNfSFE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "1ef6053952aa4a48646740c97b62d596",
       "title": "Influenza aviar H5N1: Senasa declara emergencia sanitaria nacional por 90 días tras detectar brote altamente contagiosa en Cañete - elcomercio.pe",
       "source": "Google News - Perú",
@@ -957,18 +885,6 @@
       "lat": 15.1999,
       "lng": -86.2419,
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZnFZZGlhMjF4LUFUTF9YNUhVaU5LSlkzNTVpSk54aWdUOXNtSkNpZjBaY3dISjNieEd0OGdkZVItRFczTVZ5YWFpQmdlMFg3WUQxUjc0XzNoY1hJZ242SlNScTFiaTd0amZ4bXgzRHkyVnlqMUQ2Qm9zaXRzUVU1RE5zSUVhaGFEdy1FUDIxa2pjaXZIaW91TE53VmhwUk05MTQ2NWl1VXA?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "94bc77fc63bacc0e88c7b724d69a19b3",
-      "title": "Panamá mantiene vigilancia preventiva reforzada ante la influenza aviar - panamaamerica.com.pa",
-      "source": "Google News - Panamá",
-      "date": "2026-06-25",
-      "country": "Panamá",
-      "lat": 8.538,
-      "lng": -80.7821,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOay1ZUDB2cUVGZFZieUw3U0p4T0hSSVU2MnFCdHJUSDNlZy1YcS1QQnBCdW0zVVl3YVZwbWY3VjBSYl80TElzSkpBaDJGYlk2ZTJyZXlieEgzVFRlN3pxX1M1QTNvVG5rVWxKdmRFbDVYSWs5dGFRTW1rS3VLQkttZkp3b2xwQVVmdGVMZF9BN2ZTOHpqWmxhV0xpRGNjV2o3ZWdZbVd6ZzF2YlFFZmpqNXRhZ3NXU2xXcHpCME1B?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -1669,18 +1585,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "eafb16b13f3ae4cce08e28e52c5e8180",
-      "title": "Chile recupera estatus de país libre de influenza aviar en pollos - miradasurtv.cl",
-      "source": "Google News - Venezuela",
-      "date": "2026-06-25",
-      "country": "Venezuela",
-      "lat": 6.4238,
-      "lng": -66.5897,
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWk5UDlZUW1wbEZJRGRRXzRDUWxCX0FkV0kzREt0eFpPQ3VpSzRxNUI1WngxOTJOblFiYnlybjJvaUVmc3J5bFJFUVZaeFRwd0JiczZCZmg5TGdZODFYeGctUXlMcWxBUU1GV055YnJ1YjV3MUZxTGNtUFhPM3l4dmdYYzVlTlI1LWM2UDhnN2FjMlk?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "699e18b30b21d53b58a2632bfedd72ce",
       "title": "Minsa refuerza vigilancia epidemiológica tras emergencia sanitaria por influenza aviar A(H5N1) en aves de corral - infobae.com",
       "source": "Google News - Perú",
@@ -1725,30 +1629,6 @@
       "lat": 23.6345,
       "lng": -102.5528,
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlJxcjFQSWI3YS0wQVR1Sm5nQkdwNUNFa1I0QktrVHZ0aDd4UE9fTzhsQUlnNlhYY1U0TUZhY20zbnN1bE9pZ1Y4UzJISEx2VDh5djd6QjRSbFBRa0duLXdfcTRpbVdBQWlCYUpxTFpLX2dGZnBIc2lUZGZjaXhSMndPQlNYQTg4dzJqTm1vTGZsRmpJNUN1c2N3OVhoSWdMZWgtckoxS3o2b2N1?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "e4e2112a939479b2be11cbeeea7a3c56",
-      "title": "Senasa confirma caso de influenza aviar en ave silvestre de Manuel Antonio - Delfino.cr",
-      "source": "Google News - Costa Rica",
-      "date": "2026-06-25",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQllFTlhnN0JtTk4wZ3ItTFFHRmZIM1ZMRi1ocXR0MkRvU1FFRmJSTWpWdjBxLWRZTkFGbUFOMVByOUdYQjZ1QzNxMjF1cWpWTF9na2pQODNFZUlqemFJS0oxLWtmYnA3dkpvTmxlRjQ1WUE3WW9SVjVJQjhDS1p0cklzdG0zcHFLSmZvTmZlUzFDZDFDNGpYVmZXcjJNMUNXc2tV?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "c2b29fce32633fad6273c23156fde49e",
-      "title": "Senasa confirma caso de influenza aviar en ave silvestre de Manuel Antonio - delfino.cr",
-      "source": "Google News - Costa Rica",
-      "date": "2026-06-25",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQllFTlhnN0JtTk4wZ3ItTFFHRmZIM1ZMRi1ocXR0MkRvU1FFRmJSTWpWdjBxLWRZTkFGbUFOMVByOUdYQjZ1QzNxMjF1cWpWTF9na2pQODNFZUlqemFJS0oxLWtmYnA3dkpvTmxlRjQ1WUE3WW9SVjVJQjhDS1p0cklzdG0zcHFLSmZvTmZlUzFDZDFDNGpYVmZXcjJNMUNXc2tV?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -1965,18 +1845,6 @@
       "lat": 15.1999,
       "lng": -86.2419,
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbjlidkZEX2treEpyVzFtaFpvZGdudDN1OGUzSlZyUUxlWjlDeUN6SDVjblZWZ1drZG82dzRoUlVDNnI4bmp5TUZNa2NGNmZoUUpMN19JZEZQd3BjZE5uMUJDM2M0UTM1VFVQalFuWm1zQ3BsQ1pDOENEM1QtbGdPRjE0SHB1UEV0c21JeXZMXzgyY2JjMzVUX1UtUXNSelMzcjJsT0Q2cS1KNlhsdFRXVg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "ca24cc00c7583f6180d0a4650e146df1",
-      "title": "Panamá refuerza su vigilancia ante casos de Influenza Aviar en Centroamérica - Ministerio de Desarrollo Agropecuario",
-      "source": "Google News - Panamá",
-      "date": "2026-06-25",
-      "country": "Panamá",
-      "lat": 8.538,
-      "lng": -80.7821,
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX01wSEU3TGRkTFRGUVJwMlpDZE4wZVo3MW9BcUxtazM2bDAzMllvUVJoOFlZVDZJUEk4cUkwTUpBUXU5cEhDUnZNR1h5MlpwYlREbmZQbWhZZm1sUVBjSHpqS3dKQVpnWEczTzdqS1NUSU5MWjJRd01PTF83dXpjbjE1VTdkT0J5N2ZkVnk2VkhYN3RDSWh1ckJkNkpDeEZqN1kteE42bjZyV2lx?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -2229,18 +2097,6 @@
       "lat": 23.6345,
       "lng": -102.5528,
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNW5WOWxkc0xiX2tTN0pEVUVDTHJxU2tHeTFZWjI2cTE0VEd0cGhfaU03OVExQ3VUQ2xSS0xJODdLeGdrTHFmb0s5N1VEMVNhdFJFSF8xTXFBV29lSkVPOXFHUVZuQURpS0hXbC1ZV1Z3eWxzVmJkc0pLR2hmRnJsZWVqdGloRFpNZEFaMVByRE9jYmJiSkw5TNIBmAFBVV95cUxOeERPQl82TG8wUU91T2h6QTg1ZFk4Zm1sME4xM05zQ1N2VTJxdG4teE9qeW9lSGpkVEtYY2ppWU5tejY5VVRPSENGODZUU3YyamZncU5fWTZycEN1M1p4LVpDalhQVVFRLWR2Mjk0QV9oVFhTeExmTUs4SEJkUzVoV3hVOG5ScTR1cFkxTjFBY0dxaFktc3RKZg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "75bc75bdd654021782bfa27d742c73f5",
-      "title": "Panamá refuerza su vigilancia ante casos de Influenza Aviar en Centroamérica - mida.gob.pa",
-      "source": "Google News - Panamá",
-      "date": "2026-06-25",
-      "country": "Panamá",
-      "lat": 8.538,
-      "lng": -80.7821,
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX01wSEU3TGRkTFRGUVJwMlpDZE4wZVo3MW9BcUxtazM2bDAzMllvUVJoOFlZVDZJUEk4cUkwTUpBUXU5cEhDUnZNR1h5MlpwYlREbmZQbWhZZm1sUVBjSHpqS3dKQVpnWEczTzdqS1NUSU5MWjJRd01PTF83dXpjbjE1VTdkT0J5N2ZkVnk2VkhYN3RDSWh1ckJkNkpDeEZqN1kteE42bjZyV2lx?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -3553,5 +3409,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-22 22:47 UTC"
+  "last_updated": "2026-09-23 03:50 UTC"
 }
