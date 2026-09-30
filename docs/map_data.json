@@ -3287,7 +3287,55 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNXzc2VFRLQTc5bjBOWGs5RDR5cnphQzBqYXFqb29YZDRZUFRhQlo3V3FQd1dqQ1lTdE5QNUJhVUlveE5YbEVqRURHd3dTdkNhWUpBRVJBc0RxWGxodXctdEZCVUZGRWQ5MnphNUo4RllzWVg4NF9PUGFzMWVCU2ZaeXlraXlMOG9jd19PN3ZkajZ2VndXeEczSzB1VkRnbDJtYTJnSlBYLWdnMlZmZUY0ajZ1N3FrWHhBdnhiMXNKUElQYUE4?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "2f6fcdd8c98b8f926109bf3af0684d80",
+      "title": "Argentina confirma un nuevo caso de influenza aviar H5 en Buenos Aires - avinews.com",
+      "source": "Google News - Argentina",
+      "date": "2026-09-14",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUHFOQjRnV3djZmhSa0V3OTdrcnZ1alZpZ0I4RlgtbTFzZlNCZWZMRkRFZTNUUnptd0t4X2pJVXNVQUtTWjN1Y3QxTmZHMGwwdUVVTHdyTWlpR0dNNlBHOUMtTlV5NGFOQmcwdkpETXhzVE55Z1lxbTVHbkJwYVozcg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "8aeef4084bc1ac16d43f9025d1ba8593",
+      "title": "Perú se declara libre de influenza aviar: tres países serían el próximo destino para sus envíos de ave y cerdo - Infobae",
+      "source": "Google News - Perú",
+      "date": "2026-09-30",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTGZyN2RMeHgtRHZidUpvMjlVd1A3eW9mMGpNalJxOWF5RFR4bTVhOFBGaHZyUTV5UGx1cE5PVzdLRUZrNGxQcklaaHdlZ1NTcUFPM1FVTXY1RkFnbU1NcHNiSjRDQ1lZOTFPZUZWZ1M2Y2xOZXIyRUVSQ042aEFGUTBreWRvLUZncVdTME9aRGYzd0dQTlNqNkJMWVdiczdvUUl2NHJDUUI2YkltaHRpRnNITUtwVVZON1JCOFhwX3lWRjBXV0g5eHFTRXR1akJJNmt4VVNIc0FDT3NKcnNBdnFTby3SAf8BQVVfeXFMTlZnSW5TNUN5eHRMVjFhc0RMb0tQMG1vVUQ3S3JEUWI0czVCVUNpTVFYaExyR3A4cDJ4eUlNN1RBNGN3Sk01Tk96ZDlBRWFFSlROZ2laZHJvOW5EM3ZuanYzclh3eS1nMjJXaGNNOFpaaGsyczdZWXpUZlFxU2J1VE1Gb1dSMjZLVm9VZnhhaGdyOVFvZ3k5ZWUzLTJOdTBxRU1VOUxsRGJMT0c4OHZIUU1tazVzcFEzMWlpbWlSOXdaWnprUWMwSGh3V2dlaW5LRmhzVFgzU0NyZWVVSE5tUlJKeWVpR0hWaDRPM3oxZnRrbjhFVGNNZUJSU1pUaG1n?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "909b6a4fe71a932b8f1cac5a8f3ebbb1",
+      "title": "Perú se declara libre de influenza aviar y apunta a nuevos mercados - diarioelnoticiero.com",
+      "source": "Google News - Perú",
+      "date": "2026-09-30",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcUxkTllaYWtGSXN1SlBNcHNRYmEzUUo2QmtVMFctREFnNW1KcmtFdlNJNl9ReEw4V1pOQ1d6WEVDZTBsUHJ3RlVjOEpweU4yTmZYaFpoTW9YSjJjNzdFblVBR2ZRalloYmttTHB2MG9aNjhzLXhMZUpFODhHdXVhdUpCMGViVGZadlE0WUFrYXB0bFlTaTB3VktqdENna1k?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "1fccb5f9fa0088c9caeeb5bfff5db8c4",
+      "title": "Honduras cierra emergencia por influenza aviar y avanza en reapertura de mercados - Infobae",
+      "source": "Google News - Honduras",
+      "date": "2026-09-30",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX3FHLV9Fb1BPV2kybUFLSWpTYmlLNjE5NTI0cWc4aWxEejJYMmQ3azdmam1MY2hySENGQ2RkV3VFSVY5OTJnTFBfT1c3Sm1aLWVIa1Q3eE1vQTBqdnNFMU0xV0Y5allSdVhGT0pHUmdjVjYwWDh0cGZkSnU1VXo1MHo5ZldGZWFaXy1oQjJjYlk5ZDZGZU9ieDV3czRPWVo3UFNldzhEUjBHRkpQMS1DTS1hWHhPQ0ZJSnc2b0VYWUF1WVhQ0gHfAUFVX3lxTE8zcm9fdm1xMklJa2xSMXZuR19seC1rNzZnbTFQZkVZV1dYb1k5aGIwUTF2ZXJ1MFBIendsZ1BrODRIdnhpdEpfM1Y3ZVpLdFlPN2ZNdmk4amxIYTktc0RmVDQ4ZlJ5WFlUekNEbWZxcWlDbkgzRDY0bEQ4aXh5TTBPWW0xMkFwbGpyaklrU2hMdmxkTnctUGo5aEFDVmhVekplLUZnTzhhN0s5ZlMtOXF1YW9DMGF6aVJ2LWNQTVFVQWxXWDRFU2V0QzhUVHUtWGNNUTlaYmZVeXprMHRaS1U?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-09-30 14:42 UTC"
+  "last_updated": "2026-09-30 20:37 UTC"
 }
