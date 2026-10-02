@@ -3431,7 +3431,55 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnhNMUtDUmFhVW53MlhwNEcyWWdZc0pGTDJMYU1HWERyMWNRNjNtNGd5MlVZRVRQUGhvM2ViUTlEcFQxd0ZSM1ZzcmFTSmQ2Q3N5Si1qUE5vdUhfUk9RaVlJdnBCSml3dy1lcEVmN3hIa1BsNmZJcUFTaXVJMDNpRlZqSmlfbmJBbExjRF9sZHR4Y25wQnFCZmVRQk9DOUlzNkpubQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "856b842b4bb86c10b1e39cb789a191de",
+      "title": "Argentina confirma un nuevo caso de influenza aviar H5 en Buenos Aires - avinews.com",
+      "source": "Google News - Argentina",
+      "date": "2026-09-14",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNFh3Y09aRjI3RlppTzRreTdIZExuUUQxZzd2WllHdjJ2ZExCOXpWOF9qLW41b2xxMWpjUElkMU9XcG42OE5tVjVNX3V1UW9Bb2VoUmtJSnljRm5RMHRPd0hRbGFjNW5oeE5mOUxKNktlY3hERDJ5QWpXZEhFYVlpUjFTMHNlZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "a2f72d1e5886debced77e9cec4e21ae2",
+      "title": "Perú abre nuevas oportunidades comerciales al quedar libre de influenza aviar - elperuano.pe",
+      "source": "Google News - Perú",
+      "date": "2026-09-30",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcjJSemFyNWMwUnNpYXNKalhHLTlPWDJIMDJFX0ZHc1o1TTFsVG8xRHpYREJEYzZQdGFhTFpCc3ZDc0xCeUtWdGktbXo1WW5nS0ViNWhhbTh2QU9QRDRtOUNyUW5NdUxNTW5UM09XVGp4Zld1VWZUVmJ2ZHN3R2ZPZHdLYTNDRkdtVHpfSUI3SmFGVEZoQjZxcG5qN19MS2pjc1VrRTgwZ0lia0NoZUNjdUxkTQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "c79b807acdd232d924cfb1fe5cb0ba04",
+      "title": "Guyana activa alerta sanitaria por gripe aviar H5N1 tras brote en Surinam - Extra News Mundo",
+      "source": "Google News - Guyana",
+      "date": "2026-10-02",
+      "country": "Guyana",
+      "lat": 4.8604,
+      "lng": -58.9302,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xT1RYTTVDQ1hiaWdYN0h5SzNDM3d4WTR0MzRrVHFQNFh1bF83SXlWOVVKYldZTV9kM0NCaUpOeFd1Tm9reFFhcEFxR3BGTGhvSlVZVjJzR0pxOHdEdFhNdnQzbVhWUUdmMDVDMTRsUGxHdjFGbEV4QWNoQjg2NWc?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "320cda5bf011ac32bd3546ec5f3281cf",
+      "title": "Honduras recupera su estatus de país libre de Influenza Aviar y reabre mercados - avinews.com",
+      "source": "Google News - Honduras",
+      "date": "2026-10-02",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPa1lJdWt0WWN0dDhkNlBZaWNQVjFtTVZLX3FnRGthbm42ZERBRU1BOU5TaWJ0TFNCMVdEX2hPTS1nQkxrVlBTTFktZjNCWTlWNW9SMkNoMjFtXzBHaXJocWxKWEgwb0w1S3dWUXBSbk1ITzNJNHdWY2ZoN0dtZk9Fd0JKT1VFem1oMFlfRmVKb1l2bDBHb3cwUnFlTHh4UHVENmhidVJzVQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-02 14:32 UTC"
+  "last_updated": "2026-10-02 20:26 UTC"
 }
