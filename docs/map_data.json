@@ -3479,7 +3479,31 @@
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9GUGlud21zUGtoU282VU1IQkV3UW9uZnB0Y3U2REl5bmlvb3dHRXlFOXQtc3Q3TjI1czN6aHdXTnd2bXZtWFVZcjBoWW5zWkxvem5hWV9YY0VNM09Ccm1mcWc0RnJ1RTV5aHZSV25XdXJuUHVVSTl5OVFZdWc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "2615f77356299bbafd5322952490d862",
+      "title": "Guyana activa alerta sanitaria por gripe aviar H5N1 tras brote en Surinam - extranewsmundo.com",
+      "source": "Google News - Guyana",
+      "date": "2026-10-02",
+      "country": "Guyana",
+      "lat": 4.8604,
+      "lng": -58.9302,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9xT1RYTTVDQ1hiaWdYN0h5SzNDM3d4WTR0MzRrVHFQNFh1bF83SXlWOVVKYldZTV9kM0NCaUpOeFd1Tm9reFFhcEFxR3BGTGhvSlVZVjJzR0pxOHdEdFhNdnQzbVhWUUdmMDVDMTRsUGxHdjFGbEV4QWNoQjg2NWc?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "e2b63520002054a9799fde4fa69fda84",
+      "title": "Honduras vuelve a ser declarado libre de Influenza Aviar - latribuna.hn",
+      "source": "Google News - Honduras",
+      "date": "2026-09-30",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQy1YaF9FckdOTzNiYmNucjVILW9DRDREV1IyYzgwT2lrOWlfTzZmZlhDZ3hnY2Q2eTlpamFuM1hEby1JN19kZTlSbWtVdzVOS3pPb1FQWV91RzFKR1FYV2JUX1owLTdCbDdCR0x2V29EMURBZ01fSjl2Z2NXa2NKMHFMbHBtZVdSVk1rNUNPM3Rpb3lZWTRNbw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-04 04:51 UTC"
+  "last_updated": "2026-10-04 13:47 UTC"
 }
