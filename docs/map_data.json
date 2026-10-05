@@ -565,18 +565,6 @@
       "color": "#ea580c"
     },
     {
-      "id": "934ed08f32a52d99c5242d4e820dda46",
-      "title": "Video| Alertan por pelícanos con comportamiento inusual en playas del Pacífico tras reciente caso de influenza aviar - observador.cr",
-      "source": "Google News - Costa Rica",
-      "date": "2026-07-07",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSjUxbDVfX3A3QTg3SzY4THF4ZkhzNGZhSXJTNDVjX2EyNXlFTVdSZnBabmxhUEZ3dFZxT2lTREVZTnlVWU43cDM3QVR6dkpyaWhWSzk1TkMySkR5YmcwaDZxU3lTRkdLS3lPUzBNVkxTWFp3RENGeTlxY3lza1ltWi02UF9adWpQb0daUE1xVVRaR0VVcnUyeUFCWGFmNTlZeFdlc3dvdmpJUElZaGhIOVFJZ2dYWnNoTWRYaW5QWHp4QnV0UllUSGo1WVRZMGVEMzk2Qg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "c2cf88ad0400cfdf0f4b29db12dd005c",
       "title": "¿Pelícanos enfermos en la playas tienen influenza aviar? Especialista aclara qué se sabe hasta ahora - observador.cr",
       "source": "Google News - Costa Rica",
@@ -1595,18 +1583,6 @@
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQczlGQmEwUU94T1pEV28zMUhTTDRnS0p5Q1pBWi14bkN5LThpUFJ0a1BteHNXamc0cmQ1eXE1Qm5WMlluc01KNlBtdEdyQ1J5Y1M5LTYzSkhWaWNqYVlvamFhRklXenFJbzk1OWROcjlQUjJuOFhYZ1RtYVdMY2k1aU1nc0ZzaTFWQVJONEhIYS1ocFRjYzhib0M3VWQ2OURZamJfWTBWSzd3MVpPQjZNa1R0VzBSZTYweVRoQTdBTTk0U0ZfdjFvQ0NoSUp2SmNoTUNZ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
-    },
-    {
-      "id": "f17934e7fa420e6dcf8e9ecabc648588",
-      "title": "CHILE: Detectan primer caso de influenza aviar H5N1 en el norte del país - elproductor.com",
-      "source": "Google News - Ecuador",
-      "date": "2026-07-07",
-      "country": "Ecuador",
-      "lat": -1.8312,
-      "lng": -78.1834,
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUnFSNkgyU0h1enQySUZ2RzNYMG5DZzdtRlktbVdTbzB3SVZuUlJuUG9ZSlNSYk44TkJJbXJtallFU1NaRlAxZDNoU08yRjh4RFRXVnQ4bEFRUjhCTlVwd1VYeUxDQkxBd3ZxNTU5VkQtS0YyUkFkSGZlZUlMUnlEX3VvMXhTTlAzZFp2T05nMllBZ3EwRkN1cWR2Nks3VWhrSF9nNzZydjltNGto?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
     },
     {
       "id": "703fbada60bc5348b9425ab7ce0c6802",
@@ -3505,5 +3481,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-04 22:51 UTC"
+  "last_updated": "2026-10-05 04:38 UTC"
 }
