@@ -253,18 +253,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "4d35cfdd48216b5aaad86761343de1d7",
-      "title": "Avicultura chiapaneca sin afectaciones por influenza aviar - Gob MX",
-      "source": "Google News - México",
-      "date": "2026-07-08",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObkp2dkFTZDNBaUk3VUs2aXUwUXg4Z3M1M0xoc1U2OHBaM1dPLWpIa1Rmeks5U2g1dk1feWd3M25STTdrbklEMlNoQTVDTVdyQnlITDNQV3pxVkdUZW1KZ0Y5VnJPQ3pTRWZpRGtuSVpMZHUwb19qcW15QVRMVHRsTFNadE5iVDFJc0VzampKWmhieWI2TncteUNXWDI?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "2457d88fdbb51564e8873672ee3ded31",
       "title": "MIDA refuerza vigilancia por influenza aviar en el Archipiélago de Las Perlas - Telemetro",
       "source": "Google News - Panamá",
@@ -621,18 +609,6 @@
       "lat": -9.19,
       "lng": -75.0152,
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOejRFX2dhU3NoSFZxMHJwZEFuZjhlZkljMml3X1VoYmVhWnJDa3p1MjJTa183NEJDQ3BVYzJUaUZ3YVFYUW9jMUhOWmNSREFYQ0JPOFFWekV6bHg5TWJGbnNoUWNqbUtuMFk3aEd1T2g2QzFJUG9BcmwwaTZ5b19qMlJxM1AzN1JlelJGbkJxY0pMYTdFTms1TUt3?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "dca485be8b1f5b105a270fb50efd2c2a",
-      "title": "Avicultura chiapaneca sin afectaciones por influenza aviar - gob.mx",
-      "source": "Google News - México",
-      "date": "2026-07-08",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObkp2dkFTZDNBaUk3VUs2aXUwUXg4Z3M1M0xoc1U2OHBaM1dPLWpIa1Rmeks5U2g1dk1feWd3M25STTdrbklEMlNoQTVDTVdyQnlITDNQV3pxVkdUZW1KZ0Y5VnJPQ3pTRWZpRGtuSVpMZHUwb19qcW15QVRMVHRsTFNadE5iVDFJc0VzampKWmhieWI2TncteUNXWDI?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -3481,5 +3457,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-05 16:54 UTC"
+  "last_updated": "2026-10-06 01:10 UTC"
 }
