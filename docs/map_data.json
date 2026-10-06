@@ -3467,7 +3467,43 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTm5rVmJTcUViUC1CZHZ6eENVME5TaEZRX2Z4WkpGOVhiUUE5ajdfZ0RrUm9MYVlmMWo0dWpsVGFJM1FfdlR6cHRQMG1XdzkwT0RxbUljNktjcDBpSW1oSGh4SGhxNXNOLUpyd0t0ZEE1VHFkeGZqc0JSbzN0SExKQmp0QW15Sk16ckFQSEdfcFcyZjIzWHFFTVp0LXlDRXl5OUNNQWE5WWJFQ3NLVzVJRGsxWHd5VEFOVkZQSkJpbDZpZG43OGNj?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "5a3c64e027d5bed607a316aeaba40fd0",
+      "title": "El ICA entrega parte de tranquilidad por brote de influenza aviar en zona rural de Puerto Carreño, Vichada - ICA, Instituto Colombiano Agropecuario",
+      "source": "Google News - Colombia",
+      "date": "2026-07-10",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yTjVoMXh4NHFQZVRWck5wZ2p3a2NqcEV6Vm1kOHotbWV0Ujdiay1CMUEzdGdGTlRjdUc0U3dPUmswd2RMQzk4MmFLdlNHYUJoUkI4M3N1YmJmVlBkLUE1d1RXQ0lVX2VVaHlBdEctbFNpVEpsWm5tRUM3TGo4Zw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "38038655f04a17916acac5b151d827d4",
+      "title": "Influenza aviar: qué es, cómo se transmite y qué aves están en riesgo - El Mundo (El Salvador)",
+      "source": "Google News - El Salvador",
+      "date": "2026-08-11",
+      "country": "El Salvador",
+      "lat": 13.7942,
+      "lng": -88.8965,
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnhNMUtDUmFhVW53MlhwNEcyWWdZc0pGTDJMYU1HWERyMWNRNjNtNGd5MlVZRVRQUGhvM2ViUTlEcFQxd0ZSM1ZzcmFTSmQ2Q3N5Si1qUE5vdUhfUk9RaVlJdnBCSml3dy1lcEVmN3hIa1BsNmZJcUFTaXVJMDNpRlZqSmlfbmJBbExjRF9sZHR4Y25wQnFCZmVRQk9DOUlzNkpubQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "302cac17876443ad4fcf56aed83b212d",
+      "title": "Nueva Zelanda enfrenta amenaza de influenza aviar endémica - Radio Habana Cuba",
+      "source": "Google News - Cuba",
+      "date": "2026-07-16",
+      "country": "Cuba",
+      "lat": 21.5218,
+      "lng": -77.7812,
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBEUWZoaVNvRkhhSTB4U05GWW5fYVNpWUJDMF83V3BvTDUyS2kzc3NxQzMzalJ6WFVsVEEyWDVPTGFJM3pFMFE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-06 11:04 UTC"
+  "last_updated": "2026-10-06 18:03 UTC"
 }
