@@ -553,18 +553,6 @@
       "color": "#ea580c"
     },
     {
-      "id": "c2cf88ad0400cfdf0f4b29db12dd005c",
-      "title": "¿Pelícanos enfermos en la playas tienen influenza aviar? Especialista aclara qué se sabe hasta ahora - observador.cr",
-      "source": "Google News - Costa Rica",
-      "date": "2026-07-09",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaWpPNE83dzlpdV96bzV2MXRfemhqRWZkcEpmT2lJYlR3VmdaUlkyanhmQTA2Q2tEeFB0SU55TTB3cnJBNzJfdXluMElpWmo2b3ZHN1hsMFI2eFltbmJJUDV4eng1d2tOWS1GYUVUdTdYSk9tUzQxVm1PamtkYldhWWpLNTV1T0FTVmJKa0hzRWVMS0RuRGJPSndmdnJVTjBMQnVXcm12N0wwenhDbmM2ODU5Y2xwUTU3UHRNbXl3?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "b61d95e78207d3942dd326b50dd061f8",
       "title": "Pelícanos enfermos no tienen influenza aviar: Senasa busca qué está causando las afectaciones - observador.cr",
       "source": "Google News - Costa Rica",
@@ -1113,18 +1101,6 @@
       "lat": -35.6751,
       "lng": -71.543,
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa0JNcDlCRF81ZWpiYmhkdGpLZUFhaUVfbEcxbnhrU0g5OWdyMHNtaGZ0bndlZ0ZCT0N5Yk1tR25sOGQ3dUxnS2pZODM1bGhiV0xaQTdsT1k2UzNDcm9GLTVLV09NUzJaWE5BYU1OdWh5YUlkT093Zkt0M1NOMGFDT3hpZ084c0R0TDkzRkdHdW5rSzhxaWJGalhyRnpkMDVpR2ZUQkFPa1FjZ9IBqgFBVV95cUxNa0JNcDlCRF81ZWpiYmhkdGpLZUFhaUVfbEcxbnhrU0g5OWdyMHNtaGZ0bndlZ0ZCT0N5Yk1tR25sOGQ3dUxnS2pZODM1bGhiV0xaQTdsT1k2UzNDcm9GLTVLV09NUzJaWE5BYU1OdWh5YUlkT093Zkt0M1NOMGFDT3hpZ084c0R0TDkzRkdHdW5rSzhxaWJGalhyRnpkMDVpR2ZUQkFPa1FjZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "0fdad65f7edd95f762419ed2fbc5b4f9",
-      "title": "Prevengamos juntos la influenza aviar - guatemala.gob.gt",
-      "source": "Google News - Guatemala",
-      "date": "2026-07-09",
-      "country": "Guatemala",
-      "lat": 15.7835,
-      "lng": -90.2308,
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBicmlGUTllNzNpUHJ2Y3Z6Vkp6TG94bk1vem90cFhUSWZYcDZ4UklDVmZXTGxMUHdsb21JdlZkT3ZkWkoyQm9JZWtJMnhPN1ZhX0ZDQnMtTXRDZzczQk9ZaEQzdTd6MDZIU3NORjYwcXM?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -3527,7 +3503,19 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnhNMUtDUmFhVW53MlhwNEcyWWdZc0pGTDJMYU1HWERyMWNRNjNtNGd5MlVZRVRQUGhvM2ViUTlEcFQxd0ZSM1ZzcmFTSmQ2Q3N5Si1qUE5vdUhfUk9RaVlJdnBCSml3dy1lcEVmN3hIa1BsNmZJcUFTaXVJMDNpRlZqSmlfbmJBbExjRF9sZHR4Y25wQnFCZmVRQk9DOUlzNkpubdIBrwFBVV95cUxNamRiUENBcHNPbzVzYlZtc1RTc0M3ZVNxNUlvQ0N5VjZLMk1GNjJoTEhjOS14Q1hSUE1jZW9ETVd2ZGRXb25QZGZCUHVZSVZjc0V3RFF2Yy1fUEdoalJGSE9IM05BcTBxQzlIbHYzbDNpMFZjc2tEVEEwZDduaDNJVi1KcHBFaWpVaTFubVU3NGM5YWZzSzlxSWh5Q0xIcmx1X2RCZnNaMnkxM0w2TXlz?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "c860485efa83adf8cedd86ded2382836",
+      "title": "Sinaloa refuerza blindaje contra la influenza aviar - ADN Informativo MX",
+      "source": "Google News - México",
+      "date": "2026-10-07",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5qZWZlS1dBem5OWWt6cDdLMkJlcnlQMGk2Q0RhaVhzZklwRHoyQ3FlcS1nUTFjck8tQUJIUDg5d0Q2LUZIV0pid0JlWU1EbW5nZnNjU21QUU1SNVJDdFo4aGhFaG5sUWRXRG9nMzlOa25kWHhxSXBCNHM0b1R2QQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-06 23:38 UTC"
+  "last_updated": "2026-10-07 04:54 UTC"
 }
