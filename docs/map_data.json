@@ -577,18 +577,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "c388a64c2702c53e45e04029c4888e62",
-      "title": "Alerta por gripe aviar H5N1 en Perú: nutricionistas recomiendan cómo manipular y consumir pollo y huevos de forma segura - infobae.com",
-      "source": "Google News - Perú",
-      "date": "2026-07-16",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTEVwNW8wRHZ4Sjk1UlpfNzczb25NWVlSSS1CTmFEUFYzeDRrZmZkTlRDcVQ4SjlmTmswbXNPeFhibjJ3TVNLMjBYVGRRR1dsczZDMzAyWUcwTTVCY1pGQWY3TDViR1E5X3lJOWpmYTd6Q3NLX1hKaFh5WlJKLXZ5U2d2QWZyWlpoX0s0bWsyZHNOMXctRU1XZGNWYllySnpsY3FMU1lmVXNYZHlSS0tMY0ZFeWxFN05IOEtxUWNvYno3LUh3U3JXdEtuZUZra3pHVWJqV0FSdlh2VmFaVGozbmhwWjNmaWlGekdFRUlyckp0d9IBjAJBVV95cUxNcjh2ZEFxdVhrYUVvaTFyTFpwVFRVNjBuX3NjNjhDbDRYS3NKWUt1bnYzWC1VT0lpYUNxbUlmaV9mZUZDSTdLeHk4X1kzcF9tdXEwbjJpSWhUVXRhNkg5YWlKaXZGb3gtaXRldFNxRUYzZV96N3NRbktLX3NDMlhGYzVFdFZ5UGhzSG51MENlN3hOLVlwT1V4NHlnZDllWUxqaUFhS0hzT0RZaDhPWFI5NWtIeE1aTVBnVGE5OXFsNXU0Uk5LTEphMnFXMUMteVBIYlRZWmd0aWdkZkZKTTJRMGIyTnVvZGdvRGtwdndiV3VFUXl1Z01ZYlZhTy1RY3h6NWZnT3dYTkYyNHB5?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "d62af57f83eeb3a16772f26b4d683ce1",
       "title": "Honduras vuelve al mercado avícola internacional tras superar brote de influenza aviar - infobae.com",
       "source": "Google News - Honduras",
@@ -2953,18 +2941,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "302cac17876443ad4fcf56aed83b212d",
-      "title": "Nueva Zelanda enfrenta amenaza de influenza aviar endémica - Radio Habana Cuba",
-      "source": "Google News - Cuba",
-      "date": "2026-07-16",
-      "country": "Cuba",
-      "lat": 21.5218,
-      "lng": -77.7812,
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBEUWZoaVNvRkhhSTB4U05GWW5fYVNpWUJDMF83V3BvTDUyS2kzc3NxQzMzalJ6WFVsVEEyWDVPTGFJM3pFMFE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "49c8235a88059d54ea7a5eaf658833ce",
       "title": "Perú ratifica su condición de país libre de Influenza Aviar de Alta Patogenicidad en aves de corral - avinews.com",
       "source": "Google News - Perú",
@@ -3049,5 +3025,5 @@
       "color": "#dc2626"
     }
   ],
-  "last_updated": "2026-10-13 23:38 UTC"
+  "last_updated": "2026-10-14 03:59 UTC"
 }
