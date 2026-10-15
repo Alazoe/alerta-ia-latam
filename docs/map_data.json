@@ -2891,7 +2891,31 @@
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOWszcjRYakdSc2p2dlRzdDIzVm9CM1NyUG5QMzhjTkZPU2hQZG50eDlVbU5tb042STdyZlBaXzYwWGZ2LVRMdkFUWTBGbnRMSkRYdmd5bjcxQnFlc3djSEF1cXdzdjVjRzBFNDNoY081TEdsNFhybFZ6Njc2ekN5SUI2a3RVWUd1VTI0cTN0ZmpWOElHeU03OTZrX0hGdk84M0oyc0E1enVkazRzRGhZMVFTck1Va1NKd25OVk05ZWpIZE9DbENnMjFGbDZsOVpZeEhQcUV2UFNwNjcyOGhYY3BLb0h0dTBqRDU3bnJ2RmotQWFOQVHSAf4BQVVfeXFMUG0xQTdSeWo4eUl0NGt2Qm1pSzBPSGxkWGp3RE8zemN2MGQzVXRYSjJPb2JZQVhEYUE3MExnOG5qOGJZcTRNUDNoMm1zVHhGcDJFNTdNR1ZMcEF1bEdEY19zUTNka3plVFU1ajRmNnpjZnh4VXRHQm0yN0I4U0wxcm10emRyaURpeFRZRF9zUS1nNzlXUmRBNTFDMThEaHZrWnhaZEpNa0hDRzJnVVNDeDNhWlUwSzB3RnphNjNlcGlZamNKc1RQX2ZweWtrcjBVNWg5dzJwWkdTclpJXzRIZTIzbjFwcVQ3RTIxQ0lMZ3dWbTFKY2ZabWtvMnZIRHc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "b5bebb5086151f643efa4ad26d34aaab",
+      "title": "Continúan los muestreos serológicos en aves de traspatio para la prevención de Influenza aviar - Argentina.gob.ar",
+      "source": "Google News - Argentina",
+      "date": "2026-10-15",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU2N6SXlnT1k2bm9hQUVCbEpabDAwOWU2WG1RZVc2c2R3MWFFUldrSGtSQ01xTEo1N0N5UTVjYU1QWkoyT200Z0xoWlBuanNNNTJKLUV5c3pZZ3VsckdjU3N1a05DZnE3WWh3SFBSYXJOcVhsRjh1cDJwUjhMRkZMX1BibUFPMGpqVTd0U0tXQWdCemQ2cmxiSGxOcGQzUjlHS003Ukl2OU13UVotSERHUmpwRG1pZHBuczRpemZQb09xYzdT?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "43b12c11335082fbf4e23d6c039d4845",
+      "title": "Senacsa activa alerta máxima ante caso de influenza aviar detectado en Uruguay - www.ultimahora.com",
+      "source": "Google News - Paraguay",
+      "date": "2026-09-07",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdC0tRTMtT1ZsUFUxM01WWVFYYm1pNERjMEpnZ0JER214eFg3ZVZnU2QzUWRESzZqNk1kdlJ1RTJxVURSQVdqZWZjUWtCM1J1M2VBZ2NxdHdEMDFQUmlMWHdYSjB5ZEhwOEYyVnprd0o1SzF3SDN4YTJfNzVvQkdsRnQtTU1JTEY2SDIyZlFoQU5FSGYxdU1zMkw4bEhhd1JwVDFpd0xEQVo?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-10-15 16:30 UTC"
+  "last_updated": "2026-10-15 22:55 UTC"
 }
