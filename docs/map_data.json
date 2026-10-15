@@ -1,90 +1,6 @@
 {
   "alerts": [
     {
-      "id": "7c17b671584d2f1604accabdc8e5f567",
-      "title": "Perú declara la emergencia sanitaria por influenza aviar tras detectar un brote en granjas - Revista Chacra",
-      "source": "Google News - Perú",
-      "date": "2026-07-17",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbFp6Y3pZajFocjNUdEV4Q3FnVnZ1eHE4SUgzNDRyNkR5QUxJc0lCZmFuWVo0cXIwV1Y1czdvWGhjc2YtYVJzX252ZkFQd1lQaHhwV2lTVHYwM1NscEN5aW8tcU9Dbjh3ejFwa0oxeFRmUmthSzhVNVpyeW1DN2JURkVTWVJkU3ZzRzMySVFpWXAySlA0c3luOEdaQVlVTmI4WUg0SEF1bkVBelZ6b0JuUU13Q25LZ0NfbFFBUGluSi10cWFPNmotU2tUY2lJWm_SAc8BQVVfeXFMUGxaemN6WWoxaHIzVHRFeENxZ1Z2dXhxOElIMzQ0cjZEeUFMSXNJQmZhbllaNHFyMFdWNXM3b1hoY3NmLWFSc19udmZBUHdZUGh4cFdpU1R2MDNTbHBDeWlvLXFPQ244d3oxcGtKMXhUZlJrYUs4VTVacnltQzdiVEZFU1lSZFN2c0czMklRaVlwMkpQNHN5bjhHWkFZVU5iOFlINEhBdW5FQXpWem9CblFNd0NuS2dDX2xRQVBpbkotdHFhTzZqLVNrVGNpSVpv?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "7d517f472f7cc48a8c81873de931d773",
-      "title": "Perú declara la emergencia sanitaria tras detectar un brote de influenza aviar en granjas de Lima - Agritotal",
-      "source": "Google News - Perú",
-      "date": "2026-07-17",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXNUSXYyMHNCTEZIajlYT2xjRVlaZXB6d2JlQ1ctRWtpZXg3LWJWYkM0emFRUnJGWHJjbjM0VDVCU1RZbnJVSWRxS0FKeXVRa0FvVU5Hb2tkZUdWVnl0dldEUVZBelozYXh6ZDQxSTlObHo0QS15S0JhVm5Ua0t2eWRKNVRrR1B2NERST2JwX1U0VFlHLW94THRvSktsaldpcVd3VDhWclVFVmtMOEZ2b0txdXJiVXpieWpnclVDb2RkZHdJTmFKMnVKWGEtcnc?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "f830a96f2b71d0ffa0772d2282046663",
-      "title": "SAG confirma primer caso de influenza aviar en ave silvestre de Coquimbo - reporteagricola.cl",
-      "source": "Google News - Chile",
-      "date": "2026-07-17",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVVBMWotRG5NLWFQeVZPUkU1N2xkbTdvRU5qSWhWa2Y1RElrY1NYRVVvWHM1bHJ6eGFuMXdWYXItT2Q1RzNFazVZS3Q3T0NuUDNmRVR0Z29mVlBYRG0xZWdySWd3TDBDTHViM3plb3dXcDVoTUVfSldfdDFOd0tPdWV4RWN3VzJyRkJrSV9kVEdhdmc5M3BUaHExaHluU1FjbVdhSkpNQ3VzbFY5VzJZSDdtWmI2b0ZzVndJ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "3e27587721b72966c96bb75ef435acaf",
-      "title": "Senasa fortalece la vigilancia sanitaria para mantener bajo control la influenza aviar - ElHeraldo.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-07-17",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYWF5ckUyZ1F0Q1FGMkJ2Z3NLM0xSRjZvTTMyQVdZTGdxMEhxN1EwZ1FLT3JrZVlOT1RRUHoyZlFGSTBoUnV4NTNsaFFzdUdzN3p3Y1pHaFRvdEJhNjBydUh0TTBsb3gwNlQ1SS1wVnpoNHY3Vy1wdDlwYl9fUXAxWjlSVnU4N3JsTThBOUd6dFA0V0FVX0trYXRVQnRMVG1PSFluNkVULVFVbTBDSHAxNXJDR1NZZUdZU1JSdQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "908fdfb06d411190e07be43d0db3dbf2",
-      "title": "Senasa mantiene vigilancia para controlar influenza aviar en Honduras - www.laprensa.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-07-17",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0UxQm5jM3JoQ1d4T1JHTERNdjdJMFBkeXVRc2R5UFZaYTBCejBVZ2MtTzlEczAtTmI1Z2tVSVBPZG1ZNUhwbjhya2pTR0lTN1NDVnRkVkVVaWxXWVZtV0U2Y1ZGYXlabWl4SXJsYUJrem9NOE1lQTBzQUo1bWkyZi00SjJyQVhWa0V1X3ZCYzRFdWdYN3hieWk1VE9zVlMxeWljTEFfVmc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "0e7df6298fc15ccac2ed456bac631537",
-      "title": "Senasa mantiene vigilancia para controlar influenza aviar en Honduras - laprensa.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-07-17",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0UxQm5jM3JoQ1d4T1JHTERNdjdJMFBkeXVRc2R5UFZaYTBCejBVZ2MtTzlEczAtTmI1Z2tVSVBPZG1ZNUhwbjhya2pTR0lTN1NDVnRkVkVVaWxXWVZtV0U2Y1ZGYXlabWl4SXJsYUJrem9NOE1lQTBzQUo1bWkyZi00SjJyQVhWa0V1X3ZCYzRFdWdYN3hieWk1VE9zVlMxeWljTEFfVmc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "b7c4cb31c9b569c46a40a732049736aa",
-      "title": "Consumo seguro: lo que hay que saber sobre la Influenza Aviar - unoentrerios.com.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-07-17",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSGQ2QnBQMmRoMVFSTHgwcjg0NjVXTDNXNzVSM1NpQldrZ2xHWUZxNmplcDUzN0s3ZEZOaWxUUFN4TUdZSkZYR09JcERFeDllLVlsaUVpdWE2SUhKRjQ5LVdZQlktQXJXd0dmbV9vM2F0MVNtLTJRQnotWDRlVHhQOWtwUGZZV2JxcTZKRU5XenlBQzRyQjBVb3lrbmdRZ3B5YmVPOWw0MmRDU0pmbkHSAbMBQVVfeXFMT2NEM1ltcXB5b3BkNEV4U1VFdi1sU1VBWnMwdnhRM0FTYTZmMGg5YVJUODlTQmF2QkVhRXlhRUFTcF9RRVhDcU9odGZESVNsYjhueXduMzJwd0dIeUxKWnk5b3ByM0dlaHpFR2tsMkNNcTFsY1ZtNklJdFNHVUY2N3E5aVFCZi1PUlV2TkI0TXpyQ2luOWdFaUJYTDRKODdkczFNMjRWd3dsNWVmMk9uLVlGaDQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "aac7d2c4a98ff3981f8086b4e47e8824",
       "title": "Honduras mantiene vigente la emergencia sanitaria por influenza aviar - Infobae",
       "source": "Google News - Honduras",
@@ -97,18 +13,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "7456eb373cedaab2866b7f3f224dad58",
-      "title": "Perú declara la emergencia sanitaria por influenza aviar tras detectar un brote en granjas - Revista Chacra",
-      "source": "Google News - Perú",
-      "date": "2026-07-17",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX2hGNmJBWnVYbmt2UHlWUkVpR0QxbTNKQURVN1VQNHRSUnhyRWpuN1ZaMUhvV2YwRWxrVFFkNlJJRmRTYU1BZzJ0NkJWbVU4QnMzalJ3V3h2eUc1TDVyVWF4T1RiZEZ3RndRVnJvRjJDWXlNMlNiTUs1V1NWVGZ0LXlqdVRTc1NvZmhadmJEMWFia0NtSDlkTnozUzRPM3gtN0V4Rll3SnkxOWNWRzgzWUpINHFBV2QzLU0wSzBmdlNMdmF4aUFBZmhqV2lMd0JXZW5N0gHPAUFVX3lxTFBsWnpjellqMWhyM1R0RXhDcWdWdnV4cThJSDM0NHI2RHlBTElzSUJmYW5ZWjRxcjBXVjVzN29YaGNzZi1hUnNfbnZmQVB3WVBoeHBXaVNUdjAzU2xwQ3lpby1xT0NuOHd6MXBrSjF4VGZSa2FLOFU1WnJ5bUM3YlRGRVNZUmRTdnNHMzJJUWlZcDJKUDRzeW44R1pBWVVOYjhZSDRIQXVuRUF6VnpvQm5RTXdDbktnQ19sUUFQaW5KLXRxYU82ai1Ta1RjaUlabw?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "e0727116860f39c2a972a2d1f8247ff4",
       "title": "Honduras mantiene vigente la emergencia sanitaria por influenza aviar - Infobae",
       "source": "Google News - Honduras",
@@ -117,18 +21,6 @@
       "lat": 15.1999,
       "lng": -86.2419,
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV2J3YlpSZm9GVDg3enFUV2E1SkxhdEZqa3Vydm9sZVVMd0stVVh0d19SZmwydk4xSEU5Yk9pUUFUQ2R4WHRYNEdnbG1saGlyS3l0T2ZJZUFKTXAza1FqTUVVWFBaR0RBUEpfSWNjWllkeVQtbm5FM0FrV0ZNdXlCVmRnc3JvaTR3dXUyZXJQYUExOTBxS0ViR3Zkb09Yc2paTUlGcW9vM2ZRWkc0UHhVWmRIakJ0cXNNOGp2TERzZHNUcW0zUVd2bGpqbDhYZ1nSAc8BQVVfeXFMT1did2JaUmZvRlQ4N3pxVFdhNUpMYXRGamt1cnZvbGVVTHdLLVVYdHdfUmZsMnZOMUhFOWJPaVFBVENkeFh0WDRHZ2xtbGhpckt5dE9mSWVBSk1wM2tRak1FVVhQWkdEQVBKX0ljY1pZZHlULW5uRTNBa1dGTXV5QlZkZ3Nyb2k0d3V1MmVyUGFBMTkwcUtFYkd2ZG9PWHNqWk1JRnFvbzNmUVpHNFB4VVpkSGpCdHFzTThqdkxEc2RzVHFtM1FXdmxqamw4WGdZ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "d3dc1b37f09a6ba401b25342fdd187d4",
-      "title": "Senasa fortalece la vigilancia sanitaria para mantener bajo control la influenza aviar - elheraldo.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-07-17",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYWF5ckUyZ1F0Q1FGMkJ2Z3NLM0xSRjZvTTMyQVdZTGdxMEhxN1EwZ1FLT3JrZVlOT1RRUHoyZlFGSTBoUnV4NTNsaFFzdUdzN3p3Y1pHaFRvdEJhNjBydUh0TTBsb3gwNlQ1SS1wVnpoNHY3Vy1wdDlwYl9fUXAxWjlSVnU4N3JsTThBOUd6dFA0V0FVX0trYXRVQnRMVG1PSFluNkVULVFVbTBDSHAxNXJDR1NZZUdZU1JSdQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -757,18 +649,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "3ceec3efed5325127db9cbbc700312fd",
-      "title": "Senasa fortalece la vigilancia sanitaria para mantener bajo control la influenza aviar - ElHeraldo (HN)",
-      "source": "Google News - Honduras",
-      "date": "2026-07-17",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYWF5ckUyZ1F0Q1FGMkJ2Z3NLM0xSRjZvTTMyQVdZTGdxMEhxN1EwZ1FLT3JrZVlOT1RRUHoyZlFGSTBoUnV4NTNsaFFzdUdzN3p3Y1pHaFRvdEJhNjBydUh0TTBsb3gwNlQ1SS1wVnpoNHY3Vy1wdDlwYl9fUXAxWjlSVnU4N3JsTThBOUd6dFA0V0FVX0trYXRVQnRMVG1PSFluNkVULVFVbTBDSHAxNXJDR1NZZUdZU1JSdQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "e1d4fc5894d198a311ff73fa3a2ecc39",
       "title": "Pelícanos siguen apareciendo muertos en Puntarenas: análisis previos descartaron influenza aviar - El Observador CR",
       "source": "Google News - Costa Rica",
@@ -791,18 +671,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc05FOUttUFM2bFJFNDhvbzBuWWxnRDdyYkd6X0t2cXM5OFhEVlgyWGJuSmZRX01YUnEwWjcyLUZqLTZQYkJXSVVUeVVuYkVtN0RhUTdwZTJoU0dodXQ0TDVjcHB6MF9IZVhfREhsNjlYYmhHTUcydFJGZ2drWFVNdWNpWEJvZGQ2YzNSa1FKZnhzRUpLQlE?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
-    },
-    {
-      "id": "c511ef950653006b6a221676c58ab06e",
-      "title": "Senasa mantiene vigilancia para controlar influenza aviar en Honduras - LaPrensa.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-07-17",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN0UxQm5jM3JoQ1d4T1JHTERNdjdJMFBkeXVRc2R5UFZaYTBCejBVZ2MtTzlEczAtTmI1Z2tVSVBPZG1ZNUhwbjhya2pTR0lTN1NDVnRkVkVVaWxXWVZtV0U2Y1ZGYXlabWl4SXJsYUJrem9NOE1lQTBzQUo1bWkyZi00SjJyQVhWa0V1X3ZCYzRFdWdYN3hieWk1VE9zVlMxeWljTEFfVmc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
     },
     {
       "id": "139966284babff68d9d65fc9a0effde4",
@@ -1211,18 +1079,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0hCTTBvSkhNb0ZzMmxPQmliOU5QT2t0Nmh3a0lvX25uYU5wSmE5R2VTUU0wN1ViSTRSbExzajV1Yy1NZnBDTkV1SktSRzFZalN5M0l5OTllS010OVV4ckFPY1J6czQyaTVyaWlMdlNJcll3bFRRMWdfRDl3RDZKUS03X0pJQ0lESVZ3QlpHYlpxQUZRZHh0UmR3eGdPS3lDTEI2Q0IyWVNLdVVrbkNoMEZZU1MtZE1wZUFCXw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
-    },
-    {
-      "id": "7baa9428211095bb1ebce96db559a82d",
-      "title": "Perú declara la emergencia sanitaria tras detectar un brote de influenza aviar en granjas de Lima - agritotal.com",
-      "source": "Google News - Perú",
-      "date": "2026-07-17",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRXNUSXYyMHNCTEZIajlYT2xjRVlaZXB6d2JlQ1ctRWtpZXg3LWJWYkM0emFRUnJGWHJjbjM0VDVCU1RZbnJVSWRxS0FKeXVRa0FvVU5Hb2tkZUdWVnl0dldEUVZBelozYXh6ZDQxSTlObHo0QS15S0JhVm5Ua0t2eWRKNVRrR1B2NERST2JwX1U0VFlHLW94THRvSktsaldpcVd3VDhWclVFVmtMOEZ2b0txdXJiVXpieWpnclVDb2RkZHdJTmFKMnVKWGEtcnc?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
     },
     {
       "id": "ecd306d1bed5637e141461511e0ec7d7",
@@ -3037,5 +2893,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-14 23:01 UTC"
+  "last_updated": "2026-10-15 03:41 UTC"
 }
