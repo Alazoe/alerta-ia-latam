@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "9152f31b9175e63831c45bf1b334ecd1",
-      "title": "Influenza Aviar en Colombia: ICA refuerza medidas sanitarias y mantiene bajo control el brote - avinews.com",
-      "source": "Google News - Colombia",
-      "date": "2026-07-20",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRVd3Z1d2bmpkUGNTRTNlaDlZWjlsWXFueGtUbFZXNFFuNjV3YXF0V2dsempYcWZaajRvOUhtaE1mWWJfR3JWVHJaZG5VaFl3TFFKZG5qNXV6b0xERVdwT09ibG55am1oWkRqdG83eFFsOElac3hETGM0alBmNFA3Z2xyVzZaS2h4elhLMkxfMHM?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "8f07ae2e763d24be21450c35a7cd0b69",
-      "title": "Influenza Aviar en México: Reforzan Bioseguridad por IAAP - avinews.com",
-      "source": "Google News - México",
-      "date": "2026-07-20",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zSW4wLUhKYVpXRThZaFpPXzFodHREbGVENXVJZTUtLVJ1VXRHTUJOUW1aSjRISWwtemRkQzItaGc5NXM4aVRRdWl5UVVNa3I1bngxMzM1d0pENHFyRWQ2Ty11YlZzMndrWWFr?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "d265cb35a9a63e7be5c16d112c2ea148",
-      "title": "Influenza Aviar en Colombia: ICA refuerza medidas sanitarias y mantiene bajo control el brote - avinews.com",
-      "source": "Google News - Colombia",
-      "date": "2026-07-20",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaVpfY1BSWU1TUkhHQWg0bGJfNW44U3hlSWdCY0dTSUJxRTktd1lwQUpqLVltMHN0RlZudUVIQTFnNGpBVHdnVG5XeU9oZTBZYTVWWjVuWGNsX01FWlFSUHZQMDhFc1gxc3FFVWhhbkR3NnhNR291N2pXVU1XWDR6dmRNcjRsZllrR2hv?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "0306041c5f292eeeb7b6b76028e31bd3",
       "title": "UNALM: Consumo de pollo y huevo es seguro pese a casos de influenza aviar - AGROPERÚ Informa",
       "source": "Google News - Perú",
@@ -81,18 +45,6 @@
       "lat": 15.1999,
       "lng": -86.2419,
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd2JMRGU5Sk8tcjU5ZXBCYW95NE1oY2hWVVZ5dFBpZmZ1el9zZ0ltRE1BV0ZHWXVQOExjWWdSOFdjTlJtaWhrbjh3dktWdldUS0hpaWI5YTNKanVpdkFKNEtCcFJfUnZVTVBrRFZkX2hZQXF6Y2hLalA0ZzRybWNoWGp3VlR5amFmT2czTTRCOFZkaFNqWHlVNFN2ODFlemRwdmUxRm9xb2ktRTlnSEx5R2hnY2hrdzFjNEtkNXdUeC14QQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "d0fb8e7156fc6a634b9da5f1d511d0cd",
-      "title": "Influenza Aviar en México: Reforzan Bioseguridad por IAAP - avinews.com",
-      "source": "Google News - México",
-      "date": "2026-07-20",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Bcy1qOHFVdDEwWTFtbDEtYkx3VlZWVzFpaERDa21JeVo0cGZJNmVJTHVIbEtsYzY0c2daNU9FblRHcnh3dFh6YTAyc0JkME9uSXBuTnlQYldEei1ZdHJYQmdpRC1yX0NkUUozNTRkYzM?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -2905,5 +2857,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-17 21:59 UTC"
+  "last_updated": "2026-10-18 03:34 UTC"
 }
