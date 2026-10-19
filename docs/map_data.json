@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "0306041c5f292eeeb7b6b76028e31bd3",
-      "title": "UNALM: Consumo de pollo y huevo es seguro pese a casos de influenza aviar - AGROPERÚ Informa",
-      "source": "Google News - Perú",
-      "date": "2026-07-21",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOG80bm5Ca09PTGFob25hUG9aakk1NXU5akhDWmJlY3BDb2dJWXh4ZFN6dWE4b012SUtnNGVHbXNwa1ZPZEFtMXgxcFlkaXhDZGRkQlZtSk5TQVRndHdDZUsxOXRjQ0pLRzFVWExNYkdPblgyblZVaFA2ZlBUZmI4Y0ROOTNVYkJtMFBJME1SS3JtVTBocnZuRWlfeHdBZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "81a33fc813a11f5b0a6431376ab0e205",
-      "title": "Prevengamos juntos la influenza aviar - Gobierno de Guatemala",
-      "source": "Google News - Guatemala",
-      "date": "2026-07-21",
-      "country": "Guatemala",
-      "lat": 15.7835,
-      "lng": -90.2308,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fUkIyUEItT0JvWXhTTzR3RUMtMk15Z0x2eUhtMzBURkxJWmJ6c3RWa0RpUFJOSFF1aVYxbEFlaV82ZjNxUzk3Z285TWp0RUVmVE04WnBfbUpDdG91Qm56U3lOMGdJb1VwcEUzZDlYZlBmcHc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "650c52df4f07a6d950ee227d711a322f",
-      "title": "Rio Grande do Sul confirma caso de Influenza Aviar en aves - Periódico MOTIVAR",
-      "source": "Google News - Brasil",
-      "date": "2026-07-21",
-      "country": "Brasil",
-      "lat": -14.235,
-      "lng": -51.9253,
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS21kS2ctZ0VOYnp4MDFFMEpkVkc1V25NbHlxWERsajZ0QW1KNmdhOVhISVo0UFJUUS1manNwa0tkU21ZeFRyeEtMSkhlRmhmNFcxTnNsUFZuMDRaYXNzT3ZBc1lxOE5kZzMwNy1xMDQ3YlhZUGdnaVE3TzE4d0dUUXdCTTFJcnV5VEdpcGJUcGlwaEJqWDVvWWVzMlEzSV9LT25oUFhn0gGrAUFVX3lxTE5GT3c2dWU5aGhoYkpXM2R6X1VOSGE5M1g5MkQ4VHdKR1FMYXNpb1JBMWtpSnBNUldYLU9hNWdiWGZJNTE2dVlwYmNXOWNxcmdzcFRmZFZMOFRUUW5vV2hndUpDRjBXQ0YtSHdNWG4zcFlnTGtjQ2pnS05ZemVvRmx6U1JETzUwXzN4N3hoYWRFQlNIeUVqYXp0R19JbW5ZSFllSlFLaHZwLWlIbw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "e8d73938df4be27e429a66379719235e",
       "title": "Senasa refuerza vigilancia ante influenza aviar y monitorea más de 8.5 millones de aves - ElHeraldo.hn",
       "source": "Google News - Honduras",
@@ -493,18 +457,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "7da402239f1c2fce01f01fa2ce9f38e0",
-      "title": "Rio Grande do Sul confirma caso de Influenza Aviar en aves - motivar.com.ar",
-      "source": "Google News - Brasil",
-      "date": "2026-07-21",
-      "country": "Brasil",
-      "lat": -14.235,
-      "lng": -51.9253,
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS21kS2ctZ0VOYnp4MDFFMEpkVkc1V25NbHlxWERsajZ0QW1KNmdhOVhISVo0UFJUUS1manNwa0tkU21ZeFRyeEtMSkhlRmhmNFcxTnNsUFZuMDRaYXNzT3ZBc1lxOE5kZzMwNy1xMDQ3YlhZUGdnaVE3TzE4d0dUUXdCTTFJcnV5VEdpcGJUcGlwaEJqWDVvWWVzMlEzSV9LT25oUFhn0gGrAUFVX3lxTE5GT3c2dWU5aGhoYkpXM2R6X1VOSGE5M1g5MkQ4VHdKR1FMYXNpb1JBMWtpSnBNUldYLU9hNWdiWGZJNTE2dVlwYmNXOWNxcmdzcFRmZFZMOFRUUW5vV2hndUpDRjBXQ0YtSHdNWG4zcFlnTGtjQ2pnS05ZemVvRmx6U1JETzUwXzN4N3hoYWRFQlNIeUVqYXp0R19JbW5ZSFllSlFLaHZwLWlIbw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "a09230c5ace37b541cb0a9037ea91fa9",
       "title": "El Reino Unido reabre su mercado a la carne aviar argentina tras reconocer al país libre de influenza aviar - agroempresario.com",
       "source": "Google News - Argentina",
@@ -513,18 +465,6 @@
       "lat": -38.4161,
       "lng": -63.6167,
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQME5ZNV93X2tMYVF6QWQ3YmhmVkVuN0NmX25UY1EtNVdCN004LW1HSWVhX3Q4RDk0Z1lfUlZLSEJyQUljWVo5LVJySWJxZXFfMERQMzZWcTh4a003WkhNWlI2NFpyYXVfZGZkMENXNnVvb2w3TkVqNkE1RjVaOUFEblVqZFNEa25BcUlKT2FvV1l4Z2owblN6N0UxUEZxS0ZCSGw4Z0dzYXBKNFRHMFV5QXJZaXFoS3U0d3dBZWp6elNXekxjamFZLXB3X2VOQ1M5bHZkOFFSck5tQ2pjQkp0TVpsenRGMHVwR0E?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "674628ae944e2d32f11467974846accb",
-      "title": "Prevengamos juntos la influenza aviar - guatemala.gob.gt",
-      "source": "Google News - Guatemala",
-      "date": "2026-07-21",
-      "country": "Guatemala",
-      "lat": 15.7835,
-      "lng": -90.2308,
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fUkIyUEItT0JvWXhTTzR3RUMtMk15Z0x2eUhtMzBURkxJWmJ6c3RWa0RpUFJOSFF1aVYxbEFlaV82ZjNxUzk3Z285TWp0RUVmVE04WnBfbUpDdG91Qm56U3lOMGdJb1VwcEUzZDlYZlBmcHc?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -645,18 +585,6 @@
       "lat": -38.4161,
       "lng": -63.6167,
       "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOZjBORjFQR1ltMlA3UjNwZTQwMmVKemtSMm8tZXk5SmcyN1UxU2FJdThCa3NUbHVlV0YzY1Y3THBwZFhTYktRQUNJSzRtSF8tc1U2TUVOeVRmbkxzZ284MmFnR2dmZ2hOREY4cGlOOExFWTY4czFia2k1QVk4Z1NZcVhtNVA4Z3U4dmVpelpoY3ozVklwTEM4SmNBVVA2VGtKUTdfMFZOY0RNTWxURmhoS2YwZ3hKLWxicXlnbHZPekhjZ1Rzb1drMHJLbmJKQ3dfbnNjYV9mMmxNSDA1Z0FCVGRsb1ZWLWFNbVFBeVkzbWpESGJma3lPVnQzQ1poeFBwRUFnUmJ2TWkzTXlVQThpSElVVQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "ecc069ef871af83867263935ccaa0e0c",
-      "title": "UNALM: Consumo de pollo y huevo es seguro pese a casos de influenza aviar - agroperu.pe",
-      "source": "Google News - Perú",
-      "date": "2026-07-21",
-      "country": "Perú",
-      "lat": -9.19,
-      "lng": -75.0152,
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOG80bm5Ca09PTGFob25hUG9aakk1NXU5akhDWmJlY3BDb2dJWXh4ZFN6dWE4b012SUtnNGVHbXNwa1ZPZEFtMXgxcFlkaXhDZGRkQlZtSk5TQVRndHdDZUsxOXRjQ0pLRzFVWExNYkdPblgyblZVaFA2ZlBUZmI4Y0ROOTNVYkJtMFBJME1SS3JtVTBocnZuRWlfeHdBZw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -2869,5 +2797,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-18 22:16 UTC"
+  "last_updated": "2026-10-19 03:44 UTC"
 }
