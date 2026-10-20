@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "e8d73938df4be27e429a66379719235e",
-      "title": "Senasa refuerza vigilancia ante influenza aviar y monitorea más de 8.5 millones de aves - ElHeraldo.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-07-22",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd2JMRGU5Sk8tcjU5ZXBCYW95NE1oY2hWVVZ5dFBpZmZ1el9zZ0ltRE1BV0ZHWXVQOExjWWdSOFdjTlJtaWhrbjh3dktWdldUS0hpaWI5YTNKanVpdkFKNEtCcFJfUnZVTVBrRFZkX2hZQXF6Y2hLalA0ZzRybWNoWGp3VlR5amFmT2czTTRCOFZkaFNqWHlVNFN2ODFlemRwdmUxRm9xb2ktRTlnSEx5R2hnY2hrdzFjNEtkNXdUeC14QQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "eefcabd09301c0c5c58af472d2e98188",
-      "title": "Senasa refuerza vigilancia ante influenza aviar y monitorea más de 8.5 millones de aves - elheraldo.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-07-22",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd2JMRGU5Sk8tcjU5ZXBCYW95NE1oY2hWVVZ5dFBpZmZ1el9zZ0ltRE1BV0ZHWXVQOExjWWdSOFdjTlJtaWhrbjh3dktWdldUS0hpaWI5YTNKanVpdkFKNEtCcFJfUnZVTVBrRFZkX2hZQXF6Y2hLalA0ZzRybWNoWGp3VlR5amFmT2czTTRCOFZkaFNqWHlVNFN2ODFlemRwdmUxRm9xb2ktRTlnSEx5R2hnY2hrdzFjNEtkNXdUeC14QQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "2457d88fdbb51564e8873672ee3ded31",
       "title": "MIDA refuerza vigilancia por influenza aviar en el Archipiélago de Las Perlas - Telemetro",
       "source": "Google News - Panamá",
@@ -2797,5 +2773,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-19 23:24 UTC"
+  "last_updated": "2026-10-20 03:56 UTC"
 }
