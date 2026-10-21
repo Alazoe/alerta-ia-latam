@@ -2891,7 +2891,31 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdC0tRTMtT1ZsUFUxM01WWVFYYm1pNERjMEpnZ0JER214eFg3ZVZnU2QzUWRESzZqNk1kdlJ1RTJxVURSQVdqZWZjUWtCM1J1M2VBZ2NxdHdEMDFQUmlMWHdYSjB5ZEhwOEYyVnprd0o1SzF3SDN4YTJfNzVvQkdsRnQtTU1JTEY2SDIyZlFoQU5FSGYxdU1zMkw4bEhhd1JwVDFpd0xEQVrSAbYBQVVfeXFMUDFULW93STAydjN2dUt6Z2dHdU1ZVnRqTndDRERObUZnUDRvSjNTWnoxZWxlLTF3dlAyT1JlQm5jdWVBbkxCY0dDMnVlNGlBOVRPUFZaREtnZVFGUXcyTFFmbHVnQnFuVFhSajlsSV9wT24wMnBMMTJ6RVBKeGthWm8yR2VUc1lUeUlDa0tEZDBST3Bac0doOHlEbDRYSXFIZmFyT0hOOEM1RU9fd0hnT21CRmFsV1E?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "2d50406740b1e976b66bc3d16808f6fc",
+      "title": "SAG ELEVA VIGILANCIA NACIONAL ANTE ALERTA POR INFLUENZA AVIAR DETECTADA EN PERÚ TRAS IMPACTO DEL FENÓMENO DE EL NIÑO - Vilas Radio",
+      "source": "Google News - Chile",
+      "date": "2026-10-21",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPemZzc19NbmptVWlTd3ZNdkdvUUZfTENMSmdDQXdueGlnbjRST1JCMDNVQXdNdE1PN3FDWHJDU1lEQmhyMkhOXzV0UHJickVCdlI2TkRsQWdJMEhKQ3QtUUdqNXZGc2JKeG8xVFlDZUxha09LSFk1ZkZiTUstNGpRLVprT05TaTlDNExkUTJFVlVCLTA4M2VrRG5PRGp3LTFLWVBfNmlJa2xGdEVrZl9wXzJXZ2RjM0lLRGRXeUhyMm93SFFxSlFGUGE3cS01R2dyN1R4eDNB?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "e63b0ee9b6fcf6b088bc4e872c39f8e9",
+      "title": "Fenómeno de El Niño y caso de influenza aviar en Perú elevan la alerta del SAG y refuerzan la vigilancia sanitaria - Mestizos Magazine",
+      "source": "Google News - Chile",
+      "date": "2026-10-21",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNalNNTWZmUnhtNFptaUdadmxTdU9YV1BzXy04bmlRVE42WW0yYmNMNkQxYU16akZUaXdtMVU4RHRRREpWZTNha0M3cjlHLXZaZFFXR0ZEWmJ4TE9yTUdNYlpkanNZVVdCUER2WlJSQV9CN0doeHg2ZE1kTGl1X2xBT1lobWVQSmZNRVlRWnJUN05uV2NLRmk3R01mQjFnajRjdWE2LU54MGxJQ3lyZzZYaGNINVZ1N1VkR1Z4R0dpZlVRMm80ZnBtSUJuOHlRelRuRkFDaXJwVE5VTE5hRlc3NXBSSEhYSWxwN1ZmbENib3VMMHVyOVpjeldhWjhfV0QzMHBjVlZiaktWZ9IBigJBVV95cUxNalNNTWZmUnhtNFptaUdadmxTdU9YV1BzXy04bmlRVE42WW0yYmNMNkQxYU16akZUaXdtMVU4RHRRREpWZTNha0M3cjlHLXZaZFFXR0ZEWmJ4TE9yTUdNYlpkanNZVVdCUER2WlJSQV9CN0doeHg2ZE1kTGl1X2xBT1lobWVQSmZNRVlRWnJUN05uV2NLRmk3R01mQjFnajRjdWE2LU54MGxJQ3lyZzZYaGNINVZ1N1VkR1Z4R0dpZlVRMm80ZnBtSUJuOHlRelRuRkFDaXJwVE5VTE5hRlc3NXBSSEhYSWxwN1ZmbENib3VMMHVyOVpjeldhWjhfV0QzMHBjVlZiaktWZw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-21 16:48 UTC"
+  "last_updated": "2026-10-21 23:03 UTC"
 }
