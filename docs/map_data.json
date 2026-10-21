@@ -2855,7 +2855,43 @@
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTmpHNGt5aDNyaHdxQVd0Q3ZYQ2FPN1pXMGFoSWxiWThyME1BYkhnX053RXZ3bC1NZHVCUzBYZGIyVkxfYi1ReWRVMmtXemxXNHlNZk5jVkR6d0FFVDhGUV82U0JaZkYzdllhQUdDdlJBQVpNdlpOclNGUWtPSllfWmdXWDFIRzRWMkNvcDFwMzA1SEcteEN2LXJkUlZlZjdLV3pDUHRXaVVyLTR4NmVyemFRMld3MmlRX08wRVY5UWxoeVBabEREWEZ6a3VZNFM3UW10bHpzWGh5UDRmN0lVcV9yamFIeDVVbm9LWEdR?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "2c3d8a7622544a5deafbb4503f279d29",
+      "title": "Elevan alerta por influenza aviar ante cambios migratorios y caso detectado en Perú - reporteagricola.cl",
+      "source": "Google News - Perú",
+      "date": "2026-10-21",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTXFreC1TVE9oNGRiVmtyT3J0bkxEQ3ZDaEtyR3FKNzBkTHpCcS1ZSlN1Zms4QUd3cXBwdmJjWU9CbWNIYlRqcEQtMTJCWmpuRVpFWEs1RFVReDJ6MDk0ano1ME5jY2FuOUVXbkZORVZNNXlXYk5uaXZGMnQwSkU1VzdzbG5LR285MVZtX0tXUHV6eTQ3blh0ZThmYTE5MjRoRS1maGx5Z3k0bWZ2X2FlZXZRcVlDeVhMbUlfSy1uenpJT1ZOdHBQMnVn?oc=5",
+      "level": "EMERGENCIA",
+      "color": "#dc2626"
+    },
+    {
+      "id": "e7d93b02a7d4c22cab30cd9447a17a0e",
+      "title": "SAG eleva alerta por influenza aviar en Perú - Radio Canal 95",
+      "source": "Google News - Perú",
+      "date": "2026-10-21",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5pU0twS01jTlM0QVlrQlF2N0ZSc2U4VlVqT2RNd2psclFaSkhROU9UTHpsQklhZ3B0MGtiUlN3ME9xc1NBV0JzcUZ3Z2J0SFU3QkcwQmgxT3VtV1hGXzNzV3JhM1I4bUlpNkdHQnBHTUxpWHNkMTE5bg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "3fe62536e0b2d4127571068462ea4cd4",
+      "title": "Senacsa activa alerta máxima ante caso de influenza aviar detectado en Uruguay - Última Hora",
+      "source": "Google News - Paraguay",
+      "date": "2026-09-07",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdC0tRTMtT1ZsUFUxM01WWVFYYm1pNERjMEpnZ0JER214eFg3ZVZnU2QzUWRESzZqNk1kdlJ1RTJxVURSQVdqZWZjUWtCM1J1M2VBZ2NxdHdEMDFQUmlMWHdYSjB5ZEhwOEYyVnprd0o1SzF3SDN4YTJfNzVvQkdsRnQtTU1JTEY2SDIyZlFoQU5FSGYxdU1zMkw4bEhhd1JwVDFpd0xEQVrSAbYBQVVfeXFMUDFULW93STAydjN2dUt6Z2dHdU1ZVnRqTndDRERObUZnUDRvSjNTWnoxZWxlLTF3dlAyT1JlQm5jdWVBbkxCY0dDMnVlNGlBOVRPUFZaREtnZVFGUXcyTFFmbHVnQnFuVFhSajlsSV9wT24wMnBMMTJ6RVBKeGthWm8yR2VUc1lUeUlDa0tEZDBST3Bac0doOHlEbDRYSXFIZmFyT0hOOEM1RU9fd0hnT21CRmFsV1E?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-10-21 09:11 UTC"
+  "last_updated": "2026-10-21 16:48 UTC"
 }
