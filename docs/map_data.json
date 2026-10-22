@@ -2891,7 +2891,43 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFJvUEFNU25MMTFBaFIzTk90cWNFLTlueHU2OEdfOFdhNzVOOHJ2SW9nSV9qV2RHMkRoYWVDWFJtM1E1dzJzTUZhbjBwaWxuZDZldzNncHJvNWZ5em5uYUxaZlpMSEhTWFNVeUVDeHc5UDE5R1diU3VHanF0Zm5tYkZZZHQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "0269169cb18b783a2f40f205826d83ba",
+      "title": "Chile: SAG eleva alerta por influenza aviar ante migración de aves y detección de casos en Perú - Canal 9 Bío Bío Televisión",
+      "source": "Google News - Chile",
+      "date": "2026-10-22",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTWQ1OHJQYXZ0dXNINUQtUnpXc0thbkFaVlVNdFE2U0txNzZiUFpud3gtbklmbFpDeHZrNlJoVXNhcWJod0lBWnQ5S3VTZ21fOGVNbnFkMm5EblB4c0R3YWdRVW5ha2JBQnlHcVl5djNvMlM2Ti1qU0JteEtkV3h0c3FJdVQ2Qk5oTHhDVmhQQTJQRnlhTWc2S2RWOGVtbU9UTlJqVHBUMlZpeURyckdORk9ZbzNmYkZVQ3Y0Q1gySlFGcTVtMzFyVHpKTjhLdzFULWgzbF9fZUxnQ2Z2Wmhn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "2723d530b82ca3d7b32fc520e639c20a",
+      "title": "Fenómeno de El Niño y caso de influenza aviar en Perú elevan la alerta del SAG y refuerzan la vigilancia sanitaria - Home | SAG",
+      "source": "Google News - Perú",
+      "date": "2026-10-20",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQY2Z5Y19MQXNXZndrMGdqcElTMHdYelo2YmNabUdWblBNVnlONlI2c2E2R2Nja3kzcFg2bnhsZWR6QzhrT1FvTnp5a1hkZU5TcWVSOWxWTUR6S2pGd0thamRoMGh4U3BGWUVoMDRzZXktMU9mMkRSV1UzVDBzRG9Tc0wwTUR1ZGNIdTAxRC15T2tYeXN5N2JzUXRzQ1ZvWmNtVUlnc2hOakVyek9hZlJMd3dmMlE4TVBLVGl2a0N0T1YwUnRmOXNKSWtqVlZUakc0ZmRVeUxqU3haWllCWGc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "4d1c5bbee15025397091d244c266e679",
+      "title": "Uruguay declara emergencia sanitaria tras detectar Influenza Aviar en aves de traspatio - AviNews",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-07",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUXBNa3RqV3NZX3NhRWQ1ZkpXVjNiOHlqdkhlUHZ3UVNlb0Y2MV9YOWRub2hFOXB3V0xPemJwVkt0SHY1ZG83YzE0cjljQk9peE02QU5sS3hZQS1aRmd0YTRveGhnYUNGd3VqUHJDRzN0TVBQal9xdHFtSEQwTURZUXJLVG1CbWRVZ09QUWRBRk9zZDY5dUljU1dFQXNwTW1wQmh0SDZHSHpqNHZ2?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-22 09:13 UTC"
+  "last_updated": "2026-10-22 16:48 UTC"
 }
