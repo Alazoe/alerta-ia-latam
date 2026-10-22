@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "2457d88fdbb51564e8873672ee3ded31",
-      "title": "MIDA refuerza vigilancia por influenza aviar en el Archipiélago de Las Perlas - Telemetro",
-      "source": "Google News - Panamá",
-      "date": "2026-07-24",
-      "country": "Panamá",
-      "lat": 8.538,
-      "lng": -80.7821,
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcDI5V1BSR2M2RlhuRnY0WGNPLWl6azJsY0d3ZlRDN0xQU3IwZGluTzNRRmNqckMxWHdBbGZFc1N6SlBsN1g2aU45ckNydUxpQzVuQTVqWjJRbGF4MVF4eElaeG9FY3NhNHF6QkhYTHNZa0YwcDd0T3pLY0M0cGhSbDc3ZHcydTM0N2R0b1VoTTVtY211R0FFMnNyM2pWRXp5TTYtSlItZVd0SEpPMlgwcmdnWlVzSUxF0gG4AUFVX3lxTE1wMjlXUFJHYzZGWG5GdjRYY08taXprMmxjR3dmVEM3TFBTcjBkaW5PM1FGY2pyQzFYd0FsZkVzU3pKUGw3WDZpTjlyQ3J1TGlDNW5BNWpaMlFsYXgxUXh4SVp4b0Vjc2E0cXpCSFhMc1lrRjBwN3RPektjQzRwaFJsNzdkdzJ1MzQ3ZHRvVWhNNW1jbXVHQUUyc3IzalZFenlNNi1KUi1lV3RISk8yWDByZ2daVXNJTEU?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "0eb3d8faa1528a3677a3cbf0945b4ce2",
       "title": "SAG REFUERZA LLAMADO A PREVENIR LA INFLUENZA AVIAR EN AVES DE TRASPATIO DE MAGALLANES - Radio Polar",
       "source": "Google News - Chile",
@@ -21,18 +9,6 @@
       "lat": -35.6751,
       "lng": -71.543,
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM0hPWlkyYzBlQzJYUEhqZjkxSWpCNjdxT2dlVWg4UEVvSVN5SzB4NEpMU1VYbHktUnVlLUhDYTluX2FENHN4VFJyYnJIUW56TlVSeHV4TGV5dXd3M0JiWG0xVXFSMUhIU3BRenlGRzJkc0I2c3g2Q015VjJkY0ZGVWJsS29wbG1KWk9td3oxZ2JJbzljNFp1T0U2dFFsQnc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "1ecabc57bea5d99562312965c3e9c646",
-      "title": "MIDA refuerza vigilancia por influenza aviar en el Archipiélago de Las Perlas - Telemetro",
-      "source": "Google News - Panamá",
-      "date": "2026-07-24",
-      "country": "Panamá",
-      "lat": 8.538,
-      "lng": -80.7821,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTdsdXhSSG93bVBINTgxODVXb3psVVF2YkdVZTVJNnhPVi1tdFFLZzl3YU1sS1Rxcl9NWFkzclp6WVFKbkpkaVNMMGJOSnBsUG9RazNNY0pvWFNwRlZWV3VVYWp1YWhjbE1CdUgxUDZmRE1kcGZNWkM1N29wc0tjTEg3cTZVQW45Z1M2d1JMTTd1ek42eWUxZGljY21zTV82eDJuQW93Q2hlT0wxRWFjWnY1b9IBuAFBVV95cUxNcDI5V1BSR2M2RlhuRnY0WGNPLWl6azJsY0d3ZlRDN0xQU3IwZGluTzNRRmNqckMxWHdBbGZFc1N6SlBsN1g2aU45ckNydUxpQzVuQTVqWjJRbGF4MVF4eElaeG9FY3NhNHF6QkhYTHNZa0YwcDd0T3pLY0M0cGhSbDc3ZHcydTM0N2R0b1VoTTVtY211R0FFMnNyM2pWRXp5TTYtSlItZVd0SEpPMlgwcmdnWlVzSUxF?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -347,18 +323,6 @@
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUJzXzBUd0RrVTlOMHk4aVg4UFZ4NGhZMlRHT3Q0SnQzSTd2Zi1tZ3pERDFub2ZDeUROMkFzcUZ2VS1mT3FEYURSUy1vRUhKSFFCYTlNcDc1aExCdUF0cXB0ZXJGSEtIdUw3cEwxckRWNDAxQVFkRUJGQS1oejV0QmdKWE1CRFJjckR3REZwX0U5eFBrTm9WcWJlcUZlYzN3MkNsQzNoOXhCbElKbVVEZjlFQWplMzlxaGk3VmM5amVhVzllTGt4SndjMNIB5gFBVV95cUxQazJ1VW9ITkdaMjBXM0dCem9pSFhaQjBjRlhROW9TeG1tYUNQM2VBN1AxMkJkTlJlWEpTdndVSC1DeVZaaHBEQTNwNS1kZnFpYmk3LU9HUUZSLURKajJvWXFHLWtWYnY4VlMwNm82TVgxejV3dWp2Y200VUF3OEdRbDNsRnBabDdqVGV5S25qMzBtSFlpeEgzR045LWtubGdtcmhrZm9EN1Rwa3RFWHBLal85VVB5cWhlUEUwTkJGWEpNR1BlS3pfRi0yUE95QVdNdzhqN0c1a2tHT0I0aThxeUhuOGc3dw?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
-    },
-    {
-      "id": "5450d07dd97ff631f74cdbe49f01a6fc",
-      "title": "MIDA refuerza vigilancia por influenza aviar en el Archipiélago de Las Perlas - telemetro.com",
-      "source": "Google News - Panamá",
-      "date": "2026-07-24",
-      "country": "Panamá",
-      "lat": 8.538,
-      "lng": -80.7821,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTdsdXhSSG93bVBINTgxODVXb3psVVF2YkdVZTVJNnhPVi1tdFFLZzl3YU1sS1Rxcl9NWFkzclp6WVFKbkpkaVNMMGJOSnBsUG9RazNNY0pvWFNwRlZWV3VVYWp1YWhjbE1CdUgxUDZmRE1kcGZNWkM1N29wc0tjTEg3cTZVQW45Z1M2d1JMTTd1ek42eWUxZGljY21zTV82eDJuQW93Q2hlT0wxRWFjWnY1b9IBuAFBVV95cUxNcDI5V1BSR2M2RlhuRnY0WGNPLWl6azJsY0d3ZlRDN0xQU3IwZGluTzNRRmNqckMxWHdBbGZFc1N6SlBsN1g2aU45ckNydUxpQzVuQTVqWjJRbGF4MVF4eElaeG9FY3NhNHF6QkhYTHNZa0YwcDd0T3pLY0M0cGhSbDc3ZHcydTM0N2R0b1VoTTVtY211R0FFMnNyM2pWRXp5TTYtSlItZVd0SEpPMlgwcmdnWlVzSUxF?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
     },
     {
       "id": "050db2f65746bc9797e3af9cb52d3394",
@@ -2915,7 +2879,19 @@
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNalNNTWZmUnhtNFptaUdadmxTdU9YV1BzXy04bmlRVE42WW0yYmNMNkQxYU16akZUaXdtMVU4RHRRREpWZTNha0M3cjlHLXZaZFFXR0ZEWmJ4TE9yTUdNYlpkanNZVVdCUER2WlJSQV9CN0doeHg2ZE1kTGl1X2xBT1lobWVQSmZNRVlRWnJUN05uV2NLRmk3R01mQjFnajRjdWE2LU54MGxJQ3lyZzZYaGNINVZ1N1VkR1Z4R0dpZlVRMm80ZnBtSUJuOHlRelRuRkFDaXJwVE5VTE5hRlc3NXBSSEhYSWxwN1ZmbENib3VMMHVyOVpjeldhWjhfV0QzMHBjVlZiaktWZ9IBigJBVV95cUxNalNNTWZmUnhtNFptaUdadmxTdU9YV1BzXy04bmlRVE42WW0yYmNMNkQxYU16akZUaXdtMVU4RHRRREpWZTNha0M3cjlHLXZaZFFXR0ZEWmJ4TE9yTUdNYlpkanNZVVdCUER2WlJSQV9CN0doeHg2ZE1kTGl1X2xBT1lobWVQSmZNRVlRWnJUN05uV2NLRmk3R01mQjFnajRjdWE2LU54MGxJQ3lyZzZYaGNINVZ1N1VkR1Z4R0dpZlVRMm80ZnBtSUJuOHlRelRuRkFDaXJwVE5VTE5hRlc3NXBSSEhYSWxwN1ZmbENib3VMMHVyOVpjeldhWjhfV0QzMHBjVlZiaktWZw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "3acdceb0dc802d1b3c6e87ebbe1daed1",
+      "title": "SAG eleva alerta por influenza aviar en Perú - FM Plus",
+      "source": "Google News - Perú",
+      "date": "2026-10-21",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFJvUEFNU25MMTFBaFIzTk90cWNFLTlueHU2OEdfOFdhNzVOOHJ2SW9nSV9qV2RHMkRoYWVDWFJtM1E1dzJzTUZhbjBwaWxuZDZldzNncHJvNWZ5em5uYUxaZlpMSEhTWFNVeUVDeHc5UDE5R1diU3VHanF0Zm5tYkZZZHQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-21 23:03 UTC"
+  "last_updated": "2026-10-22 03:45 UTC"
 }
