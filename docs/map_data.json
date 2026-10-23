@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "0eb3d8faa1528a3677a3cbf0945b4ce2",
-      "title": "SAG REFUERZA LLAMADO A PREVENIR LA INFLUENZA AVIAR EN AVES DE TRASPATIO DE MAGALLANES - Radio Polar",
-      "source": "Google News - Chile",
-      "date": "2026-07-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM0hPWlkyYzBlQzJYUEhqZjkxSWpCNjdxT2dlVWg4UEVvSVN5SzB4NEpMU1VYbHktUnVlLUhDYTluX2FENHN4VFJyYnJIUW56TlVSeHV4TGV5dXd3M0JiWG0xVXFSMUhIU3BRenlGRzJkc0I2c3g2Q015VjJkY0ZGVWJsS29wbG1KWk9td3oxZ2JJbzljNFp1T0U2dFFsQnc?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "732ea68ee0b92bc84fe0b05f0e46b3d1",
       "title": "Influenza aviar: proyecto trinacional busca mejorar la vigilancia del virus H5N1 en Sudamérica - reporteagricola.cl",
       "source": "Google News - Chile",
@@ -2617,18 +2605,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "c7077be58b0b74c37f3de6469cd1a494",
-      "title": "Detección de Influenza Aviar Altamente Patógena (IAAP) A(H5N1) en un pelícano peruano en Ecuador - Atlas Global de Riesgo",
-      "source": "Google News - Ecuador",
-      "date": "2026-07-25",
-      "country": "Ecuador",
-      "lat": -1.8312,
-      "lng": -78.1834,
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWHpvZExnTFBJNk9sNUY5T2M0eF9KekU3WUhDenFKM21NUktldUFMQXBaS3V5eHg2OTlBM3Q4VzJ6cnFuMmU3Vk1xdFA0V280eTBncTJmQzE4RTJYTWJobDlZN2I5T2hrZVNLYlFsQlpmM3QxTGFkQVFGMDhzX3hHM2QzZUhpQkU1alFZbUxaMjlrdmdOdXozUzBjdVZCbTczU2xyaFZmTmJETW5ZVHA5c280TXZNbTRHdUFoRmZ3?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "f6a94a7a96300e7380f3363d52665b80",
       "title": "Influenza aviar: seguridad en el consumo de carne y huevos - Periódico MOTIVAR",
       "source": "Google News - Brasil",
@@ -2929,5 +2905,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-22 23:01 UTC"
+  "last_updated": "2026-10-23 03:49 UTC"
 }
