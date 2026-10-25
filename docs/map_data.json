@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "732ea68ee0b92bc84fe0b05f0e46b3d1",
-      "title": "Influenza aviar: proyecto trinacional busca mejorar la vigilancia del virus H5N1 en Sudamérica - reporteagricola.cl",
-      "source": "Google News - Chile",
-      "date": "2026-07-27",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZEpmeF9SWjN5MmR3SFN6eVUxNHdrZ1dlV2JmY1loaWlPd2t0empIdW5qWENmNHVHc0VCcDlSbHJEcW9LdWg5LU9BUUM4aGdWUERKOE91ZWZicFRjMkV2TmJoSzBNdlNDOUF2bnFuMV8yT0VYLUpFX0FWNnpRNW0zeXFVMHFTYUotcXV2SkVYY09wdXNnT0ZJcUk3clRWc21ZVVozR3lZU1Z3OW5SWTV4ODBEcV82QnlhRTFGc0NVQkQ3U25BNVRhOTJQcUhOOTZjdW5JcFNB?oc=5",
-      "level": "EMERGENCIA",
-      "color": "#dc2626"
-    },
-    {
       "id": "87aca26205cea9db017a88adf3f8b4d0",
       "title": "Gobierno inyectará L500 millones al sector agropecuario tras crisis por influenza aviar - Diario La Tribuna",
       "source": "Google News - Honduras",
@@ -2929,5 +2917,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-24 22:17 UTC"
+  "last_updated": "2026-10-25 03:42 UTC"
 }
