@@ -2795,7 +2795,19 @@
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50UkZiOVhkVFE0WFpuaXAtRGcyX294WnNsa3hvMnN6ZnU5WlJjR1dweDlzRzV3S2x4NjhuV2JfNmgwSGhMWkJNdXhSVjhzbF9KN096VFlQMmtyTVIwX1RYVnl2ZlUtM2RzZlE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "9f0f078318d8ab49c9dda47a4ef0de6d",
+      "title": "Alerta en EU por el primer brote de gripe aviar H5N1 en granjas de visones en Utah - MVS Noticias",
+      "source": "Google News - México",
+      "date": "2026-09-28",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFFvRThjOERPckxKWGhGRFhSS3o3MFQyLVctUzJiaF8weHJuYS1QTThyNlRfMXItTDhwS2Q1YUpEZ0VDV3FwVUhXcGw2ZG4wTEJuQjhtOXVvckJzOTlTejR6d3NsdG40ZW1oX1BucnBkd2JwZlZPUmpVWGZJRVJpRW1Sd1VWMDludDZJc3RFOEI0LUFWMVN6T1hhZDdWRXlZQUxWd1phTnBub041WE5QNnBYMlZZSkU0QmhMbnVCOVVIVDFoSUVhVndhbXR2dHc?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-10-26 18:24 UTC"
+  "last_updated": "2026-10-26 23:37 UTC"
 }
