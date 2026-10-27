@@ -2615,7 +2615,43 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZFFvRThjOERPckxKWGhGRFhSS3o3MFQyLVctUzJiaF8weHJuYS1QTThyNlRfMXItTDhwS2Q1YUpEZ0VDV3FwVUhXcGw2ZG4wTEJuQjhtOXVvckJzOTlTejR6d3NsdG40ZW1oX1BucnBkd2JwZlZPUmpVWGZJRVJpRW1Sd1VWMDludDZJc3RFOEI0LUFWMVN6T1hhZDdWRXlZQUxWd1phTnBub041WE5QNnBYMlZZSkU0QmhMbnVCOVVIVDFoSUVhVndhbXR2dHc?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "6804c498ba5d3a630f19f5634f0c0f70",
+      "title": "SAG eleva alerta por influenza aviar en Perú - Canal VTV Los Andes",
+      "source": "Google News - Perú",
+      "date": "2026-10-21",
+      "country": "Perú",
+      "lat": -9.19,
+      "lng": -75.0152,
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQekJzcVQ1YVdMX1J0WWR3dDhKME04UEVWbEZ4dDBESTRiajFrX0tJNFhYUDRqS3NSUEhFREM3ME11YnFkeUhTRnZnQTVmX3djUUVuODdhcDJ4Q3dJR1FVM0h4ald0N0gybDdoMzA3MV85VTdiWTdQbUN6Vkc1QUV5eGQ4QnBxMVZJ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "c820bdd7f20468110f5bf215a3b1a1d6",
+      "title": "Uruguay declara emergencia sanitaria por influenza aviar en Colonia. - Todo El Campo Uy",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-07",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02YkNxTE80dXFrMXdtTnpEdTQ2dTllTF9kWVZ0MVRrOW9HQkNzaUU2NHJ2VElxMXp6VjJDV0dqZWIxSVdhYld3RWp2S0I3aUZpX2Fv?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "9349ed09098225060bf56bb171d32f0a",
+      "title": "Influenza aviar en Colonia: MGAP relevó 34 establecimientos y mantiene la vigilancia en la zona - GUB.UY",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-07",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZkl0cXBBREZ6YUVpRkVyRVYwRnJ3dGI2eFJfbGhEQl9UN0NZSHZYaUk0dS1IRl9lQTU4MHZ2UERIUzhId29oREFKQjM4SEdtREZjelBKSnNsdFloMDRhRFhhX3Q3QmNkSUVQcHVyWlVxRDRORTROdzNhZW1kZ3hvOTlWRVJvTjNWYXNIWGpWa1RnRUdtMERxaWVGdXpFOExZem9KSkZkZDlFX2N0UzNiUkNrQjE1UHZFNjdzTlh3eHNKRkhGREpSZjhPaE9TMEVVNDhReWpDOGZDVnNWTE9HRU5CZ2hsblJpSTNJ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-27 04:09 UTC"
+  "last_updated": "2026-10-27 14:06 UTC"
 }
