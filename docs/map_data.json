@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "15891e626948504f192e50887493205c",
-      "title": "El Reino Unido reabre su mercado a la carne aviar argentina tras reconocer al país libre de influenza aviar - Agroempresario",
-      "source": "Google News - Argentina",
-      "date": "2026-07-31",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQME5ZNV93X2tMYVF6QWQ3YmhmVkVuN0NmX25UY1EtNVdCN004LW1HSWVhX3Q4RDk0Z1lfUlZLSEJyQUljWVo5LVJySWJxZXFfMERQMzZWcTh4a003WkhNWlI2NFpyYXVfZGZkMENXNnVvb2w3TkVqNkE1RjVaOUFEblVqZFNEa25BcUlKT2FvV1l4Z2owblN6N0UxUEZxS0ZCSGw4Z0dzYXBKNFRHMFV5QXJZaXFoS3U0d3dBZWp6elNXekxjamFZLXB3X2VOQ1M5bHZkOFFSck5tQ2pjQkp0TVpsenRGMHVwR0E?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "5947ce796dfda4490502c0d055e858cc",
       "title": "La región vuelve a estar libre de influenza aviar tras sacrificar 178 aves contagiadas en Tierra del Fuego - La Prensa Austral",
       "source": "Google News - Chile",
@@ -21,18 +9,6 @@
       "lat": -35.6751,
       "lng": -71.543,
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMHRLWmJlN3lNekg2cTlJNVIxbWVDTEdhOV9jVnBvRDFWNEoyUTlINUZ4bUdMaVVDandVb2NUeU1OMXJ3M0xaazNfUk52UTk5OHRxaXJFVWJieC03QmswSGtDYXg1dEg0YWk4VzV5STRRZG9mLXRZYjZtQzluWGwwTEJQQm9RaXYwOUlkSGh3cWZKanhnWVhkdjFXbFNkaVFURFUtU0t5SF83SHRaa1VGSDlpME0taGxzYng4NUN5NG0takFVZXl0NzJYRmEwVEtleVYyUmVpZkFwb2hQbVE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "a09230c5ace37b541cb0a9037ea91fa9",
-      "title": "El Reino Unido reabre su mercado a la carne aviar argentina tras reconocer al país libre de influenza aviar - agroempresario.com",
-      "source": "Google News - Argentina",
-      "date": "2026-07-31",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQME5ZNV93X2tMYVF6QWQ3YmhmVkVuN0NmX25UY1EtNVdCN004LW1HSWVhX3Q4RDk0Z1lfUlZLSEJyQUljWVo5LVJySWJxZXFfMERQMzZWcTh4a003WkhNWlI2NFpyYXVfZGZkMENXNnVvb2w3TkVqNkE1RjVaOUFEblVqZFNEa25BcUlKT2FvV1l4Z2owblN6N0UxUEZxS0ZCSGw4Z0dzYXBKNFRHMFV5QXJZaXFoS3U0d3dBZWp6elNXekxjamFZLXB3X2VOQ1M5bHZkOFFSck5tQ2pjQkp0TVpsenRGMHVwR0E?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -2581,5 +2557,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-28 20:50 UTC"
+  "last_updated": "2026-10-29 04:51 UTC"
 }
