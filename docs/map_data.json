@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "5947ce796dfda4490502c0d055e858cc",
-      "title": "La región vuelve a estar libre de influenza aviar tras sacrificar 178 aves contagiadas en Tierra del Fuego - La Prensa Austral",
-      "source": "Google News - Chile",
-      "date": "2026-08-01",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMHRLWmJlN3lNekg2cTlJNVIxbWVDTEdhOV9jVnBvRDFWNEoyUTlINUZ4bUdMaVVDandVb2NUeU1OMXJ3M0xaazNfUk52UTk5OHRxaXJFVWJieC03QmswSGtDYXg1dEg0YWk4VzV5STRRZG9mLXRZYjZtQzluWGwwTEJQQm9RaXYwOUlkSGh3cWZKanhnWVhkdjFXbFNkaVFURFUtU0t5SF83SHRaa1VGSDlpME0taGxzYng4NUN5NG0takFVZXl0NzJYRmEwVEtleVYyUmVpZkFwb2hQbVE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "1fd9325f8607d3d2bb5cf186750a3a7a",
       "title": "Australia confirma primera mortalidad masiva por Influenza Aviar - Periódico MOTIVAR",
       "source": "Google News - Argentina",
@@ -59,18 +47,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc05FOUttUFM2bFJFNDhvbzBuWWxnRDdyYkd6X0t2cXM5OFhEVlgyWGJuSmZRX01YUnEwWjcyLUZqLTZQYkJXSVVUeVVuYkVtN0RhUTdwZTJoU0dodXQ0TDVjcHB6MF9IZVhfREhsNjlYYmhHTUcydFJGZ2drWFVNdWNpWEJvZGQ2YzNSa1FKZnhzRUpLQlE?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
-    },
-    {
-      "id": "139966284babff68d9d65fc9a0effde4",
-      "title": "La región vuelve a estar libre de influenza aviar tras sacrificar 178 aves contagiadas en Tierra del Fuego - laprensaaustral.cl",
-      "source": "Google News - Chile",
-      "date": "2026-08-01",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMHRLWmJlN3lNekg2cTlJNVIxbWVDTEdhOV9jVnBvRDFWNEoyUTlINUZ4bUdMaVVDandVb2NUeU1OMXJ3M0xaazNfUk52UTk5OHRxaXJFVWJieC03QmswSGtDYXg1dEg0YWk4VzV5STRRZG9mLXRZYjZtQzluWGwwTEJQQm9RaXYwOUlkSGh3cWZKanhnWVhkdjFXbFNkaVFURFUtU0t5SF83SHRaa1VGSDlpME0taGxzYng4NUN5NG0takFVZXl0NzJYRmEwVEtleVYyUmVpZkFwb2hQbVE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
     },
     {
       "id": "b878a871a5daf673c1de299728db778e",
@@ -2567,7 +2543,19 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUlV3SnFpakNtR1VOdFJBdWhyRWRDMHVadFg3cUc4NEJwQjN5d3BXYzlFVGlmaEY0NTMxQ1JPM0ctRU9tOFFFZ0ZvM2pYQnVycmxVZ1dPY2YyVU9UYU1wVGI2OUNFRlpqZi1oa1p3WFNraDhCQ2VrdUZIMzRxVWhCQjZFc1UwR2htYjV5SXp0UENzTXlMNl9fMDlOWW1rdzlYNUE?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "4af548950df426c53a0da3c318516907",
+      "title": "Primer registro de influenza aviar de alta patogenicidad en Leopardus geoffroyi (Felidae) - SciELO Chile",
+      "source": "Google News - Chile",
+      "date": "2026-10-14",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSk9GVUJ6RWFaUW81aDAxVWtqWHpDYWVzbDBaSVJSLUxWaHhFWHRidG42S2xHNnRPc1BzcWVlcHg1SlhGZVBUNk9KdmZQNVdCRF9XV0R3YW9PUmpSdkp2OWxZa2VpT0gyZGRvWXpHMS03YzZWc3hscEp1R19MVFAtS1NzVDI?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-10-29 20:55 UTC"
+  "last_updated": "2026-10-30 04:51 UTC"
 }
