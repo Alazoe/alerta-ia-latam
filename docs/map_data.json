@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "1fd9325f8607d3d2bb5cf186750a3a7a",
-      "title": "Australia confirma primera mortalidad masiva por Influenza Aviar - Periódico MOTIVAR",
-      "source": "Google News - Argentina",
-      "date": "2026-08-04",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR3RjNjRFQTBJTWJVMzRwTkRVcnZzWENiM1NXQTladlRxaWRsdFR3ZkdnTV9ZTEZTaVF5MEJ2NkhubHRDa1VIVjNBZk0wcFYyNU9LWDVIaWs5SndzV1BkWUhvemNfSE1veE5DU0lZOXFiSHZpR0pZRjQ1Ri11MGZUZlpIVWxNSUY2SnJJTHcwTzNOWTUyMDVoNUoybkhyUG16X3JqeWRSbEplQTVCV2J2N9IBtgFBVV95cUxQOFJZR193OGVRM2lybzVLdXlydmxib2g1bXptMkdheHhPTDgyRThUVXdFbVRuZ3ZFektRVzZrUEN0MkZUUUlrWlYwZmxKZGdKRHNyUU1GVXZxS1FpUThRZVJSa1M1SFcyeDBWNHZyZ3VBUTU3RTBYOUoyd18zaG9RUFZrZE9aY2ZMTVVRUWJFeGdaRmloVEtFZmk0MkdRUWN3bERmalFuR3pqWU5EcXdCa3FvaWx2QQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "c0da410b56cbd8202955311cf7bfa5ed",
       "title": "Mantienen alerta por influenza aviar tras nuevo hallazgo de ave silvestre positiva en Iquique - SoyChile.cl",
       "source": "Google News - Chile",
@@ -201,18 +189,6 @@
       "lat": -38.4161,
       "lng": -63.6167,
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX2k0Vzk2YzdIYTV1c2FycGVYWjkwWDZ4eWJ6S3VuWkVPYmZrVmVGSUxRNlo0WmM0Z1g2ZEYyR1VDcGFya0Q2Smx1OVE1c1lfTnc4TjNOcHp4bVJiaS1ZWllfYmxERHhZUDZtX2sxZERqT09YSlN5TV9ZdnUxa3RoanZpX0ROejdyMDdKRm9aZkNTLTBrYmZBSjl0cFRtUjREZmhNUXdxVV9fRGtLb05mOG4wX2V1QlVTNnlDU1BtWlVKR1NlUTM0SGZCRVVSQWd4c3RIVmxR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "4df2e596505e6ec3a3fdce8d0f73f0bf",
-      "title": "Australia confirma primera mortalidad masiva por Influenza Aviar - motivar.com.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-08-04",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQR3RjNjRFQTBJTWJVMzRwTkRVcnZzWENiM1NXQTladlRxaWRsdFR3ZkdnTV9ZTEZTaVF5MEJ2NkhubHRDa1VIVjNBZk0wcFYyNU9LWDVIaWs5SndzV1BkWUhvemNfSE1veE5DU0lZOXFiSHZpR0pZRjQ1Ri11MGZUZlpIVWxNSUY2SnJJTHcwTzNOWTUyMDVoNUoybkhyUG16X3JqeWRSbEplQTVCV2J2N9IBtgFBVV95cUxQOFJZR193OGVRM2lybzVLdXlydmxib2g1bXptMkdheHhPTDgyRThUVXdFbVRuZ3ZFektRVzZrUEN0MkZUUUlrWlYwZmxKZGdKRHNyUU1GVXZxS1FpUThRZVJSa1M1SFcyeDBWNHZyZ3VBUTU3RTBYOUoyd18zaG9RUFZrZE9aY2ZMTVVRUWJFeGdaRmloVEtFZmk0MkdRUWN3bERmalFuR3pqWU5EcXdCa3FvaWx2QQ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -2593,5 +2569,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-01 20:18 UTC"
+  "last_updated": "2026-11-02 04:57 UTC"
 }
