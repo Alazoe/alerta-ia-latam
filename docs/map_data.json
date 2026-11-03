@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "c0da410b56cbd8202955311cf7bfa5ed",
-      "title": "Mantienen alerta por influenza aviar tras nuevo hallazgo de ave silvestre positiva en Iquique - SoyChile.cl",
-      "source": "Google News - Chile",
-      "date": "2026-08-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONWdkVVNqbGd3RnQwaDBfMTNlUjdSYXRSNnFJNHN6a1BfQ1FxeXl5NGFtdnZfM3c3eHNKV3diUlVncE9nOHNPcWZCNTdNNUZqYUhiQ3V5b2xQV0xQb1ZYRmtNazhVU0tWNTZIYjZscHFVUmFjRVlaZUpvVFV3anRCTkxBczhoRWFZWUEwT0hUZkdidw?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
-      "id": "e285acb03abae153e66a3eecc1923a24",
-      "title": "Mantienen alerta por influenza aviar tras nuevo hallazgo de ave silvestre positiva en Iquique - SoyChile.cl",
-      "source": "Google News - Chile",
-      "date": "2026-08-05",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPc05FOUttUFM2bFJFNDhvbzBuWWxnRDdyYkd6X0t2cXM5OFhEVlgyWGJuSmZRX01YUnEwWjcyLUZqLTZQYkJXSVVUeVVuYkVtN0RhUTdwZTJoU0dodXQ0TDVjcHB6MF9IZVhfREhsNjlYYmhHTUcydFJGZ2drWFVNdWNpWEJvZGQ2YzNSa1FKZnhzRUpLQlE?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "b878a871a5daf673c1de299728db778e",
       "title": "Confirman nuevo caso de influenza aviar en Iquique y refuerzan llamado a no manipular aves enfermas - 24horas",
       "source": "Google News - Chile",
@@ -2581,5 +2557,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-02 17:57 UTC"
+  "last_updated": "2026-11-03 02:03 UTC"
 }
