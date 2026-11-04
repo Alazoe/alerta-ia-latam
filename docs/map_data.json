@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "b878a871a5daf673c1de299728db778e",
-      "title": "Confirman nuevo caso de influenza aviar en Iquique y refuerzan llamado a no manipular aves enfermas - 24horas",
-      "source": "Google News - Chile",
-      "date": "2026-08-06",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa0JNcDlCRF81ZWpiYmhkdGpLZUFhaUVfbEcxbnhrU0g5OWdyMHNtaGZ0bndlZ0ZCT0N5Yk1tR25sOGQ3dUxnS2pZODM1bGhiV0xaQTdsT1k2UzNDcm9GLTVLV09NUzJaWE5BYU1OdWh5YUlkT093Zkt0M1NOMGFDT3hpZ084c0R0TDkzRkdHdW5rSzhxaWJGalhyRnpkMDVpR2ZUQkFPa1FjZ9IBqgFBVV95cUxNa0JNcDlCRF81ZWpiYmhkdGpLZUFhaUVfbEcxbnhrU0g5OWdyMHNtaGZ0bndlZ0ZCT0N5Yk1tR25sOGQ3dUxnS2pZODM1bGhiV0xaQTdsT1k2UzNDcm9GLTVLV09NUzJaWE5BYU1OdWh5YUlkT093Zkt0M1NOMGFDT3hpZ084c0R0TDkzRkdHdW5rSzhxaWJGalhyRnpkMDVpR2ZUQkFPa1FjZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "35b69c0c3d0ddba64f5e125cbbbdf05f",
-      "title": "Confirman nuevo caso de influenza aviar en Iquique y refuerzan llamado a no manipular aves enfermas - 24horas.cl",
-      "source": "Google News - Chile",
-      "date": "2026-08-06",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa0JNcDlCRF81ZWpiYmhkdGpLZUFhaUVfbEcxbnhrU0g5OWdyMHNtaGZ0bndlZ0ZCT0N5Yk1tR25sOGQ3dUxnS2pZODM1bGhiV0xaQTdsT1k2UzNDcm9GLTVLV09NUzJaWE5BYU1OdWh5YUlkT093Zkt0M1NOMGFDT3hpZ084c0R0TDkzRkdHdW5rSzhxaWJGalhyRnpkMDVpR2ZUQkFPa1FjZ9IBqgFBVV95cUxNa0JNcDlCRF81ZWpiYmhkdGpLZUFhaUVfbEcxbnhrU0g5OWdyMHNtaGZ0bndlZ0ZCT0N5Yk1tR25sOGQ3dUxnS2pZODM1bGhiV0xaQTdsT1k2UzNDcm9GLTVLV09NUzJaWE5BYU1OdWh5YUlkT093Zkt0M1NOMGFDT3hpZ084c0R0TDkzRkdHdW5rSzhxaWJGalhyRnpkMDVpR2ZUQkFPa1FjZw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "7c2b537f1a6fcf3031d86896d14d98f0",
       "title": "El Salvador declara alerta sanitaria por influenza aviar de alta patogenicidad - Infobae",
       "source": "Google News - El Salvador",
@@ -873,18 +849,6 @@
       "lat": -35.6751,
       "lng": -71.543,
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUkFfdDdranhOc0tIS1d4YVlvSmNWYTlpU1o4OGp6R2RVN0ljdGF1NHVRWGNHbUVpbHY4b2VoNFluQTg3XzBBR0kwbXVBeHEyY0d4b0twZGRGelV4R0pETWdNRnRxOUxPd2VzNkFVZUhkRmJMSjRJV04taDlLWHcwV3JzQkxidmpDazYtaUtPZVNTbVZwNHlSOTFpUkZya0pWbG9GVHJyZG0yRHhhc1d2QlVybW1TNDFVMGVub1ZsY1JQblh4c3FYaXdMYVQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "c445a3d8f907f0b72b8234ea27d35514",
-      "title": "Confirman nuevo caso de influenza aviar en Iquique y refuerzan llamado a no manipular aves enfermas - 24horas",
-      "source": "Google News - Chile",
-      "date": "2026-08-06",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQVlCTTJZcF9Nazlod1Z3aWpYMzcxRFdrbmQwQWtkMkpQc2RKaWFWWUdUTmxqSWZHdmJ3OTJuMkNpZHpTd3pSaHo5V3o4S2w5ZVpIY2ZPVE9pM0pmRGNMLU50S3ZES1BEVFNPSlJGbkg3SHpSc1Rra25NSmVGSDdUSk10Z1g4Zmd1X0VFbmxoaWxwZS1KRG5HaVpFZzh2RDJoQlE0bdIBqgFBVV95cUxNa0JNcDlCRF81ZWpiYmhkdGpLZUFhaUVfbEcxbnhrU0g5OWdyMHNtaGZ0bndlZ0ZCT0N5Yk1tR25sOGQ3dUxnS2pZODM1bGhiV0xaQTdsT1k2UzNDcm9GLTVLV09NUzJaWE5BYU1OdWh5YUlkT093Zkt0M1NOMGFDT3hpZ084c0R0TDkzRkdHdW5rSzhxaWJGalhyRnpkMDVpR2ZUQkFPa1FjZw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -2567,7 +2531,19 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTFo2dF9HTFJjZ0p4dzdHYTlOLTgtUld2V3lCMElxYXJpdUV5czhOM2RwQW5WdU9wZTlabG1DdTNscDJTWjY1czRUSmtXLXdfTHBIOXpyVnRSdXJlZWNiWlh2THFrTlFHdjZnb3hJWTRQbVM0ZjdCeUJXalpfMFk5dVpQLWNub2JBcG1LM2JiMWVheHRIWXkyQ01wQVdnQ2lNclQydHloejBTeEXSAaABQVVfeXFMTUFnQmZnUG5MQVE2QndlN1J1d01lSWxLdkJxeld0b2FBMzBmVkY3OFZTdlhMeVhlYmtJXzQya01GZ1JXYThWd2NDTThSUEVGUUYyeUVZckwtSGhzOEJlNGhIUHdtVmpkQUQ4dXZXR3otVHRKLUtGMGh6aTNqQnpLZjNIOUhvQThJZl9GSzJ4QmhCc0tfR2pSWHJBNmJmeVVINg?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "5df436ca6e06e3a088e0b964d8fce898",
+      "title": "Riesgo de influenza aviar: Autoridades de Antofagasta llaman a no manipular aves ni lobos marinos muertos o enfermos en el borde costero - El Diario de Antofagasta",
+      "source": "Google News - Chile",
+      "date": "2026-11-03",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNc2MyN3liYjZYa1B2dHkyVEM3MUE5RTRNYzZVM2NLQ0dCY2hfXzB6UUdiT3BZMzRwUldYOVo0U0M5TFF1empaQnBIaGt1cjlyek1DTXMyQy1PbzVRVE8tS2NOVkJMdXhWZTdlcUNBVGJsNndZUElsT1hhanZXaHNSekNVWTg0VlpiZ3RWZkllVkxLcjNDMmtYZVk4RFR5aGhKRUhPanF4cHFGWkJINVpQbzdvQjExa2JZVVo4cm5jMFV1dzg0ZzE0YTBxajg3Nm1KWnFYNWppanZUcHc5WXFmXzQwUWFBVFJfNWY0NW01enEwdUo1MXlGZVl3TGtFbjd2RWVUcHZxUWxBWklTeWVR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-03 19:13 UTC"
+  "last_updated": "2026-11-04 00:26 UTC"
 }
