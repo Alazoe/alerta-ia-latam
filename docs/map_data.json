@@ -2699,7 +2699,139 @@
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdjBMazBYd3dyQzBCMHZaNUFYSXdLX3pIRHVfeVpfOHBVWHVKWi1uUjRWdFdzdU1VM2laX09hanlQN0hnTWtDWHpEVHVUMUI2WFBNVmlZTFNZQlVsM201WEo5bGJlcENGaElGYnVtc2FQNzEtOUZHdnZLUjZfV1F1Z3Q5SFNDVEhKcW9YLUJlS1BNQ2pKelhGeXlQTjVEY2E5dWhQWmFneUI5LWNPZlpRdTY2V1VZM3pLRnhrbHZBN0tJV053?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "bd8b258b2af4b281a172c3d95b229f87",
+      "title": "SAG descarta presencia de influenza aviar en palomas encontradas muertas en centro de Valdivia - BioBioChile",
+      "source": "Google News - Chile",
+      "date": "2026-11-06",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPR0JfdXYya3hxNHhCZTBEblRueUtDNDk1d3dDMXFoTVFhc0U4aDVTLU5jSjJPWmJObkhySnJSbTJ0ODNLN2RaY0VSQ2tYYXVlaWhSQlV0WFo1dTFOQXR6Vm92T0tHZFBVNnNhbFhxR0hjUHhBanRPeGg5NHhaT3RLNHpDQWtYdGdhcEtVNWpMTWVxdVhZNlVBaE5fc1Y4TVBxU1VuWngwMzhqR0pnN3prNlpoTW44OEhPdXJyVlpjLTJNNDFORl9KX05nSVpzelZwSThNX2Jpbk0tMDFXRGswMDRDQVZhZjJnMXpXN0JhS0k2bTdjM3R5NHNRek8zTFZhZjJjaDlB?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "872e7b18f7b800c4f7dc0432850623bf",
+      "title": "México confirma brote de influenza aviar H5N1 en Yucatán: ¿qué riesgos hay para la salud y qué pasa con el pollo y huevo? - Eje Central",
+      "source": "Google News - México",
+      "date": "2026-11-06",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR3hPWDdCZmZkbUNWSGg4M0xfZWo4WnZHdmRXQVAyeG1OS1lhSGREM0ZjM2w2VTlnWDFHTDZYVWllclczSThNU0JzOF9RUWRvVHRLbGwzbDZ3NjVGWmgxdFhLaUNha29EUXZtSTZBRUl0WHdSOTIwYXE2VngxMVJVbE5tcU1IMEJHN0NJVTJWbUpfLVJ6ZE9pdmpOVzFNY3c5T0xydlljeU44WGdqazRKZDJoSXZGdDNfd1dFNE02UzZQYjVWNHg2N1hCWlBXRm9MNlBhRV9sdjVkRnJEWW9CN2x4RVdMTVM1Z2hDeGJxSFhldw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "e8a749c34e77b9afac43ca56f8218b8b",
+      "title": "México confirmó brote de influenza aviar H5N1 en granja de Yucatán y sacrificó más de 225.000 gallinas - IFM Noticias",
+      "source": "Google News - México",
+      "date": "2026-11-06",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRkUwT2lFYjZmdmc5MHl4NTEtekd0bFJQSUlXWXdzbDQwZUh0cGlHaWxzTnhlbjFrT1JzancyZGlsdmxvR0NwTFNITTBaMUVMaVBrZ3BraFM0NC1VNjdBRDVoanlZNThNYVVIMmlJbm9mRHFIblBkeUlCQ0JOMHBJZGI5Ymo3V0d6SDdPOHp1cW9memYxNDJwcXNLSXB1RDM5RWtYLUk5Wjc3ZklmSUZHZw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "7c3c1274cecbebad5a9313521fa0f814",
+      "title": "Influenza Aviar en México: ¿Qué se sabe de los casos reportados y cuáles son los riesgos? - La Crónica de Hoy",
+      "source": "Google News - México",
+      "date": "2026-11-06",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQNXR0dWZUOFE5elVjdjBpUXhvMENjZnd4LUN0ZlBSX1E5Ni1WZUtGNkQ0ZEpHdzNoUFlmMWxET2tzQ0gzcTJfYmxkbFVDU0FkWTRQd2s0aXEwNWpkT1hqZTRBM2cyemc1dTRXcmlpSGxTWExlb1M0NHZYbzhrVlAzM243aFVlUnBicS02c0Y1UmI5QktwNnhkMHRqcHY1c011YS16MkZIcTBVc2s0c0xoRjVhQlJlU3RyYVprdXA2c0d4UlI5eFBLN2pOWHk5Um8?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "4cd4d637d96a5ad431fe1f7179b0feaf",
+      "title": "Autoridades internacionales confirman primer caso de gripe H5N1 en México - UDG TV",
+      "source": "Google News - México",
+      "date": "2026-11-06",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVjljTE81U0pPb2xiQUYwUUN0ZE1uSWY2dGxDSTd1ZzRHckRXdUh6aDZkb202bzJpOFJ2ZmMyZVhrR1BFOXFkYnoyaU1ySXV5OXY5SkRaNEpnUXN4Y18tYWt5ODNtcGp5djlRT25tTGVzWjRJUDJkWEZsMDkzdHpFMkRGVXJfZXZWRDBVVUZmNEdFSE9FeVE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "d0d79596fbf3263b7055878ea8def5d9",
+      "title": "Detectan brote de influenza aviar AH5N1 en una granja de Umán, Yucatán - Quinta Fuerza",
+      "source": "Google News - México",
+      "date": "2026-11-06",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOXzg1dnotUENuTUVrQ2NXR1phLVNzTDlZMGpkWVlLR2lXbE82YTJUX0xVYUF6bEdMWXRYaGRzZTVWYjViTjlFRFdfTGdFZlNSYUFNdXh4SVFCS3Y2N0JKZm94ZWIxV3EtY1E5eGlacWozMm9UNU1GZkI4d0NIN0M5RFhlc3VQVFpfSFhmN0pKajJXQQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "12a12733a1a33d55514955ab891e80de",
+      "title": "México reporta un brote de gripe aviar H5N1 en la península de Yucatán - El Economista",
+      "source": "Google News - México",
+      "date": "2026-11-06",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcGE5eENOajc2UVUwMUxmVm9Da21nSEEzNmRKQU4wb1NDdmZsd21QY1FxbkV2LVZHRGlFcjhkQmtBa084WGNVclZNdkFUam00aE1mcmN5N2t5cHFjandtZ2tXOE1maU1WMkIzUFI2YTNRNXBpZV8yRWkyZHhoVUNOUUJsaEVoVDY0WG04VWZXdEhtZnhuYXhPVkg2MXc3d1NkMU94Q0hhYlhVY1ZtTDB1aFY1UEw0Tll40gG-AUFVX3lxTE5PXzhzRlZJUVVkMVRLZ3hpQjROSWpDSmhBVG9WeTh3MXRZNGJjcVJsSm5FaUlKbnBjMmpyaENfRnU2TzlWTUJDUXdmS21uai1jR0FMamo5XzBsRXI5UE1QcVdLU3NHaE9KNGZvaGg0LWdZUW9pTjZ1Wl9IMmFocXAwU2J6UGxqMFJJbC1NNUxuVFU4VjlXaDFkMUVGUmhlNUw5MENUUHNkRWZFTG9hclRNYkY3N0wxMXF1Tk94YkE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "08259b5149c8096aeb1041c902b50155",
+      "title": "México reporta primer brote de gripe aviar H5N1 en aves durante más de dos años; ¿dónde fue y qué medidas se toman? - López-Dóriga Digital",
+      "source": "Google News - México",
+      "date": "2026-11-06",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTngzYUltMVlEMElndlMyQ1dUYTN2S2dTa0ZWY2FJSmpmNU04akhoUll0RjZVN3ZMSFh3dm5KZUJkeGVRejlQejVvRlhnQVA2dDZJaTI4Sml1NjVIWG1FM2pUelFMb2FOV2FjcEJJaUctRVV2Y29kVFZDZm95ZE52U1FXWFZwRTBvZjFoRkdnT01fQm5wRV9HRG5Ta1JzUkJkM1JkRkVDTXJUYXJxQkVscnlGb1pZcG5tUmdJdEppUjZFRGx1cGZBXzVEQkZUT2tHTHhwQjRwS3BlMUZheGF3?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "4b164960bdb0e463ad7adf314eb8c2c7",
+      "title": "Detectan primer brote de influenza aviar H5N1 en granja de Yucatán tras más de dos años - Periódico Síntesis",
+      "source": "Google News - México",
+      "date": "2026-11-06",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sWjFtTTcxbEpfMFJFX21SSFBiOFYwd1hXb2VVcTBWMVFLUWVHcjN5ZHIwNG9nanIxU3lDS2M3dVVlNTcxWmlPU1hxQzVTQU5zNTh5djhOUE5hOVNWS0hyQWw5cV9DSTlKTDZteTRrc1dBM2dPZnZj?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "600ba40801feba0a803f5a377f478118",
+      "title": "Senasica confirma caso de influenza aviar AH5N1 en granja de Yucatán - Sector Primario Informativo",
+      "source": "Google News - México",
+      "date": "2026-11-06",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjlZVC1rWGVyRURwendTMEhNLUZfWGZka0NHZVFQRVlIb2xJWUV5dnZZSnJHZXVIci12a3llN0VENEtzTWJNUDFQb2UyN3JQc1Vkd2RDZVE0bWJMN09LUmlaM2NPUXBJOVFYc0JNZkw3ZVFSZDN6OUZjQjM5bUx6cFlsZ0tSQXh3MEI3RTdLTGl2bEQtWkJSbWNDaXlPSEE2Ti1XNmswbnYyUQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "f15ba73a28ea9b610f4b93a9d7d8ae4d",
+      "title": "Detectan brote de influenza aviar en Yucatán; descartan riesgo en abasto - Excélsior",
+      "source": "Google News - México",
+      "date": "2026-11-05",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWDdkNWhyWXNpY0M3eDl3ZlUxM3dWWkRmeUdXcmZjdTk2bl9OZF91V0ZzUHRVTGo0aHpXaWxnTkx4TEpubDUyNUhGeTltWjRvb1RuZnlKSW83eFFFa3pZLTNrd0s3ZEZmZlpiOGdHazktMUFTUzVwQmhhMlNzZmJnT0xHSVBUUVNKSFZ0UzNrNVBjVEhQeGhHWGdUd0pGenJ0dmfSAacBQVVfeXFMTW9Ub0VieDIwODdSSFhXZEF0dklkTHBKdFMyVFEyWkpEUXNNR1Z1OWtsZWd5Vkl0WUpVeVNhUkFyNXR3MHZoUlVtalptdjhPOW41S3lrdnRlUjN6N29CZFNfallyb25vdDZpQ0tuNEttbmk5U0pfNzFqNUx0dG1pQy15TXA4S0NQQktkY2Z4Y2ZQXy1zcU05SEpkb0lDMkN3d09RU1d3Mlk?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-11-06 11:53 UTC"
+  "last_updated": "2026-11-06 19:00 UTC"
 }
