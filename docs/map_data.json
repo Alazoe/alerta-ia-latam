@@ -1501,18 +1501,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "c0452f3b5ae6eabbbdff8b33dc0fccc2",
-      "title": "El Salvador declara alerta sanitaria por influenza aviar de alta patogenicidad - Infobae",
-      "source": "Google News - El Salvador",
-      "date": "2026-08-09",
-      "country": "El Salvador",
-      "lat": 13.7942,
-      "lng": -88.8965,
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNXzc2VFRLQTc5bjBOWGs5RDR5cnphQzBqYXFqb29YZDRZUFRhQlo3V3FQd1dqQ1lTdE5QNUJhVUlveE5YbEVqRURHd3dTdkNhWUpBRVJBc0RxWGxodXctdEZCVUZGRWQ5MnphNUo4RllzWVg4NF9PUGFzMWVCU2ZaeXlraXlMOG9jd19PN3ZkajZ2VndXeEczSzB1VkRnbDJtYTJnSlBYLWdnMlZmZUY0ajZ1N3FrWHhBdnhiMXNKUElQYUE4?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "2f6fcdd8c98b8f926109bf3af0684d80",
       "title": "Argentina confirma un nuevo caso de influenza aviar H5 en Buenos Aires - avinews.com",
       "source": "Google News - Argentina",
@@ -2903,7 +2891,31 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMl9jUlhwLUZ6eEJCUnhRSkVCa0ZIM0VmQ0tJMV8zdWVLSVY5M19id1BHdUlobTBpV2ZhVC1JVmFXYnVNeDBub3VWVTVxLUQ5UEQ2X015dHRSdHZNOGFlN3NfLVg4aVpuam5IRDBlVGJNME9zVmROTDFTMmN5MEhDSjNkN24yWkhWR0dsWGotaExmblNCdHhycGZVM2RLUEVyOExKZFZBNEh5OWVtQ0VSVU01SGZVZUFLNFZENkt6OTNTWEVrRERJNTZNUWpQUQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "feb3797c59c00c2642fb69edf85228cc",
+      "title": "Detectan brote de gripe aviar AH5N1 en Yucatán: esto es lo que se sabe - Maya Comunicación",
+      "source": "Google News - México",
+      "date": "2026-11-06",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY2JKV3NjYlByb1BzZFlQZF9DSDdLX2VvVmpOZ05yTEZkeUlBYXQ2bmhwVnA5YUpMeklIRlFwRHA5UTlGbUpOTmFXU1VKdWZDaUpfeW9kbWQ4SEFTUEJxb09pMHEzU1BJbTZEYmR6ZHFFWmFpLUgtOFlZbU1CaGZ0aXdmRjN2alVJOS1NZUY4Wks5YzdDcEh1U0N5TlZrWG9MMlNDOQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "32bb4b57ca43cbfb231579e536143cd9",
+      "title": "Influenza Aviar en México: ¿Qué se sabe de los casos reportados y cuáles son los riesgos? - Sistema de Noticias Tlaxcala",
+      "source": "Google News - México",
+      "date": "2026-11-06",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORVFjTEZwQXFxN3FHalMtTDY4LU5yMVAwOHFVbUczU2hDSEFwTUJlNmFkNllZbFJHZmh4VWpCMFZHUURtQkFDUWJEbGNZd2lWMDRpV05jeFgwYm9aMVotVzlPZmR6bjM4STZobVhCWjJESmctWFNpNmxOcXBrZU9aZ05zTDlobVNSbEM0LTU2ZU93TXY0eDJWYU9wNVUzeU1rakNZQVBuU3NTNVBiM1JNcVNSSkQ2QzB3MFF6VWFZdWRrNzF6N0VSVXJR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-06 23:58 UTC"
+  "last_updated": "2026-11-07 05:45 UTC"
 }
