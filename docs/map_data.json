@@ -2939,7 +2939,43 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeVZ2YWpKWG1QRFpCR3FMbXN5eHd4V3BiMC1lUzFqOXNxalZFM3F6Ni1YSFdmU1dyRDFzMWVxaVlpN1pKZ0dWX2lYZmlTUi1mU3Q2cWxDS0h1cjM2WWFYU281dGl6ZWhJNUk2UnF3MldHeWJaaHlXVEN5aEo2X1N5OHFRTFJ3SldxcmJrRDlTVkd4Xy1EcS1nSnE4b2VqblF6WkE?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "5da4df65ef249d23675e368c9b1f0b9a",
+      "title": "México confirma brote de gripe aviar H5N1 en una granja de Yucatán - HSB Noticias",
+      "source": "Google News - México",
+      "date": "2026-11-07",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZGcxRXVUSmJiSjVCSXBCbDcxNnBMLUV2XzRaZXQ4WU5TZWloenBWOTFnVGx6TDQ2U2E0TFVYMUVvUXpUN0tuajFHb3UzRVducktraE1WcG5VbmhuRm0zRVlfNHg5UTlYSGo4RmZidkJLdFZEREdvS3c2cEJ4aVU4UHUxRnZCZWlaejhmNHVlQmZqdkxWREp1bDBGMWJwcnll?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "e8a478b1dd5b302a7f46a5a75a557737",
+      "title": "México reporta brote de gripe aviar H5N1 en Yucatán; sacrifican más de 225 mil gallinas - TV Azteca",
+      "source": "Google News - México",
+      "date": "2026-11-07",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdi03dGpBRGcycldMVWFNWU5aWmlYRHRzaWppLTlLMWN1ZERXS210cGRzV3RJX2ViY0FtdE9JRm92S0ZfVjRmOE5zTnA1Njl4VTI3Yzd1OGQ3R0hObjVoc2oyRXFGbjNoM2xndHlOV0s5Yno3OUNWMmotejd5cU1hSWo4X0FnS09iM1dqMV8zVVhvd1FRMHYtWlo4T2hjYUtSYlY5SklhTzRiUHFuNHVRN1NxcHdVWWZDeEVsTnhacw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "15e45b09765a6df7e222d0221632a385",
+      "title": "Detectan influenza aviar en granja de Umán, Yucatán - El Universal",
+      "source": "Google News - México",
+      "date": "2026-11-07",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWRrWVNHc1hOSzZlNWNBSnlOV3F4UXQ0N2hQN0tLeXh1cVNSeVRrZExDTXRJT0I4ZHR5MlYyeDNVZWd6Q1A4U2ozYlBtZTNxVlJZTEtUT3hBRUU0R05KRTEyb2paUzhHZ3o1WG5wcVRCLTNaNFZNYVoydUxVZjByTDVrMS1VRlAzemhMT3hDWnZWRzN1bjdOR25WcF9lYzM5UXpjdFFyMmR6aks3VFlGV2lTNXd6TndfVkFyVdIB0AFBVV95cUxPWjBnaVVCVHMxaTBJLUVjTjc3UWVBNU5DNkpJTFFkOEFIc1EtU0g4MC1XOW5PcGFlbHFTbEUtWkdhaVNQRzFwUjVpN055ckJNVjNWSmxYVEx2MWVPbVZOSTMzUEVndzhDLVFzX0dScDM5YWxNakc2ckpPUE5Tb0hhNnJyWFlsRVlQWUQ3RTFLMUV0ZFlVSmlJcFp5cTZIRDBVTEdIRklPV0hoYzluQ0lnNDlpMzVGejJEeXF1TzdvclA1U3RGeFRFVThKQnNERkot?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-07 19:58 UTC"
+  "last_updated": "2026-11-07 23:35 UTC"
 }
