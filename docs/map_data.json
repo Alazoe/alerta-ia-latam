@@ -2915,7 +2915,31 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORVFjTEZwQXFxN3FHalMtTDY4LU5yMVAwOHFVbUczU2hDSEFwTUJlNmFkNllZbFJHZmh4VWpCMFZHUURtQkFDUWJEbGNZd2lWMDRpV05jeFgwYm9aMVotVzlPZmR6bjM4STZobVhCWjJESmctWFNpNmxOcXBrZU9aZ05zTDlobVNSbEM0LTU2ZU93TXY0eDJWYU9wNVUzeU1rakNZQVBuU3NTNVBiM1JNcVNSSkQ2QzB3MFF6VWFZdWRrNzF6N0VSVXJR?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d82234cd78140e680f58664a634f9f50",
+      "title": "Detectan brote de gripe aviar H5N1 en granja de Yucatán - sdpnoticias",
+      "source": "Google News - México",
+      "date": "2026-11-07",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXJwZUM4TnUxN3FPRWd4Ukt4ZGZibWFUbXVORlV1NDFiY3FCbXFDREU2dlpZQTE4SWZ3QUk1eHJIdTVRQkRvbkItYUFqUWZFSlFGSnZJNXVpb1VLSmI3VmVzWHRXamo5OHF5czFaN1BqM2haeGNrNjk1X1dtZWRpOGZsWHdLZHVFVE5GTmRpVVRMYnVFdEE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "1d90131b813ce0c38e98ea222564240e",
+      "title": "Gripe aviar H5N1 regresa a México: Reportan brote en granja de Yucatán - Tercera Vía",
+      "source": "Google News - México",
+      "date": "2026-11-06",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeVZ2YWpKWG1QRFpCR3FMbXN5eHd4V3BiMC1lUzFqOXNxalZFM3F6Ni1YSFdmU1dyRDFzMWVxaVlpN1pKZ0dWX2lYZmlTUi1mU3Q2cWxDS0h1cjM2WWFYU281dGl6ZWhJNUk2UnF3MldHeWJaaHlXVEN5aEo2X1N5OHFRTFJ3SldxcmJrRDlTVkd4Xy1EcS1nSnE4b2VqblF6WkE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-11-07 14:44 UTC"
+  "last_updated": "2026-11-07 19:58 UTC"
 }
