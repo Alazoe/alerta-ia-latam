@@ -2939,7 +2939,19 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzdHbXpWMDlJaHNENDQtR2x6NVRsc296SG95RnZWdWdnVmJqdzVkclh5YXlMc2o2WWF3X2EtMjVlNkQ3OEVYT3lqQUR4VGkxN2VDNU45MjZmZXVDaTRaUmw0UTVsZl9CWFRRejd5ZDcwNmZocmpkTzhwUVc1REtXOFZQOFEwakVRSDJQZnFRSmdMNmtxVlJDc3BsTk9pd2F1X1F6Y1NJRQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "095646b26ecc5a3998b78a6e6d26d54a",
+      "title": "Detectan brote de gripe aviar H5N1 en granja de Yucatán - SDPnoticias.com",
+      "source": "Google News - México",
+      "date": "2026-11-07",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXJwZUM4TnUxN3FPRWd4Ukt4ZGZibWFUbXVORlV1NDFiY3FCbXFDREU2dlpZQTE4SWZ3QUk1eHJIdTVRQkRvbkItYUFqUWZFSlFGSnZJNXVpb1VLSmI3VmVzWHRXamo5OHF5czFaN1BqM2haeGNrNjk1X1dtZWRpOGZsWHdLZHVFVE5GTmRpVVRMYnVFdEE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-11-08 14:50 UTC"
+  "last_updated": "2026-11-08 20:15 UTC"
 }
