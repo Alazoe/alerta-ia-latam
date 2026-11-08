@@ -2915,7 +2915,31 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWRrWVNHc1hOSzZlNWNBSnlOV3F4UXQ0N2hQN0tLeXh1cVNSeVRrZExDTXRJT0I4ZHR5MlYyeDNVZWd6Q1A4U2ozYlBtZTNxVlJZTEtUT3hBRUU0R05KRTEyb2paUzhHZ3o1WG5wcVRCLTNaNFZNYVoydUxVZjByTDVrMS1VRlAzemhMT3hDWnZWRzN1bjdOR25WcF9lYzM5UXpjdFFyMmR6aks3VFlGV2lTNXd6TndfVkFyVdIB0AFBVV95cUxPWjBnaVVCVHMxaTBJLUVjTjc3UWVBNU5DNkpJTFFkOEFIc1EtU0g4MC1XOW5PcGFlbHFTbEUtWkdhaVNQRzFwUjVpN055ckJNVjNWSmxYVEx2MWVPbVZOSTMzUEVndzhDLVFzX0dScDM5YWxNakc2ckpPUE5Tb0hhNnJyWFlsRVlQWUQ3RTFLMUV0ZFlVSmlJcFp5cTZIRDBVTEdIRklPV0hoYzluQ0lnNDlpMzVGejJEeXF1TzdvclA1U3RGeFRFVThKQnNERkot?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "48407adf5764ecfa537a3bf6badf6c01",
+      "title": "La influenza aviar se cuela en una granja de aves de corral de Brasil, el mayor exportador de pollo del mundo - CdeComunicacion.es",
+      "source": "Google News - Brasil",
+      "date": "2026-11-04",
+      "country": "Brasil",
+      "lat": -14.235,
+      "lng": -51.9253,
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNQ0NSSldVejNLZW05RUY4TjU0cGQ4QnE3bFdacW9GS3c1cGtUc2dBekI4SXFaVWI5MWt5MGFqSmtQM2t4aDNveWd0NUlZam9TMVJBaEwzZ1JFUVItRjUwbGZvdlZ1Z3RsdGtQcXRCb2JVMkI4LTY4MlNnREVIb1pCNmw1RkxwaURFTGxkSFo1cWUxZEFXcWtiODdweUh3ajJNV2RWVGZSMmNHRUhzejB4dW5jTS1qRFhOTDFrTDFoLTM5aGtZYTN4U3dablVQVzRBM3piWjZkN3NFSC1LeVRBd0I5Y2h1MjJjMTlzYmRuM1NpY1poMnl4LWwxYmF2RUJUaGhXddIBigJBVV95cUxORU5FeU5mZU9zeF9hR1pYWnYtQmtfYWRuamlBQ1NRdDJ1N1NJcjZzcklTall6czZJWmRvTHhVWU1JT0tVbDk2Wm92RWtLMEFkLVlZdmpvMTlzeEtDeThxRzVPX1ExZWI0YlM1ZDRXaThtLUp2bXlCdFVsdVFjS0ZFREhJM3FWWXdhUFR4aVlhZWlaQkU2STRNdWhOeW9qRW1kTVJIMmtKVDRUd3hMWVk0bmVwcDJEZjM2bDYtMjZVaXRMbENxRGYydE1hVE1jZmVwTnFzOGJYMTZud05UOUtCdkJaSmtvdDBJNzNDbDI5Y0QyRlRlTDZSb1F0UkxtcUVJN3ktLVgtVXJ0UQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "b557c1fac825f5727e10fbbfa265d4f2",
+      "title": "México confirma brote de gripe aviar H5N1 en una granja de Yucatán - Diario del Cauca",
+      "source": "Google News - México",
+      "date": "2026-11-07",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzdHbXpWMDlJaHNENDQtR2x6NVRsc296SG95RnZWdWdnVmJqdzVkclh5YXlMc2o2WWF3X2EtMjVlNkQ3OEVYT3lqQUR4VGkxN2VDNU45MjZmZXVDaTRaUmw0UTVsZl9CWFRRejd5ZDcwNmZocmpkTzhwUVc1REtXOFZQOFEwakVRSDJQZnFRSmdMNmtxVlJDc3BsTk9pd2F1X1F6Y1NJRQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-11-08 04:59 UTC"
+  "last_updated": "2026-11-08 14:50 UTC"
 }
