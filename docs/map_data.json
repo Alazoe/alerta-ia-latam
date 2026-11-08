@@ -1,54 +1,6 @@
 {
   "alerts": [
     {
-      "id": "7c2b537f1a6fcf3031d86896d14d98f0",
-      "title": "El Salvador declara alerta sanitaria por influenza aviar de alta patogenicidad - Infobae",
-      "source": "Google News - El Salvador",
-      "date": "2026-08-10",
-      "country": "El Salvador",
-      "lat": 13.7942,
-      "lng": -88.8965,
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNXzc2VFRLQTc5bjBOWGs5RDR5cnphQzBqYXFqb29YZDRZUFRhQlo3V3FQd1dqQ1lTdE5QNUJhVUlveE5YbEVqRURHd3dTdkNhWUpBRVJBc0RxWGxodXctdEZCVUZGRWQ5MnphNUo4RllzWVg4NF9PUGFzMWVCU2ZaeXlraXlMOG9jd19PN3ZkajZ2VndXeEczSzB1VkRnbDJtYTJnSlBYLWdnMlZmZUY0ajZ1N3FrWHhBdnhiMXNKUElQYUE40gHfAUFVX3lxTE1MVXVQb1Z3X292UzZGMS1uNi1SRThIRkFwTmRTQ3hRYTR1MFpJZHd0N1l0Z21pbTY2d0YyaDdJVkJ4VVdOYjRKeExiRG5kekQ3ZFd2aGpJZ0w4bzZ4bHJSVmdNeVBsaUV6UzBIaE1JMWxmX2ZNT3gtdmRIdEkwcHF3SkZ0SWdObE1vSXNHd19RNWJKTG5UemxTZUFCT3JuZk5VbUZkTmZ6THZ2VldQOTd3bVdjd1dsWElYb1E4dkFaSnpVdUxqYUtULWJWWHlWck5XdGJkOVJjUjV0Vk1IMkU?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "c6b76d2b84bcc2c23459c079d4e304dc",
-      "title": "Gran Bretaña reconoció a la Argentina como país libre de influenza aviar - La Gaceta",
-      "source": "Google News - Argentina",
-      "date": "2026-08-10",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd3pSMENxdWtkQWFyYlNfNnQ3ZUVHelJYQ0ZUSUpOdmhoZ2pxck8wNHotMDdTSV84XzdlbHRINTBHSThITjZxajR4NFkwUmNIVDl2MTVzT0NsRlpRbWVsLVdsWlo0RjU4akxFVFRJQ3RSZXE2LWNWeEVLS0JFbU8wTTQycjdGX0RGLW9CU0lMZ21pdENxNGVtZWNiS0VhWk82dGFrNGtJT1VRcFJVOE8yaUN5QlhUdmJ1dHFVNkdNM1rSAcABQVVfeXFMTXd6UjBDcXVrZEFhcmJTXzZ0N2VFR3pSWENGVElKTnZoaGdqcXJPMDR6LTA3U0lfOF83ZWx0SDUwR0k4SE42cWo0eDRZMFJjSFQ5djE1c09DbEZaUW1lbC1XbFpaNEY1OGpMRVRUSUN0UmVxNi1jVnhFS0tCRW1PME00MnI3Rl9ERi1vQlNJTGdtaXRDcTRlbWVjYktFYVpPNnRhazRrSU9VUXBSVThPMmlDeUJYVHZidXRxVTZHTTNa?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "d518dc9c3b1f34577b53305f9fef1136",
-      "title": "El Salvador declara alerta sanitaria por influenza aviar de alta patogenicidad - infobae.com",
-      "source": "Google News - El Salvador",
-      "date": "2026-08-10",
-      "country": "El Salvador",
-      "lat": 13.7942,
-      "lng": -88.8965,
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNXzc2VFRLQTc5bjBOWGs5RDR5cnphQzBqYXFqb29YZDRZUFRhQlo3V3FQd1dqQ1lTdE5QNUJhVUlveE5YbEVqRURHd3dTdkNhWUpBRVJBc0RxWGxodXctdEZCVUZGRWQ5MnphNUo4RllzWVg4NF9PUGFzMWVCU2ZaeXlraXlMOG9jd19PN3ZkajZ2VndXeEczSzB1VkRnbDJtYTJnSlBYLWdnMlZmZUY0ajZ1N3FrWHhBdnhiMXNKUElQYUE40gHfAUFVX3lxTE1MVXVQb1Z3X292UzZGMS1uNi1SRThIRkFwTmRTQ3hRYTR1MFpJZHd0N1l0Z21pbTY2d0YyaDdJVkJ4VVdOYjRKeExiRG5kekQ3ZFd2aGpJZ0w4bzZ4bHJSVmdNeVBsaUV6UzBIaE1JMWxmX2ZNT3gtdmRIdEkwcHF3SkZ0SWdObE1vSXNHd19RNWJKTG5UemxTZUFCT3JuZk5VbUZkTmZ6THZ2VldQOTd3bVdjd1dsWElYb1E4dkFaSnpVdUxqYUtULWJWWHlWck5XdGJkOVJjUjV0Vk1IMkU?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "21c76a004f0eb4b6930f3e7808a23e7b",
-      "title": "Gran Bretaña reconoció a la Argentina como país libre de influenza aviar - lagaceta.com.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-08-10",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd3pSMENxdWtkQWFyYlNfNnQ3ZUVHelJYQ0ZUSUpOdmhoZ2pxck8wNHotMDdTSV84XzdlbHRINTBHSThITjZxajR4NFkwUmNIVDl2MTVzT0NsRlpRbWVsLVdsWlo0RjU4akxFVFRJQ3RSZXE2LWNWeEVLS0JFbU8wTTQycjdGX0RGLW9CU0lMZ21pdENxNGVtZWNiS0VhWk82dGFrNGtJT1VRcFJVOE8yaUN5QlhUdmJ1dHFVNkdNM1rSAcABQVVfeXFMTXd6UjBDcXVrZEFhcmJTXzZ0N2VFR3pSWENGVElKTnZoaGdqcXJPMDR6LTA3U0lfOF83ZWx0SDUwR0k4SE42cWo0eDRZMFJjSFQ5djE1c09DbEZaUW1lbC1XbFpaNEY1OGpMRVRUSUN0UmVxNi1jVnhFS0tCRW1PME00MnI3Rl9ERi1vQlNJTGdtaXRDcTRlbWVjYktFYVpPNnRhazRrSU9VUXBSVThPMmlDeUJYVHZidXRxVTZHTTNa?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "beabe617a3941c3d793b13130fa8b65e",
       "title": "Influenza aviar: qué es, cómo se transmite y qué aves están en riesgo - diario.elmundo.sv",
       "source": "Google News - El Salvador",
@@ -57,18 +9,6 @@
       "lat": 13.7942,
       "lng": -88.8965,
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVnhNMUtDUmFhVW53MlhwNEcyWWdZc0pGTDJMYU1HWERyMWNRNjNtNGd5MlVZRVRQUGhvM2ViUTlEcFQxd0ZSM1ZzcmFTSmQ2Q3N5Si1qUE5vdUhfUk9RaVlJdnBCSml3dy1lcEVmN3hIa1BsNmZJcUFTaXVJMDNpRlZqSmlfbmJBbExjRF9sZHR4Y25wQnFCZmVRQk9DOUlzNkpubdIBrwFBVV95cUxNamRiUENBcHNPbzVzYlZtc1RTc0M3ZVNxNUlvQ0N5VjZLMk1GNjJoTEhjOS14Q1hSUE1jZW9ETVd2ZGRXb25QZGZCUHVZSVZjc0V3RFF2Yy1fUEdoalJGSE9IM05BcTBxQzlIbHYzbDNpMFZjc2tEVEEwZDduaDNJVi1KcHBFaWpVaTFubVU3NGM5YWZzSzlxSWh5Q0xIcmx1X2RCZnNaMnkxM0w2TXlz?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "27da10caa0cb9cdfd9e97dd64e82de33",
-      "title": "El Salvador declara alerta sanitaria por influenza aviar de alta patogenicidad - noticiasdebariloche.com.ar",
-      "source": "Google News - El Salvador",
-      "date": "2026-08-10",
-      "country": "El Salvador",
-      "lat": 13.7942,
-      "lng": -88.8965,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVy12QUhFU1VRZ2Q3LXhacm5HUXhVVXEyblhKMEE4TVU4SElBTlY0d25yeVVWY2ZjM2dBRVl2RGxaSVFQcnVEalZjY0ZlTE9fQjNNUE83ejBtSERra0ticDBQcVRicGFpYzZKdzFnaHhuUUtDQTBlQlk5Q1dtckpBXy1ybkNtakZ2S1dWZkY3X2ZVUTJfUmg0YkFRdE1sU2RMYy03d09WRzVfT1BMeXBTMFhvM3hseTBVb0E?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -2977,5 +2917,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-07 23:35 UTC"
+  "last_updated": "2026-11-08 04:59 UTC"
 }
