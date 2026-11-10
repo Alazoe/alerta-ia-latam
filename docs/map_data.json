@@ -13,30 +13,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "48f23dbdc60b31c6cff3cd41e89256bb",
-      "title": "Senasa emitió nuevas recomendaciones para prevenir la propagación de la influenza aviar - diariodebatepregon.com",
-      "source": "Google News - Argentina",
-      "date": "2026-08-12",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdHFSRGZjZmI2X3lzWkw3VFFKOS1GX19acnhaZlN6clBraWFMdGFNdFhxWS1kbThITG9ldW9HQmd2VXpwMTVsY2hldVVVeTA5QjRYWVBoUE53SnhtXzlMdjJzbG00VTlTRGNFWVU2WVhra2VUSC0yTksxTnZobFlhalhZV1k0S0VQenBTTk1sTFBzWmRqUV9RdUUzMnQtc05yc3dOSm1MSnAzeC0wTDlJcTdPMXhOUDRxdHY5akVlWk9jT1l3UGZyVXJ4YW05QWtJWTMyYzY0MXpCeU0?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "a7d9ff72f8ffa5c9dd4494966afda9ed",
-      "title": "Senasa emitió nuevas recomendaciones para prevenir la propagación de la influenza aviar - Diario El Debate Pregón",
-      "source": "Google News - Argentina",
-      "date": "2026-08-12",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdHFSRGZjZmI2X3lzWkw3VFFKOS1GX19acnhaZlN6clBraWFMdGFNdFhxWS1kbThITG9ldW9HQmd2VXpwMTVsY2hldVVVeTA5QjRYWVBoUE53SnhtXzlMdjJzbG00VTlTRGNFWVU2WVhra2VUSC0yTksxTnZobFlhalhZV1k0S0VQenBTTk1sTFBzWmRqUV9RdUUzMnQtc05yc3dOSm1MSnAzeC0wTDlJcTdPMXhOUDRxdHY5akVlWk9jT1l3UGZyVXJ4YW05QWtJWTMyYzY0MXpCeU0?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "c1e507e690e420c511ce208c15185c7a",
       "title": "Influenza aviar: la Argentina suspendió las exportaciones y enfrenta un nuevo freno comercial - reconquistaradios.com.ar",
       "source": "Google News - Argentina",
@@ -2903,7 +2879,31 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTXJwZUM4TnUxN3FPRWd4Ukt4ZGZibWFUbXVORlV1NDFiY3FCbXFDREU2dlpZQTE4SWZ3QUk1eHJIdTVRQkRvbkItYUFqUWZFSlFGSnZJNXVpb1VLSmI3VmVzWHRXamo5OHF5czFaN1BqM2haeGNrNjk1X1dtZWRpOGZsWHdLZHVFVE5GTmRpVVRMYnVFdEE?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "487e1dca68c9bf7f8e1d831892e53f8c",
+      "title": "Atiende AGRICULTURA oportunamente caso de influenza aviar en Yucatán - Gob MX",
+      "source": "Google News - México",
+      "date": "2026-11-06",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRGVCX3p0U0pITHdTTWt2anZMTHJNMXlzSkh0WTZSaml1OWZkNGlMVEZsRzdxSlNaMk1lMWc1aWVkMzdfSGZFbXM3TXo1TTJXNDMxMmc5ZkxSSC0tcUZLRXkyZWFwQlAzeWt0Z3ZLLVJXN2l4QUhrVVhKRUpLSU9qc1J3bWVSMmJlVGlXbUM2RFB6NkhMTjFWUHNTc0RCMUx2NFNIU1ktVXppdw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "b74847fdd0b6f263c74f06b32b3149a2",
+      "title": "Gripe aviar H5N1 regresa a México: Reportan brote en granja de Yucatán - LJA.MX",
+      "source": "Google News - México",
+      "date": "2026-11-09",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRlJzN1RLbENvQ2cwZzFNbWxMeFRyQ3g3ZkJtUl9lSFJEWXhaUzdaci1RRUVqOUtpTmxQOEpxTHFvQlBHTjQ1TS1ndjBCMTRyWV9PeVdFazdHUkJIRTA1RXk2RHNJZEZTbDJHWDY2SEJzZ1BDXzhYNmpYTjZ1dzBZbnRlUGJoY1hLZ2o1WnlqaFducGxuWjZKTGl4QkN4QQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-11-09 05:09 UTC"
+  "last_updated": "2026-11-10 02:35 UTC"
 }
