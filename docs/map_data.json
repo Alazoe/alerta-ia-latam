@@ -2903,7 +2903,19 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRlJzN1RLbENvQ2cwZzFNbWxMeFRyQ3g3ZkJtUl9lSFJEWXhaUzdaci1RRUVqOUtpTmxQOEpxTHFvQlBHTjQ1TS1ndjBCMTRyWV9PeVdFazdHUkJIRTA1RXk2RHNJZEZTbDJHWDY2SEJzZ1BDXzhYNmpYTjZ1dzBZbnRlUGJoY1hLZ2o1WnlqaFducGxuWjZKTGl4QkN4QQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "0bb1056a41dc496f97c7304bb90cf5f6",
+      "title": "Atendemos oportunamente caso de influenza aviar en Yucatán - Gob MX",
+      "source": "Google News - México",
+      "date": "2026-11-10",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRi1LRUsxTW11RjAxaS1SeGZPM1pYUGxMaHJxVndWVDBpRF9SODFWbXpHOHloamZaUXN3dDF5YlN3MHoyMGRHdXhMcXkzYzg1cERsTWw5aEdYOGNxSThpb3hSSmZtUnhZejNtY2h3V2tPOXFNZ1M1X0VlMV9HUTZIM0wtSWhSZVo1dGc3ZmppRG0xS3A2dV9hRE54cUw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-10 12:16 UTC"
+  "last_updated": "2026-11-10 21:41 UTC"
 }
