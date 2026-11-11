@@ -2915,7 +2915,31 @@
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRi1LRUsxTW11RjAxaS1SeGZPM1pYUGxMaHJxVndWVDBpRF9SODFWbXpHOHloamZaUXN3dDF5YlN3MHoyMGRHdXhMcXkzYzg1cERsTWw5aEdYOGNxSThpb3hSSmZtUnhZejNtY2h3V2tPOXFNZ1M1X0VlMV9HUTZIM0wtSWhSZVo1dGc3ZmppRG0xS3A2dV9hRE54cUw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "12a746ebb6e0eee00438fe2332129963",
+      "title": "El brote de gripe aviar H5N1 de Umán sigue en curso, informa la OMSA - Diario de Yucatán",
+      "source": "Google News - México",
+      "date": "2026-11-11",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR0xOTDhSLVhkdGdHaUVhTFVQOVRPV2MzRG9KU0lTckJ6QXExdUtGOVdYZ1MyVkpOYUVTM09TZDhmNHdWZzd2aU5Db3BydzlZSm1HOVc0RjM2NzFBMy1CWW5FeEZtVWFxaVFyUnRBTFdxRXdWYlJXM2NSV3llNm1xZEF2Y1Z4X0p0TFRNT2NBOV9LMXdleW9UMFpWY0UtUWtFbmlfbGZXRzQzSHBpUkI4NmxBaV9zeVEx?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "57db10107bc042db4c645f4dc8362f2c",
+      "title": "Evaluación establece acciones para mejorar la prevención de la influenza aviar en Guatemala - Gobierno de Guatemala",
+      "source": "Google News - Guatemala",
+      "date": "2026-11-11",
+      "country": "Guatemala",
+      "lat": 15.7835,
+      "lng": -90.2308,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNU3lQQ1RyREFPNjdCOW9UWDVfemNlcFJYWlNBT0dxeVNnWHByczZVTnVHdjNaQlMyQnk3QkJrWVUxRUxYNDJTbWVLSllBcGQ1Wmt5a0p2aXRUSjZ4QXcwaWYyYllPVVVzSG5XekFTdTF2eG9hbnRROU9aREt0eVg3aFJPaEFZTXJLelRQeHQ3eWZZSVlDSkFTOHNWVTdMTFkxdjVMa2VmZjlpdGNLRVFWSWFac0V5bWVk?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-11 15:55 UTC"
+  "last_updated": "2026-11-11 22:31 UTC"
 }
