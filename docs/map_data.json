@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "db979b7ab603a116330af22deb2af43f",
-      "title": "Influenza aviar: la Argentina suspendió las exportaciones y enfrenta un nuevo freno comercial - Reconquista Radios",
-      "source": "Google News - Argentina",
-      "date": "2026-08-14",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX2k0Vzk2YzdIYTV1c2FycGVYWjkwWDZ4eWJ6S3VuWkVPYmZrVmVGSUxRNlo0WmM0Z1g2ZEYyR1VDcGFya0Q2Smx1OVE1c1lfTnc4TjNOcHp4bVJiaS1ZWllfYmxERHhZUDZtX2sxZERqT09YSlN5TV9ZdnUxa3RoanZpX0ROejdyMDdKRm9aZkNTLTBrYmZBSjl0cFRtUjREZmhNUXdxVV9fRGtLb05mOG4wX2V1QlVTNnlDU1BtWlVKR1NlUTM0SGZCRVVSQWd4c3RIVmxR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "c1e507e690e420c511ce208c15185c7a",
       "title": "Influenza aviar: la Argentina suspendió las exportaciones y enfrenta un nuevo freno comercial - reconquistaradios.com.ar",
       "source": "Google News - Argentina",
@@ -2941,5 +2929,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-11 22:31 UTC"
+  "last_updated": "2026-11-12 06:15 UTC"
 }
