@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "c1e507e690e420c511ce208c15185c7a",
-      "title": "Influenza aviar: la Argentina suspendió las exportaciones y enfrenta un nuevo freno comercial - reconquistaradios.com.ar",
-      "source": "Google News - Argentina",
-      "date": "2026-08-15",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPX2k0Vzk2YzdIYTV1c2FycGVYWjkwWDZ4eWJ6S3VuWkVPYmZrVmVGSUxRNlo0WmM0Z1g2ZEYyR1VDcGFya0Q2Smx1OVE1c1lfTnc4TjNOcHp4bVJiaS1ZWllfYmxERHhZUDZtX2sxZERqT09YSlN5TV9ZdnUxa3RoanZpX0ROejdyMDdKRm9aZkNTLTBrYmZBSjl0cFRtUjREZmhNUXdxVV9fRGtLb05mOG4wX2V1QlVTNnlDU1BtWlVKR1NlUTM0SGZCRVVSQWd4c3RIVmxR?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "2b8e25ea23912b3591f57603fef5062c",
       "title": "Se detecta la circulación del virus de Influenza Aviar en Nuevo León - Enfoque Noticias",
       "source": "Google News - México",
@@ -2939,7 +2927,19 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPTWhULU5KbjJBWFhaUEJtVnJ3aGRmOUU2WHhMVVlXR2hOMTZ1UU5qMDYwdE5zQldCa0FlN1NkTlIzS2RIc0t2S2E2bEJlOXQzRmlnRHRTb2F2dGlxMnBPazhiQk9pR2NVVTk3X2F0WV91S0ppRWZ6SXQzekU3MGpCR2pTLVFEdkpnTm00cm9NV3JSUElfLU9nUGl0TGg5LXRiWDd1LWNGNE5xMUp2LXFFRTk4dXZybTJTcTNndVA3ZlVkNU84dl9uVjJqVGVsRzQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "395ff762eb5b220119e1b8af238d26ee",
+      "title": "Parte de tranquilidad entrega el ICA por detección de brote de influenza aviar en aves de traspatio en Magdalena - Instituto Colombiano Agropecuario - ICA",
+      "source": "Google News - Colombia",
+      "date": "2026-11-12",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM2Z1Ym5zMVBXV0ZjRm4yU1VwdlBNX1A1Y0RpOXBNbGoxMEZLRWYtSkNMaDJUcTNHSWp4TDN1UEltS3RnRXVQVzY0Y1B2amZGRWl1M3ZyYlhJZFFRZXFZdnpBT25UNW5zMzhpdVNKdlhLWklveVVFeEpnb3FuOTNPYUtNRQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-11-12 16:38 UTC"
+  "last_updated": "2026-11-13 00:56 UTC"
 }
