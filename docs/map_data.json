@@ -2951,7 +2951,31 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpYVAzeElveU8wd21laXlMQUVsWHJ3YmI5cjAwMTZiUzJUYklfZno5aC14ZVp2Y1E1dzd6Wk1fWFVnWUlJTE9TM1FvS09PVUxqM0VoelNXd0ZwamtpaktIbWVtekpsMFg1WFVkT2RVMmtndzRqWEN3RTQ5Zmh2MWs?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "3bab04d8e8b658c20ddc3cf0042d9b3e",
+      "title": "Influenza Aviar en Colombia: Alerta por brote en aves de traspatio en noviembre de 2026 - aviNews",
+      "source": "Google News - Colombia",
+      "date": "2026-11-13",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ25iWUtJNEI3aDY5LWttUWNQQjFGVndjVGlJUUktRC13OHQzd0VUY1dod2tFYi1KNjI1bXkybkVNaFQ2V2J1UzVWcFNTRW1MM0JOWUtlTzVvTXNhQXRMT0x4ZEFzSTRidFk0NURCdUpFMnM2OEFBcnA0RFRucnFaaXBnbnY?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "79f5cedaf582a3fc3c3da9ea65e1477f",
+      "title": "Descarta AGRICULTURA nuevos casos de influenza aviar AH5N1 en Yucatán - Hoja de Ruta Digital",
+      "source": "Google News - México",
+      "date": "2026-11-13",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSVcxYnNJSUdreWRUd2xwclktOHhEWG5RdW44WnNHMmpxRHh0T2YtelFhNG1YbEgyWFFpV1c1RVVxQVZUVWZjMHk4SUlzTEFwUU5fN3hVSWc0ZUwyTnQ5S1N3UHdOQ0F6Ry1CQURIeC00WWhKMm1lZkViUGM2XzgxU0MyczJ4ZHVCYlVSWGRHdkRWaHJHYjQwbm9tbzBFc0JK?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-11-13 19:26 UTC"
+  "last_updated": "2026-11-14 00:45 UTC"
 }
