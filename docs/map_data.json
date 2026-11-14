@@ -2975,7 +2975,19 @@
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSVcxYnNJSUdreWRUd2xwclktOHhEWG5RdW44WnNHMmpxRHh0T2YtelFhNG1YbEgyWFFpV1c1RVVxQVZUVWZjMHk4SUlzTEFwUU5fN3hVSWc0ZUwyTnQ5S1N3UHdOQ0F6Ry1CQURIeC00WWhKMm1lZkViUGM2XzgxU0MyczJ4ZHVCYlVSWGRHdkRWaHJHYjQwbm9tbzBFc0JK?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "fde56f5494d56ccc51995a333d20147a",
+      "title": "Mades refuerza controles para detectar influenza aviar en aves silvestres - ADN Paraguayo",
+      "source": "Google News - Paraguay",
+      "date": "2026-11-14",
+      "country": "Paraguay",
+      "lat": -23.4425,
+      "lng": -58.4438,
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0lIcVBXckE2WjRCU0hPbUZPTE5aSEVZTnV6T3JmQ3VKZUZTX1JmUFQyZXZDbmVLVl9kdkh0YWdkX25uU1ByYjRDaWs2V0JNdzZKazZHODNBTjlJcUszdEY3Y2tRVGxoQVdTTU83NkdlLUN2d1JzVUNwUWM4OWZqa1F4T2VRblQ4MmRzbThiYW5FVzFCUlBZb3BndDVIMVZrTFl3aWkzUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-14 17:45 UTC"
+  "last_updated": "2026-11-14 23:43 UTC"
 }
