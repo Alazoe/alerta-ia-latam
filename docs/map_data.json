@@ -37,18 +37,6 @@
       "color": "#ea580c"
     },
     {
-      "id": "0ff31e36d07e224befd5cf665a0eeb09",
-      "title": "Autoridades mexicanas detectan caso de influenza aviar en aves silvestres - Enfoque Noticias",
-      "source": "Google News - México",
-      "date": "2026-08-17",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUldPYVZ5RHdCcUVTNk1xRjJGdzRFY2VPUVVOaWJkLTlfWUpsaUlXOGt1VGxvVWlmcUR0dzdMbEdGVkowa0pkb0lmOXhpR3Z3UlZJa1ZkR3VENWtxNXc4NlJJMWg5V1phRnFBcThMaEZkbUFpajhybTAtWUlzQXFfOGNCUVh1Q2JZOGRVN1ZjSUY4cGRxZjlOa3F2WUIzZVdScnZLZl8xVUhYV3FnNlI1VWtzRQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "1ff257e7b212d19b616dbda4ce45aa9c",
       "title": "Valdivia será sede de encuentro nacional de investigación sobre Hantavirus e Influenza Aviar - Diario El Ranco",
       "source": "Google News - Chile",
@@ -2989,5 +2977,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-14 23:43 UTC"
+  "last_updated": "2026-11-15 05:24 UTC"
 }
