@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "2b8e25ea23912b3591f57603fef5062c",
-      "title": "Se detecta la circulación del virus de Influenza Aviar en Nuevo León - Enfoque Noticias",
-      "source": "Google News - México",
-      "date": "2026-08-18",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlJxcjFQSWI3YS0wQVR1Sm5nQkdwNUNFa1I0QktrVHZ0aDd4UE9fTzhsQUlnNlhYY1U0TUZhY20zbnN1bE9pZ1Y4UzJISEx2VDh5djd6QjRSbFBRa0duLXdfcTRpbVdBQWlCYUpxTFpLX2dGZnBIc2lUZGZjaXhSMndPQlNYQTg4dzJqTm1vTGZsRmpJNUN1c2N3OVhoSWdMZWgtckoxS3o2b2N1?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "0e2865ee77f3ae1b0256c1c346b26896",
       "title": "Senasa descarta influenza aviar en 121 muestras de aves silvestres, pero aún desconoce qué está matando a los pelícanos - El Observador CR",
       "source": "Google News - Costa Rica",
@@ -2989,5 +2977,5 @@
       "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-11-15 20:52 UTC"
+  "last_updated": "2026-11-16 05:23 UTC"
 }
