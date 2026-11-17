@@ -3083,7 +3083,67 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUpwMmhUc2F3SVBPcERwZHc5eU95SWx6Ry1TMFdNVlRZeXYteDdoWjdNLUh3RV9pdWQ2T2lrMXQ4NW9LVmdFb1ZiNy1TV1BydkdXbXd0SmFPSWVWekdTSHpnOTdzVzkxTXFDZDl5Zy1vVWxlX0FJNzREZzZFY3BmbGQtamQwUXE4VHVHMjE1U0xtSm9LTC12SW4zZHN6WUF5M05Vbw?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "1a02987f0966c02cd74b967cadbcc881",
+      "title": "Uruguay declara emergencia sanitaria nacional por Influenza Aviar H5: medidas y alcance - Debate Uruguay",
+      "source": "Google News - Uruguay",
+      "date": "2026-09-07",
+      "country": "Uruguay",
+      "lat": -32.5228,
+      "lng": -55.7658,
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQY0VzRDFNVjBlWkxPUXRKYmZNSEJ1UFNlQjhRYUVCTjQxOXExREZyVlBNZDZLSmZyNjNnY0JYdmtNQ2VCVkgwUnhWb0RxakxIWHJwT21QZHZlMXM0SnVEbjFjaWRKaUgzR0RlbEZDOXRkNlF4Nk1PLWtSWnRfOEt2bTFaVnB1ekR6Uk91SDhOS1BIZmVnMGs1WTZzUFp3czJ1MUNFXzhDS29zbm5nSzNaR0UzLWNMUU1STEthUnd5blREUE4zRnBWVGJCRHJEcjVmZEhvMjBwejdlUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "7a496ea9c13d82287ea337b78d9e492b",
+      "title": "Atiende AGRICULTURA caso de influenza aviar en aves migratorias en el Zoológico de León - Gob MX",
+      "source": "Google News - México",
+      "date": "2026-11-17",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdWtSYkU0eTR2eDFqMzFqTVcwMUJHSzRNX3kzVnl0eVVBaWpNT3htYzdCSFMtSXRaMTBKbm5wYUZ3U3hhbmI5NGF4ZzhRcXhQTnNhbVlRM3Q1V0VjQXFSUXJoa3BfVWVLWHZLaE53UTlxQ29naFk5THlxeEVvLU5iNW5LQnd5VEhpWDNVbEp5OUhQclZPMVA3bm02aFgxZk9GN3FEaklxRVI3VmtRamJuWGZTRmlhdHlucGRlSk1rQVRLQ2M?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "dbfb284ffb67c48b65badcca118405d9",
+      "title": "Activa Agricultura Medidas Sanitarias por Influenza Aviar en Zoológico de León, Guanajuato - N+",
+      "source": "Google News - México",
+      "date": "2026-11-17",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeURIYnFBamotbW5PSTlfWUpUd0NaSm5fMmxlUS1BcnVLeUk2NVB1amVlbGVoeGp5RGhLNjJSNGY0QmV2c1FFRXAwVjdrSW9xTlpRSmNEUjZCcW1NNWVocV9BZ2xQYWlMRkIzd3Z0YzBnQW5ER1JFaERaTDVQX3RTbUk5WXZYZ1lrM2pLN0p3QWMxbVYzZVNDeF8zYXozazhiaXJ3akQ0ZlU1Rno1R3NJWl9oek9ONldNRWtoM0U3WkdNLWJqM0JSZTUyVGxncFk?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "0b984f5958ab509999e920d61a0eed64",
+      "title": "Mueren seis aves en el Zoológico de León; cuestionan prevención tras tres casos de influenza aviar - Periódico AM",
+      "source": "Google News - México",
+      "date": "2026-11-16",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUdHRGR6dWhWbGhLbWtCaEFja1Z2LVJrTmV4TnFJQnl5a2s4bTQ4SkNXRk5sTjJyZV9xOURlMnJ0T3NZdEZaR3k1WTB0ckhDVTlxSkNCeFhEQnJIZm42czZ0YlpuckdnczNXNmlrQnNGQkU1OTIxbUUyeXNZRGU0Tzc3RkJwdVFjTHhZTDBEb0NyODROdXk0cGFZM2U4SWdSZzNuQW13d1A5SkZFTFpVNg?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "3777816df8493ccb4bb7b61ad32bff8b",
+      "title": "Confirman influenza aviar en aves migratorias del Zoológico de León - El Sol de México",
+      "source": "Google News - México",
+      "date": "2026-11-17",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWVV1cFZFNDk5U3NPMVBsUXBWZFkwLVVvNVFTMFRla3NsSXZEYWtuMFVDcTlzVDJBcDluYjNXRkN3TkZ4SndSc2NsMl9BemhKbWVJakVBNE10Z3ZfZ3Q1dmExeFNGUWxSQ21qRVVabzBzQ3EzQk9zeV9xaWlnaWt1QTBVNDEyTHd2V010YjN5VEh0ZnY2NXNJT29TU3dwWGowVVRKajFMbi1Id2FB?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-17 02:48 UTC"
+  "last_updated": "2026-11-17 12:50 UTC"
 }
