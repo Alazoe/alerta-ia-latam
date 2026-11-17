@@ -2987,7 +2987,103 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYUdHRGR6dWhWbGhLbWtCaEFja1Z2LVJrTmV4TnFJQnl5a2s4bTQ4SkNXRk5sTjJyZV9xOURlMnJ0T3NZdEZaR3k1WTB0ckhDVTlxSkNCeFhEQnJIZm42czZ0YlpuckdnczNXNmlrQnNGQkU1OTIxbUUyeXNZRGU0Tzc3RkJwdVFjTHhZTDBEb0NyODROdXk0cGFZM2U4SWdSZzNuQW13d1A5SkZFTFpVNg?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "df6f806f5910f9ec574ff22856b9755a",
+      "title": "Autoridades confirman influenza aviar en aves migratorias de zoológico en centro de México - Infobae",
+      "source": "Google News - México",
+      "date": "2026-11-17",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUWQyX3lSQlFwaDhzMmpXUG9LWlpmcmstODBWaldJQmVzSUVSM2lKSmxNOTN5WUVYTklUbTVPRlQ2dXk3T0dGR3pYdDZZc3E2QXNCeFJybTVMd2Q2Y2cteFN6dnc4UGFvV29zUlFrbHdoTWlhczRyZVBxcU9qaEd1cEJacUV1Vmh0eDZaMTEtbUd6QWxlY1BmdnNkUXJwOVhZdTFwTjJleVlqS2pLeXRzcjYyN3ByLVBUbWpsRVlCdUFRYm1LX1VSRU5fbkJFUFpZYk1RcmhDUUJNME3SAfYBQVVfeXFMTlNMMnBISVdyTFRiQzF3VHJUbmlRaGxpSmk2RS04LUowelpXbXN2ZFcxc2JuLU42b1VyTndyb1BJZkZhZkpMcXRHOUE1NDdHUkxBOFA1ZzRMZV9aU3lhaUJhejVwVlVDc0NHX0FBalF4cEtEcTBmWEZLZXlfcFYtMEUxWlpWZUpzTzV1MVY3bUR5YjQxdVY3WnRoTklxbXBZcGRKR2pVWUE1M0cwUmFzMHdqaEJabnRxbW5ScEp0WU1nbnZmSExSSzZYOWpmLTdNbUE1V0I5TkhmR2UwR0d3cVRpWk1mUklQalNRMWNnMGtfSHJYd2R3?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "a26c2cea73f90a0226979b5a527ca8a8",
+      "title": "Confirman influenza aviar en aves migratorias en zoológico mexicano - Prensa Latina",
+      "source": "Google News - México",
+      "date": "2026-11-17",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX1RQdW9GazdOVWtMeU1RUzhleEpXcHVqVVVLNTlYck85UV9HcmtGSGRZQVozdDFpOTRvTG5hVVN4UUFvX2J5T0t4cldRRkwxd3lMYUtVNjNGRE1oeFc5ZXNNSHZPejB3UEJnMkhRR1VDeFVWREtvYVBGcm9qdzcxZ3RGSjhjVWw0VW5OX1JiSVhINlg0UEN2ZGJOYWtnZmZ3SkZCRTlwampWZWhU?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "957cb823ea79958505dce592eed21093",
+      "title": "Confirman muerte de seis animales por influenza aviar en Zoológico de León, Guanajuato - Quinta Fuerza",
+      "source": "Google News - México",
+      "date": "2026-11-17",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHJpZHhLYWF4eExLcnNIX0Z6cjJHUDV3MnZ0RGpyN054VVNXcTltcTdDTTFJcEtpbVhINGZVMVc2aGdaTE4yQWZ0WDhzZUd1VGk4ajlLRXY1Tl9Zbl9tOHpyc0p3VjVHM3pybVI0SFJwTWl0QjNnT2UyZDNkNGI3ZXdWX2hoT1Z0eTNwTnNlQmVsY0VyN2dQUVgxNmMtWkM3X2ZuRnRJUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "9305603dfd3f99d747303626c72012e5",
+      "title": "Sader confirma caso de influenza aviar en aves migratorias en el Zoológico de León - El Sol de México",
+      "source": "Google News - México",
+      "date": "2026-11-16",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWFZ6ZUFCSUxRZEVrNzZtcEMxZVJvV052VGhrV09DZFU4Y0l5S1lqald3UTZ2X25QRTZCdTlCelBqR1NDdGRUSVVXYWhsS25HQV9MNzR5dWRpZzgyaGxXVlhBRzRjWElMM1lLODhMNUZ5dS1UbFROWURxZURhMFZ6WWlhME9mZTkxREMxYkdxVWJqdXNRN0JSREFiTnZVNTE3bGtKZ2M2emFyRzl1bVJDRE9sSFE2YTFlVk5jZHlIcEtmOGhiVUFSUjBEYw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "096964bd5c13751194b298a9c4e1e6cd",
+      "title": "Confirman influenza aviar H5 en aves migratorias del Zoológico de León - Sector Primario Informativo",
+      "source": "Google News - México",
+      "date": "2026-11-16",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdnlob1J1SFBpS2N0SC0wT2VObkxmeVVaR0dhV1FmS0Jza3RnS01zTkZuNWJ5V0M3ajNhSGJVTnMtYUd3TkQzNFItNUVUcVhNYXZOZ09rMFI5TTl2LXZYYThvYjNOcExfR1U4WjU3TTV5dDAyQ1B3S1ZmTWJvZTZjV3dDNDJCdTc5bnFyZk1zUHJsSHB4RE9VOFdvZmU2WUdMa1RaN3haMWVTMW9D?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "d6c830f6f1e173d3ec6644d4e5acc4b6",
+      "title": "Atiende SADER caso de influenza aviar en aves migratorias en el Zoológico de León, Guanajuato - La Verdad de Tamaulipas",
+      "source": "Google News - México",
+      "date": "2026-11-16",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNHJ0RW40WHR2WmdWdEphNnBuUUJubTlXUWZ4NnBKREQ2ZjMwaUlIQXBuZ1VrWFJfU21aQnpLaUM1Q04xUnJ3c0hsWlQ2N1RJeU54WWFRUEpndWZwX1FiT0d0UlZmNl90M3pFVWYwYXZQd2ZKT3VsN2ZpT3NURlVnVlhHYmRWOTFSMEI3eXBPUXZnTDhaV1dyR0NySEdMVmVOUzVFSl9uSVdzRDJEakZLcmZNRkU1TUxTQWhXS09KS1pBSVE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "02a6d58ff18dfa6ced54f4553b3a7994",
+      "title": "Agricultura Activa Medidas Sanitarias por Influenza Aviar en Zoológico de León, Guanajuato - N+",
+      "source": "Google News - México",
+      "date": "2026-11-16",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQeURIYnFBamotbW5PSTlfWUpUd0NaSm5fMmxlUS1BcnVLeUk2NVB1amVlbGVoeGp5RGhLNjJSNGY0QmV2c1FFRXAwVjdrSW9xTlpRSmNEUjZCcW1NNWVocV9BZ2xQYWlMRkIzd3Z0YzBnQW5ER1JFaERaTDVQX3RTbUk5WXZYZ1lrM2pLN0p3QWMxbVYzZVNDeF8zYXozazhiaXJ3akQ0ZlU1Rno1R3NJWl9oek9ONldNRWtoM0U3WkdNLWJqM0JSZTUyVGxncFk?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "95d83424d3c41cad3fe504ece0a92fd4",
+      "title": "Descarta Agricultura nuevos casos de influenza aviar AH5N1 en Yucatán - Diario Eyipantla",
+      "source": "Google News - México",
+      "date": "2026-11-17",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMUpwMmhUc2F3SVBPcERwZHc5eU95SWx6Ry1TMFdNVlRZeXYteDdoWjdNLUh3RV9pdWQ2T2lrMXQ4NW9LVmdFb1ZiNy1TV1BydkdXbXd0SmFPSWVWekdTSHpnOTdzVzkxTXFDZDl5Zy1vVWxlX0FJNzREZzZFY3BmbGQtamQwUXE4VHVHMjE1U0xtSm9LTC12SW4zZHN6WUF5M05Vbw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-11-16 18:03 UTC"
+  "last_updated": "2026-11-17 02:48 UTC"
 }
