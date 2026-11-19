@@ -373,18 +373,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "1711110e24a8ae09e149c63b0a47315d",
-      "title": "Internacional Colombia: Balance de la situación sanitaria por influenza aviar de alta patogenicidad en el país - elproductor.com",
-      "source": "Google News - Colombia",
-      "date": "2026-08-21",
-      "country": "Colombia",
-      "lat": 4.5709,
-      "lng": -74.2973,
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPczBzWUFpRkZwaGZKOFNjM1l2Q1J4MmlQLVNvbGpPeG44RHV6S2k0d1FWdS1uMnBaUEdKOUNGMjgwYlc0TWRSWnY0Z2VCVWxDcGxteVJuRlQyQ1JlUEUxWjhiTHR1TFhObEI3RTM1dWJnamV3bkU3Nm4xVUgzVWJzZkhZeEV5NjNzNWowU0sxVkF5ajFpbENobHEteG1Nc2tiM3hlZHNhVEE5UVVSM1h1a3dmMmpRYkZ3WHEwRVYxT2xWYU1GVXJ6MmcwMjZ5Z0ZrNXlJcE1mVDJPTzg4T0Rv?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "17f664f7284a09cb155f675737c02104",
       "title": "Valdivia será sede de inédito encuentro nacional para investigación de hantavirus e influenza aviar - Diario Futrono",
       "source": "Google News - Chile",
@@ -3265,5 +3253,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-18 16:59 UTC"
+  "last_updated": "2026-11-19 01:46 UTC"
 }
