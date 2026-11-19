@@ -3251,7 +3251,31 @@
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOeHU3SmNmbnpsT091ZDA4S2M1Y25oWk5xZ1Z2RFQ5MjlhZ3ZneE1xSi01VnFSYW4tU3c5WHJGbzc1R3p3RXVJTlIyRTRmLTNWVVBCeXB0cWo4SDRISVRaNFpFTExSaFpiYzFodXdhV0QzS0tiSnlyVDBmUmFHdzMtd240ZGludw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "ccac77f80c7e5eda23c9a6d1d2b657ce",
+      "title": "Colombia: ICA confirma brote de Influenza Aviar en aves de traspatio - aviNews",
+      "source": "Google News - Colombia",
+      "date": "2026-11-13",
+      "country": "Colombia",
+      "lat": 4.5709,
+      "lng": -74.2973,
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpYVAzeElveU8wd21laXlMQUVsWHJ3YmI5cjAwMTZiUzJUYklfZno5aC14ZVp2Y1E1dzd6Wk1fWFVnWUlJTE9TM1FvS09PVUxqM0VoelNXd0ZwamtpaktIbWVtekpsMFg1WFVkT2RVMmtndzRqWEN3RTQ5Zmh2MWs?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "2f1215a0e97e0d8d14f8e62fc9b27686",
+      "title": "Guatemala analiza riesgos de influenza aviar para coordinar la prevención y respuesta - Pan American Health Organization (PAHO)",
+      "source": "Google News - Guatemala",
+      "date": "2026-11-19",
+      "country": "Guatemala",
+      "lat": 15.7835,
+      "lng": -90.2308,
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQ0NhR091RnRoclNDQXA5ZC13YlJIdVA0RWZLdngzdjRsWXRlSmdIVlcyWEdhYWFVRG5xcHNma3l3Z2NFQjZxRG5VSkRxZDI2NlZFSk1KcUFXajN3c1pyMEJFdzhrcE8wQ3NHVHAzX0F5MjJIRFduZzZzMG5GSktmRFpSMXhHNmFlUy1lZ1NUMlJoZmE4clVjM0Nqa1gzd1N2V0pSaG1RZ1JvYzc4S1UzR25sX2FZYnIxVXo0MWJn?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-19 12:35 UTC"
+  "last_updated": "2026-11-19 22:56 UTC"
 }
