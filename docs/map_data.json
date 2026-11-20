@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "0e2865ee77f3ae1b0256c1c346b26896",
-      "title": "Senasa descarta influenza aviar en 121 muestras de aves silvestres, pero aún desconoce qué está matando a los pelícanos - El Observador CR",
-      "source": "Google News - Costa Rica",
-      "date": "2026-08-22",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUVh3VDhDVTZUTklhSUVnRUYxWUMxbEdNODhUY0d4UDZmek9zMXE5WEtjSHlMVi12VEo1bEM1Nk14RFQzYVdvc3hLa0JBQlk4aG92eGJBdXpyNG5YZVBpTm4yNS11UENIbG9vajJycl9WQzVTeGQ1YXRoRElkRDFLdDRwVjZjdTZtSEUwVmVHYTJEcm8xYmxwQVJwUndVaUF2dXZabXVkb3RObEhrQ3BWMXhEVnZjaHJOTXBJSXphQk45YmRyNHhnaDkxNzBtR0NaNU1YQXd5eUE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "e7c28e7bd1b9fc1b8367dafa800f6936",
-      "title": "Gripe aviar H7N3 y H5N1 en México: Eliminan más de un millón de aves en 2026 - Diario de Yucatán",
-      "source": "Google News - México",
-      "date": "2026-08-22",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUZyQ2N5S0VGOUVZVDduU2NibUZWZno0dHFtdlRIbGdwNHg5MGZQNlhwSDVrenM2dU5jY2R4X19RR1Y0WE1yM2dlR0ZDQjJUaE92bFBBRm5OeS00aUpmM3YwZnlCZ05zMnJ0czZZZU9yc2xpSXl6RnpjYXR2WVpBMDNTUlNBcnRyeHR1RXNod0FINzJ2QmlrX2ZkbG5OR2tBWDhjZS1vbHhmOWZqYk05R25BYWFsRnFhc2lyNE1XYVFzRFU?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "1ff257e7b212d19b616dbda4ce45aa9c",
       "title": "Valdivia será sede de encuentro nacional de investigación sobre Hantavirus e Influenza Aviar - Diario El Ranco",
       "source": "Google News - Chile",
@@ -169,18 +145,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "055f923ace27c38bd72d4908c6215af5",
-      "title": "Senasa descarta influenza aviar en 121 muestras de aves silvestres, pero aún desconoce qué está matando a los pelícanos - observador.cr",
-      "source": "Google News - Costa Rica",
-      "date": "2026-08-22",
-      "country": "Costa Rica",
-      "lat": 9.7489,
-      "lng": -83.7534,
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUVh3VDhDVTZUTklhSUVnRUYxWUMxbEdNODhUY0d4UDZmek9zMXE5WEtjSHlMVi12VEo1bEM1Nk14RFQzYVdvc3hLa0JBQlk4aG92eGJBdXpyNG5YZVBpTm4yNS11UENIbG9vajJycl9WQzVTeGQ1YXRoRElkRDFLdDRwVjZjdTZtSEUwVmVHYTJEcm8xYmxwQVJwUndVaUF2dXZabXVkb3RObEhrQ3BWMXhEVnZjaHJOTXBJSXphQk45YmRyNHhnaDkxNzBtR0NaNU1YQXd5eUE?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "73bcf9131dbf28cfa588076d8b8646f8",
       "title": "Los Ríos se consolida como referente en la prevención del Hantavirus e Influenza Aviar - Lanco.cl",
       "source": "Google News - Chile",
@@ -215,18 +179,6 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc01PS3pseDR6bS1Ddl8wUlhROEU1WXpSMldUbGlBQU1ZeGViX3dPdjVxdWdPTHdBMXMzc3hEang5UTBFekNmX2dBNGRPck0wZ3N3dHpTOU1iSmg5Z25ueWhnYjY4M0VodDBjUGlVdjJYNWxPX1VoWDBhUE9pUXJZcG1lRmJWdm9vT3Y3VGZzellNeVdTdjdPSTU2UFR4NUdMdjhNbVRpUDJLaXpaejdlSnpwVkgycDZPUUHSAb8BQVVfeXFMUGwwYkNnc1NhYzhsalUyUVg0dVEtVF83OEptOXFsaDZlUjNfbXBXaTFtSFhYdmI4Y3VpZnUySWNBTnIwME5XRUc3Z2hTWklEamRTcnVGZXVEOEZhcnFNVDdyRjZ0WWxRc0tLbzU4ZWduc2JzX285Z1ZuTlhTRldqVXByRlU3MkM2VVpRbTIxeGI1RnJwbS1wSzNhcG16bmtWVlRXUjZoV3QxZnpURVFSTFBmNFh2WUpkLVVjUkV3NEU?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
-    },
-    {
-      "id": "140a93293f6d67d4aa4095aaa9533d1c",
-      "title": "Gripe aviar H7N3 y H5N1 en México: Eliminan más de un millón de aves en 2026 - yucatan.com.mx",
-      "source": "Google News - México",
-      "date": "2026-08-22",
-      "country": "México",
-      "lat": 23.6345,
-      "lng": -102.5528,
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcUZyQ2N5S0VGOUVZVDduU2NibUZWZno0dHFtdlRIbGdwNHg5MGZQNlhwSDVrenM2dU5jY2R4X19RR1Y0WE1yM2dlR0ZDQjJUaE92bFBBRm5OeS00aUpmM3YwZnlCZ05zMnJ0czZZZU9yc2xpSXl6RnpjYXR2WVpBMDNTUlNBcnRyeHR1RXNod0FINzJ2QmlrX2ZkbG5OR2tBWDhjZS1vbHhmOWZqYk05R25BYWFsRnFhc2lyNE1XYVFzRFU?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
     },
     {
       "id": "dbbc86b76f5422d3e2ff8c70af7f9d9c",
@@ -3277,5 +3229,5 @@
       "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-19 22:56 UTC"
+  "last_updated": "2026-11-20 06:13 UTC"
 }
