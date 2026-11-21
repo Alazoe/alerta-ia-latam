@@ -3299,7 +3299,31 @@
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUFJKblEtanZObExWWFlkN0VYamUzSXM5MEVrb09IRWlaWlRWSU95Z044UGpXU2wwMWpBTnBOQmlSSzZPVWtwM2lHLVVSSnNEMmljZzVBM0pkYzNGUktzQzJYYW1kRkQ1UXM0cEpnSWRSWGZoVjRJV29qOVZPbUhpbENhbGgxcmdQa3kwQWtwZVFHYW_SAZgBQVVfeXFMT0xLTmZoWmJ5RVJjRWNHUVVSeDBFQjBIWDBQVUxZcm1EY0hkVHNxbEl6NU1yMU9DZGVDQkJEeEJ2NkNaLUpKMDFmUWJhOXBmUThmVGVOdVg2dUFyY1F4QUNOMU1Ka0N0SVk0MmYxLXlFOU9pSUJ2OUVrc25PbTd3b1JoeUhVTWRKcGRVcXdkSnBUSGtkZWl0dGg?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "574edcde1dce054adfe9a56b1867d3c0",
+      "title": "Mantienen alerta temprana preventiva en Los Ríos por influenza aviar: reportan 282 aves muertas y 23 casos positivos - La Tercera",
+      "source": "Google News - Chile",
+      "date": "2026-11-21",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPN0d3YUVtc1Z2YTdmS19USXpHWjJJWEhPdEJmcHZOQzZzQUlsblVweXdUemE1SUR0dkVyRUtaMkJRTVJCQlV1VEUxSTczZkZOaGd1SUJNb0ZjUVctb0NxaUx0andMUEhmUldyM2E1TWlhd1JzX3RZd0FKaWcxNFQ2ajVoUE1KS1c4QzUxWlBfTGgyZjFFdU41OU13Q2tnMTJIay1ST3duN3NLdFVUZF9EUW5Jai1Bc0VrYk5YUWxNQkpsRWpRWUdIekJCMnhFcGRKeHU2VXBnS1hmZnZ6RnhUaFZOeGY5SHNYMVU5RTRBRHg3S2tjcHlPZtIBmgJBVV95cUxQQ3hWOHlLN1dBbWpoVXdYalNwektfQ1dMZHZFWlpQWm1HSWZoeTRJMmpMRUpiYmVYT1dTeUVnU084TElUS0VaRUVwN0UxVmNfZ2RBWURENUhYYjhrNExTZzI5dU9jdHRzdTk2NXU0Um5fUUR2SUIwc2R4bHlIc0x2ZWk1WkVUZFJDOXBEVENKZ21GeDBNaWpWTExSM3Q4REpaaDQ0dWpSMjM0U3VCVWo5RzlXbkk5S0pXOHNodC1TbUwxbEJJYmlHelA3Z3hhN2t4X2ZqR0dYdzhscHEtVVBDemZJLVdILU84eURJOGY5ZzI4N3EwSDh6WU9ocmx4bFlmbW9QN3dnN3NHdnFYU0FjenpWXzh5cTBZNFE?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "e48361440ece523baa7f53f4452f04a7",
+      "title": "México refuerza los controles sanitarios tras detectar influenza aviar - Agritotal",
+      "source": "Google News - Argentina",
+      "date": "2026-11-17",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNTdmdjRfYWgtN1RERXRVUXlSTlNkc3laSWhZRjJJM25DVktVRElUMktycmw1bUJZYldhb0xXbDJRMXIzMDl0aS1HS1NOcEY4MGRoYk1iSDZoMG5vamxnY21qdkFMSnd0VzVXNGw1ZHJsa1RkT1pGaGhiRktwdkt4UDFydlhIYzJvR2Q5ekEyYS1NWW04ZWZwODRaZ1l6OHR3OGRDSDVvMmxvQW54Q2VMWEpIY9IBqgFBVV95cUxOMUM4YVJwRXZVa0RfQ0ZNQjNjdi1oZHZ0LXRnU09jdlVhSTVBMlYtZFJGUFgtMmZOTWt0N25qcVZVSDdPUHpTZGVSRHN4ZlNlU0hZRVlwRjhoeGxDaENyLWJpOUFUREFjU0VRV2ZQRHRmMnRzZFhnLVJEaWxXU0JPVVBaRWNVdTNHSFBaSTFpVVpTUlNsWVRLYllieVQtRnFwY2VCUGpPdWs1dw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-21 12:13 UTC"
+  "last_updated": "2026-11-21 21:29 UTC"
 }
