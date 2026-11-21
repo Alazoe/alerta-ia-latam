@@ -3239,7 +3239,67 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSXdFN2cwN0tfcWd2dS1sRGdzaWU2OU94Y0tfRFJ5Z0ZGUlRwUldSWVZaVHZqTE4xc3RsMGd3d2tPX2xDd2dOYUFtT3BaWnd3TmFBZ3FsS3k4RjZjNDAxQVBBMDJKNHJmbEQxdW5HSk5hcXhFTHZHYjdXQnNfXzkyUnlUbF90T1ljZll5VjBxOG1qMGJnRXlPanZuRjFzSFpJX2lRV1NDUnFhX00?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "da6902f76cb5108731f8a640fd07a60e",
+      "title": "Detectan Influenza Aviar en México y refuerzan la vigilancia sanitaria - Revista Chacra",
+      "source": "Google News - México",
+      "date": "2026-11-17",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbl9PcGRXdl9pcUNZWDBFVmF2NFVCZFZoVTBxWDJNamJSVC1IeVA4VTVGdDZqT3hEUHdzTndvb09PdEN2NVJTVHZROXFWQWZpcVYyLXlwbXpHTUNHSVUwSHhIY1AzLVJ6WFNiNUVLd1RqTXZXOEwxbVJZM3EzeGZKN1NFTWlWNTdhSG9vUXFUN2ZJdEp3bnJoQ1piSXV2RDhDNGRGSWhiSjg5Y1lUUVUxUU5oMFdveHJ0eEt30gG0AUFVX3lxTE5hQTJWMFpMdWVYZXlvZ3NjR3lWc0U0MTJidUkxd0hCN0tnQUtuT3RfMDNqZ3hBSHF0dngtX000MDdDaWJoelVxOWRYeTJPNmdlN0xxb1MxMnZNc0RlYjZJZkp1aExYbUVrRXVRTXdMYjRoUXMyYlZKR1pVSmZKQnRtY1BVMnpRRE9nNVZLaWZoNGd3YXZyOXRic1ZjSnF4aGlTMDNRSk5pMkQ2V0p3YVc5UkRwSA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "7e033952bd4649dc3aab31ea1bbb169d",
+      "title": "Sader confirma influenza aviar H5 en aves migratorias de Guanajuato - UDG TV",
+      "source": "Google News - México",
+      "date": "2026-11-17",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQODZ4aF9wMm1zeEIwM0YzU3RiQ3FTaVA3MGcyUGZQQmJmZTI4Zk5CRUVNWjIyMGJjakZVWHlPWXIyQTdrMkVrNGxlZjg3Zy13SDVYdU1qZmRTdTJhSXM4ekhoVlp4NHhPREFFWllFLVNBU3BEWlktc0NudUR3QmJ1UVRUNXdfbWU1ZHc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "3313a722c2b51d95f938b2d23ab276dd",
+      "title": "Influenza aviar H5: detectan el virus en aves migratorias en León - Amexi",
+      "source": "Google News - México",
+      "date": "2026-11-17",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd0xkaWZ5STN4Q20zcjRmY1pXOTQ1SDZ1UzBRUzJCc2VxMHBXQ2JwcVZDNkpWRUhTUHdoSHJwbGxVT3ZQTEFZd2RQMU1RYXdsZ2pha2lkaGpyUjVmeXp0ZDk1UTlYX09QX0U1UndhUjJncURuWUJUYVhmX19sRXRfZVVqN3RfRzQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "6c323e0d476931dd6688ebedb6791c9a",
+      "title": "México confirma un brote de Influenza Aviar AH5N1 en una granja comercial de postura - aviNews",
+      "source": "Google News - México",
+      "date": "2026-11-09",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xVlVNT19haEZrMUtzOVBLQk84Ni1vdmQtbGNDM1V3UW1HUkM2QW5DVUl5N2poZXhVb1lmZ0g0RlhHaFNJQnFjRWJvTHNlQ1VmMTQyNC13azZ2a3d1T2p2SzFxUTlUMm5uMzBaWXlMZl8?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "783b6340125fc045ef60db198ea324ed",
+      "title": "México detectó un foco de Influenza Aviar - Periódico MOTIVAR",
+      "source": "Google News - México",
+      "date": "2026-11-10",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUFJKblEtanZObExWWFlkN0VYamUzSXM5MEVrb09IRWlaWlRWSU95Z044UGpXU2wwMWpBTnBOQmlSSzZPVWtwM2lHLVVSSnNEMmljZzVBM0pkYzNGUktzQzJYYW1kRkQ1UXM0cEpnSWRSWGZoVjRJV29qOVZPbUhpbENhbGgxcmdQa3kwQWtwZVFHYW_SAZgBQVVfeXFMT0xLTmZoWmJ5RVJjRWNHUVVSeDBFQjBIWDBQVUxZcm1EY0hkVHNxbEl6NU1yMU9DZGVDQkJEeEJ2NkNaLUpKMDFmUWJhOXBmUThmVGVOdVg2dUFyY1F4QUNOMU1Ka0N0SVk0MmYxLXlFOU9pSUJ2OUVrc25PbTd3b1JoeUhVTWRKcGRVcXdkSnBUSGtkZWl0dGg?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-11-21 01:08 UTC"
+  "last_updated": "2026-11-21 12:13 UTC"
 }
