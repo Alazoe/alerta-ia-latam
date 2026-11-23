@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "1ff257e7b212d19b616dbda4ce45aa9c",
-      "title": "Valdivia será sede de encuentro nacional de investigación sobre Hantavirus e Influenza Aviar - Diario El Ranco",
-      "source": "Google News - Chile",
-      "date": "2026-08-25",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWFZSMVdERERzMWN0ZDZIY2c3c2gzM0RYNTh3TWRfZk9xN1dNOXVjNjRpY1FySnZ4b3pmd3ltLUthb1dELWpqLXNkM2pJcElhRHhCX1ZLVU5Udk44MlZyX01rUUlEMWpOMnRoak4zbUhYTHRQMDFJcnpWNHRhYks1S1ZTckFfSm9FcVFZQUZtbkRhS2F6aVg2MFpBM1A3QWV4Qks3RzlrTUNMQ09GUnNkNzF2UE1EZEcyeE52dGpYN0hwR2R3U3dySg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "6e951801da504f3aff95cb15306a3f2a",
       "title": "Actualización epidemiológica sobre la influenza aviar A(H5) en las Américas - Edición Médica",
       "source": "Google News - Ecuador",
@@ -3289,5 +3277,5 @@
       "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-11-22 21:41 UTC"
+  "last_updated": "2026-11-23 06:22 UTC"
 }
