@@ -3275,7 +3275,31 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOOC1nS3A0RWRLd2RZUkp1RVpfejVEeldtaC0wMHVNdGJBVlMybVdXY1VqeXVPTjMxZlFScGY4ZDFuaFZqSlBNR182TFZGOWEwazMycThmZXRoV19QblNzMFdUSGJ3akFtSjQyenltenI5Tk1uc2NDNWc0bjQ1Ti1rXzZ6SlZza2djQUNRYy1BQ2NMckVVYnVoekh3dXFjcVhZcFU4R0hYcFRyVzVRMFJ3NE5IS3AyZU5ORnk5Q1ZsWHhZQQ?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "44cf2e7fe706a59cdb8485f71ea47e4d",
+      "title": "Confirman influenza aviar H5 en aves silvestres muertas en el Zoológico de León, Guanajuato - UnoTV",
+      "source": "Google News - México",
+      "date": "2026-11-23",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORDNsdTNDeWZFYnV4NFg0MHF5b1BScjJsOEFCdWRxTXhyam9MMS1JRHZWMUpNRkNtUjhjMW9waXY2emxhemo5akxjR3JUTzBZTGk0enVqcFZ2X21PNF9sTXRhS1FKNUpRNm1GVUxtRTFteGo4TkJ4SDJWWjd1clVrSExqZmFWNXM3elJoWGZXY2J4NGpROEQycTVyNldDZmR2dWZnZ1dxUlhUQ25DVEU0bHo0eUdWTFhZQm5R?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "7bfe078776a98af86358f385987e6d59",
+      "title": "Agricultura detecta influenza aviar en granja avícola de Yucatán; activa protocolos - SinEmbargo MX",
+      "source": "Google News - México",
+      "date": "2026-11-05",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbkdrdy1abjlQOG42cloyVzk1RHpLVms1eUlyQm1IUEVFMUVPZi1SWDdzM3FqaGh2QV9HOVhqQ0l1Xzc1LXJreFBOSXVFRUpDOEM5X2FVMWFZOElPYkJ5eElZMjZ0X0VrT3NsUVRtWkJGYXZhU0V5R1ROMXZGNTdVT0dXcFhvaGl2aFQtcnZaVUFhNHduWUlZVFRoczc4NVIwVlkwTGQ4Ykk0LTFKSV96V1FnSHJVZ3BR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-23 06:22 UTC"
+  "last_updated": "2026-11-23 19:55 UTC"
 }
