@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "6e951801da504f3aff95cb15306a3f2a",
-      "title": "Actualización epidemiológica sobre la influenza aviar A(H5) en las Américas - Edición Médica",
-      "source": "Google News - Ecuador",
-      "date": "2026-08-26",
-      "country": "Ecuador",
-      "lat": -1.8312,
-      "lng": -78.1834,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQczlGQmEwUU94T1pEV28zMUhTTDRnS0p5Q1pBWi14bkN5LThpUFJ0a1BteHNXamc0cmQ1eXE1Qm5WMlluc01KNlBtdEdyQ1J5Y1M5LTYzSkhWaWNqYVlvamFhRklXenFJbzk1OWROcjlQUjJuOFhYZ1RtYVdMY2k1aU1nc0ZzaTFWQVJONEhIYS1ocFRjYzhib0M3VWQ2OURZamJfWTBWSzd3MVpPQjZNa1R0VzBSZTYweVRoQTdBTTk0U0ZfdjFvQ0NoSUp2SmNoTUNZ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "46ffde1823c2c97c7554037220c83e6c",
       "title": "La OPS alerta por persistencia de influenza aviar A(H5) en animales de América - elheraldo.hn",
       "source": "Google News - Honduras",
@@ -249,18 +237,6 @@
       "lat": -35.6751,
       "lng": -71.543,
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRW9RckhqTE5Cd0xISzZMUW9ZZ09CRmo3d29sbFZpUDVEeVZzbVJoU0RKN1ZJU21NZFBXN3hKczVLc1M5VlRCb1E3NFVNSnI2R2ktUndJanNRa1Bpa1lsTWIteWNTaXlKaEt1TWJkdkRudjQ3bWtiTlVoaThFMUJlekxZdzBJZE1rRW9ldXFwMjdWdVlkUVEyYVJFbUhVQ1lqU09DQWwydw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "09b1cd9eed7fa3f3a944a2bcb96cbbdf",
-      "title": "Actualización epidemiológica sobre la influenza aviar A(H5) en las Américas - edicionmedica.ec",
-      "source": "Google News - Ecuador",
-      "date": "2026-08-26",
-      "country": "Ecuador",
-      "lat": -1.8312,
-      "lng": -78.1834,
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQczlGQmEwUU94T1pEV28zMUhTTDRnS0p5Q1pBWi14bkN5LThpUFJ0a1BteHNXamc0cmQ1eXE1Qm5WMlluc01KNlBtdEdyQ1J5Y1M5LTYzSkhWaWNqYVlvamFhRklXenFJbzk1OWROcjlQUjJuOFhYZ1RtYVdMY2k1aU1nc0ZzaTFWQVJONEhIYS1ocFRjYzhib0M3VWQ2OURZamJfWTBWSzd3MVpPQjZNa1R0VzBSZTYweVRoQTdBTTk0U0ZfdjFvQ0NoSUp2SmNoTUNZ?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
     },
@@ -3299,7 +3275,19 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbkdrdy1abjlQOG42cloyVzk1RHpLVms1eUlyQm1IUEVFMUVPZi1SWDdzM3FqaGh2QV9HOVhqQ0l1Xzc1LXJreFBOSXVFRUpDOEM5X2FVMWFZOElPYkJ5eElZMjZ0X0VrT3NsUVRtWkJGYXZhU0V5R1ROMXZGNTdVT0dXcFhvaGl2aFQtcnZaVUFhNHduWUlZVFRoczc4NVIwVlkwTGQ4Ykk0LTFKSV96V1FnSHJVZ3BR?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "f7520f32ae438e08098b3dbfd33f9c07",
+      "title": "Detectan influenza aviar H5 en aves silvestres muertas en el Zoológico de León - Monitor Expresso",
+      "source": "Google News - México",
+      "date": "2026-11-23",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUElyWmFCNFl1Mk1VWXdtV0dUTFFacUVfaUgxbzcxZ3FIeWRMZHB2Vl9aTFMyLW1NclRVa1Rob04tM1dma3l2SGRDcEVPZEQySmNoOHozbV93WlBmSnZOSzhLYkt1Ui1CYkJ4WlBnTjBPOWF2UEx5MXhvZHRfcE9QNENhRkwybEVmVHBhNm5OZWpZelpfcGFJTTF1NmZpSzJzMkphYkRDbURFRURNaU80RA?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-23 19:55 UTC"
+  "last_updated": "2026-11-24 04:39 UTC"
 }
