@@ -3287,7 +3287,31 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUElyWmFCNFl1Mk1VWXdtV0dUTFFacUVfaUgxbzcxZ3FIeWRMZHB2Vl9aTFMyLW1NclRVa1Rob04tM1dma3l2SGRDcEVPZEQySmNoOHozbV93WlBmSnZOSzhLYkt1Ui1CYkJ4WlBnTjBPOWF2UEx5MXhvZHRfcE9QNENhRkwybEVmVHBhNm5OZWpZelpfcGFJTTF1NmZpSzJzMkphYkRDbURFRURNaU80RA?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "efeed37b636b9cdfdd1ee9eeee90d6eb",
+      "title": "Mantienen alerta temprana preventiva en Los Ríos por influenza aviar: reportan 282 aves muertas y 23 casos positivos - La Tercera",
+      "source": "Google News - Chile",
+      "date": "2026-11-21",
+      "country": "Chile",
+      "lat": -35.6751,
+      "lng": -71.543,
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPN0d3YUVtc1Z2YTdmS19USXpHWjJJWEhPdEJmcHZOQzZzQUlsblVweXdUemE1SUR0dkVyRUtaMkJRTVJCQlV1VEUxSTczZkZOaGd1SUJNb0ZjUVctb0NxaUx0andMUEhmUldyM2E1TWlhd1JzX3RZd0FKaWcxNFQ2ajVoUE1KS1c4QzUxWlBfTGgyZjFFdU41OU13Q2tnMTJIay1ST3duN3NLdFVUZF9EUW5Jai1Bc0VrYk5YUWxNQkpsRWpRWUdIekJCMnhFcGRKeHU2VXBnS1hmZnZ6RnhUaFZOeGY5SHNYMVU5RTRBRHg3S2tjcHlPZg?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "3d700157a540de9d79aaa28ff0396022",
+      "title": "Confirma Senasica caso de influenza aviar en aves migratorias en el Zoológico de León - Gob MX",
+      "source": "Google News - México",
+      "date": "2026-11-17",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUXNWcFQ3THM3Y3pmUFFlSnJmbnhqQ1RLNDE2MjJrbDROTnhTaGNEYkZHakNZM0xNa3NpeUdiWXFZSExhUlBNU1M0WnhVX1lSMFpkWDVsNlZSWHFzQXhxaUhXRTMzMlRRd2Vwc0MtLVI3SldIRWhOMDBuaXJjRl95bktoaUotNVdfRklXd1RHRVJrNnZUcEVORnFuaDZ5Y0hQdlptMFdKZVlkeXNLSzV4bnhtZ05qcGRHb2hQWnlwazY?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-24 04:39 UTC"
+  "last_updated": "2026-11-24 19:23 UTC"
 }
