@@ -3287,7 +3287,67 @@
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOGpuRzB5bTNlTnhaZXpONkNfRGVpOTVrREJpcnlwelllODNpRlNEVXAzbVF5MnFTVTI2eERQeEFSTVdTenU2ZElaOU5kUUN1SlBpZS1nWmFsd1paVWpQSmMxN1l4clFMdGhsZ0JMa05uOWtyWUlVdDZGU3lRcGhZcTF3ZUdEa3QybkFXaUMxY1pJX1VYMzZqUnhqclI0R2RvdUJhUi1ndHBiNnJaTkpkQkZKSkgtRTE1SDkyeWUtX1otY0QxaWdsTEY5TnlzbWp4clNoM3ZwbldIZw?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "39ad57d43543acdee5c7ccc491c8dffd",
+      "title": "Atiende AGRICULTURA caso de influenza aviar en aves migratorias en el Zoológico de León - Hoja de Ruta Digital",
+      "source": "Google News - México",
+      "date": "2026-11-16",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPakVtUVgtbkU0VFdzU0N6TXZRZHZBaTZpVGFkVWhsR1Z3blNJNDBlajNGcU1HSE5fN2RrTkZVS0JWUHl4TUdfNEVobENzOFVDaVdhVXllbU10OTJyNFZ6N1U3RWItWVpWMGRxVGlOWWN2blRsZjAtSkxQRFhBcEt3bXl4Z0EzbVpJd1VTX3ZVaWRMdjZ0OVYxWDA5NjRDQ0VmWUxOYW9zQTk0QlFyV1dibDBiM1ZoaVJx?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "b4f2d473fc9e7837d6ae5ab13d4a0e21",
+      "title": "Influenza aviar en Guanajuato: identifican 29 personas expuestas y 15 con síntomas - Oliva Noticias",
+      "source": "Google News - México",
+      "date": "2026-11-25",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWElaUXRaZDJpR2FqaU15T2xIdTNyUVZZWGpWVThDS1BkVjNXSDNZMG5OUElHWkdPaWhtV1MyT3U4S2haY1d3ZU8wbEg5Q2steno4bkd3end4T0lvazRrMV9iZ09PX2hJV3BDVjZsN3JNY0RKRm1FeURORXNZZ1Zic2pRUjhWTkpCMHpkRFJVVjBoR2FfZVFNejN2ZTMwZEs3NEdHZmZ6Ri05eDZLaVRWSnl2T3JibEw1Qlp6YnpRZXo5UmtZUjVZ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "a201a5c21014d0783a3f21c345286265",
+      "title": "Atiende Agricultura oportunamente caso de influenza aviar en Yucatán - Gob MX",
+      "source": "Google News - México",
+      "date": "2026-11-05",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZVlvLTBjQ0VocE5NYnBFdnFnVHMwT21FRkt1bjBUZW0yR1J1U3ZIQjJwUFVRU3JJdGpud2Y1eWZ6RnlzY1lIMFpPQzQ5ZjdhdzlIMGZBbjRaVm9PM09kUkJGX2c5YnM3M3I1QWdUaFdYeDZodVQ1emhpLTgtTkpMVkhHQTRfeW1SeGRlRTBoX2E2Zjh0UjF2UlBTWm5mZmxST1J0Y2NDRzB6cG5IRG1wdGNkZkZYMHVoQm9r?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "3c84850f5bfb596a0d106aa06203e901",
+      "title": "Confirman influenza aviar en el Zoológico de León; refuerzan medidas sanitarias - Diario de Yucatán",
+      "source": "Google News - México",
+      "date": "2026-11-15",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMHFxNXpyNXB2cUlQYy1zOHRKUzEzRHJWWVNJZmlKQXpjR2s3bHdHdjNqMlZObzdRNjhIV1REaEt4SWE1UU9KTzVIY0Y5OGgycW1hNmhIdnFsWl9iSzZoTlUtSFZodDZ4TXhjSFlXb2pEbGZEYW1nZ0JFRlY5dWxyZjNzZFpJQU9aNUw4UlFyaXBmR1RjNlRLMExFN2RXMFcxVVBOMlpjei0wOEZEWUZsLXg5eUV2em5fUVBQVVk5MmlXeVFOcHRB?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "7e7252fc1547b289011b220278a55fc8",
+      "title": "Cierran temporalmente el Zoológico de León por influenza aviar; hay 29 personas expuestas - El Sol de México",
+      "source": "Google News - México",
+      "date": "2026-11-25",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWmVMVFlwUkdRcm9kVFhRenlKYm8xa2psMzUxcmFTakpnNFE3SXl5bnNRS1dFOWVSOWJldWdEVnFNYmo2OGZ1M0lnbWg0UW9RbjNpMG5vSEVoejJkd2djZWk5cFFSbFVMVUlYVXJNTkd6bjZZbGR4dDkxcXBaNzZKZGFEbzlaUVJZZktaUXUtOGdBaFI1RDNjei1oNXp1MGd1aVRWU3Jmb0syMkhiTXVOQ2xPRElSU2ZEQ0RfcHpCcEVDWHFMVElHQTJpcVRCdw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-25 03:24 UTC"
+  "last_updated": "2026-11-25 13:58 UTC"
 }
