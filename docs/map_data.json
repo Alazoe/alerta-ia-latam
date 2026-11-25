@@ -13,30 +13,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "acadf2a70ffd801ef9b121f541fb5b19",
-      "title": "La OPS alerta por persistencia de influenza aviar A(H5) en animales de América - ElHeraldo (HN)",
-      "source": "Google News - Honduras",
-      "date": "2026-08-27",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbjlidkZEX2treEpyVzFtaFpvZGdudDN1OGUzSlZyUUxlWjlDeUN6SDVjblZWZ1drZG82dzRoUlVDNnI4bmp5TUZNa2NGNmZoUUpMN19JZEZQd3BjZE5uMUJDM2M0UTM1VFVQalFuWm1zQ3BsQ1pDOENEM1QtbGdPRjE0SHB1UEV0c21JeXZMXzgyY2JjMzVUX1UtUXNSelMzcjJsT0Q2cS1KNlhsdFRXVg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "447041a7c1791e999a2cf4b1e070bd4a",
-      "title": "La OPS alerta por persistencia de influenza aviar A(H5) en animales de América - ElHeraldo.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-08-27",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbjlidkZEX2treEpyVzFtaFpvZGdudDN1OGUzSlZyUUxlWjlDeUN6SDVjblZWZ1drZG82dzRoUlVDNnI4bmp5TUZNa2NGNmZoUUpMN19JZEZQd3BjZE5uMUJDM2M0UTM1VFVQalFuWm1zQ3BsQ1pDOENEM1QtbGdPRjE0SHB1UEV0c21JeXZMXzgyY2JjMzVUX1UtUXNSelMzcjJsT0Q2cS1KNlhsdFRXVg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "fd3103126dc605d7b14d5ab789625709",
       "title": "Influenza aviar suma nuevos grupos de riesgo a la vacunación antigripal en Uruguay - LaRed21",
       "source": "Google News - Uruguay",
@@ -2041,18 +2017,6 @@
       "color": "#ca8a04"
     },
     {
-      "id": "a26dce1fbe4d30ae6483e1991e5103aa",
-      "title": "Influenza aviar en las Américas: bajan los brotes en animales, pero la OPS llama a mantener la vigilancia - Pan American Health Organization (PAHO)",
-      "source": "Google News - Chile",
-      "date": "2026-08-27",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcFUtWGExS0ttTlJfWkwzZVVEMUdGbkRpNWVnamxFUFQzWVZWODRaMDNfdWswS2kwdzVpYTVJV18tZDhSQXVYSUYyYWpPblhaOEpBa1lvMHJUc2FxSmtxOW5EVExSelZieC1EZzR3elI3N2lKSHM1dGpWYWJxdzNaaGRrUU04UjRJc3F6NU5Jd1RkZV9ZQkVfQ3N1YTB5SGxyUGNPUTVJOGxKLUxnWEU2Vl90aw?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "ca965c871758f4ab16b6bec4b81d1f22",
       "title": "Nuevos casos de influenza aviar en Los Lagos aumentan la alerta para aves de traspatio - reporteagricola.cl",
       "source": "Google News - Chile",
@@ -3311,7 +3275,19 @@
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUXNWcFQ3THM3Y3pmUFFlSnJmbnhqQ1RLNDE2MjJrbDROTnhTaGNEYkZHakNZM0xNa3NpeUdiWXFZSExhUlBNU1M0WnhVX1lSMFpkWDVsNlZSWHFzQXhxaUhXRTMzMlRRd2Vwc0MtLVI3SldIRWhOMDBuaXJjRl95bktoaUotNVdfRklXd1RHRVJrNnZUcEVORnFuaDZ5Y0hQdlptMFdKZVlkeXNLSzV4bnhtZ05qcGRHb2hQWnlwazY?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "d314487176c585d1804d6b79f590fa7c",
+      "title": "Piden cuarentena en zoológico de Guanajuato tras brote de influenza aviar que mató a 10 animales - Oliva Noticias",
+      "source": "Google News - México",
+      "date": "2026-11-25",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOOGpuRzB5bTNlTnhaZXpONkNfRGVpOTVrREJpcnlwelllODNpRlNEVXAzbVF5MnFTVTI2eERQeEFSTVdTenU2ZElaOU5kUUN1SlBpZS1nWmFsd1paVWpQSmMxN1l4clFMdGhsZ0JMa05uOWtyWUlVdDZGU3lRcGhZcTF3ZUdEa3QybkFXaUMxY1pJX1VYMzZqUnhqclI0R2RvdUJhUi1ndHBiNnJaTkpkQkZKSkgtRTE1SDkyeWUtX1otY0QxaWdsTEY5TnlzbWp4clNoM3ZwbldIZw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-11-24 19:23 UTC"
+  "last_updated": "2026-11-25 03:24 UTC"
 }
