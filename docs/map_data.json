@@ -1,18 +1,6 @@
 {
   "alerts": [
     {
-      "id": "46ffde1823c2c97c7554037220c83e6c",
-      "title": "La OPS alerta por persistencia de influenza aviar A(H5) en animales de América - elheraldo.hn",
-      "source": "Google News - Honduras",
-      "date": "2026-08-28",
-      "country": "Honduras",
-      "lat": 15.1999,
-      "lng": -86.2419,
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbjlidkZEX2treEpyVzFtaFpvZGdudDN1OGUzSlZyUUxlWjlDeUN6SDVjblZWZ1drZG82dzRoUlVDNnI4bmp5TUZNa2NGNmZoUUpMN19JZEZQd3BjZE5uMUJDM2M0UTM1VFVQalFuWm1zQ3BsQ1pDOENEM1QtbGdPRjE0SHB1UEV0c21JeXZMXzgyY2JjMzVUX1UtUXNSelMzcjJsT0Q2cS1KNlhsdFRXVg?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "fd3103126dc605d7b14d5ab789625709",
       "title": "Influenza aviar suma nuevos grupos de riesgo a la vacunación antigripal en Uruguay - LaRed21",
       "source": "Google News - Uruguay",
@@ -3347,7 +3335,127 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWmVMVFlwUkdRcm9kVFhRenlKYm8xa2psMzUxcmFTakpnNFE3SXl5bnNRS1dFOWVSOWJldWdEVnFNYmo2OGZ1M0lnbWg0UW9RbjNpMG5vSEVoejJkd2djZWk5cFFSbFVMVUlYVXJNTkd6bjZZbGR4dDkxcXBaNzZKZGFEbzlaUVJZZktaUXUtOGdBaFI1RDNjei1oNXp1MGd1aVRWU3Jmb0syMkhiTXVOQ2xPRElSU2ZEQ0RfcHpCcEVDWHFMVElHQTJpcVRCdw?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "aebed0d63ba0fd6ff0e14fc75798e05f",
+      "title": "¿Brote de influenza aviar en México? Alejandro Macías alerta por cierre de Zoológico de León - El Financiero",
+      "source": "Google News - México",
+      "date": "2026-11-25",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTjdaQ01JbGEwM0I5SmhFV2RaNXFqLVpJQmlTWThXcDRnSnZ2emZLSHpkeS0tOFRIOFNGM3BtNnFFTUJScnhrRUJPeGloQkgwN3g4SWFkOWxFR2pXMkpibnc3NzVyd2lIZm02OXgyVGxnb29jNWtrZGhReHZUbTRDVExCeDR3WEpXT2VzTHU5TF92a1pkRW9aYVdXOXhNSzlxZHFsRVpEd0R1ZGw4S2pZRjlYU08ydVVnYVBrRzRGZmVjYUVSUnI1Vkx5bGZ3eVlCRVhjel8yRnBtUQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "6d8641f2482994706f5633396c0e0390",
+      "title": "OMS emite alerta por influenza aviar tras primera muerte humana en EE.UU.: ¿cuál es la situación en México? - UnoTV",
+      "source": "Google News - México",
+      "date": "2026-11-25",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWkZ4bEx0TFU3VzM5SHFLalNXTHBveWlhNjZmeDJycmVaLXV2ZkZKeW9yTHdFN2Y5cUpRUlVpTFZrdXN5LWhOVUs5WjBfWl9lNUJ3cHIwbFZnM0Z2cHFNSWZnYmRUNEkyanRPTVVzM1BHekpGRXlmMEVQenllaWNBUDFaMmphU3NTd0pWNVJXQkZWZkJjRVdGbHREMnJKWEJyR0Q5Mlh6dG5rZmpEQ1cxcXNMQy1WSnZVZ3RoNEJCUy10dGEwMnlscllJZXM?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "2c13dc4b351872746fb082a59068f801",
+      "title": "OMS alerta por aumento de casos humanos de influenza aviar; reportan cuatro contagios y una muerte en EE.UU. - Monitor Expresso",
+      "source": "Google News - México",
+      "date": "2026-11-25",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQbF9XdlpIczJEMnBvNzdyN2JZX0dIT3JvRGQtRFl5c3JySnJwcXhpRjl3a1BLSGwtbEtYVW1mUlZiWHM1NEFjbjNpOWZpaEdMTFNGNXhCMER3aWFiVl9oSVdRM2U4VERJYnF2UWxqdVhHd2tST1FkTlQybWFYWDFVcUx3ajhsckVGZVBNNW5IREQ2X3Y4OUJZZzJCcEM2Skw0Z2ZqYXBabkZ6Q3dEdTB2QU9tRmpqc09jVXZMWkFVLW5yOVZtODFMRFR1UkxMS2NzQ1BEVjVR?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "8a85d7b19c7074c64ed1bb78af45b997",
+      "title": "Cierran el Zoológico de León: ¿ cuántos animales han muerto por influenza aviar H5N1? - Eje Central",
+      "source": "Google News - México",
+      "date": "2026-11-25",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUG9mdExOdUlULUVqaW1qeTJpMDBMMzNkdzcwaEdad2x3Y2tRbnpwY1diT2JfRVdsdzVmT2F1dk1iS3B2anhtYlB2SGx2dlNVb3lEb3VobGMyZ2t3UkpFVmw0cXBkaV9jbkg2aUljbk9OcE5rRjI4OENDdncwOXBLS1FIZ3pqOFQxMER2Z0tESVZWNnlWQ3kyR09pT0gybmROM040SlN4Xy14NFZrLVgxcGctSDJBLXdrbEZZQmtjdy1jQUVpbmE4SG9jSW1rR3M?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "3e54c56784b7513ccfa369f82c77f57c",
+      "title": "Emite OMS recomendaciones preventivas tras muerte por influenza aviar en EE.UU. - tribunanoticias.mx",
+      "source": "Google News - México",
+      "date": "2026-11-25",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMG54TFpVZXFrWFA5aTlFdklBdk5kcDZqd1FDZDhrQlE2Sl9oV0MtNDlHUnZybFZSQVhjcFN4V3NOWjJYci1yRzl1M1NRcmx1MlU0dC02YUNnUFZZOUhlQzRDb0Z5N2ZNaUhBZjZMdzNudmdpN0JmV2s1M1QtWThGZmVFelQ0Nk5rN082UjM1RzBwMTZUaC1CSk5FcS1ieTQ2SDVjb19DOHZZdw?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "8eddc0a404f69c483e54f528b3c55e39",
+      "title": "Emiten ALERTA EPIDEMIOLÓGICA por contagio en humanos de influenza aviar A(H5); hay casos en México - TV Azteca",
+      "source": "Google News - México",
+      "date": "2026-11-25",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUzgwZy0xaGdfMXA3bkM5bVlMRjRRLUQ4b3JGZlcwWGQzVkhiNmFEWjNXaVppRHpKZmUwUm5hN0NCSElpTXJpQjlWVmJIaDc1bkV4ZFFWUno2X1YwWnVlTm1IQmFJMXZJeVg0bUdDblRoUmx2RFZ3OGpXUjBsOWIzS2k0OUIwS1lXc3FyNVpqU0d4dm9EX2hqUnJCTFF3NVk2cHQ1cWZaVXYtN3NkcWg4YzBXRlpMY0E4ZkdWMUxJNDdEb3dfQm51OUVvcEdteU12RHc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "ef91b0b13a7bebe5cabd64fd9b93e50f",
+      "title": "ZooLeón cerrará de forma preventiva tras detección de influenza aviar H5N1 que dejó animales muertos - Periódico Síntesis",
+      "source": "Google News - México",
+      "date": "2026-11-25",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV1VTdTlPTVVhT1Nxalp4NVIxMVRqYWxTWkJYNkx3S05BNl9vazNIQnNiYWwydmtYSXpYWFNWekllNDAwOEt4Q3p5NXdaLVY4TjVqWlNYWmtPcHg1OUN6NFBKTkpESklhZkJfU1BHUW5VazNUU2wzM01nUVd4V2Z4YnBVMkU?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "efce73025542f637f5c9a168e4c363d7",
+      "title": "Cierran Zoológico de León por influenza aviar - NTR Zacatecas",
+      "source": "Google News - México",
+      "date": "2026-11-25",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOenhoVHZSRE5HQXRLbkpHemthcTkzUXg4eFFpU0Fxc2hCTkZINVk5a05oclNKY01DdFFIbTdUOGdkQno4QloydGZlTmdhSnZNMTZQTGN0eGgwcTFJcVhLYm1Zc0VoSGhHRmhJWnktZDN3YnJwd2ItaExMZUpDOEpKRWNrR2pTUQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "8c112158275becff506009bfd87b332b",
+      "title": "Zoológico de León cerrará al menos 21 días por brote de influenza aviar - Potosinoticias.com",
+      "source": "Google News - México",
+      "date": "2026-11-25",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcnR1azZGY2FWbndBMmVWN1NvZkxYNXNVVzB6WmxyMHBpLS1SMjBqM0dsaGp2NmhZOU14dXlEczdGSFVHSzJhRm5NeEh0amNka3BVV1YwdTVNWkF4Qm5wc3RHNDBJSDYxN1V4S21NUEt0eGZabTlkZHRtLUtpT2loOGtMQVRiSno2bnhZbVJnTGczem56N0ZYa1ByeGFnTHBEZXBENVlLd0dZeHNFX2hB?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "c0cc498608bf13996615e6ee8e40eceb",
+      "title": "Salud Descarta Influenza Aviar en Personas Expuestas a Animales del Zoológico de León - N+",
+      "source": "Google News - México",
+      "date": "2026-11-25",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb2pvUEw1NnpvbDFHbXlOMmZHUUtjWTNKYWtuYVFhaVg0VWdKcXh1YVB3Q2c0ZFFvUS1QMXJucmtIX0gtb21PUnpCeWJ3Yy14bnFBZFdadGNFbU95X1dYMkZ4ZmpJaUtPV2QzM3ZKSU40eVpNMk1zVVU0MlBPQXdna0RlN2ZLcDQ0ck1TR3FxZ3NMdTJmaEpyUHRFemU4aUNVMDNIU1R4eVJJZmFkUjZ1cENIbE5jUFlMLUlKajBHbkhMUktJX3c?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-25 13:58 UTC"
+  "last_updated": "2026-11-26 00:01 UTC"
 }
