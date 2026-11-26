@@ -3455,7 +3455,31 @@
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb2pvUEw1NnpvbDFHbXlOMmZHUUtjWTNKYWtuYVFhaVg0VWdKcXh1YVB3Q2c0ZFFvUS1QMXJucmtIX0gtb21PUnpCeWJ3Yy14bnFBZFdadGNFbU95X1dYMkZ4ZmpJaUtPV2QzM3ZKSU40eVpNMk1zVVU0MlBPQXdna0RlN2ZLcDQ0ck1TR3FxZ3NMdTJmaEpyUHRFemU4aUNVMDNIU1R4eVJJZmFkUjZ1cENIbE5jUFlMLUlKajBHbkhMUktJX3c?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "72897b09e3eee0b3599043575606c4a4",
+      "title": "Influenza aviar H5N1: México descarta contagios en personas expuestas en León - El Financiero",
+      "source": "Google News - México",
+      "date": "2026-11-26",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWW1Ua0x4R2NVOXBRLW91bEFtejVJTHd0aV9rR2NHZ2E5dDlIeHNoS2YzSml0cld2cEVCd08yb3F6LW4tdm1BSFY0dkN1MlZpZmdzYmdpaUFhanhrZGcxajVaelZ2YjBqZkxIdHFDbmUtTmIyOXBibVM4eWQ4YXgxdFNKSXFKbmV5amh1SXI0TTRJVGdUczhhb3oyUTFxWlZtNlJFcVJiN2lDeldQV3l0dXNBUXNtaWQ4S2tDcG9MZVZDMUpPci0w?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "0d9fba841d5478fbcf154d4a7c6573b0",
+      "title": "Descarta Salud influenza aviar H5N1 en personas expuestas en Zoológico de León - W Radio",
+      "source": "Google News - México",
+      "date": "2026-11-26",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1k5NUpnNlJtZUtkUW9DOTA0b01zaVpNdUZfdkhTTVowXzJXMXlhUzZjMjNVZm5BMExOMDYxQ1NKc1lxMXlCRGRncFRpbjd0MXlqbXJlTktGYUg1RTJmUVM3T1dHU0VLTkc0WUpWbUpkU0ZCVnNZZXBFb3dScDlLMHpOSzJaWDliX19yYWhIMFN0cnlPenFrRV9jdkxIekRadXRMNTRWbU1DdlNPRXJ3RXNB0gHGAUFVX3lxTE94djJadXRSQWZheWg5OEdyTlZ3MHJINUZySDZEV3JCQ0ZWRDhWanB0VGpoU2dmUHdVUHhReWgxbVluYUZfendudXJndklQN0M3VC1ROTZaRkdKLUpBQ2hETDJZT2R6SXF2bTI0U0R1NmZCZGR0blBiRFpCWTJodG51MW1RSE4xdDgwOGZ5MGhmRVJ4LUtrTGoxWHJDYkVTSHRRTlJuaU1WWGo3SjdvLTBPanlYTlh6TVdfQXR5UWtOalJUTGF5Zw?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-11-26 00:01 UTC"
+  "last_updated": "2026-11-26 13:37 UTC"
 }
