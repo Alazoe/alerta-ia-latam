@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "fd3103126dc605d7b14d5ab789625709",
-      "title": "Influenza aviar suma nuevos grupos de riesgo a la vacunación antigripal en Uruguay - LaRed21",
-      "source": "Google News - Uruguay",
-      "date": "2026-08-31",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0hCTTBvSkhNb0ZzMmxPQmliOU5QT2t0Nmh3a0lvX25uYU5wSmE5R2VTUU0wN1ViSTRSbExzajV1Yy1NZnBDTkV1SktSRzFZalN5M0l5OTllS010OVV4ckFPY1J6czQyaTVyaWlMdlNJcll3bFRRMWdfRDl3RDZKUS03X0pJQ0lESVZ3QlpHYlpxQUZRZHh0UmR3eGdPS3lDTEI2Q0IyWVNLdVVrbkNoMEZZU1MtZE1wZUFCXw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "ecd306d1bed5637e141461511e0ec7d7",
-      "title": "Influenza aviar: refuerzan llamado a fortalecer la bioseguridad en la crianza de aves por nuevos casos en Los Lagos - SoyChile.cl",
-      "source": "Google News - Chile",
-      "date": "2026-09-01",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMmtlR1E3S3BtdTdJUFpyZ2otVjlLYnZqalR6RERQQ3l4UFZnU1NSVVdlaDB6Vk9XT01xNWs1c2I4bnVoUWlWbEpWZzF4bTNhYWt6NW5WcG9tLXpROXlrVTNpcW5HTUxoQ2dzN1ROcjhuWU1BNElvcHk3Uk93c2lpU2J1eEVDUzg1THhQdEtVY1JCTE4tVlBCcFY3NHZXS0MyVElRVU1DQQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "1c1d05461e588e2e3fc0844e88508f1f",
       "title": "Investigación fortalece liderazgo en prevención de Hantavirus e Influenza Aviar - Diario El Ranco",
       "source": "Google News - Chile",
@@ -3575,7 +3551,55 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQXR3Z0ljQ1B1dUR0azdjRmdiMFpkeHhoTWlYeUh2bWJmZ3NBMVlLMVU0TDEwRTRzR2VMTHlMX2dGWkZDaFZlbnFsSmhtTEd0RWRQX2JwSWNoYUw4VFMycHh3STFJVEkwSUdNdVNYLWwxVDB6b2xKeE5MTzlWMHQxVHZXN1k?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "02014cf89e5a0ef4333e4925d3291007",
+      "title": "México protege producción frente a influenza aviar AH5N1 - Prensa Latina",
+      "source": "Google News - México",
+      "date": "2026-11-27",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR1FWakFHS25nRm44RXoycE40dXRyRGlZUlZKTWZ4ZnhXeWNZUWVBeDFvMzJZLXB3XzVleHFySlB0NEpCajJ2blNUaUg2MWV2Y1VrcGNhM3NxRU5LbG1ISDFTVDlNd3BPei1qSVl2VEh2MWp3aV9YcUliTl94aTlVak1SUm9aejAtWnNyTlhFeWVKYmFNRjZwampueTVpQQ?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "10aa11880b98e5d69435680097795312",
+      "title": "Influenza aviar en Umán: Agricultura aprueba vacunación en ocho municipios de Yucatán - Infobae",
+      "source": "Google News - México",
+      "date": "2026-11-27",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbWRSVUppMlVvQzUxaVRQcEt5UWp3S3RSSnVUSHVsOGlhemhQdVVIdEw1MjRFdTlPWXExQmQ2Y2JSYnJCS25BaW5xendKMEtyTTh1UkMxQnBvdHk0VGwySzJobm5lcjNyX2tXcVU2LWtwTTJ1cU81eV9VTlpsRWg3TjNKblp2aGlLTGxGRjhyYWhCazZiU0owN19SWTE4WktDdXlXWlRLNm1fcEJ1cVZfWUIzekY2aWtPTWVGbjd0aXIybnZoc1HSAeABQVVfeXFMTU5CSWhMeUdSUVc3eEgzWE1KZ29KZEZxR2N3dFBKbVJjY1JZdHQycDVmYTFXQnJ4aWs4T3NiRHI1QnNjbG1rVUhMVURMUEhEVVMzOGluRXU3cC10UHpJVmRVY0Q5a2V1ekowWFRUZEVpN1lhY1pGMHpramlGSlpuN2V2aV9jLWc5MWJvdFU5ZkJiRFJoUk03eEpENHBjRTRSaW9FbEdYX2xNeTlzSURrQWtOWmJzZC0tRmxOSzFvX0lUdm00VHhLejlUdFYtc0Vjd2FjTlFPMmk4ODBURUpyMmc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "883f57723aeb702aebae75740a5b4077",
+      "title": "Autoriza AGRICULTURA vacunación estratégica contra influenza aviar AH5N1 en 8 municipios de Yucatán - Gob MX",
+      "source": "Google News - México",
+      "date": "2026-11-26",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQS2R2c2g3OHB0WXp2aXJCdlJEb3d3T012MGRMeXppYWxPbHJVMTkweWlWS1JNR0h6ZDhqN2VWTXVzalMzY3JFdkNsX3lVcFdPU1lqcXQyR3JnSlhCLWllcXM1WTVfbnB5UnhBT21pZW81V0xZUi10X0RyUnVKblcwMkRmYmluZlBmajRmbXJNRzAyNGl1VlQyR2hna1dYOGw1VW92ampPSlVJM3VKWnl3c3BCM3Vyemc3dGluTzFNcGN3Ym5ybGVsUjJkeUZLX21vejNn?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "5d7c3f78a32e8a42a8efc643cf90b379",
+      "title": "Influenza aviar AH5N1 en Yucatán: vacunación estratégica en ocho municipios tras segundo caso - Diario de México",
+      "source": "Google News - México",
+      "date": "2026-11-27",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN1NKRWJSUHl5ZGhETlV0WTAwa2dLaWRqRmRKby1fd29FR0VHODlXOEotMDRKUENxNDJoLVhsWXItQ0oxTV9VNzAyZ0JfdEV6TUkxdVJCRmZIMWF1YU0xMUhYbmFva1VvcnlxU0VKSG5iNEt6TUMtMmVrVHcxaVdESUJBS05DMUZHQWZTelRLSkR4Wm9BdjJ5aGVRNUdKRWppdndqZE00RzBmamRmVjNVRWJrS092TC1fRks4UmdEZkdDQ1lJbEpj0gHMAUFVX3lxTE9qcW9EenR1T3Z3YkJsbHVaU2xoTlhmaG1pR1dGZnIyUGFzTXBJNVJKeTFTRHJJOGs3ZGdVckd3cHlkZ0pRSWN2MHZnNzM3QzN4ZmI4WTdHZ1NDX3FhN1o1UFJoNTdwalN1RExTZXRtRmJON2dXbFFpeFRCdmoySU1peHFoaGwwWXktWlFpcWFYOU5MbDBsWXg1RGYyYWU5WUg5NktvMUYyTGxpUUJ3OXZZOVZ5WGJwY05DV0dXdDktMVRuRkxIZHdyNkxseg?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-11-27 00:21 UTC"
+  "last_updated": "2026-11-27 13:32 UTC"
 }
