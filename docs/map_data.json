@@ -3479,7 +3479,103 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1k5NUpnNlJtZUtkUW9DOTA0b01zaVpNdUZfdkhTTVowXzJXMXlhUzZjMjNVZm5BMExOMDYxQ1NKc1lxMXlCRGRncFRpbjd0MXlqbXJlTktGYUg1RTJmUVM3T1dHU0VLTkc0WUpWbUpkU0ZCVnNZZXBFb3dScDlLMHpOSzJaWDliX19yYWhIMFN0cnlPenFrRV9jdkxIekRadXRMNTRWbU1DdlNPRXJ3RXNB0gHGAUFVX3lxTE94djJadXRSQWZheWg5OEdyTlZ3MHJINUZySDZEV3JCQ0ZWRDhWanB0VGpoU2dmUHdVUHhReWgxbVluYUZfendudXJndklQN0M3VC1ROTZaRkdKLUpBQ2hETDJZT2R6SXF2bTI0U0R1NmZCZGR0blBiRFpCWTJodG51MW1RSE4xdDgwOGZ5MGhmRVJ4LUtrTGoxWHJDYkVTSHRRTlJuaU1WWGo3SjdvLTBPanlYTlh6TVdfQXR5UWtOalJUTGF5Zw?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "b2890ad708c9e08ced9fcbd9f0fe2fd3",
+      "title": "Detectan influenza aviar en aves de traspatio en Carlos Spegazzini - Vet Market",
+      "source": "Google News - Argentina",
+      "date": "2026-09-17",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU1d4RWp4VWhWWUp3R09iQmRFVVJVLVg5cU95RnBLTzNJXzgteU5mYUtKQmk1UkZOYjk0MVJPOXJxRkZ3WnRnZlEzcDQzMzZfODl4SzF4WlRONzQ4T1AtdjZUOUdGRi1TZ0dzdGh5WWZoc2dnTEpHSGFBVEUzaS1HckZFd051bnJjcGJFTmNFd2FQdWJYM0VNOWhuQ3Q2NTZaRTEwXzlmQl9CWVhv?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "a27d6cc0ca878828e4cfcd376436b37b",
+      "title": "Influenza aviar: detectaron un foco en Buenos Aires, pero el Senasa asegura que no afecta las exportaciones - Agrofy News",
+      "source": "Google News - Argentina",
+      "date": "2026-09-17",
+      "country": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRjdVV1ltaDBkcHhOSFFCdXZhZXJLckhMSEVNdzNuMGJGSU0zRkFDWkQxUlpMNl9KY29WU1hNejNoWkoxcUt1N3pEcUhjMmw5anByNmdybUt2cEVnT0pPSlVPYWZNSGoxaDRxU19IWURlTER4ZVJWaTV3UHdGdTFuSGt4OWQyYTFfUE5yclIyM2Rad0I5Y1lMWVBEWm50NWh5RGZ5U0dhOHN0S0V2eEt1SzNYQzlXMjR1ZEx3aFZiamZxY28?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "2ce8a8cbc3666b3a0d1a5121d902d912",
+      "title": "Secretaría de Salud descarta riesgos en personas por influenza aviar en Zoológico de León, recinto permanece cerrado temporalmente - Infobae",
+      "source": "Google News - México",
+      "date": "2026-11-26",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNektEREJ2MVgzdVk3VlowdzZFZ1Zub2pqVDhiUk5GMTZRMlpnOHo5MmpmOE1VOHd4WmFqTjB1NDIyNUg4NEhlVVdNWF9QN1hRZkxrcWdITks5a0E4R0JteHRhZFZDRDdqa1NnZDhPdVZOX2p5dG1SWVJhY1BGc1Fpdjc2OUhMcDhKcEpXYjR0YUNkNDJ5QTlkNDJaZ0xGSWE3a2hpQTZfZG16Mm96TDR3UFZtNjJkSjEwTmhla1JscG5WdDR0YlB0TTdEQ0pWbHVZUFFRVjZKdEZYTWZNdDE0QmFEOF9fX2JGX0FpY012SjNPRDdxbUowVnJUMUtrRkRKd3fSAZwCQVVfeXFMTlhKVklaWmh5bklaNllYQjZMN2NESXpoU0t2Umx2aUVpVWdHSURDMEtlTTUxOTIyT2ZPSE1idDFKQ0xrUlpYRzBTMHNsZ2pHcWVLN3M4LWROV2QtZmkyYzd0blYxSnN1ODJtamwxdjMwb2ZBQVYtMzZYMkNpenlRdnNvNTRmdWV0N3Q5VklYbGtEdG13NWZTYnAzeUhaODBuUEV4SFZ5UzVQdTczVWVjdVI5Vzk1V2kzUkRFTFlTUnI3cHlXZWtTU00xWmRnVk9WNHdXT0RiUnRFUUR2anZ3U1N4dkV0bVZHRDNna2VTQmNxYUM3TE1XQlJwdFNxWHFGbThNdHV6MC1nZEl5UW9KZEYtNFhZalMwWFJZdmc?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "471603f41d84494f381856111448361c",
+      "title": "Autoriza AGRICULTURA vacunación estratégica contra influenza aviar AH5N1 en 8 municipios de Yucatán - Hoja de Ruta Digital",
+      "source": "Google News - México",
+      "date": "2026-11-26",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRXI0bGRJZkhiQW1WR0FWem1kc1dLYklmRW9zb2Q1THJBajFOX0pQYVU0aHR5LTF6c2p4UXpzQ1ZiSVJDZmNhcTFqUFJnVmNkYXItVi1wZmt0MU44RnVDdzZtVXgzV1JUemFlR3ppUF83d0xuUFpQVmR0MC1Nc04xc2s2TFZqcGJBbk9vcVkxaE5DUVE1ZzktaW1HOGhLVFBHSThPcXVta2owRG53enVuejZDM2hGaUc2VTBXdTNKOEhrbXpFOUMzNg?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "1a1b3fa81d5f85b2e839c170679ec96f",
+      "title": "Senasica autoriza vacunación de aves en ocho municipios tras segundo caso de influenza aviar AH5N1 en Yucatán - Diario de México",
+      "source": "Google News - México",
+      "date": "2026-11-27",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNLVFkcl9OYWtJZDh3SXN1MGVCMzNUWTBITlFuc1lOVmp6ZGg5ZUtrT3I4YlZXWlFzYTQxcUZnSnJoX28yLURRbXRxaFo2eWRaYW1jTk5HcElIaGg0TVNNRVlOdjZmNWFZMHB4Y1VRRmh0dnloYlNoc0ZERU0yNjB6b3BpLTJmV2hPUXRvN1ltVWJNeW9jdGdONFVaMlJ1Vm94VzFsU19lZTFBZzNfRXVTZGJjWnk0YVFxTzNBNHVhTnBtWHliRDFGeHhYSkxkWl9QdzBNSXV30gHbAUFVX3lxTE9HekpETXladVo4Vm9rd1RKS25BTlBSUHNIUG1hZFc5dlRlVHJzRW5fZGdtMUcwelhVdFRBSW5pQVYzNzJsWlNuLW12RXROSkNPTHNzVjM3RndTZ2dkbGxDZ01pLUJxNlVBeHJ1S01zdm5vZEZpaDZhR2FYM3FOemRjY0ZqUlBsRmFyU1lEa1JNY0RZVDZFejM1RXZ2NFhnLVBfeEIxQ1VBXzNYV1dKZ1VDWmpSRmRUOXRrcXViNXJ4MnlRT3V4NWRuZDdWSEIyZVVHTmN5M3F6ckJ2WQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "80057d71be641caaca8ea23eee2009b5",
+      "title": "Influenza aviar en México: OMS reporta alerta y casos - La Verdad de Tamaulipas",
+      "source": "Google News - México",
+      "date": "2026-11-26",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3U0R2eGdCZExBbks3MFVFSDh2RW41VEc4ZUN4ZjZMQ1RObXpEQVpjS3A4Vkh0cE01STRtSHV1NlVrekJHQkxjZjViQnRkMFA4bndBVTIteGdOcVk0ZWQ1eTlaM2x0NXpFaUE?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "c37102a38153c1850ff139977fc780b4",
+      "title": "Guatemala realiza Evaluación Intersectorial de Riesgos para fortalecer la preparación frente a la influenza aviar zoonótica - Pan American Health Organization (PAHO)",
+      "source": "Google News - Guatemala",
+      "date": "2026-11-26",
+      "country": "Guatemala",
+      "lat": 15.7835,
+      "lng": -90.2308,
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORHZrMnltOS1GRTZOMy1TbUVXUlppTXdocjlQMV9yZU5sRnVQVDJNSnVRYkpwUC0yU3o1T1ZOWnJGTy1hdU5HaEh4TURxVmxLRWVuUE9zTDlfcVVmWlprSkxtb3pEOWZCelRjVkd0a3F4aVMtWmh6Ui01RG1SX3BoMVNPYXVLcm9Rdmo5Y0Q1VTd1THFaci01RmUzTlJFekdOeE8tY3VUU0VMNnh6dDZTRXQwbGtIeUEtMTZUYU5xLVo?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
+    },
+    {
+      "id": "ba54ee4672ca5f193f8007d457181c81",
+      "title": "Honduras se mantiene libre de influenza aviar - Canal 6 Honduras",
+      "source": "Google News - Honduras",
+      "date": "2026-11-27",
+      "country": "Honduras",
+      "lat": 15.1999,
+      "lng": -86.2419,
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQXR3Z0ljQ1B1dUR0azdjRmdiMFpkeHhoTWlYeUh2bWJmZ3NBMVlLMVU0TDEwRTRzR2VMTHlMX2dGWkZDaFZlbnFsSmhtTEd0RWRQX2JwSWNoYUw4VFMycHh3STFJVEkwSUdNdVNYLWwxVDB6b2xKeE5MTzlWMHQxVHZXN1k?oc=5",
+      "level": "VIGILANCIA",
+      "color": "#ca8a04"
     }
   ],
-  "last_updated": "2026-11-26 13:37 UTC"
+  "last_updated": "2026-11-27 00:21 UTC"
 }
