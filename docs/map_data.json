@@ -1,42 +1,6 @@
 {
   "alerts": [
     {
-      "id": "046dd6f5ed173e020b317c206153b8ae",
-      "title": "Las claves para prevenir y monitorear la influenza aviar en Argentina - R2820",
-      "source": "Google News - Argentina",
-      "date": "2026-09-02",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc01PS3pseDR6bS1Ddl8wUlhROEU1WXpSMldUbGlBQU1ZeGViX3dPdjVxdWdPTHdBMXMzc3hEang5UTBFekNmX2dBNGRPck0wZ3N3dHpTOU1iSmg5Z25ueWhnYjY4M0VodDBjUGlVdjJYNWxPX1VoWDBhUE9pUXJZcG1lRmJWdm9vT3Y3VGZzellNeVdTdjdPSTU2UFR4NUdMdjhNbVRpUDJLaXpaejdlSnpwVkgycDZPUUHSAb8BQVVfeXFMUGwwYkNnc1NhYzhsalUyUVg0dVEtVF83OEptOXFsaDZlUjNfbXBXaTFtSFhYdmI4Y3VpZnUySWNBTnIwME5XRUc3Z2hTWklEamRTcnVGZXVEOEZhcnFNVDdyRjZ0WWxRc0tLbzU4ZWduc2JzX285Z1ZuTlhTRldqVXByRlU3MkM2VVpRbTIxeGI1RnJwbS1wSzNhcG16bmtWVlRXUjZoV3QxZnpURVFSTFBmNFh2WUpkLVVjUkV3NEU?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "dbbc86b76f5422d3e2ff8c70af7f9d9c",
-      "title": "Las claves para prevenir y monitorear la influenza aviar en Argentina - R2820",
-      "source": "Google News - Argentina",
-      "date": "2026-09-02",
-      "country": "Argentina",
-      "lat": -38.4161,
-      "lng": -63.6167,
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbDBiQ2dzU2FjOGxqVTJRWDR1US1UXzc4Sm05cWxoNmVSM19tcFdpMW1IWFh2YjhjdWlmdTJJY0FOcjAwTldFRzdnaFNaSURqZFNydUZldUQ4RmFycU1UN3JGNnRZbFFzS0tvNThlZ25zYnNfbzlnVm5OWFNGV2pVcHJGVTcyQzZVWlFtMjF4YjVGcnBtLXBLM2FwbXpua1ZWVFdSNmhXdDFmelRFUVJMUGY0WHZZSmQtVWNSRXc0RdIBvwFBVV95cUxQbDBiQ2dzU2FjOGxqVTJRWDR1US1UXzc4Sm05cWxoNmVSM19tcFdpMW1IWFh2YjhjdWlmdTJJY0FOcjAwTldFRzdnaFNaSURqZFNydUZldUQ4RmFycU1UN3JGNnRZbFFzS0tvNThlZ25zYnNfbzlnVm5OWFNGV2pVcHJGVTcyQzZVWlFtMjF4YjVGcnBtLXBLM2FwbXpua1ZWVFdSNmhXdDFmelRFUVJMUGY0WHZZSmQtVWNSRXc0RQ?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "8b21512ebadf62fbd0b9bbda9f9d5fd4",
-      "title": "Influenza aviar suma nuevos grupos de riesgo a la vacunación antigripal en Uruguay - lr21.com.uy",
-      "source": "Google News - Uruguay",
-      "date": "2026-08-31",
-      "country": "Uruguay",
-      "lat": -32.5228,
-      "lng": -55.7658,
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNT0hCTTBvSkhNb0ZzMmxPQmliOU5QT2t0Nmh3a0lvX25uYU5wSmE5R2VTUU0wN1ViSTRSbExzajV1Yy1NZnBDTkV1SktSRzFZalN5M0l5OTllS010OVV4ckFPY1J6czQyaTVyaWlMdlNJcll3bFRRMWdfRDl3RDZKUS03X0pJQ0lESVZ3QlpHYlpxQUZRZHh0UmR3eGdPS3lDTEI2Q0IyWVNLdVVrbkNoMEZZU1MtZE1wZUFCXw?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
       "id": "d885397cce90aa3ed9387568ac339610",
       "title": "Influenza Aviar: SAG Los Lagos refuerza llamado a fortalecer la bioseguridad en la crianza de aves por nuevos casos en la región - Portal Agro Chile",
       "source": "Google News - Chile",
@@ -3599,7 +3563,43 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSjU0LVZRT2VSTVBHNHZZdzlIcTdhWEc0THFqVXhzb3o0a2JrR29wREZYeFdfU19uNld0ZUtiU05YOGlYTzBNQzFET0k4dkdFa1Z5ZURubG51amdOQW5ya3VlN1d4ejNoZmRvY1RyYUdzQXFoTG5NakxuWk1fdlJPOTJVU0pvQ1l0cG9YdnVZS1REaFgzRUg1X0ZOR0FDN25OMDUyMHdEa2NlQ1RvQkVOX2Rja2FPWmt4NURxQVRLRnVtc0U?oc=5",
       "level": "VIGILANCIA",
       "color": "#ca8a04"
+    },
+    {
+      "id": "845b0ea33c23db1b3fc2043d66134b86",
+      "title": "Un brote de influenza aviar obliga a cerrar un zoológico en México tras la muerte de varios animales - Yahoo",
+      "source": "Google News - México",
+      "date": "2026-11-28",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUmhZNFdKeVpKdWRfLVhPZkVzZXNpVWQ4NHlsUTNlVFB2cFk1OFE1d0NUVjNDaGdOWHhrRWNUdmt2UG0tYXNHdDRYZ3E0SGFFd3pVUjRYejhhR3czaklmSHQ5dEpBdk8tY0phV2VHS2NBR0VjVFJUNmhUbTBCd0pDeUZmZlRFaEswMU5B?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "302342804d6b1ae43331b5ee8c95f1c2",
+      "title": "Un brote de influenza aviar obliga a cerrar un zoológico en México tras la muerte de varios animales - Telemundo",
+      "source": "Google News - México",
+      "date": "2026-11-27",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxObkdlWXNaWDRyTXliSFh5dTFZWUpneGxSa2hBemR2VlJUNGdlUmRlVlZDRVR5anE0OEdabW00NnlGd2ZTMkI0d0stOXZxMWEycjdDWkZNb2N5WEdzOE1yN1dzWUtkN3ZCZGdWaENPbGN2S0hVUVF4UTdEZEQ3MXY4S0NZMUVHN0ozREliSWhmaC1iS0lKRVNXUXVwWlVJbnFYemtrZ0JqQWhRU3p4UjV3TDdQelYxdlZESUpENjJ4aFhvTHJsSG9aczJkNjN2U0NTSWMtdFZON3N6RTFyOXZMbXJlVTU2SXVsbUI3N3RTQnBUOVh0Q1RheWh4Wk5PUnFiVHExQWFVeWZfMVZPcmxwRUJOSUYyRDZXN1BpOG1hdUpsQTdKOWc?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "319727b6918c9353a880896ff34eab7d",
+      "title": "Agricultura atiende casos de influenza aviar AH5N1 en el Parque Rodolfo Landeros de Aguascalientes - Talla Politica",
+      "source": "Google News - México",
+      "date": "2026-11-28",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWEQ0VzZNUFV3bzZBZ0pqVEttNzYwamNrcWxpVHlSRVNOLUxRa3o4WHRUczRuUEV1SjBLWHFSd2xibmkyN0luTmJSTktCS0lPd09kR2M2cjE4V3VJNG5aMjRRZzdFMlN4VE9pdW9IV2czUkxNclpUWWtkZVluSzBGeE93LTJDWS1iNl9vbUFkaFNraDNwdVktelNiZ3JQUGVhUWIyQWZyMUk5OUVJOW5QemZUUlkyN1R2bENzdTlNMjQtcHEzbm9jNlZHZVM?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-11-27 23:56 UTC"
+  "last_updated": "2026-11-28 07:01 UTC"
 }
