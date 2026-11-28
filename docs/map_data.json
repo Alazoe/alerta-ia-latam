@@ -1,30 +1,6 @@
 {
   "alerts": [
     {
-      "id": "d885397cce90aa3ed9387568ac339610",
-      "title": "Influenza Aviar: SAG Los Lagos refuerza llamado a fortalecer la bioseguridad en la crianza de aves por nuevos casos en la región - Portal Agro Chile",
-      "source": "Google News - Chile",
-      "date": "2026-09-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPOE5sS1RFTEVmTFhYMS1NaUVuNGJpUTJTQ1d6a2pCTmRBbEJBNW05RzlzeFF3dXNmR0NXUGRiSllQOEh1aGI5ZUttUTdITTlsMUh0MTRweXMwdG40YkNJSDRVdWc5UVpmZ19PN01jenJHLXBJX3hRRGdlNWxuZ1htR0VlY2VGM2tCbkNVQldxUGo4RHNFa2tvYnFXWkk5VW1iOFZfYzhIczJWbmtOX0Z2aUV0ekJtQ3NfazRITXg4T2w0V0Q3TTFzM0dFRE04TmMybWxXdWF3alhtNGlFQXVFZk1NdmZTbFlIdU1qTVZfeld1aWUxR1R1SG9LT1ZFWWs?oc=5",
-      "level": "VIGILANCIA",
-      "color": "#ca8a04"
-    },
-    {
-      "id": "1b6b3ef77e0c5cb4e59fe25722100527",
-      "title": "El Servicio Agrícola y Ganadero, SAG, región de Los Lagos reiteró el llamado a productores y tenedores de aves de traspatio a fortalecer las medidas de bioseguridad, luego de confirmarse dos nuevos focos de Influenza Aviar de Alta Patogenicidad (IAAP) e - instagram.com",
-      "source": "Google News - Chile",
-      "date": "2026-09-02",
-      "country": "Chile",
-      "lat": -35.6751,
-      "lng": -71.543,
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84ekQ0ejg2T1pGNllrQWloSVFiMTNuMmVWdHZhekZHSVUtemVIbTdaVGw2dWpCQXBwNS1TejVDSHJXdHBmMTJ2andZN3VnUDdDdWc?oc=5",
-      "level": "ALERTA",
-      "color": "#ea580c"
-    },
-    {
       "id": "369992f38649e6833cea2ba8e9ac40f9",
       "title": "Bioseguridad y notificación: Las claves para prevenir y monitorear la influenza aviar en Argentina - Argentina.gob.ar",
       "source": "Google News - Argentina",
@@ -3599,7 +3575,31 @@
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWEQ0VzZNUFV3bzZBZ0pqVEttNzYwamNrcWxpVHlSRVNOLUxRa3o4WHRUczRuUEV1SjBLWHFSd2xibmkyN0luTmJSTktCS0lPd09kR2M2cjE4V3VJNG5aMjRRZzdFMlN4VE9pdW9IV2czUkxNclpUWWtkZVluSzBGeE93LTJDWS1iNl9vbUFkaFNraDNwdVktelNiZ3JQUGVhUWIyQWZyMUk5OUVJOW5QemZUUlkyN1R2bENzdTlNMjQtcHEzbm9jNlZHZVM?oc=5",
       "level": "ALERTA",
       "color": "#ea580c"
+    },
+    {
+      "id": "a7ceb5e15c575183ec2642fcf14b95bf",
+      "title": "Detectan influenza aviar AH5N1 en 18 aves del Parque Rodolfo Landeros, en Aguascalientes - Infobae",
+      "source": "Google News - México",
+      "date": "2026-11-28",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLXc0bFRQOU00UWF3VEVSU19Dc2NzVE9DMUktWUxFZ01oSFlqdndhMzhCdjBtN1Bmd0hrOFhTQ1dRanIxeEhHRWpyWEZyU1MzVU9zSVlOU21vTEVTdUdlUVJmR2dleDVFSy1Qdkt3U09PV3Fyd1hTcEU2NVJkZGZ4SFFoenAwR0Jpa2xGazNYU0RjejZTLVNta0kyc0VtNkVWQkpuR1JwQU9LbHdodzdocjRjS2E5ZVBTZ0t1WW9KVzhqRFktWVNzQUVB0gHkAUFVX3lxTE84enBJaGM2WEczMEgyZFN0MndlQUY3cUZwV1BfakpEZk0zbWdHbEJ0QThCSHFneEFHcVZ3T3puLUZQMnZpTXZPblE5dWlSQXEwZE9Xd1hFWjlwOG1ZN2JwekQzQWM0QTg4djFrbmstQXQ4QXQ2OEJpcUNwdjBRQlJwR3Y1dVNkck1jM1h2dVo2NG4tWFVWOUphN2J3QVgzamRyZ2JCY3Z5aTZHYUMwMVU4akdWWlRVMU4yX0RGbFNVc1hkd292V09WQzNrZkFkMFpOeWZGXzF1NklFbmhUNkFfTEJNOQ?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
+    },
+    {
+      "id": "70827fbefdf52bd2d7ef37a357487453",
+      "title": "Atiende AGRICULTURA casos de influenza aviar AH5N1 en el Parque Rodolfo Landeros de Aguascalientes - Gob MX",
+      "source": "Google News - México",
+      "date": "2026-11-28",
+      "country": "México",
+      "lat": 23.6345,
+      "lng": -102.5528,
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQX2lUYjl1emVWcTVicWJsZnljS2o1cDcycEVHdzZqQXByQ1R2QzVRc2xMX3hxbXpVQk8wMVFsUXRoaWtvdVdkaXRaZXJ4b0Z5Zm5NYm5RbmJobHZSLTM2Rjh6RU1FbjJKS2tCN2MwampzN19PNjZEM1Itak43VHp0MkIyMFJzcXJFQ1cyZ09hcm04TUEzSUktMnBIcXYxbHF5TEFtbGlLQ25KRGpwZFphUzlGNXhCU2tLRzN2QXBHR0ZFRGdTUEVlTm9SV2JNNkkzWGc?oc=5",
+      "level": "ALERTA",
+      "color": "#ea580c"
     }
   ],
-  "last_updated": "2026-11-28 07:01 UTC"
+  "last_updated": "2026-11-28 16:40 UTC"
 }
